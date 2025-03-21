@@ -3,9 +3,7 @@ title_sections: true # when false, remove the sections from the title.
 title_sections_depth: 1 # the depth of sections on the title.
 title_sections_depth_dir: start # when start, the depth is counting from the root sections.
 
-description: |
-  Ace Your Certifications with Free Mock Exams & Expert Guides. 
-  Join our growing community and help us empower future professionals—Sponsor Today!  
+description: Ace Your Certifications with Free Mock Exams & Expert Guides. Join our growing community and help us empower future professionals—Sponsor Today!  
 
 
 code_block_panel:
@@ -36,13 +34,13 @@ hb:
   full_width: true
 
   header:
-    brand: FinancialAnalystGuide.com
+    brand: Financial Analyst Guide
     socials:
       github: MasteryEducation
       twitter: TokenizerCA
       rss: true
   footer:
-    powered_by: false
+    powered_by: true
     # see https://hbstack.dev/en/docs/modules/socials/.
     #socials:
     #  github: MasteryEducation
