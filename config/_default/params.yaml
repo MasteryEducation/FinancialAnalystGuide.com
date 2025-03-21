@@ -7,13 +7,9 @@ description: |
   Ace Your Certifications with Free Mock Exams & Expert Guides. 
   Join our growing community and help us empower future professionals—Sponsor Today!  
 
-
 code_block_panel:
   max_lines: 100
 
-
-
-  
 hb:
   revision:
     repo_service: github
