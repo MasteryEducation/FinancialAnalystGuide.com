@@ -40,7 +40,7 @@ hb:
       twitter: TokenizerCA
       rss: true
   footer:
-    powered_by: true
+    powered_by: false
     # see https://hbstack.dev/en/docs/modules/socials/.
     #socials:
     #  github: MasteryEducation
