@@ -5,13 +5,13 @@ homepage: true
 homepageTitle: |
   CFA Level 3 Book: Your Final Step to Earning the CFA® Charter | FinancialAnalystGuide.com
 type: docs
-nav_weight: 510
+nav_weight: 530
 description: |
   This free, open‐source resource is structured to guide you through the final challenge of the CFA Program: Level III. Building upon the foundations of Levels I and II, we delve into advanced portfolio management, wealth planning, and nuanced application of investment principles. Explore practice questions, real‐world examples, and benefit from an active community of learners and contributors.
 menu:
   main:
     parent: exams
-    weight: 510
+    weight: 530
     params:
       description: Chartered Financial Analyst®
       icon:
