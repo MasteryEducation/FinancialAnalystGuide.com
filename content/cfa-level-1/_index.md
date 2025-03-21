@@ -1,6 +1,9 @@
 ---
 title: CFA Level 1
 linkTitle: CFA® Level 1
+homepage: true
+homepageTitle: |
+  CFA Level I Book: Your Gateway to the CFA® Program | FinancialAnalystGuide.com
 type: docs
 nav_weight: 510
 description: | 
@@ -15,7 +18,6 @@ menu:
         vendor: bs
         name: book
         className: text-primary
-homepage: true
 canonical: "https://FinancialAnalystGuide.com/cfa-level-1"
 license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---

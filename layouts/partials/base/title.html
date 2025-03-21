@@ -1,0 +1,45 @@
+
+{{- /* Attempt to override the title if 'homepage' and 'homepageTitle' are set */ -}}
+{{- $overrideTitle := .Param "homepageTitle" }}
+{{- if and (.Param "homepage") $overrideTitle }}
+  {{- /* If both are non-empty, just print the homepageTitle */ -}}
+  {{ $overrideTitle }}
+{{- else }}
+  {{- /* Otherwise, continue with your existing logic */ -}}
+  {{- $titles := slice .Title }}
+  {{- if and .IsHome (eq .Title "") }}
+    {{- $titles = slice .Site.Title }}
+  {{- end }}
+
+  {{- /* Append paginator title. The partial must be included after paginating. */ -}}
+  {{- if .Store.Get "paginated" }}
+    {{- with .Paginator }}
+      {{- if gt .PageNumber 1 }}
+        {{- $titles = $titles | append (i18n "paginator_title" .) }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+
+  {{- /* Append the sections titles. */ -}}
+  {{- if .Site.Params.title_sections }}
+    {{- $sections := partial "base/functions/sections-titles" . }}
+    {{- $depth := default 0 site.Params.title_sections_depth }}
+    {{- $dir := default "end" site.Params.title_sections_depth_dir }}
+    {{- with $depth }}
+      {{- if eq $dir "start" }}
+        {{- $sections = last . $sections }}
+      {{- else }}
+        {{- $sections = first . $sections }}
+      {{- end }}
+    {{- end }}
+    {{- $titles = $titles | append $sections }}
+  {{- end }}
+
+  {{- /* Append the site title at the end. */ -}}
+  {{- if not .IsHome }}
+    {{- $titles = $titles | append .Site.Title }}
+  {{- end }}
+
+  {{- $separator := printf " %s " .Site.Params.title_separator }}
+  {{- delimit $titles $separator }}
+{{- end }}

@@ -1,6 +1,9 @@
 ---
 title: CFA Level 2
 linkTitle: CFA® Level 2
+homepage: true
+homepageTitle: |
+  CFA Level II Book: Your Bridge to Advanced Analysis | FinancialAnalystGuide.com
 type: docs
 nav_weight: 520
 description: |
@@ -15,7 +18,6 @@ menu:
         vendor: bs
         name: book
         className: text-primary
-homepage: true
 canonical: "https://FinancialAnalystGuide.com/cfa-level-2"
 license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
