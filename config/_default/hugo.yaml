@@ -1,5 +1,5 @@
 baseURL: https://financialanalystguide.com/
-title: ABC FinancialAnalystGuide.com
+title: FinancialAnalystGuide.com
 copyright: "© 2023-{year} [Tokenizer Inc.](https://tokenizer.ca/) | © 2023-{year} [Mastery Education](https://github.com/orgs/MasteryEducation) | All Rights Reserved."
 enableRobotsTXT: true
 timeout: 120s

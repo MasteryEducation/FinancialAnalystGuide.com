@@ -1,0 +1,188 @@
+title_separator: "|"
+title_sections: true # when false, remove the sections from the title.
+title_sections_depth: 1 # the depth of sections on the title.
+title_sections_depth_dir: start # when start, the depth is counting from the root sections.
+
+description: |
+  Ace Your Certifications with Free Mock Exams & Expert Guides. 
+  Join our growing community and help us empower future professionals—Sponsor Today!  
+
+
+code_block_panel:
+  max_lines: 100
+
+
+
+  
+hb:
+  revision:
+    repo_service: github
+    repo_owner: MasteryEducation
+    repo_name: SecuritiesExamsMastery.ca
+    repo_branch: main
+    repo_subpath: ''
+    repo_contributors: false
+    repo_actions: true
+    icons: true
+    created_at: true
+    date_format: ':date_full'
+    font_size: '.825rem'
+
+  # override SASS variables, please replace the dash with underline, e.g. `list-group-color` should be `list_group_color`.
+  styles:
+    # https://imagecolorpicker.com/color-code/094e15
+    primary: '#0004FF'
+
+  full_width: true
+
+  header:
+    brand: Securities Exams Mastery - Canada
+    socials:
+      github: MasteryEducation
+      twitter: TokenizerCA
+      rss: true
+  footer:
+    powered_by: false
+    # see https://hbstack.dev/en/docs/modules/socials/.
+    #socials:
+    #  github: MasteryEducation
+    #  twitter: TokenizerCA
+    #  rss: true
+  terms:
+    paginate: 100
+  blog:
+    sidebar:
+      profile:
+        title: Securities Exams Mastery - Canada
+      posts:
+        recent_count: 0
+        featured_count: 0
+        recent_posts: 0
+        list_style: vertical
+      taxonomies:
+        count: false
+        limit: 1000
+        separate: false
+        style: pills
+        # authors:
+        #  title: Authors
+        #  disable: false
+        #  limit: 100
+        #  weight: 4
+        categories:
+          disable: true
+          weight: 1
+          title: Categories
+          limit: 1000
+        series:
+          disable: true
+          limit: 100
+          title: Series
+          weight: 2
+        tags:
+          disable: true
+          limit: 1000
+          title: Tags
+          weight: 3
+    paginate: 4
+    post_thumbnail_height: 4
+    post_thumbnail: false
+    related_posts:
+      list_style: vertical
+    home:
+      taxonomies: false
+      featured_posts: 0
+      main_sections:
+        - books
+    #giscus:
+      #repo: hbstack/theme
+      #repo_id: R_kgDOJP3qtA
+      #category_id: DIC_kwDOJP3qtM4CVavM
+  docs:
+    #https://hugomods.com/docs/comment-engines/giscus/
+    #https://github.com/apps/giscus
+    #https://giscus.app/#repository
+    giscus:
+      repo: MasteryEducation/SecuritiesExamsMastery.ca
+      repo_id: R_kgDONJc1pA
+      category: Announcements
+      category_id: DIC_kwDONJc1pM4CkJzd
+      mapping: title
+      strict_matching: true
+      input_position: top
+      reactions: true
+      lazy_loading: true
+    meta: 
+      date: false
+      reading_time: false
+
+  # https://hbstack.dev/modules/components/content-panel/
+  content_panel:
+    comments: false
+
+seo:
+  # https://hugomods.com/en/docs/seo/#favicons-module
+  favicons: 
+    icon: images/logo.png # use logo as favicon.
+
+# https://hugomods.com/en/docs/pwa/#site-parameters
+pwa:
+  debug: false
+  manifest:
+    background_color: '#712cf9'
+    theme_color: '#712cf9'
+    short_name: 'Securities Exams Mastery - Canada'
+
+# https://hugomods.com/search/configurations/
+search:
+  #distance: 25
+  #ignore_location: false
+  #location: 0
+  #threshold: 0.8
+  #stall_threshold: 300
+  #min_match_char_length: 50 # so that smaller subtitles should not match
+  #case_sensitive: false
+  # shortcut_search: ["/"]
+  #key_weights.title: 1000
+  #key_weights.headings: 0.001
+  #key_weights.summary: 0.001
+  #key_weights.content: 0
+  index_content: false
+  #expand_results_meta: true
+  filter_taxonomies: false
+  filter_years: false
+  headings_end_level: 1
+  index_headings: false
+  index_summary: false
+  index_taxonomies: false
+
+mermaid:
+  js_url: https://cdn.jsdelivr.net/npm/mermaid@latest/dist/mermaid.esm.min.mjs
+
+hugopress:
+  modules:
+    hb-custom:
+      hooks:
+        hb-docs-doc-toc-begin:
+          cacheable: true
+        # see layouts/partials/hugopress/modules/hb-custom/hooks/head-end.html.
+        head-end:
+          cacheable: true
+        # see layouts/partials/hugopress/modules/hb-custom/hooks/body-end.html.
+        body-end:
+          cacheable: true
+        hb-footer-end:
+          cacheable: true
+        # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-sidebar.html.
+        hb-blog-sidebar:
+          cacheable: true
+          weight: 1
+    # change the order of sidebar modules.
+    hb-blog-sidebar-taxonomies:
+      hooks:
+        hb-blog-sidebar:
+          weight: 3
+    hb-blog-sidebar-posts:
+      hooks:
+        hb-blog-sidebar:
+          weight: 2
