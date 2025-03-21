@@ -18,7 +18,7 @@ hb:
   revision:
     repo_service: github
     repo_owner: MasteryEducation
-    repo_name: SecuritiesExamsMastery.ca
+    repo_name: FinancialAnalystGuide.com
     repo_branch: main
     repo_subpath: ''
     repo_contributors: false
@@ -36,7 +36,7 @@ hb:
   full_width: true
 
   header:
-    brand: Securities Exams Mastery - Canada
+    brand: FinancialAnalystGuide.com
     socials:
       github: MasteryEducation
       twitter: TokenizerCA
@@ -103,7 +103,7 @@ hb:
     #https://github.com/apps/giscus
     #https://giscus.app/#repository
     giscus:
-      repo: MasteryEducation/SecuritiesExamsMastery.ca
+      repo: MasteryEducation/FinancialAnalystGuide.com
       repo_id: R_kgDONJc1pA
       category: Announcements
       category_id: DIC_kwDONJc1pM4CkJzd
