@@ -202,7 +202,6 @@ flowchart TB
 
 > **Explanation:** Current Yield = Annual Coupon Payment / Current Market Price. It’s a straightforward but incomplete measure because it doesn’t consider time value or any redemptions.
 
----
 
 ### A constant spread added to each relevant spot rate on the yield curve to match a bond’s price is known as:
 
@@ -213,7 +212,6 @@ flowchart TB
 
 > **Explanation:** The Z-spread is a fixed spread applied along the entire spot curve so that the discounted cash flows equal the bond’s market price.
 
----
 
 ### For a callable bond, which yield measure is typically the most conservative for an investor?
 
@@ -224,7 +222,6 @@ flowchart TB
 
 > **Explanation:** Yield-to-Worst accounts for all possible call dates (and other options) and selects the lowest potential yield.
 
----
 
 ### When referencing the difference between a corporate bond’s YTM and a government treasury yield of the same maturity, we’re describing the:
 
@@ -235,7 +232,6 @@ flowchart TB
 
 > **Explanation:** The nominal spread is the simple yield difference between the corporate bond and a government bond of the same maturity.
 
----
 
 ### If a bond has an annual coupon of 4% (paid semiannually) and a six-month yield of 2%, which yield measure doubles the six-month yield, ignoring compounding?
 
@@ -246,7 +242,6 @@ flowchart TB
 
 > **Explanation:** The bond-equivalent yield (BEY) simply doubles the semiannual rate, whereas the Effective Annual Yield would compound it.
 
----
 
 ### Which yield measure removes any value associated with embedded options, providing a cleaner comparison across different bond structures?
 
@@ -257,7 +252,6 @@ flowchart TB
 
 > **Explanation:** The Option-Adjusted Spread (OAS) accounts for embedded options, stripping that value out to give an “option-free” yield spread.
 
----
 
 ### The primary difference between Z-spread and OAS for a callable bond is:
 
@@ -268,7 +262,6 @@ flowchart TB
 
 > **Explanation:** OAS takes out the option cost (or option value) from the bond’s total spread, whereas the Z-spread does not.
 
----
 
 ### If a bond trades at $1,050, paying a $40 annual coupon, what is the bond’s current yield?
 
@@ -279,7 +272,6 @@ flowchart TB
 
 > **Explanation:** Current yield = (Annual Coupon) / (Market Price) = 40/1050 = about 3.81%.
 
----
 
 ### If a callable bond becomes more likely to be called because interest rates drop significantly, which yield measure would likely become more relevant?
 
@@ -290,7 +282,6 @@ flowchart TB
 
 > **Explanation:** In a falling interest rate environment, the issuer may call the bond to refinance; investors look at yield-to-call to see their likely return.
 
----
 
 ### The value of a bond’s computed yield often depends on the assumed reinvestment rate of coupons. Which statement is TRUE?
 

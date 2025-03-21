@@ -230,7 +230,6 @@ If it feels overwhelming, trust me: It gets clearer with practice. Keep digging 
 
 > **Explanation:** GDP growth is a key indicator of a government’s economic output and tax base. It is widely used in sovereign credit analysis as it essentially shows whether the economy is expanding or contracting, which helps determine the government's capacity to generate revenue for debt repayment.
 
----
 
 ### In sovereign credit analysis, “willingness to pay” can be influenced by:
 
@@ -241,7 +240,6 @@ If it feels overwhelming, trust me: It gets clearer with practice. Keep digging 
 
 > **Explanation:** Political factors and policy priorities often determine the government's willingness to honor its debt obligations, especially in times of economic or political stress. Even with an adequate tax base, a government might choose to allocate funds differently if there is insufficient political will to repay.
 
----
 
 ### One main difference between sovereign debt and corporate debt is that:
 
@@ -252,7 +250,6 @@ If it feels overwhelming, trust me: It gets clearer with practice. Keep digging 
 
 > **Explanation:** Sovereign governments that issue their own currencies have the option of creating new money to meet debt obligations (denominated in that currency). This ability does not exist for corporations, which must rely on external funding or operational cash flows.
 
----
 
 ### Which of the following most accurately describes non-sovereign (municipal) debt?
 
@@ -263,7 +260,6 @@ If it feels overwhelming, trust me: It gets clearer with practice. Keep digging 
 
 > **Explanation:** Municipal debt usually relies on a smaller revenue base—like property taxes or fees from projects. Unlike a sovereign, a local government can’t just print its own currency.
 
----
 
 ### Within debt sustainability analysis (DSA), which scenario tests are typically performed?
 
@@ -274,7 +270,6 @@ If it feels overwhelming, trust me: It gets clearer with practice. Keep digging 
 
 > **Explanation:** A debt sustainability analysis involves projecting multiple scenarios and stress tests. Common stress variables include GDP growth, interest rates, and exchange rates. These stress tests help analysts see how debt metrics could change under adverse conditions.
 
----
 
 ### Why might political instability increase the credit risk of a sovereign issuer?
 
@@ -285,7 +280,6 @@ If it feels overwhelming, trust me: It gets clearer with practice. Keep digging 
 
 > **Explanation:** When there is political instability, policy can change abruptly, and a government may deprioritize debt repayment or face difficulties implementing fiscally responsible measures. This volatility increases credit risk.
 
----
 
 ### How can commodity dependence impact a sovereign’s creditworthiness?
 
@@ -296,7 +290,6 @@ If it feels overwhelming, trust me: It gets clearer with practice. Keep digging 
 
 > **Explanation:** If a government relies heavily on a single commodity (e.g., oil exports) for revenue, drops in that commodity’s price can severely reduce funds available to service debt. That volatility often raises the sovereign’s credit risk.
 
----
 
 ### Which factor is crucial for analyzing municipal bond issuers but might be less critical for a true sovereign analysis?
 
@@ -307,7 +300,6 @@ If it feels overwhelming, trust me: It gets clearer with practice. Keep digging 
 
 > **Explanation:** Municipalities often rely on transfers or grants from higher levels of government to supplement their budgets. In sovereign credit analysis, the question of intergovernmental support is not typically the same dynamic, as the sovereign is the top authority.
 
----
 
 ### An economy sees its external debt levels rise relative to GDP, and the local currency is depreciating. What does this situation imply about credit risk?
 
@@ -318,7 +310,6 @@ If it feels overwhelming, trust me: It gets clearer with practice. Keep digging 
 
 > **Explanation:** If external debt is growing relative to GDP and the currency is weakening, it becomes more challenging to service foreign-denominated debt obligations. These factors typically raise the sovereign’s credit risk.
 
----
 
 ### True or False: A sovereign that issues its own currency can never default on local-currency debt.
 

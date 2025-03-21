@@ -232,7 +232,6 @@ If you’re itching to dig deeper, check out “Equity Asset Valuation” by Jer
 
 > **Explanation:** Top-down forecasting starts with industry-wide or macro-level data, then narrows down to the firm’s expected portion.  
 
----
 
 ### When using historical expense ratios to forecast operating expenses:
 
@@ -243,7 +242,6 @@ If you’re itching to dig deeper, check out “Equity Asset Valuation” by Jer
 
 > **Explanation:** Historical expense ratios provide a good baseline, but adjustments should be made when structural changes—like automation, new supplier contracts, or strategic shifts—are expected to alter cost behavior.  
 
----
 
 ### Which of the following is a key advantage of bottom-up forecasting?
 
@@ -254,7 +252,6 @@ If you’re itching to dig deeper, check out “Equity Asset Valuation” by Jer
 
 > **Explanation:** Bottom-up forecasting starts with detailed estimates by product or segment, allowing for nuanced insights. It doesn’t guarantee perfect accuracy but captures operational specifics well.  
 
----
 
 ### A company with a traditional retail model typically sees 40% of its annual revenue in the fourth quarter. This is most likely reflecting:
 
@@ -265,7 +262,6 @@ If you’re itching to dig deeper, check out “Equity Asset Valuation” by Jer
 
 > **Explanation:** Many retail operations experience higher sales in the holiday season, highlighting the importance of modeling seasonality in forecasts.  
 
----
 
 ### In forecasting capital structure changes, analysts should:
 
@@ -276,7 +272,6 @@ If you’re itching to dig deeper, check out “Equity Asset Valuation” by Jer
 
 > **Explanation:** Analysts should integrate the firm’s debt or equity issuance plans, target leverage ratios, and market conditions to gauge the potential impact on interest expenses, share counts, and overall cost of capital.  
 
----
 
 ### If a firm needs to raise \$100 million in new capital and decides to issue shares instead of debt:
 
@@ -287,7 +282,6 @@ If you’re itching to dig deeper, check out “Equity Asset Valuation” by Jer
 
 > **Explanation:** Issuing equity affects shares outstanding and can dilute EPS, though it can reduce debt-related interest costs. WACC might shift based on the new equity–debt mix.  
 
----
 
 ### How is worst-case scenario analysis typically used in forecasting?
 
@@ -298,7 +292,6 @@ If you’re itching to dig deeper, check out “Equity Asset Valuation” by Jer
 
 > **Explanation:** Worst-case scenarios model downside risks (like economic recessions, competition, supply chain issues), helping stakeholders understand the potential extent of negative outcomes.  
 
----
 
 ### Which of the following is a likely pitfall in conducting company forecasts?
 
@@ -309,7 +302,6 @@ If you’re itching to dig deeper, check out “Equity Asset Valuation” by Jer
 
 > **Explanation:** A critical pitfall is failing to incorporate the broader economic or industry climate. Even accurate firm-level data can result in flawed forecasts if macro trends are ignored.  
 
----
 
 ### When communicating forecast results:
 
@@ -320,7 +312,6 @@ If you’re itching to dig deeper, check out “Equity Asset Valuation” by Jer
 
 > **Explanation:** Transparency about assumptions, key drivers, and risks builds credibility and helps audiences grasp the range of potential outcomes.  
 
----
 
 ### If we assume 5% GDP growth in a top-down model, but actual GDP ends up growing at 1%:
 

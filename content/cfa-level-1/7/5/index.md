@@ -220,7 +220,6 @@ If you’re curious about even more detail on yield spreads or yield curve const
 
 > **Explanation:** Sovereign bonds in the issuing government’s own currency are often viewed as “risk-free” because the government can tax its citizens or theoretically print more currency if needed.
 
----
 
 ### Which of the following statements best describes a municipal bond?
 
@@ -231,7 +230,6 @@ If you’re curious about even more detail on yield spreads or yield curve const
 
 > **Explanation:** Municipal bonds are issued by state or local governments (like cities, counties, or provinces). In the U.S., interest on these bonds is frequently exempt from certain levels of taxes.
 
----
 
 ### What is the main difference between a competitive and a non-competitive bid in a government bond auction?
 
@@ -242,7 +240,6 @@ If you’re curious about even more detail on yield spreads or yield curve const
 
 > **Explanation:** Competitive bidders state their preferred yield or price, influencing the final issuance rate. Non-competitive bidders accept whatever yield emerges from the auction.
 
----
 
 ### Which of the following best describes a government-sponsored enterprise (GSE)?
 
@@ -253,7 +250,6 @@ If you’re curious about even more detail on yield spreads or yield curve const
 
 > **Explanation:** GSEs (like Fannie Mae or Freddie Mac in the U.S.) are not fully guaranteed by the government but carry support because they serve important public policy roles.
 
----
 
 ### True or False: All GSE debt has exactly the same level of credit risk as direct sovereign debt.
 
@@ -262,7 +258,6 @@ If you’re curious about even more detail on yield spreads or yield curve const
 
 > **Explanation:** GSEs are not generally backed by the “full faith and credit” of the sovereign. They often have slightly higher yields and credit risk than direct government obligations.
 
----
 
 ### Which of the following is least likely to be categorized as a significant risk for a local-currency sovereign bond issued by a stable government?
 
@@ -273,7 +268,6 @@ If you’re curious about even more detail on yield spreads or yield curve const
 
 > **Explanation:** For local investors in a stable government’s local-currency bond, currency risk is minimal. However, for a foreign investor, currency risk remains significant.
 
----
 
 ### A U.S. investor purchases Japanese Government Bonds (JGBs). Which risk is added compared to purchasing U.S. Treasuries?
 
@@ -284,7 +278,6 @@ If you’re curious about even more detail on yield spreads or yield curve const
 
 > **Explanation:** Purchasing JGBs in Japanese yen adds currency risk for the U.S. investor, because the investment must be converted from yen back into U.S. dollars.
 
----
 
 ### In many countries, short-term government securities that are issued at a discount and mature at par are often called:
 
@@ -295,7 +288,6 @@ If you’re curious about even more detail on yield spreads or yield curve const
 
 > **Explanation:** T-bills (or treasury bills) mature in a year or less, are sold at a discount, and pay face value at maturity. The difference between purchase price and par is the investor’s return.
 
----
 
 ### Which entity is typically responsible for conducting government bond auctions and implementing monetary policy in many jurisdictions?
 
@@ -306,7 +298,6 @@ If you’re curious about even more detail on yield spreads or yield curve const
 
 > **Explanation:** Central banks or treasuries typically manage the issuing and auctioning of sovereign bonds. In some nations, a separate debt management office exists but often works with the central bank.
 
----
 
 ### Which of the following is a reason why GSE or quasi-government bonds may offer slightly higher yields than sovereign bonds?
 

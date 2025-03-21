@@ -259,7 +259,6 @@ You might also explore the next few sections, including 7.18 on Asset-Backed Sec
 
 > **Explanation:** Securitization converts illiquid assets (like mortgages, credit card receivables) into tradable securities through an SPV, allowing the originator to free up capital and spread risk to investors.
 
----
 
 ### In a typical securitization transaction, which party is primarily responsible for collecting payments and managing defaulted loans?
 
@@ -270,7 +269,6 @@ You might also explore the next few sections, including 7.18 on Asset-Backed Sec
 
 > **Explanation:** The servicer is in charge of collecting monthly loan payments from borrowers and managing delinquencies. Although the SPV legally owns the loans, it usually delegates servicing to a specialized entity.
 
----
 
 ### Which statement most accurately describes a “waterfall” structure in securitization?
 
@@ -281,7 +279,6 @@ You might also explore the next few sections, including 7.18 on Asset-Backed Sec
 
 > **Explanation:** A waterfall structure prioritizes which tranches receive payments first and which absorb losses first, ensuring senior tranches have higher credit protection.
 
----
 
 ### If interest rates fall and many homeowners refinance earlier, which risk is most relevant for mortgage-backed securities (MBS)?
 
@@ -292,7 +289,6 @@ You might also explore the next few sections, including 7.18 on Asset-Backed Sec
 
 > **Explanation:** When homeowners refinance, they prepay their loans early. This means investors get principal back sooner, often leading to lower total interest income than expected.
 
----
 
 ### Which form of credit enhancement involves selling multiple tranches with junior tranches absorbing losses first?
 
@@ -303,7 +299,6 @@ You might also explore the next few sections, including 7.18 on Asset-Backed Sec
 
 > **Explanation:** Subordination means that certain tranches are junior or subordinate to others, thereby providing credit enhancement to senior tranches by bearing losses first.
 
----
 
 ### What is a key benefit to an originator of loans when they opt to securitize rather than hold loans on their balance sheet?
 
@@ -314,7 +309,6 @@ You might also explore the next few sections, including 7.18 on Asset-Backed Sec
 
 > **Explanation:** By securitizing loans, originators can often lower their funding costs (because of better credit ratings achieved by the SPV) and free up their balance sheets for additional lending.
 
----
 
 ### Which of the following might be a pitfall for investors in securitized products?
 
@@ -325,7 +319,6 @@ You might also explore the next few sections, including 7.18 on Asset-Backed Sec
 
 > **Explanation:** Investors risk focusing only on yield or ratings and not fully analyzing how prepayments, defaults, or extension risk can change the timing and amount of their cash flows.
 
----
 
 ### In a securitization transaction involving residential mortgages, who typically provides credit ratings for the different tranches?
 
@@ -336,7 +329,6 @@ You might also explore the next few sections, including 7.18 on Asset-Backed Sec
 
 > **Explanation:** Independent credit rating agencies (e.g., Moody's, S&P, Fitch) assign ratings to each tranche based on the underlying collateral performance and structural features.
 
----
 
 ### How does securitization help in diversifying risk from the originator’s perspective?
 
@@ -347,7 +339,6 @@ You might also explore the next few sections, including 7.18 on Asset-Backed Sec
 
 > **Explanation:** When the originator sells the assets to the SPV, it no longer directly bears the risk of default (apart from any retained tranches); hence, that risk is spread among different investors who buy the securitized bonds.
 
----
 
 ### A “true sale” of assets to the SPV in securitization primarily serves to:
 

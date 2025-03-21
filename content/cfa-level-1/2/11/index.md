@@ -177,7 +177,6 @@ These resources provide more technical detail on statistical modeling, scientifi
 
 > **Explanation:** Big data is not just about storage, but rather about size and complexity surpassing traditional data-processing capabilities.
 
----
 
 ### Which of the following best describes the impact of fintech developments on data analysis in finance?
 - [ ] They eliminate the need for data cleaning.  
@@ -187,7 +186,6 @@ These resources provide more technical detail on statistical modeling, scientifi
 
 > **Explanation:** Fintech has expanded the range of data and tools available, increasing the volume of unstructured sources like social media, satellite images, and credit card transaction logs.
 
----
 
 ### Artificial intelligence (AI) is:
 - [ ] The same as machine learning (ML).  
@@ -197,7 +195,6 @@ These resources provide more technical detail on statistical modeling, scientifi
 
 > **Explanation:** Machine learning is a subset of AI. AI is the broader idea of making computers mimic human cognitive processes.
 
----
 
 ### Which statement about supervised and unsupervised learning is correct?
 - [ ] Both require labeled data.  
@@ -207,7 +204,6 @@ These resources provide more technical detail on statistical modeling, scientifi
 
 > **Explanation:** In supervised learning, each input has a labeled outcome (like default or not). In unsupervised learning, the algorithm uncovers patterns in unlabeled data.
 
----
 
 ### Data science in investment management can benefit portfolio planning by:
 - [x] Identifying complex patterns and correlations that might not be evident from simpler analysis.  
@@ -217,7 +213,6 @@ These resources provide more technical detail on statistical modeling, scientifi
 
 > **Explanation:** Data science can reveal hidden patterns and refine forecasts, but it doesn’t negate the existence of market risk or the need for prudent risk management.
 
----
 
 ### What is “overfitting” in machine learning models?
 - [ ] A model that performs better in out-of-sample data than in training data.
@@ -227,7 +222,6 @@ These resources provide more technical detail on statistical modeling, scientifi
 
 > **Explanation:** Overfitting occurs when the model essentially “memorizes” the training data but performs poorly on new, unseen data.
 
----
 
 ### Which of the following is an example of unstructured data in a financial context?
 - [x] Social media posts and text from news articles.  
@@ -237,7 +231,6 @@ These resources provide more technical detail on statistical modeling, scientifi
 
 > **Explanation:** Social media text and satellite imagery do not follow predefined column/row structures, so they’re considered unstructured.
 
----
 
 ### Reinforcement learning in trading applications is characterized by:
 - [x] Algorithms receiving feedback in the form of rewards or penalties based on trading results.  
@@ -247,7 +240,6 @@ These resources provide more technical detail on statistical modeling, scientifi
 
 > **Explanation:** Reinforcement learning uses a reward-based system (like profit or loss) to iteratively improve trading strategies.
 
----
 
 ### Which challenge often arises from relying on very large data sets?
 - [ ] Completely eliminating model errors.  
@@ -257,7 +249,6 @@ These resources provide more technical detail on statistical modeling, scientifi
 
 > **Explanation:** Handling messy, incomplete data is often the biggest practical hurdle in big data contexts.
 
----
 
 ### True or False: The primary goal of big data analytics in finance is to ensure perfect predictions of future market movements.
 - [x] True  

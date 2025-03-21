@@ -228,7 +228,6 @@ Remember: developing an ethical reflex might take time, but each scenario you st
 
 > **Explanation:** The scenario describes potential insider trading. Standard II(A) specifically addresses the prohibition on acting or causing others to act on material nonpublic information.
 
----
 
 ### An equity analyst is told by their boss to recommend a stock that the company’s investment banking arm is underwriting, despite the analyst’s concerns about the stock’s fundamentals. What ethical challenge does this scenario primarily represent?
 
@@ -239,7 +238,6 @@ Remember: developing an ethical reflex might take time, but each scenario you st
 
 > **Explanation:** This scenario depicts a conflict where the analyst is pressured to recommend a stock underwritten by the same firm—creating a risk of compromised objectivity and a conflict of interest with investor needs.
 
----
 
 ### A junior analyst overhears her supervisor discussing nonpublic details of a company’s earnings with a friend at a restaurant. The analyst considers using this info in a research report. The correct course of action is:
 
@@ -250,7 +248,6 @@ Remember: developing an ethical reflex might take time, but each scenario you st
 
 > **Explanation:** Any nonpublic company earnings data is material and must not be used in overt or covert ways. The best action is to refrain from using it and to inform compliance.
 
----
 
 ### Which of the following best describes a “professional reflex” in ethics application?
 
@@ -261,7 +258,6 @@ Remember: developing an ethical reflex might take time, but each scenario you st
 
 > **Explanation:** Having a professional reflex means you automatically sense and respond to ethical pitfalls due to consistent training and familiarity with the Code of Ethics and Standards of Professional Conduct.
 
----
 
 ### A large institutional client demands daily, exclusive insights into new investment decisions, pressuring the manager to provide them. The manager wonders if it violates Fair Dealing. Which steps should the manager take?
 
@@ -272,7 +268,6 @@ Remember: developing an ethical reflex might take time, but each scenario you st
 
 > **Explanation:** Meeting the fairness principle means either providing the same level of detail to all clients or refusing to single out one client for privileged information. Consulting compliance is an additional protective measure.
 
----
 
 ### If a professional discovers they inadvertently used outdated or incomplete data in an investment recommendation, the best remedial action is to:
 
@@ -283,7 +278,6 @@ Remember: developing an ethical reflex might take time, but each scenario you st
 
 > **Explanation:** Prompt disclosure of the error and issuing an updated recommendation with current data is the most ethical and transparent course of action.
 
----
 
 ### A firm’s culture emphasizes “whatever it takes to close the deal” above everything else, including compliance. Which actions help mitigate ethical breaches in such an environment?
 
@@ -294,7 +288,6 @@ Remember: developing an ethical reflex might take time, but each scenario you st
 
 > **Explanation:** Building a robust ethical culture involves encouraging transparency, providing proper training, and granting employees safe ways to report concerns without retaliation.
 
----
 
 ### In evaluating a potential breach, an investment professional should:
 
@@ -305,7 +298,6 @@ Remember: developing an ethical reflex might take time, but each scenario you st
 
 > **Explanation:** A structured approach involves identifying the applicable standard, seeking advice from compliance or legal teams, and thoroughly documenting the situation and resolution.
 
----
 
 ### Which of the following best illustrates remedial action after a confirmed ethical breach involving inaccurate performance data?
 
@@ -316,7 +308,6 @@ Remember: developing an ethical reflex might take time, but each scenario you st
 
 > **Explanation:** Correcting the mistake and adopting stronger internal review procedures is the appropriate remedial action. Taking responsibility and preventing future errors are central to solid ethical conduct.
 
----
 
 ### In the context of the CFA Institute Code and Standards, it is true that ethical violations can undermine public trust and the integrity of capital markets.
 

@@ -243,7 +243,6 @@ Anyway, hopefully, this overview helps you connect the dots about how real estat
 
 > **Explanation:** Direct property ownership tends to have higher transaction costs and lower liquidity, making exits time-consuming and costly.  
 
----
 
 ### What is the main benefit of investing in a REIT compared to owning physical properties?
 
@@ -254,7 +253,6 @@ Anyway, hopefully, this overview helps you connect the dots about how real estat
 
 > **Explanation:** REIT shares can be bought or sold on an exchange, typically offering greater liquidity and fewer managerial burdens than direct property ownership.  
 
----
 
 ### Which description best fits a “core” real estate strategy?
 
@@ -265,7 +263,6 @@ Anyway, hopefully, this overview helps you connect the dots about how real estat
 
 > **Explanation:** Core strategies target lower-risk, income-producing properties that are already stabilized, often in established markets with credible tenants.  
 
----
 
 ### Which of the following differentiates greenfield from brownfield infrastructure projects?
 
@@ -276,7 +273,6 @@ Anyway, hopefully, this overview helps you connect the dots about how real estat
 
 > **Explanation:** Greenfield projects are built from the ground up (new construction), whereas brownfield projects involve assets that already exist, potentially requiring upgrades or expansions.  
 
----
 
 ### Which factor commonly contributes to infrastructure’s stable cash flows?
 
@@ -287,7 +283,6 @@ Anyway, hopefully, this overview helps you connect the dots about how real estat
 
 > **Explanation:** Infrastructure investments often involve essential services (roads, utilities) and long-term concessions that structure stable revenues over lengthy periods.  
 
----
 
 ### What is a key diversification benefit of adding real estate to a traditional stock and bond portfolio?
 
@@ -298,7 +293,6 @@ Anyway, hopefully, this overview helps you connect the dots about how real estat
 
 > **Explanation:** Real estate often has a moderate or lower correlation to equities and bonds, which can help reduce overall portfolio volatility.  
 
----
 
 ### Which statement about private real estate funds is most accurate?
 
@@ -309,7 +303,6 @@ Anyway, hopefully, this overview helps you connect the dots about how real estat
 
 > **Explanation:** Private real estate funds typically have long lock-up periods, higher minimum commitments, and a fee structure that may include both management and performance fees.  
 
----
 
 ### Why might an infrastructure asset experience political and regulatory risk?
 
@@ -320,7 +313,6 @@ Anyway, hopefully, this overview helps you connect the dots about how real estat
 
 > **Explanation:** Infrastructure assets like toll roads or utilities often involve government oversight and can be affected by changing political or regulatory environments.  
 
----
 
 ### Which best describes a typical concession agreement in infrastructure?
 
@@ -331,7 +323,6 @@ Anyway, hopefully, this overview helps you connect the dots about how real estat
 
 > **Explanation:** Concession agreements give a private entity rights to operate and collect revenue from an infrastructure asset over a stated number of years, after which the asset may revert to the government.  
 
----
 
 ### True or False: Infrastructure returns are always completely uncorrelated with equity markets.
 

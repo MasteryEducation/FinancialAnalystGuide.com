@@ -248,7 +248,6 @@ If you’re keen on diving deeper, the official CFA Institute curriculum is alwa
 
 > **Explanation:** Lenders (or creditors) care most about receiving interest payments and eventually having their principal repaid. This is in contrast to shareholders who invest for potential capital appreciation and dividends.
 
----
 
 ### Why do shareholders generally have an “unlimited upside” in a firm’s success?
 
@@ -259,7 +258,6 @@ If you’re keen on diving deeper, the official CFA Institute curriculum is alwa
 
 > **Explanation:** Equity holders have a residual claim on the firm's assets and income. After paying all other obligations, any additional revenue or profit can lead to share price increases, giving shareholders uncapped growth potential.
 
----
 
 ### Employees, as stakeholders, are most likely to be concerned about which of the following?
 
@@ -270,7 +268,6 @@ If you’re keen on diving deeper, the official CFA Institute curriculum is alwa
 
 > **Explanation:** Employees typically focus on maintaining or improving their wages, benefits, and career development, making these their primary concerns in any corporate setting.
 
----
 
 ### From a corporate perspective, which stakeholder group typically cares most about product quality and reliability?
 
@@ -281,7 +278,6 @@ If you’re keen on diving deeper, the official CFA Institute curriculum is alwa
 
 > **Explanation:** Customers evaluate a firm based on the value, quality, and reliability of the products and services provided.
 
----
 
 ### A firm decides to increase dividends significantly instead of paying off debt. Which stakeholder group’s interests might be most negatively impacted?
 
@@ -292,7 +288,6 @@ If you’re keen on diving deeper, the official CFA Institute curriculum is alwa
 
 > **Explanation:** This move might increase the company's financial risk by diverting cash that could have been used to repay or reduce debt. Thus, creditors see higher risk regarding debt repayment.
 
----
 
 ### Which of the following best describes the “principal-agent” problem in a corporation?
 
@@ -303,7 +298,6 @@ If you’re keen on diving deeper, the official CFA Institute curriculum is alwa
 
 > **Explanation:** The principal-agent problem arises when corporate executives (agents) make decisions that do not align with the best interests of the shareholders (principals).
 
----
 
 ### Why might a government or regulator be considered a key stakeholder of a firm?
 
@@ -314,7 +308,6 @@ If you’re keen on diving deeper, the official CFA Institute curriculum is alwa
 
 > **Explanation:** Government and regulators are stakeholders because they impose rules, collect taxes, and oversee compliance. Their actions directly affect how a company operates.
 
----
 
 ### Which approach can help align the goals of management and shareholders?
 
@@ -325,7 +318,6 @@ If you’re keen on diving deeper, the official CFA Institute curriculum is alwa
 
 > **Explanation:** When management’s compensation is tied to performance metrics (e.g., earnings per share, share price, ESG goals), it better aligns managers’ interests with shareholders’ objectives.
 
----
 
 ### How might local communities benefit from strong stakeholder relationships with a firm?
 
@@ -336,7 +328,6 @@ If you’re keen on diving deeper, the official CFA Institute curriculum is alwa
 
 > **Explanation:** Local communities often benefit from employment opportunities, community development, and lower environmental risks when a company maintains robust stakeholder engagement.
 
----
 
 ### True or False: A misalignment of stakeholder interests can reduce a firm’s value.
 

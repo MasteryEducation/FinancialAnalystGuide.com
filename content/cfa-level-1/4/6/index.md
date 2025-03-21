@@ -235,7 +235,6 @@ Take time to examine footnotes, watch for changing inventory methods, and check 
 
 > **Explanation:** Under LIFO in an inflationary environment, the most recent (highest) costs go into COGS, so profit is lower, and ending inventory is lower because the cost of older (cheaper) inventory remains on the balance sheet.
 
----
 
 ### If the net realizable value of inventory declines below its recorded cost, what must a firm generally do according to IFRS?
 
@@ -246,7 +245,6 @@ Take time to examine footnotes, watch for changing inventory methods, and check 
 
 > **Explanation:** IFRS requires that if the net realizable value (NRV) is lower than cost, the carrying value of inventory must be reduced to that NRV, with a corresponding loss recognized in the income statement.
 
----
 
 ### For a manufacturing firm, which ratio best helps in assessing how quickly inventory is sold?
 
@@ -257,7 +255,6 @@ Take time to examine footnotes, watch for changing inventory methods, and check 
 
 > **Explanation:** The inventory turnover ratio directly measures how many times the firm sells and replaces its inventory in a period—an essential indicator of efficiency in managing stock levels.
 
----
 
 ### Under US GAAP, if an inventory write-down occurs due to obsolescence and the market later recovers, what can happen to that previously written-down inventory value on the books?
 
@@ -268,7 +265,6 @@ Take time to examine footnotes, watch for changing inventory methods, and check 
 
 > **Explanation:** US GAAP prohibits the reversal of inventory write-downs, even if the inventory recovers in value later. IFRS, in contrast, does allow limited reversals.
 
----
 
 ### Which of the following statements about weighted average cost (WAC) is correct?
 
@@ -279,7 +275,6 @@ Take time to examine footnotes, watch for changing inventory methods, and check 
 
 > **Explanation:** Weighted average cost assigns an average per-unit cost to each sale and remaining inventory, smoothing out variations during the period. It’s permitted under both IFRS and US GAAP. It does not always result in the highest inventory value or match the most recent costs.
 
----
 
 ### In a period of deflation, which method might report higher net income if a company were allowed to use both FIFO and LIFO?
 
@@ -290,7 +285,6 @@ Take time to examine footnotes, watch for changing inventory methods, and check 
 
 > **Explanation:** In deflationary periods, FIFO uses older (higher) costs in COGS, hence COGS is higher, and net income would be lower. But LIFO uses more recent (lower) costs first, making COGS lower and net income higher. However, the question states “might report higher net income,” so in deflation, LIFO leads to higher net income than FIFO.
 
----
 
 ### An analyst wants to compare two firms, one using LIFO (US GAAP) and one using FIFO (IFRS). What adjustment might the analyst consider making?
 
@@ -301,7 +295,6 @@ Take time to examine footnotes, watch for changing inventory methods, and check 
 
 > **Explanation:** To achieve comparability, analysts often adjust LIFO-based financials back to FIFO using the disclosed LIFO reserve. This makes it easier to compare across firms using different methods.
 
----
 
 ### Which of the following footnote disclosures is most critical for understanding the potential impact of inventory on future earnings?
 
@@ -312,7 +305,6 @@ Take time to examine footnotes, watch for changing inventory methods, and check 
 
 > **Explanation:** The inventory valuation method and information about write-downs have the biggest impact on current and future earnings. The other details can be informative but are usually less crucial to evaluating earnings potential.
 
----
 
 ### A company notices that its days of inventory on hand (DOH) has dramatically increased from one year to the next. What might this indicate?
 
@@ -323,7 +315,6 @@ Take time to examine footnotes, watch for changing inventory methods, and check 
 
 > **Explanation:** A substantially higher DOH typically suggests slower inventory turnover. That could imply that the firm is having difficulty selling its products or has built up too much inventory.  
 
----
 
 ### In an inflationary environment, which statement is generally true about FIFO vs. LIFO?
 

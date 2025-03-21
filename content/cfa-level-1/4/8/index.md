@@ -232,7 +232,6 @@ These are well worth reviewing if you want a deeper dive or the official word on
 
 > **Explanation:** IFRS 16 generally requires lessees to recognize a right-of-use asset and a lease liability for virtually all leases (except for short-term or low-value ones).
 
----
 
 ### 2. When analyzing a company's leverage, what effect does capitalizing an operating lease (under ASC 842 or IFRS 16) typically have?
 
@@ -243,7 +242,6 @@ These are well worth reviewing if you want a deeper dive or the official word on
 
 > **Explanation:** Capitalizing a lease brings an asset and a liability onto the balance sheet, increasing both assets and liabilities and thus often increasing leverage ratios.
 
----
 
 ### 3. Which of the following best describes a defined contribution pension plan?
 
@@ -254,7 +252,6 @@ These are well worth reviewing if you want a deeper dive or the official word on
 
 > **Explanation:** In a defined contribution plan, the company’s obligation is limited to its contributions. Investment risk falls on the employee.
 
----
 
 ### 4. Under a defined benefit plan, the net pension liability on the balance sheet is determined by:
 
@@ -265,7 +262,6 @@ These are well worth reviewing if you want a deeper dive or the official word on
 
 > **Explanation:** The most relevant formula is: Net Pension Liability (Asset) = PBO – Plan Assets. A positive amount indicates an underfunded plan.
 
----
 
 ### 5. For stock-based compensation, why is the fair value of an option typically measured at the grant date?
 
@@ -276,7 +272,6 @@ These are well worth reviewing if you want a deeper dive or the official word on
 
 > **Explanation:** Both IFRS and US GAAP require measuring the fair value of the equity instrument at the grant date, as that is when the employer-employee agreement is effectively made.
 
----
 
 ### 6. Which statement best describes the impact of stock-based compensation on a company’s EPS?
 
@@ -287,7 +282,6 @@ These are well worth reviewing if you want a deeper dive or the official word on
 
 > **Explanation:** Stock-based awards generally increase the potential number of shares outstanding, thus diluting EPS (particularly diluted EPS).
 
----
 
 ### 7. A firm repurchases its own shares (recording treasury stock). Which of the following is a direct consequence?
 
@@ -298,7 +292,6 @@ These are well worth reviewing if you want a deeper dive or the official word on
 
 > **Explanation:** A share buyback immediately decreases the outstanding shares in the market. The purchase of treasury shares reduces shareholders’ equity.
 
----
 
 ### 8. Under IFRS or US GAAP, which disclosures are you most likely to see for a lease liability?
 
@@ -309,7 +302,6 @@ These are well worth reviewing if you want a deeper dive or the official word on
 
 > **Explanation:** Lease liability notes typically include a breakdown by due dates (1 year, 2-5 years, etc.), interest rate assumptions, and any termination or extension options.
 
----
 
 ### 9. Why might a company with a large unfunded pension liability appear riskier to creditors?
 
@@ -320,7 +312,6 @@ These are well worth reviewing if you want a deeper dive or the official word on
 
 > **Explanation:** A large unfunded pension liability can reduce the firm’s available assets for paying off other creditors if the pension funding needs rise, indicating a higher risk to lenders.
 
----
 
 ### 10. When a firm reports stock-based compensation, it is:
 

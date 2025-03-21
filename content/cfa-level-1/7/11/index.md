@@ -266,7 +266,6 @@ So get comfortable with the concepts, do a few practice calculations, and (if yo
 
 > **Explanation:** Modified Duration is Macaulay Duration divided by (1 + YTM/k), which accounts for the bond’s yield. It is used to estimate the bond’s price change for a given change in yield.
 
----
 
 ### Money (Dollar) Duration can be calculated by:
 
@@ -277,7 +276,6 @@ So get comfortable with the concepts, do a few practice calculations, and (if yo
 
 > **Explanation:** Money Duration (Dollar Duration) = bond price × Modified Duration. It represents the dollar impact for a 1% change in yield.
 
----
 
 ### Price Value of a Basis Point (PVBP) is best described as:
 
@@ -288,7 +286,6 @@ So get comfortable with the concepts, do a few practice calculations, and (if yo
 
 > **Explanation:** PVBP estimates the monetary impact on the bond’s price from a one basis point (0.01%) movement in yield.
 
----
 
 ### Which combination of attributes generally increases a bond’s duration?
 
@@ -299,7 +296,6 @@ So get comfortable with the concepts, do a few practice calculations, and (if yo
 
 > **Explanation:** Duration increases as coupon rate decreases, maturity lengthens, and yield decreases.
 
----
 
 ### If a bond has a Money Duration of $20,000, what is its PVBP?
 
@@ -310,7 +306,6 @@ So get comfortable with the concepts, do a few practice calculations, and (if yo
 
 > **Explanation:** PVBP = Money Duration × 0.0001. Thus, \$20,000 × 0.0001 = \$2.00.
 
----
 
 ### A portfolio has a market value of $50 million and a Modified Duration of 4. If yields rise by 1%, the approximate loss in value is:
 
@@ -321,7 +316,6 @@ So get comfortable with the concepts, do a few practice calculations, and (if yo
 
 > **Explanation:** The Money Duration = $50 million × 4 = $200 million. A 1% shift in yield implies a loss of 1% of $200 million, which is $2 million.
 
----
 
 ### What is the primary difference between Macaulay Duration and Modified Duration?
 
@@ -332,7 +326,6 @@ So get comfortable with the concepts, do a few practice calculations, and (if yo
 
 > **Explanation:** Macaulay Duration is a weighted average time measure, while Modified Duration incorporates yield to reflect actual price sensitivity.
 
----
 
 ### Why might a portfolio manager use derivatives like swaps or futures to manage duration?
 
@@ -343,7 +336,6 @@ So get comfortable with the concepts, do a few practice calculations, and (if yo
 
 > **Explanation:** Derivatives allow a manager to add or reduce duration exposure effectively without having to transact in physical bonds, which can be more efficient.
 
----
 
 ### Which statement about basis points is true?
 
@@ -354,7 +346,6 @@ So get comfortable with the concepts, do a few practice calculations, and (if yo
 
 > **Explanation:** One basis point corresponds to 0.0001 in decimal, or 0.01% in percentage terms.
 
----
 
 ### True or False: Duration alone provides a complete picture of a bond’s price sensitivity for large changes in yield.
 
