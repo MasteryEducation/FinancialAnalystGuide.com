@@ -15,7 +15,7 @@ license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 
 # Master the CFA® Journey with FinancialAnalystGuide
 
-Welcome to **FinancialAnalystGuide**, your free, open‐source portal to achieving success on every exam and program offered by [CFA Institute](https://www.cfainstitute.org/). Whether you’re just beginning with CFA Level I, gearing up for Level II, or advancing toward Level III, our mission is to make exam preparation accessible, engaging, and effective for every passionate learner.
+Hello and Welcome to **FinancialAnalystGuide**, your free, open‐source portal to achieving success on every exam and program offered by [CFA Institute](https://www.cfainstitute.org/). Whether you’re just beginning with CFA Level I, gearing up for Level II, or advancing toward Level III, our mission is to make exam preparation accessible, engaging, and effective for every passionate learner.
 
 ## Why FinancialAnalystGuide?
 
