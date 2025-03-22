@@ -147,14 +147,13 @@ Remember: an endowment’s success hinges on disciplined governance, patient cap
 • Ilmanen, Antti. “Expected Returns: An Investor’s Guide to Harvesting Market Rewards.” (Comprehensive overview of long-term returns across asset classes.)  
 • “CFA Institute Research Foundation Publications” on asset allocation strategies (https://www.cfainstitute.org/research/foundation)  
 
-{{< hint "Glossary" >}}
+## Glossary
 • Strategic Asset Allocation (SAA): The long-term target allocation to different asset classes that reflects an investor’s risk/return objectives.  
 • Spending Policy: The policy that determines how much of the endowment’s assets are spent each year to support the institution’s mission.  
 • Intergenerational Equity: The principle that an endowment’s value is maintained for future generations as well as current beneficiaries.  
 • Lock-Up Period: A timeframe during which investors cannot redeem or withdraw capital. Common in private equity or hedge funds.  
 • Scenario Analysis: A technique that tests how a portfolio might behave under various future events.  
 • Capital Market Assumptions: Forecasts of returns, volatilities, and correlations used in constructing and adjusting a strategic asset allocation.  
-{{< /hint >}}
 
 ## Final Exam Tips
 • Clearly connect your asset allocation recommendations to the endowment’s spending needs and liability structure.  

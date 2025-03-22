@@ -160,10 +160,9 @@ When encountering essay or item-set questions, keep your eyes open for details a
 • “When Funds Get Too Big,” Morningstar Research Commentary.  
 • “Economies of Scale or Diseconomies of Scale in Active Management?” Journal of Financial Economics.  
 
-{{< hint "Additional Resources" >}}  
+### Additional Resources
 • CFA Institute Level III Curriculum, particularly sections on performance attribution and manager selection best practices.  
 • Online advanced courses on manager due diligence, such as the Manager Selection modules offered by specialized training programs.  
-{{< /hint >}}
 
 --------------------------------------------------------------------------------
 
