@@ -167,6 +167,8 @@ hugopress:
         # see layouts/partials/hugopress/modules/hb-custom/hooks/body-end.html.
         body-end:
           cacheable: true
+        hb-docs-doc-content-end:
+          cacheable: true
         hb-footer-end:
           cacheable: true
         # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-sidebar.html.
