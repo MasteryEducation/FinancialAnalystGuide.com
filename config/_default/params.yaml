@@ -100,9 +100,9 @@ hb:
     #https://giscus.app/#repository
     giscus:
       repo: MasteryEducation/FinancialAnalystGuide.com
-      repo_id: R_kgDONJc1pA
+      repo_id: R_kgDOOMFBMQ
       category: Announcements
-      category_id: DIC_kwDONJc1pM4CkJzd
+      category_id: DIC_kwDOOMFBMc4CoW_L
       mapping: title
       strict_matching: true
       input_position: top
