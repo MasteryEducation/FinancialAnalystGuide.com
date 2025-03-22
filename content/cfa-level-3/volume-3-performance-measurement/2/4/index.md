@@ -54,10 +54,12 @@ Upside Capture Ratio = ( Mᵤ / Bᵤ ) × 100
 
 Similarly, for down markets:
 
-Let M_d = Average manager return in “down-market” months,  
-     B_d = Average benchmark return in those same down-market intervals (a negative number on average).  
+- \\(M_d\\)= Average manager return in “down-market” months,  
+- \\(B_d\\) = Average benchmark return in those same down-market intervals (a negative number on average).  
 
-Downside Capture Ratio = ( M_d / B_d ) × 100  
+  $$  \text{Downside Capture Ratio} = \frac{M_d}{B_d} \times 100  $$
+
+{{< katex />}}
 
 Color-coding this with a quick example might help. Suppose, over the last 10 quarters, 6 of those quarters were “up” for the benchmark and 4 were “down.” We first identify which quarters are up vs. down for the benchmark. Then, for the up quarters only, we aggregate (or average) the manager’s returns and the benchmark’s returns, and do the ratio. Repeat for the down quarters.
 
@@ -104,13 +106,13 @@ If you’ve ever taken a steep roller-coaster ride at an amusement park, you kno
 
 ### Definition and Formula
 
-Mathematically, maximum drawdown is computed by scanning the historical performance chart, identifying each local peak and subsequent trough, and noting the largest percent drop among them.
+Mathematically, maximum drawdown (MDD) is computed by scanning the historical performance chart, identifying each local peak and subsequent trough, and then recording the largest percent drop among them. Let Pₜ be the portfolio value (or index level) at time t. Then the maximum drawdown can be expressed as:
 
-If Pₜ is the portfolio value (or index level) at time t, then MDD can be formally expressed as:
+$$
+\mathrm{MDD} := \max_{t \in [1, T]} \left(\frac{P_{\text{peak}} - P_{\text{trough}}}{P_{\text{peak}}}\right),
+$$
 
-MDD = max (for t in [1..T]) [ (Pₚₑₐₖ – Pₜᵣₒᵤgₕ) / Pₚₑₐₖ ]
-
-…where Pₚₑₐₖ is a local maximum in the series. Usually, the result is expressed as a percentage. For example, "the portfolio had a maximum drawdown of 22%."
+where \\(P_{\text{peak}}\\) is a local maximum in the series. Typically, MDD is reported as a percentage (e.g., “the portfolio had a maximum drawdown of 22%”).
 
 ### Significance of Maximum Drawdown
 
@@ -211,14 +213,16 @@ If you’re on an investment committee or advising a client, you’ll likely pai
 
 Let’s imagine you’re selecting an equity manager for a global equity allocation. You have two finalists with the following metrics (simplified for illustration):
 
--------------------------------------------
-             | Manager A | Manager B
--------------------------------------------
-Upside Capture Ratio    | 105%      | 120%
-Downside Capture Ratio  | 95%       | 105%
-Maximum Drawdown        | –28%      | –35%
-Drawdown Duration       | 12 months | 20 months
--------------------------------------------
+
+|              | Manager A | Manager B |
+|--------------|-----------|---------------|
+| Upside Capture Ratio    | 105%      | 120% |
+| Downside Capture Ratio  | 95%       | 105% |
+| Maximum Drawdown        | –28%      | –35% |
+| Drawdown Duration       | 12 months | 20 months |
+
+
+
 
 • Manager A is less aggressive but has a slightly smaller max drawdown and recovers more quickly. Their capture ratios sit near 100% on the downside and above 100% on the upside, indicating they do slightly better in up markets and slightly better at preserving capital in down markets.  
 • Manager B cranks out bigger gains in bull markets but also loses more in a crash, and it takes them longer to get back to a new peak.  
