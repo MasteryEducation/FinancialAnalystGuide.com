@@ -2,6 +2,6 @@
 title: |
   Volume 1: Quantitative Methods
 description: |
-  Master time value of money, probability, sampling, regression, and data analysis in CFA Level I Quantitative Methods Volume 1. Accelerate your exam success!
+  Volume 1: Quantitative Methods provides a solid foundation in the statistical and mathematical tools vital for success on the CFA Level I exam. Gain mastery over time value of money, probability theory, sampling, hypothesis testing, and regression analysis, as applied to real-world investment problems. Learn to effectively analyze financial data, interpret statistical results, and evaluate portfolio performance. With clear explanations and practical examples, this volume equips you with the quantitative skills and confidence needed to excel in global finance and investment decision-making.
 type: docs
 ---
