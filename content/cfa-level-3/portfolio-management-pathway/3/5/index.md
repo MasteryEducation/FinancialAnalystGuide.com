@@ -146,7 +146,6 @@ In short, it’s not enough to have a good idea for beating the market. You’ve
 
 > **Explanation:** Structural efficiency is about minimizing frictions, costs, and unintended bets, so that your intended exposures can generate alpha without unnecessary drag.
 
----
 
 ### What does it generally indicate if a manager’s returns are fully explained by a known factor, such as value or momentum?
 
@@ -157,7 +156,6 @@ In short, it’s not enough to have a good idea for beating the market. You’ve
 
 > **Explanation:** When a manager’s performance is mostly explained by known factors, it implies that the source of returns is factor-based rather than purely idiosyncratic. That can dilute the claim of “true alpha.”
 
----
 
 ### A manager consistently outperforms during both rising and falling markets over multiple years. Which of the following interpretations is most likely?
 
@@ -168,7 +166,6 @@ In short, it’s not enough to have a good idea for beating the market. You’ve
 
 > **Explanation:** Genuine skill often manifests as consistent outperformance across different market regimes, reducing the likelihood that outperformance is purely luck.
 
----
 
 ### Which of the following descriptions fits idiosyncratic alpha?
 
@@ -179,7 +176,6 @@ In short, it’s not enough to have a good idea for beating the market. You’ve
 
 > **Explanation:** Idiosyncratic alpha refers to unique manager skill that isn’t explained by general market moves or systematic factor tilts.
 
----
 
 ### What is “factor crowding”?
 
@@ -190,7 +186,6 @@ In short, it’s not enough to have a good idea for beating the market. You’ve
 
 > **Explanation:** Factor crowding happens when too many market participants chase the same factor exposure, often reducing the profitability of that strategy.
 
----
 
 ### Dynamic alpha rebalancing primarily involves:
 
@@ -201,7 +196,6 @@ In short, it’s not enough to have a good idea for beating the market. You’ve
 
 > **Explanation:** Dynamic alpha rebalancing requires actively monitoring alpha sources and rotating out of stale or crowded strategies into more promising ones, when justified.
 
----
 
 ### Which of the following is true about transaction costs and their impact on alpha?
 
@@ -212,7 +206,6 @@ In short, it’s not enough to have a good idea for beating the market. You’ve
 
 > **Explanation:** Transaction costs affect realized returns and must be accounted for when calculating net alpha. Even a well-designed strategy can underperform if transaction costs are excessive.
 
----
 
 ### Why is peer-group analysis relevant for evaluating a manager’s alpha?
 
@@ -223,7 +216,6 @@ In short, it’s not enough to have a good idea for beating the market. You’ve
 
 > **Explanation:** Comparing performance within a peer group with a similar style or mandate shows whether a manager’s returns stand out beyond common style effects or market contexts.
 
----
 
 ### What is a major advantage of operational efficiency for an investment manager?
 
@@ -234,7 +226,6 @@ In short, it’s not enough to have a good idea for beating the market. You’ve
 
 > **Explanation:** Strong operational efficiency helps the manager maintain accurate, timely data and minimize trading errors or resource waste, preserving alpha and enhancing competitiveness.
 
----
 
 ### True or False: A manager’s net alpha is generally unaffected by factors such as broker fees and short-lending costs.
 

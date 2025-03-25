@@ -185,7 +185,6 @@ For your CFA Level III exam, you might see scenario-based questions that require
 
 > **Explanation:** Integrating ESG often helps mitigate reputational and regulatory risks (such as fines or boycotts), which is valuable for LPs since it protects their capital and image.
 
----
 
 ### Which best describes the concept of “negative screening” in ESG investing?
 
@@ -196,7 +195,6 @@ For your CFA Level III exam, you might see scenario-based questions that require
 
 > **Explanation:** Negative screening removes certain investments from the universe based on ESG-related disqualifying factors, such as specific controversies or industries.
 
----
 
 ### Which statement about impact investing is most accurate?
 
@@ -207,7 +205,6 @@ For your CFA Level III exam, you might see scenario-based questions that require
 
 > **Explanation:** Impact investing aims for a “double bottom line,” combining measurable societal or environmental benefits with financial returns.
 
----
 
 ### A GP is preparing an ESG report for its investors. Which of these actions would likely help avoid accusations of greenwashing?
 
@@ -218,7 +215,6 @@ For your CFA Level III exam, you might see scenario-based questions that require
 
 > **Explanation:** Using a globally recognized and transparent framework helps corroborate a fund’s ESG claims and reduces greenwashing risks.
 
----
 
 ### Which of the following most accurately characterizes the difference between ESG integration and impact investing?
 
@@ -229,7 +225,6 @@ For your CFA Level III exam, you might see scenario-based questions that require
 
 > **Explanation:** ESG integration can center on mitigating risks and improving performance, while impact investing explicitly targets measurable social or environmental outcomes.
 
----
 
 ### Which best describes the utility of an “active engagement” strategy within private equity ESG implementations?
 
@@ -240,7 +235,6 @@ For your CFA Level III exam, you might see scenario-based questions that require
 
 > **Explanation:** Active engagement implies directly shaping a portfolio company’s ESG practices, from board composition to environmental policies.
 
----
 
 ### Among the following, which is a primary benefit for a private equity fund that systematically tracks sustainability metrics?
 
@@ -251,7 +245,6 @@ For your CFA Level III exam, you might see scenario-based questions that require
 
 > **Explanation:** Tracking ESG metrics can uncover cost savings (energy efficiencies, better HR retention, etc.) that boost margins. It also provides data to strengthen the company’s story at exit, potentially enhancing valuation.
 
----
 
 ### Which practice would enhance ESG due diligence for a proposed acquisition?
 
@@ -262,7 +255,6 @@ For your CFA Level III exam, you might see scenario-based questions that require
 
 > **Explanation:** Engaging reputable third parties (e.g., environmental consultants) supports a more thorough analysis and helps confirm or refute the target’s ESG claims.
 
----
 
 ### One challenge of measuring social impact for a private equity investment in affordable housing might be:
 
@@ -273,7 +265,6 @@ For your CFA Level III exam, you might see scenario-based questions that require
 
 > **Explanation:** Social impact often requires tailored metrics that might not be uniformly defined across sectors—e.g., “household energy savings” or “resident satisfaction”—which can be harder to compare or standardize.
 
----
 
 ### True or False: Integrating ESG factors into private equity portfolios can help mitigate regulatory and reputational risks without compromising investment returns.
 

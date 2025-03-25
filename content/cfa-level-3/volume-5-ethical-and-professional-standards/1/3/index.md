@@ -177,7 +177,6 @@ These materials offer deeper dives into real-life ethical pitfalls and illustrat
 
 > **Explanation:** The Code of Ethics outlines foundational principles that transcend local regulations and inform ethical decision-making. It does not replace local rules or prescribe specific punishments, but rather acts as a high-level guide for integrity, loyalty, and prudence.
 
----
 
 ### What is a key difference between the CFA Institute Code of Ethics and the Standards of Professional Conduct?
 
@@ -188,7 +187,6 @@ These materials offer deeper dives into real-life ethical pitfalls and illustrat
 
 > **Explanation:** The Code acts as a high-level moral benchmark, and the Standards elaborate on these principles by offering detailed directives and rules for specific situations. They complement each other.
 
----
 
 ### Which of the following is considered a best practice for adhering to the Code’s principles?
 
@@ -199,7 +197,6 @@ These materials offer deeper dives into real-life ethical pitfalls and illustrat
 
 > **Explanation:** Ethical decisions can be nuanced. Documenting your decision-making process helps ensure accountability and demonstrates alignment with ethical and professional standards.
 
----
 
 ### Why is global applicability a key feature of the CFA Institute Code of Ethics?
 
@@ -210,7 +207,6 @@ These materials offer deeper dives into real-life ethical pitfalls and illustrat
 
 > **Explanation:** A key strength of the Code is that it sets universal principles, urging practitioners to exceed local standards when necessary to maintain integrity and protect markets.
 
----
 
 ### Which action best demonstrates the principle of loyalty, prudence, and care?
 
@@ -221,7 +217,6 @@ These materials offer deeper dives into real-life ethical pitfalls and illustrat
 
 > **Explanation:** Acting in the client’s interest above all else and ensuring actions align with their risk profile illustrate loyalty and care. Using nonpublic information would undermine the integrity of capital markets.
 
----
 
 ### When faced with an unusual ethical challenge not explicitly addressed by local regulations, a CFA charterholder should:
 
@@ -232,7 +227,6 @@ These materials offer deeper dives into real-life ethical pitfalls and illustrat
 
 > **Explanation:** The Code and Standards provide guiding principles that help navigate ethical situations beyond formal laws. Charterholders have the responsibility to uphold these values, even in gray areas.
 
----
 
 ### A firm operating across multiple jurisdictions finds two sets of disclosure requirements. In line with the Code, the manager should:
 
@@ -243,7 +237,6 @@ These materials offer deeper dives into real-life ethical pitfalls and illustrat
 
 > **Explanation:** The Code emphasizes transparency and integrity. When in doubt, adopt the higher standard of disclosure to protect client interests and maintain market integrity.
 
----
 
 ### If an analyst accidentally obtains material nonpublic information, the Code advises:
 
@@ -254,7 +247,6 @@ These materials offer deeper dives into real-life ethical pitfalls and illustrat
 
 > **Explanation:** The Code and Standards firmly prohibit the use of material nonpublic information. Trading on such data jeopardizes market fairness and can lead to severe legal and ethical consequences.
 
----
 
 ### Which of the following is a direct benefit of fostering an ethical culture within an organization?
 
@@ -265,7 +257,6 @@ These materials offer deeper dives into real-life ethical pitfalls and illustrat
 
 > **Explanation:** While no code of ethics can guarantee perfect decisions or returns, fostering an ethical culture significantly enhances trust, credibility, and resilience to reputational risks.
 
----
 
 ### True or False: The CFA Institute Code of Ethics solely aims at legal compliance requirements and has no bearing on broader moral considerations.
 

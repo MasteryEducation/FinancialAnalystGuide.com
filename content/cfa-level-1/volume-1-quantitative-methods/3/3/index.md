@@ -212,7 +212,6 @@ Remember: Markets often exhibit fatter tails than normal. If something looks “
 
 > **Explanation:** Negative (left) skew means the left tail is longer, implying larger negative outliers.
 
----
 
 ### A portfolio with a positive skew is most likely to exhibit which of the following characteristics?
 
@@ -223,7 +222,6 @@ Remember: Markets often exhibit fatter tails than normal. If something looks “
 
 > **Explanation:** A positive (right) skew usually indicates more large positive extremes relative to negative extremes.
 
----
 
 ### Leptokurtic distributions imply which of the following?
 
@@ -234,7 +232,6 @@ Remember: Markets often exhibit fatter tails than normal. If something looks “
 
 > **Explanation:** Leptokurtic distributions have fatter tails compared to the normal distribution, increasing the probability of extreme outcomes.
 
----
 
 ### What happens to the mean and median in a negatively skewed distribution?
 
@@ -245,7 +242,6 @@ Remember: Markets often exhibit fatter tails than normal. If something looks “
 
 > **Explanation:** In a negatively skewed (left-skewed) distribution, the mean is pulled toward the tail on the left side, resulting in a mean < median relationship.
 
----
 
 ### In risk management, ignoring kurtosis can lead to:
 
@@ -256,7 +252,6 @@ Remember: Markets often exhibit fatter tails than normal. If something looks “
 
 > **Explanation:** High kurtosis (fat tails) implies that extreme events are more probable than normal models predict. Ignoring this can cause serious mispricing of tail risk.
 
----
 
 ### Which statement accurately describes the difference between “excess kurtosis” and “kurtosis”?
 
@@ -267,7 +262,6 @@ Remember: Markets often exhibit fatter tails than normal. If something looks “
 
 > **Explanation:** Excess kurtosis subtracts 3 from the raw kurtosis value to indicate how a distribution’s tails compare to a normal distribution’s tails.
 
----
 
 ### A distribution that is mesokurtic usually means:
 
@@ -278,7 +272,6 @@ Remember: Markets often exhibit fatter tails than normal. If something looks “
 
 > **Explanation:** “Mesokurtic” denotes a kurtosis close to that of a normal distribution, which is commonly taken as the kurtosis baseline of 3.
 
----
 
 ### Which of the following best describes an investment strategy likely to produce negative skew?
 
@@ -289,7 +282,6 @@ Remember: Markets often exhibit fatter tails than normal. If something looks “
 
 > **Explanation:** Writing puts can yield steady premium income but exposes the investor to large negative payouts if the market drops sharply, leading to negative skew.
 
----
 
 ### How does negative skew impact the potential for drawdowns?
 
@@ -300,7 +292,6 @@ Remember: Markets often exhibit fatter tails than normal. If something looks “
 
 > **Explanation:** Negative skew amplifies the potential of large and sudden losses, increasing the likelihood of substantial drawdowns.
 
----
 
 ### True or False: A leptokurtic distribution always implies positive skewness.
 

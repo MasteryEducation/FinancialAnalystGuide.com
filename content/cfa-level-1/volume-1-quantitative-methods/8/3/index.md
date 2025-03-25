@@ -210,7 +210,6 @@ But never treat these tests in isolation. In a real finance context, you’re ju
 
 > **Explanation:** Parametric tests typically assume data come from a normally distributed population. Knowing the sample standard deviation or having a large sample is helpful, but not always mandatory for “parametric” to apply.
 
----
 
 ### You have a sample size of 35 daily returns data points, with no known population standard deviation. Which test is generally more appropriate?
 
@@ -221,7 +220,6 @@ But never treat these tests in isolation. In a real finance context, you’re ju
 
 > **Explanation:** If the population variance is unknown, even with 35 data points, you generally still rely on the t-test. With 35 (which is borderline large), some practitioners might approximate using a z-test, but the official guidance remains to employ a t-test when σ is not known.
 
----
 
 ### If your z test-statistic is calculated to be 2.45 for a two-tailed test at a significance level of 5%, what should you do?
 
@@ -232,7 +230,6 @@ But never treat these tests in isolation. In a real finance context, you’re ju
 
 > **Explanation:** For a two-tailed test with α = 0.05, the critical z-value is about ±1.96. Since 2.45 lies outside that range, we reject H₀.
 
----
 
 ### You have only 10 observations of returns for a specialized bond portfolio, and the population variance is unknown. Which distribution should you use to determine the critical value for your test statistic?
 
@@ -243,7 +240,6 @@ But never treat these tests in isolation. In a real finance context, you’re ju
 
 > **Explanation:** For small-sample tests where σ is not known, we use the t-distribution with df = n − 1.
 
----
 
 ### Suppose your one-sample t-statistic with 20 observations is 2.3 when testing H₀: μ = 0 at α = 0.05 (two-tailed). The critical t-value is about 2.09. What conclusion should be drawn?
 
@@ -254,7 +250,6 @@ But never treat these tests in isolation. In a real finance context, you’re ju
 
 > **Explanation:** Since the computed t = 2.3 is larger than the t-critical of about 2.09, you reject the null hypothesis.
 
----
 
 ### True or False: The p-value represents the probability that the alternative hypothesis is true.
 
@@ -263,7 +258,6 @@ But never treat these tests in isolation. In a real finance context, you’re ju
 
 > **Explanation:** The p-value is the probability, assuming H₀ is true, of observing a result as extreme or more extreme than your sample statistic. It does not directly tell you the probability that Hₐ is true.
 
----
 
 ### In a hypothesis test where the sample standard deviation is a good proxy for the population standard deviation (due to a large sample size), you might choose to use:
 
@@ -274,7 +268,6 @@ But never treat these tests in isolation. In a real finance context, you’re ju
 
 > **Explanation:** With a large sample size, the sample standard deviation is often treated as a stand-in for σ, making the z-test viable.
 
----
 
 ### What is a typical consequence if we ignore the fact that the sample size is small and erroneously use a z-test instead of a t-test?
 
@@ -285,7 +278,6 @@ But never treat these tests in isolation. In a real finance context, you’re ju
 
 > **Explanation:** Using the z instead of t in a small sample ignores the extra uncertainty from estimating σ, leading to narrower intervals and a higher chance of rejecting H₀ incorrectly (type I error inflation).
 
----
 
 ### Which of the following statements is correct regarding the relationship between confidence intervals and hypothesis testing?
 
@@ -296,7 +288,6 @@ But never treat these tests in isolation. In a real finance context, you’re ju
 
 > **Explanation:** A 95% confidence interval for μ is directly connected to a two-tailed test at α = 0.05. If μ₀ is outside that interval, you reject the null. If it’s inside the interval, you do not reject.
 
----
 
 ### True or False: In financial research, it is advisable to run repeated parametric tests on the same data set until a significant p-value appears.
 

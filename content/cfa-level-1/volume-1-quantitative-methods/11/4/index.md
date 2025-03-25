@@ -203,7 +203,6 @@ E --> F["Risk Management & <br/> Performance Evaluation"]
 
 > **Explanation:** Alternative data often originates outside of the standard data sources such as financial statements. Satellite imagery of parking lot activity gives insights into real-time consumer traffic.
 
----
 
 ### In high-frequency trading, Big Data is most commonly used to:
 
@@ -214,7 +213,6 @@ E --> F["Risk Management & <br/> Performance Evaluation"]
 
 > **Explanation:** High-frequency traders rely on fast data feeds and order book analysis to exploit temporary market inefficiencies.  
 
----
 
 ### One risk of overusing Big Data in quantitative strategies is:
 
@@ -225,7 +223,6 @@ E --> F["Risk Management & <br/> Performance Evaluation"]
 
 > **Explanation:** Overfitting is a common pitfall. The model may memorize random fluctuations in historical data, failing to generalize in real-world scenarios.
 
----
 
 ### Which of the following best illustrates a Big Data approach to risk management?
 
@@ -236,7 +233,6 @@ E --> F["Risk Management & <br/> Performance Evaluation"]
 
 > **Explanation:** Big Data methods allow for complex scenario analysis with diverse (and often real-time) datasets.
 
----
 
 ### Robo-advisors typically leverage data science to:
 
@@ -247,7 +243,6 @@ E --> F["Risk Management & <br/> Performance Evaluation"]
 
 > **Explanation:** Robo-advisors commonly automate tasks such as rebalancing, tax optimization, and risk management based on algorithmic triggers.
 
----
 
 ### ESG analysis benefits from Big Data by:
 
@@ -258,7 +253,6 @@ E --> F["Risk Management & <br/> Performance Evaluation"]
 
 > **Explanation:** Big Data methods (e.g., NLP, sentiment analysis) convert unstructured ESG information, such as NGO or corporate text, into objective, measurable indicators.
 
----
 
 ### Which statement about Big Data in portfolio optimization is most accurate?
 
@@ -269,7 +263,6 @@ E --> F["Risk Management & <br/> Performance Evaluation"]
 
 > **Explanation:** Portfolio optimization with Big Data enhances correlation and regime forecasting but does not guarantee perfect foresight or eliminate the necessity for other forms of analysis.
 
----
 
 ### A major ethical concern for CFA charterholders when using client data in Big Data analytics is:
 
@@ -280,7 +273,6 @@ E --> F["Risk Management & <br/> Performance Evaluation"]
 
 > **Explanation:** The CFA Code of Ethics and Standards of Professional Conduct emphasizes the protection of client data and confidentiality.
 
----
 
 ### What is a common way to mitigate overfitting in machine learning models for investment analysis?
 
@@ -291,7 +283,6 @@ E --> F["Risk Management & <br/> Performance Evaluation"]
 
 > **Explanation:** Overfitting can be reduced by evaluating predictive models on unseen datasets (out-of-sample tests) or employing cross-validation techniques to ensure robust results.
 
----
 
 ### True or False: Big Data analytics can guarantee positive alpha in all market conditions.
 

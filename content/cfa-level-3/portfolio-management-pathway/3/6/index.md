@@ -150,7 +150,6 @@ Another sometimes-overlooked dimension is liquidity mandates. If a client wants 
 
 > **Explanation:** A factor tilt explicitly involves adjusting weights based on style factors such as value, momentum, or quality, rather than simply matching the benchmark or altering cash levels.
 
----
 
 ### 2. In assessing which factor(s) to tilt toward in anticipation of an economic expansion, a portfolio manager would most likely consider:
 
@@ -161,7 +160,6 @@ Another sometimes-overlooked dimension is liquidity mandates. If a client wants 
 
 > **Explanation:** Small-cap value stocks have historically performed well in economic recoveries, making them a common candidate for a tilt when growth prospects improve.
 
----
 
 ### 3. Which metric would be most indicative of a “momentum” factor tilt?
 
@@ -172,7 +170,6 @@ Another sometimes-overlooked dimension is liquidity mandates. If a client wants 
 
 > **Explanation:** Momentum involves focusing on stocks with a recent history of positive returns, typically over a 6‑ to 12-month window.
 
----
 
 ### 4. What is a primary risk associated with factor crowding?
 
@@ -183,7 +180,6 @@ Another sometimes-overlooked dimension is liquidity mandates. If a client wants 
 
 > **Explanation:** When many investors follow the same factor strategy, it can drive prices to a point where the factor’s expected return advantage weakens or reverses.
 
----
 
 ### 5. When implementing factor tilts, a portfolio manager seeks to keep the tracking error within a specified range. This range:
 
@@ -194,7 +190,6 @@ Another sometimes-overlooked dimension is liquidity mandates. If a client wants 
 
 > **Explanation:** Tracking error measures how much a portfolio can deviate from its benchmark. Managers often have a risk budget that constrains that deviation. However, it does not guarantee outperformance.
 
----
 
 ### 6. A portfolio manager believes a market downturn is imminent. Which factor tilt would traditionally be viewed as more defensive?
 
@@ -205,7 +200,6 @@ Another sometimes-overlooked dimension is liquidity mandates. If a client wants 
 
 > **Explanation:** Low volatility stocks have historically exhibited defensive characteristics during market downturns, although no factor performs consistently in all conditions.
 
----
 
 ### 7. Which of the following is a recommended best practice for monitoring factor tilt exposures?
 
@@ -216,7 +210,6 @@ Another sometimes-overlooked dimension is liquidity mandates. If a client wants 
 
 > **Explanation:** Managers should regularly produce reports showing factor loadings and track correlations among factors to avoid unintended risk concentrations. Periodic rebalancing (more than every five years) is also recommended.
 
----
 
 ### 8. In the context of factor timing, which statement is correct?
 
@@ -227,7 +220,6 @@ Another sometimes-overlooked dimension is liquidity mandates. If a client wants 
 
 > **Explanation:** Factor performance indeed tends to be cyclical, and certain managers do attempt to rotate among factors (though with varied success).
 
----
 
 ### 9. A manager employing a quality factor tilt is most likely to overweight securities with:
 
@@ -238,7 +230,6 @@ Another sometimes-overlooked dimension is liquidity mandates. If a client wants 
 
 > **Explanation:** The quality factor tilt emphasizes financially strong companies characterized by stable profitability, conservative balance sheets, and robust cash flows.
 
----
 
 ### 10. A factor tilt focused on “value” typically emphasizes stocks that:
 

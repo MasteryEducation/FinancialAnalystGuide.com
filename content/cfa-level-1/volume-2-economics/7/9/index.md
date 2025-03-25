@@ -142,7 +142,6 @@ If you ever find yourself scratching your head over why policymakers “obviousl
 
 > **Explanation:** When the economy is already near full employment, the central bank is likely concerned about inflation. Even though the government may boost spending, the central bank often counters with tighter or at least neutral policy to keep inflation in check.
 
----
 
 ### Which of the following best describes one of the main rationales for central bank independence?
 
@@ -153,7 +152,6 @@ If you ever find yourself scratching your head over why policymakers “obviousl
 
 > **Explanation:** Central bank independence is designed to prioritize price stability and reduce the temptation for political leaders to push for overly expansionary policies in pursuit of popularity or short-term gains.
 
----
 
 ### In the context of policy conflicts, if fiscal authorities aggressively expand spending while the economy is already operating at or near capacity, which of the following is the most likely action by a prudent central bank?
 
@@ -164,7 +162,6 @@ If you ever find yourself scratching your head over why policymakers “obviousl
 
 > **Explanation:** When the economy is near capacity, aggressive fiscal expansion risks stoking inflation; the central bank typically tightens monetary policy to contain price pressures.
 
----
 
 ### Ricardian equivalence suggests that if the government finances spending through debt rather than immediate taxation:
 
@@ -175,7 +172,6 @@ If you ever find yourself scratching your head over why policymakers “obviousl
 
 > **Explanation:** Ricardian equivalence proposes that government borrowing simply postpones taxation, prompting consumers to save in anticipation of future tax liabilities, reducing the net stimulative effect of fiscal deficits.
 
----
 
 ### The policy trilemma often refers to the inability to simultaneously achieve which three objectives?
 
@@ -186,7 +182,6 @@ If you ever find yourself scratching your head over why policymakers “obviousl
 
 > **Explanation:** The “impossible trinity” claims that a country cannot simultaneously maintain a fixed exchange rate, free capital flow, and an autonomous monetary policy.
 
----
 
 ### If the central bank pursues an expansionary policy while the government embarks on severe spending cuts, the likely outcome is:
 
@@ -197,7 +192,6 @@ If you ever find yourself scratching your head over why policymakers “obviousl
 
 > **Explanation:** Expansionary monetary policy can be offset by sharply contractionary fiscal policy, leading to confusion in financial markets and diminishing the net impact of either policy.
 
----
 
 ### One key reason that policy coordination can break down in practice is:
 
@@ -208,7 +202,6 @@ If you ever find yourself scratching your head over why policymakers “obviousl
 
 > **Explanation:** Political leaders often focus on short-term measures to appeal to voters, whereas central banks are mandated to maintain price stability over a longer horizon. This mismatch can lead to conflicting policy measures.
 
----
 
 ### A government’s willingness to run large deficits might force the central bank to:
 
@@ -219,7 +212,6 @@ If you ever find yourself scratching your head over why policymakers “obviousl
 
 > **Explanation:** Large deficits, especially when the economy is near or at capacity, can push inflation upward, prompting the central bank to raise rates to dampen those inflationary pressures.
 
----
 
 ### Which of the following best captures a major risk if monetary and fiscal policy are both aggressively expansionary for too long?
 
@@ -230,7 +222,6 @@ If you ever find yourself scratching your head over why policymakers “obviousl
 
 > **Explanation:** If both policy levers are expansionary and remain so for an extended period, it can greatly exceed the economy’s productive capacity and lead to overheating, manifesting as high or runaway inflation.
 
----
 
 ### True or False: Central bank independence guarantees that there will be no coordination with fiscal authorities.
 

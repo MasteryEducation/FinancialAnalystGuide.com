@@ -216,7 +216,6 @@ At the end of the day, using options to achieve targeted equity risk exposures i
 
 > **Explanation:** A classic synthetic long stock is created by buying a call and shorting a put at the same strike and expiration, replicating the payoff of owning the underlying.
 
----
 
 ### The main purpose of a collar strategy on a concentrated stock position is to:
 
@@ -227,7 +226,6 @@ At the end of the day, using options to achieve targeted equity risk exposures i
 
 > **Explanation:** A collar strategy uses a long put and a short call to protect against downside risk but forgoes some upside profit. It’s commonly used for concentrated positions when an investor wants to maintain ownership but hedge downside.
 
----
 
 ### Which of the following is NOT a potential challenge when using index options to hedge a stock portfolio?
 
@@ -238,7 +236,6 @@ At the end of the day, using options to achieve targeted equity risk exposures i
 
 > **Explanation:** Index options do not guarantee perfect correlation with individual stocks, so that’s a risk, not an advantage. Perfect correlation is unrealistic, leading to basis risk.
 
----
 
 ### In a protective put strategy, the primary Greek exposure you are adding is:
 
@@ -249,7 +246,6 @@ At the end of the day, using options to achieve targeted equity risk exposures i
 
 > **Explanation:** Buying a long put generally increases your portfolio’s vega exposure because long options gain value when implied volatility rises. You also get positive gamma, but among the listed choices, positive vega is most directly impacted.
 
----
 
 ### An investor wants to earn extra income on a stock she owns, but does not wish to lose the stock unless it rises above a certain price. Which strategy is most suitable?
 
@@ -260,7 +256,6 @@ At the end of the day, using options to achieve targeted equity risk exposures i
 
 > **Explanation:** A covered call with an OTM strike allows the owner to earn premium income while still holding the stock. If the price rises above the strike, the shares may be called away, but only after capturing some upside gains plus the premium.
 
----
 
 ### Which of these is a valid reason for using a long call and zero-coupon bond to replicate a synthetic position?
 
@@ -271,7 +266,6 @@ At the end of the day, using options to achieve targeted equity risk exposures i
 
 > **Explanation:** Buying a call combined with a zero-coupon bond that matures at the strike price creates a fiduciary call, effectively replicating a fully funded long position on the underlying stock at maturity.
 
----
 
 ### What is the main risk of a short put position that forms part of a synthetic long?
 
@@ -282,7 +276,6 @@ At the end of the day, using options to achieve targeted equity risk exposures i
 
 > **Explanation:** In a synthetic long, the short put carries the obligation to buy the stock at the strike if assigned when the underlying falls. The largest risk is a significant price decline, which would lead to potentially large losses.
 
----
 
 ### In selecting an appropriate strike price for a protective put, one considers:
 
@@ -293,7 +286,6 @@ At the end of the day, using options to achieve targeted equity risk exposures i
 
 > **Explanation:** The put strike choice should align with how much downside protection you want or can tolerate. This effectively establishes a floor on your stock’s value.
 
----
 
 ### A negative gamma position is generally associated with:
 
@@ -304,7 +296,6 @@ At the end of the day, using options to achieve targeted equity risk exposures i
 
 > **Explanation:** Selling options (short calls or short puts) typically involves negative gamma. Your delta will move against you when the underlying price moves in either direction substantially.
 
----
 
 ### The payoff of a long call plus a short put at the same strike is always identical to being long the underlying stock.  
 - [x] True

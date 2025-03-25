@@ -186,7 +186,6 @@ Whether you opt for Sobol’ sequences, importance sampling, or antithetic varia
 
 > **Explanation:** Quasi‑Monte Carlo uses low-discrepancy sequences designed to more uniformly populate the sample space, which can reduce the number of draws needed for a comparable level of accuracy.
 
----
 
 ### What is the main goal of variance reduction techniques in simulation?
 
@@ -197,7 +196,6 @@ Whether you opt for Sobol’ sequences, importance sampling, or antithetic varia
 
 > **Explanation:** Variance reduction techniques seek to lower the dispersion of simulation results, enabling more accurate estimates for the same sample size.
 
----
 
 ### In the antithetic variates method, how are random samples typically paired?
 
@@ -208,7 +206,6 @@ Whether you opt for Sobol’ sequences, importance sampling, or antithetic varia
 
 > **Explanation:** Antithetic variates require taking each random draw X (often standard normal) and pairing it with −X to reduce variance through negatively correlated outcomes.
 
----
 
 ### Which statement specifically relates to control variates?
 
@@ -219,7 +216,6 @@ Whether you opt for Sobol’ sequences, importance sampling, or antithetic varia
 
 > **Explanation:** Control variates use a known-value variable to reduce the variance of the target variable; the difference in the known variable’s observed and theoretical mean is used for correction.
 
----
 
 ### What is a noted benefit of stratified sampling?
 
@@ -230,7 +226,6 @@ Whether you opt for Sobol’ sequences, importance sampling, or antithetic varia
 
 > **Explanation:** Stratified sampling partitions the range into subgroups and draws samples within each subgroup, leading to a more balanced representation across the distribution.
 
----
 
 ### Why is importance sampling particularly useful for tail risk analysis in finance?
 
@@ -241,7 +236,6 @@ Whether you opt for Sobol’ sequences, importance sampling, or antithetic varia
 
 > **Explanation:** Importance sampling focuses more of the simulation effort on parts of the distribution that are critical to the measured outcome (often the tail), improving the estimates for rare events.
 
----
 
 ### In derivative pricing, why might combining control variates with quasi‑Monte Carlo be advantageous?
 
@@ -252,7 +246,6 @@ Whether you opt for Sobol’ sequences, importance sampling, or antithetic varia
 
 > **Explanation:** Quasi‑Monte Carlo helps by providing more uniform sampling, and control variates complement it by adjusting the estimate based on known results, thereby often yielding additional variance reduction.
 
----
 
 ### Which is a common pitfall when using importance sampling?
 
@@ -263,7 +256,6 @@ Whether you opt for Sobol’ sequences, importance sampling, or antithetic varia
 
 > **Explanation:** In importance sampling, you choose a new distribution that concentrates on the important region. You must reweight samples according to their likelihood ratio, and an incorrect weight adjustment can severely bias the results.
 
----
 
 ### When might low-discrepancy sequences lose their advantage over pseudo-random sequences?
 
@@ -274,7 +266,6 @@ Whether you opt for Sobol’ sequences, importance sampling, or antithetic varia
 
 > **Explanation:** Although quasi‑Monte Carlo typically helps with moderate-to-high dimensions, in extremely high-dimensional problems, the benefits can diminish due to the complexity of mapping low-discrepancy sequences effectively across so many dimensions.
 
----
 
 ### True or False: Quasi‑Monte Carlo methods eliminate the need for any other variance reduction techniques.
 

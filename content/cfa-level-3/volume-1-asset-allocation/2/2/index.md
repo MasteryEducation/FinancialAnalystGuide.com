@@ -183,7 +183,6 @@ Suppose you identify two emerging economies, both offering 200 basis points more
 
 > **Explanation:** Sovereign default risk specifically refers to the phenomenon where a national government cannot or will not make payments on its debt. It is distinct from corporate or municipal defaults.
 
----
 
 ### What is the main concern when a country imposes capital controls on foreign investors?
 
@@ -194,7 +193,6 @@ Suppose you identify two emerging economies, both offering 200 basis points more
 
 > **Explanation:** Capital controls can prevent investors from moving funds out of the country or converting local currencies into more widely accepted hard currencies, thus limiting liquidity and increasing risk.
 
----
 
 ### Which macroeconomic factor is most relevant when estimating a country’s ability to defend its currency?
 
@@ -205,7 +203,6 @@ Suppose you identify two emerging economies, both offering 200 basis points more
 
 > **Explanation:** Sizable foreign exchange reserves allow a country’s central bank to intervene in currency markets, stabilizing exchange rates and minimizing abrupt depreciations.
 
----
 
 ### Why might relying solely on rating agencies be insufficient for assessing EM sovereign risk?
 
@@ -216,7 +213,6 @@ Suppose you identify two emerging economies, both offering 200 basis points more
 
 > **Explanation:** While ratings are a useful starting point, agencies often update their opinions after significant events have already affected market prices, so proactive analysis is essential.
 
----
 
 ### What does a widening EMBI spread typically indicate?
 
@@ -227,7 +223,6 @@ Suppose you identify two emerging economies, both offering 200 basis points more
 
 > **Explanation:** A widening spread means investors demand more yield to compensate for increased perceived risk in emerging market bonds.
 
----
 
 ### Which statement correctly explains the relationship between local-currency bonds and currency risk?
 
@@ -238,7 +233,6 @@ Suppose you identify two emerging economies, both offering 200 basis points more
 
 > **Explanation:** Investors in local-currency bonds must convert proceeds into their base currency, making them vulnerable to changes in the exchange rate.
 
----
 
 ### A budget deficit coupled with a low level of FX reserves primarily raises concerns about:
 
@@ -249,7 +243,6 @@ Suppose you identify two emerging economies, both offering 200 basis points more
 
 > **Explanation:** A budget deficit and weak reserves signal potential vulnerability in meeting external debt obligations, especially during global liquidity stress.
 
----
 
 ### Which of the following does a higher-than-expected inflation rate in an EM economy often suggest?
 
@@ -260,7 +253,6 @@ Suppose you identify two emerging economies, both offering 200 basis points more
 
 > **Explanation:** High or volatile inflation can hint at ineffective monetary policy or other economic imbalances, which can be detrimental for fixed-income investors.
 
----
 
 ### Which measure is most frequently used to gauge perceived sovereign credit risk via derivatives?
 
@@ -271,7 +263,6 @@ Suppose you identify two emerging economies, both offering 200 basis points more
 
 > **Explanation:** CDS spreads reflect the cost to insure against a default, directly indicating how the market perceives the issuer’s credit risk.
 
----
 
 ### A country experiencing sudden capital flight and depleting FX reserves may choose to:
 

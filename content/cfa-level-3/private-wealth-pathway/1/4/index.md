@@ -174,7 +174,6 @@ In the end, thriving in private wealth management is as much about trust as it i
 
 > **Explanation:** Fiduciaries must place the client’s interests above all else, disclosing any potential conflicts of interest and remaining transparent in their actions.
 
----
 
 ### Which of the following is true regarding the “suitability” standard?
 
@@ -185,7 +184,6 @@ In the end, thriving in private wealth management is as much about trust as it i
 
 > **Explanation:** The suitability standard focuses on whether an investment is appropriate for the client’s goals and risk profile, not necessarily whether it’s the absolute best option.
 
----
 
 ### In implementing AML and KYC procedures, what is the first step for most firms?
 
@@ -196,7 +194,6 @@ In the end, thriving in private wealth management is as much about trust as it i
 
 > **Explanation:** KYC starts with confirming the client’s identity. Only after verification can the firm assess risk and proceed with AML checks.
 
----
 
 ### Which global initiative aims to automatically exchange financial account information among participating countries?
 
@@ -207,7 +204,6 @@ In the end, thriving in private wealth management is as much about trust as it i
 
 > **Explanation:** The Common Reporting Standard (CRS) facilitates automatic sharing of financial account data to combat tax evasion.
 
----
 
 ### Which of the following best describes the main focus of GDPR?
 
@@ -218,7 +214,6 @@ In the end, thriving in private wealth management is as much about trust as it i
 
 > **Explanation:** GDPR primarily deals with data protection for EU-based individuals, ensuring they have control over how their personal data is collected, stored, and used.
 
----
 
 ### A client instructs you to invest in a company where you have non-public, material information. Which potential ethical violation might you face if you act on this knowledge?
 
@@ -229,7 +224,6 @@ In the end, thriving in private wealth management is as much about trust as it i
 
 > **Explanation:** Trading on non-public, material information is considered insider trading and is prohibited under most global regulatory frameworks.
 
----
 
 ### Under which regulatory body’s guidance do European wealth managers primarily operate?
 
@@ -240,7 +234,6 @@ In the end, thriving in private wealth management is as much about trust as it i
 
 > **Explanation:** The European Securities and Markets Authority (ESMA) oversees regulation within the European Union, often issuing guidelines such as MiFID II.
 
----
 
 ### What is the primary function of a Chief Compliance Officer (CCO) in a wealth management firm?
 
@@ -251,7 +244,6 @@ In the end, thriving in private wealth management is as much about trust as it i
 
 > **Explanation:** The CCO ensures the firm follows all applicable regulations, designs compliance programs, and monitors adherence to internal policies.
 
----
 
 ### Front running is best described as:
 
@@ -262,7 +254,6 @@ In the end, thriving in private wealth management is as much about trust as it i
 
 > **Explanation:** Front running involves capitalizing on a client’s future trade orders for personal benefit, which is illegal and unethical.
 
----
 
 ### True or False: A robust compliance culture solely relies on punitive measures to prevent wrongdoing.
 

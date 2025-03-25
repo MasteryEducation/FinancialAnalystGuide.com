@@ -209,7 +209,6 @@ Yet, in many cases, public policies might purposefully introduce such distortion
 
 > **Explanation:** Deadweight loss is the portion of total surplus that disappears when the market is taken away from its efficient equilibrium—transactions that would have yielded net benefits don't happen.
 
----
 
 ### A market is in perfect competition with no externalities. At its equilibrium, which statement is most accurate?
 
@@ -220,7 +219,6 @@ Yet, in many cases, public policies might purposefully introduce such distortion
 
 > **Explanation:** In a perfectly competitive market free of externalities, total surplus (i.e., consumer surplus plus producer surplus) is maximized at equilibrium. No deadweight loss emerges in such a scenario.
 
----
 
 ### What usually happens to deadweight loss when demand is more elastic and a per-unit tax is imposed?
 
@@ -231,7 +229,6 @@ Yet, in many cases, public policies might purposefully introduce such distortion
 
 > **Explanation:** Greater elasticity on either the demand or supply side means the quantity traded is more sensitive to price changes. A given tax wedge then causes a larger reduction in quantity, increasing the area of deadweight loss.
 
----
 
 ### A binding price ceiling is enacted. Which of the following occurs in the market subject to that price ceiling?
 
@@ -242,7 +239,6 @@ Yet, in many cases, public policies might purposefully introduce such distortion
 
 > **Explanation:** A binding price ceiling is set below the free-market equilibrium price. This typically leads to a shortage because quantity demanded exceeds quantity supplied at that artificially low price, creating deadweight loss.
 
----
 
 ### If a tax is imposed on tobacco products to correct the negative externality of secondhand smoke, how might this tax influence total surplus from society’s perspective?
 
@@ -253,7 +249,6 @@ Yet, in many cases, public policies might purposefully introduce such distortion
 
 > **Explanation:** While taxes typically create deadweight loss in a simple supply-and-demand model, incorporating the broader negative externality of secondhand smoke means society’s overall welfare can rise if the tax reduces harmful consumption.
 
----
 
 ### How do we interpret the “distortion” created by a per-unit subsidy to producers in a competitive market?
 
@@ -264,7 +259,6 @@ Yet, in many cases, public policies might purposefully introduce such distortion
 
 > **Explanation:** A subsidy raises the effective price producers receive, which can lead to overproduction and an associated deadweight loss. Although producers might gain, there is still a resource misallocation from a societal standpoint.
 
----
 
 ### Which of these is NOT a direct source of deadweight loss?
 
@@ -275,7 +269,6 @@ Yet, in many cases, public policies might purposefully introduce such distortion
 
 > **Explanation:** With perfectly inelastic demand and no market intervention, the quantity traded remains at equilibrium, and there’s no wedge introduced preventing beneficial transactions, so no deadweight loss arises.
 
----
 
 ### What happens when a market is at equilibrium but there’s an external cost unaccounted for in the supply curve?
 
@@ -286,7 +279,6 @@ Yet, in many cases, public policies might purposefully introduce such distortion
 
 > **Explanation:** Negative externalities that aren’t captured in prices mean the equilibrium quantity is too high compared to what is socially optimal, producing a deadweight loss from society’s viewpoint.
 
----
 
 ### A government imposes a price floor above equilibrium. Why does this price floor cause deadweight loss?
 
@@ -297,7 +289,6 @@ Yet, in many cases, public policies might purposefully introduce such distortion
 
 > **Explanation:** When the floor price is set above equilibrium, quantity demanded is lower than the efficient level. Fewer trades happen, meaning some potential consumer-producer pairs are excluded, creating a deadweight loss.
 
----
 
 ### Deadweight loss refers to the reduction in total surplus that occurs whenever a policy or market condition prevents the market from reaching a Pareto efficient outcome.
 

@@ -190,7 +190,6 @@ In practice, you’ll often toggle between them. That’s perfectly normal. But 
 
 > **Explanation:** Risk-neutral probabilities are constructed so that all assets grow at the risk-free rate in expectation, simplifying the pricing of derivatives. They do NOT reflect the actual likelihood of outcomes.
 
----
 
 ### Under real-world probabilities, which of the following is usually true?
 
@@ -201,7 +200,6 @@ In practice, you’ll often toggle between them. That’s perfectly normal. But 
 
 > **Explanation:** In real-world probabilities, investors demand compensation for bearing risk, which is why risk premiums exist.
 
----
 
 ### One key difference in application of risk-neutral vs. real-world measures is:
 
@@ -212,7 +210,6 @@ In practice, you’ll often toggle between them. That’s perfectly normal. But 
 
 > **Explanation:** Risk-neutral measures lend themselves to no-arbitrage pricing of derivatives, whereas real-world measures capture actual probabilities and are better for longer-term forecasts and risk decisions.
 
----
 
 ### In a risk-neutral world, the expected growth rate of a stock is:
 
@@ -223,7 +220,6 @@ In practice, you’ll often toggle between them. That’s perfectly normal. But 
 
 > **Explanation:** By definition of the risk-neutral measure, assets grow at the risk-free rate in expectation, ignoring any real-world premium.
 
----
 
 ### When valuing a European call option using Black–Scholes:
 
@@ -234,7 +230,6 @@ In practice, you’ll often toggle between them. That’s perfectly normal. But 
 
 > **Explanation:** Black–Scholes is anchored in the principle that under a risk-neutral measure, the expected payoff is discounted at the risk-free rate.
 
----
 
 ### Which of the following is an example of a real-world application?
 
@@ -245,7 +240,6 @@ In practice, you’ll often toggle between them. That’s perfectly normal. But 
 
 > **Explanation:** Stress testing a bank’s capital is a forward-looking, real-world scenario analysis—very different from the no-arbitrage pricing that uses risk-neutral probabilities.
 
----
 
 ### Which statement is most accurate about implied volatility skew?
 
@@ -256,7 +250,6 @@ In practice, you’ll often toggle between them. That’s perfectly normal. But 
 
 > **Explanation:** The implied volatility skew arises partly because of how the market (real-world) perceives downside risk, which then shows up in the implied volatilities used for risk-neutral pricing.
 
----
 
 ### What is a commonly cited benefit of using real-world probabilities for long-term investment analysis?
 
@@ -267,7 +260,6 @@ In practice, you’ll often toggle between them. That’s perfectly normal. But 
 
 > **Explanation:** Real-world probabilities allow you to incorporate investor risk aversion, market sentiment, and risk premiums, leading to more realistic forecasts for long-term horizons.
 
----
 
 ### Suppose you are tasked with pricing a complex derivative. Why would risk-neutral probabilities provide a more appropriate framework than real-world probabilities?
 
@@ -278,7 +270,6 @@ In practice, you’ll often toggle between them. That’s perfectly normal. But 
 
 > **Explanation:** One fundamental reason for using risk-neutral measures in pricing is to maintain internal consistency (no-arbitrage) across derivatives markets.
 
----
 
 ### True or False: When regulators conduct stress tests, they rely primarily on risk-neutral probabilities.
 

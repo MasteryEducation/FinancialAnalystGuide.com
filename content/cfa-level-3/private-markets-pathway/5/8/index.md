@@ -166,7 +166,6 @@ You might also see essay questions asking about how to handle conflicts among ne
 
 > **Explanation:** Post‑restructuring equity holders (often creditors turned shareholders) want direct influence in strategic decisions and to ensure the turnaround plan is properly executed.
 
----
 
 ### A common motivation for having independent board committees post‑restructuring is:
 
@@ -177,7 +176,6 @@ You might also see essay questions asking about how to handle conflicts among ne
 
 > **Explanation:** Independent board committees are meant to offer objective oversight and mitigate conflicts of interest, not reduce accountability.
 
----
 
 ### Which of the following is a best practice for a newly restructured company to rebuild trust with stakeholders?
 
@@ -188,7 +186,6 @@ You might also see essay questions asking about how to handle conflicts among ne
 
 > **Explanation:** Rebuilding trust is based on transparency, aligning interests, and ensuring that stakeholders receive adequate and timely information about the firm’s condition and strategy.
 
----
 
 ### When might a secondary buyout be an appealing exit route?
 
@@ -199,7 +196,6 @@ You might also see essay questions asking about how to handle conflicts among ne
 
 > **Explanation:** A secondary buyout occurs when a second PE firm acquires a portfolio company from another sponsor that has turned it around sufficiently to attract interest.
 
----
 
 ### How do performance-based incentives align management with new owners’ goals?
 
@@ -210,7 +206,6 @@ You might also see essay questions asking about how to handle conflicts among ne
 
 > **Explanation:** Linking compensation to performance metrics creates alignment, motivating management to work toward the specific targets new owners prioritize.
 
----
 
 ### One risk of a poorly structured board post‑restructuring is:
 
@@ -221,7 +216,6 @@ You might also see essay questions asking about how to handle conflicts among ne
 
 > **Explanation:** If the restructured board is composed solely of insiders without independent checks, the board may lack challenge and diversity of thought, leading to groupthink.
 
----
 
 ### Which of the following is a common corporate governance mechanism intended to strengthen oversight?
 
@@ -232,7 +226,6 @@ You might also see essay questions asking about how to handle conflicts among ne
 
 > **Explanation:** Independent committees, such as audit committees, help ensure thorough oversight of the management team and the company’s financial reporting.
 
----
 
 ### In deciding when to exit an equity position in a restructured company, investors often consider:
 
@@ -243,7 +236,6 @@ You might also see essay questions asking about how to handle conflicts among ne
 
 > **Explanation:** Investors aim to exit when they can maximize returns, typically waiting for sufficient operational stability and favorable market conditions.
 
----
 
 ### Which statement best summarizes why communication with suppliers is essential post‑restructuring?
 
@@ -254,7 +246,6 @@ You might also see essay questions asking about how to handle conflicts among ne
 
 > **Explanation:** Suppliers who feel uncertain about a previously distressed client may hedge their risk by demanding tighter terms. Transparent communication can reassure them and help preserve favorable terms.
 
----
 
 ### True or False: Performance dashboards are often implemented post‑restructuring to identify potential problems early and maintain transparency with stakeholders.
 

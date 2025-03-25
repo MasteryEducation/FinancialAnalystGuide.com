@@ -221,7 +221,6 @@ which makes S(t) lognormally distributed. This is the backbone of Black–Schole
 
 > **Explanation:** The normal distribution can easily produce negative values if applied directly to prices, which is unrealistic for most financial assets.
 
----
 
 ### 2. Which of the following assumptions is critical for the lognormal distribution in asset price modeling?
 
@@ -232,7 +231,6 @@ which makes S(t) lognormally distributed. This is the backbone of Black–Schole
 
 > **Explanation:** A lognormal variable Y arises when ln(Y) ~ Normal. In finance, if continuous returns are normally distributed, then prices follow a lognormal distribution.
 
----
 
 ### 3. When summing random variables, how do normal and lognormal distributions differ?
 
@@ -243,7 +241,6 @@ which makes S(t) lognormally distributed. This is the backbone of Black–Schole
 
 > **Explanation:** One key property is that normal distributions are stable under addition, whereas lognormal variables remain lognormal only when multiplied (not when added).
 
----
 
 ### 4. In a Geometric Brownian Motion (GBM) model, which of the following terms ensures that price paths remain positive?
 
@@ -254,7 +251,6 @@ which makes S(t) lognormally distributed. This is the backbone of Black–Schole
 
 > **Explanation:** GBM uses exponentiation of the normal term, which ensures the process never dips below zero (lognormal by design).
 
----
 
 ### 5. If R ~ N(μ, σ²) is a continuously compounded return, how do we express the expected end-of-period price S_T starting from S_0?
 
@@ -265,7 +261,6 @@ which makes S(t) lognormally distributed. This is the backbone of Black–Schole
 
 > **Explanation:** Continuously compounded returns are exponentiated to update the price from the initial level S_0.
 
----
 
 ### 6. Which statement about lognormal distributions is correct?
 
@@ -276,7 +271,6 @@ which makes S(t) lognormally distributed. This is the backbone of Black–Schole
 
 > **Explanation:** Lognormal distributions are skewed positively to the right, reflecting that the bulk of the mass is toward lower values but with a long right tail.
 
----
 
 ### 7. Which of the following is a legitimate concern when using a purely normal distribution for daily returns?
 
@@ -287,7 +281,6 @@ which makes S(t) lognormally distributed. This is the backbone of Black–Schole
 
 > **Explanation:** Real-world returns exhibit fat tails; purely normal assumptions may underestimate extreme events, leading to inaccurate risk assessment.
 
----
 
 ### 8. If the price distribution is modeled as lognormal, which of these statements accurately characterizes the distribution?
 
@@ -298,7 +291,6 @@ which makes S(t) lognormally distributed. This is the backbone of Black–Schole
 
 > **Explanation:** Lognormal means ln(price) is normal. Price remains strictly positive, and the distribution is skewed right.
 
----
 
 ### 9. Why might an analyst prefer a lognormal distribution over a normal distribution for long-dated options valuation?
 
@@ -309,7 +301,6 @@ which makes S(t) lognormally distributed. This is the backbone of Black–Schole
 
 > **Explanation:** One major appeal of a lognormal process for long-dated horizons is that it guarantees non-negative prices and handles compounding returns in a more realistic way.
 
----
 
 ### 10. True or False: Using a lognormal model automatically captures all real-world market tail risks.
 

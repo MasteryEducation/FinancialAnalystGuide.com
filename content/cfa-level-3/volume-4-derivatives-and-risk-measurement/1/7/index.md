@@ -132,7 +132,6 @@ In any open-ended response, remember to discuss risk management considerations (
 
 > **Explanation:** A calendar spread (horizontal spread) is formed by buying and selling two options on the same underlying and strike, but with different expiration dates.
 
----
 
 ### What is one primary motivation behind initiating a calendar spread?
 
@@ -143,7 +142,6 @@ In any open-ended response, remember to discuss risk management considerations (
 
 > **Explanation:** A calendar spread attempts to capitalize on the quicker time decay (theta) of the near-term option.
 
----
 
 ### How does an increase in implied volatility typically affect a standard long calendar spread?
 
@@ -154,7 +152,6 @@ In any open-ended response, remember to discuss risk management considerations (
 
 > **Explanation:** Longer-term options generally have larger vega, so a volatility increase tends to boost the long leg more significantly than the short leg.
 
----
 
 ### What is a key risk when using a short near-term option in a calendar spread?
 
@@ -165,7 +162,6 @@ In any open-ended response, remember to discuss risk management considerations (
 
 > **Explanation:** A near-term short option in a calendar spread is vulnerable to early assignment if conditions favor early exercise (e.g., dividends for calls).
 
----
 
 ### Which of the following scenarios is most suitable for establishing a calendar spread?
 
@@ -176,7 +172,6 @@ In any open-ended response, remember to discuss risk management considerations (
 
 > **Explanation:** Calendar spreads are frequently used in somewhat sideways markets, collecting short-term premium while preserving potential gains. They can also exploit future volatility spikes if timed correctly.
 
----
 
 ### When rolling the short leg of a calendar spread, which of the following is most accurate?
 
@@ -187,7 +182,6 @@ In any open-ended response, remember to discuss risk management considerations (
 
 > **Explanation:** Rolling typically means buying back the near-dated short and simultaneously selling another short option in a new expiration, thus extending the strategy.
 
----
 
 ### Which best describes the impact of a large downward price move immediately after entering a call calendar spread?
 
@@ -198,7 +192,6 @@ In any open-ended response, remember to discuss risk management considerations (
 
 > **Explanation:** If the underlying drops significantly, both legs of a call calendar spread can suffer, though the short call’s losses are offset by the credit received. The bigger concern is the loss in the long call’s time value.
 
----
 
 ### Why is the term structure of volatility relevant for a calendar spread?
 
@@ -209,7 +202,6 @@ In any open-ended response, remember to discuss risk management considerations (
 
 > **Explanation:** The shape of the volatility curve (term structure) can affect the respective prices of near-term vs. long-term options and is crucial to calendar spread profitability.
 
----
 
 ### Which of the following statements is true regarding the risk–reward profile of a typical long calendar spread?
 
@@ -220,7 +212,6 @@ In any open-ended response, remember to discuss risk management considerations (
 
 > **Explanation:** With a long calendar spread, your initial net debit can be lost if the spread doesn’t work out. Profit peaks if the short option expires near the strike (often worthless) while the long option retains value.
 
----
 
 ### Calendar spreads can serve to modulate a portfolio’s overall option “greeks.” Which of the following statements is correct?
 

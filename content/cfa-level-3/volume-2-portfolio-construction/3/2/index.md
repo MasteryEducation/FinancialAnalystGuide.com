@@ -196,7 +196,6 @@ Left to right, you can see a progression from traditional bond exposures (with g
 
 > **Explanation:** Government bonds may offer downside protection due to a “flight to quality” during equity market downturns, resulting in low or negative correlation with equities.
 
----
 
 ### 2. Why might a market-neutral hedge fund strategy be considered a potential risk mitigator?
 
@@ -207,7 +206,6 @@ Left to right, you can see a progression from traditional bond exposures (with g
 
 > **Explanation:** Market-neutral strategies strive to remove broad market exposure (beta), relying on manager skill and security selection. This potentially offers downside protection when equities fall.
 
----
 
 ### 3. During the 2008 financial crisis, which of the following aspects allowed many Treasuries to rally even as equity markets plunged?
 
@@ -218,7 +216,6 @@ Left to right, you can see a progression from traditional bond exposures (with g
 
 > **Explanation:** In times of systemic shock, high-quality government bonds (Treasuries) often see inflows from investors seeking a safe haven, thereby driving bond prices up.
 
----
 
 ### 4. What is one key difference between systemic risk and idiosyncratic risk?
 
@@ -229,7 +226,6 @@ Left to right, you can see a progression from traditional bond exposures (with g
 
 > **Explanation:** Systemic risk is broad-based, often affecting most or all assets in a market. Idiosyncratic risk is asset-specific and can usually be reduced by diversification.
 
----
 
 ### 5. In a rising-rate environment, which alternative investment might offer some protection against falling bond prices?
 
@@ -240,7 +236,6 @@ Left to right, you can see a progression from traditional bond exposures (with g
 
 > **Explanation:** Floating-rate instruments have coupons that adjust to changing interest rates, offering better resilience than fixed-coupon bonds in a rising-rate scenario.
 
----
 
 ### 6. Which characteristic best describes the drawdown behavior of an effective risk mitigator?
 
@@ -251,7 +246,6 @@ Left to right, you can see a progression from traditional bond exposures (with g
 
 > **Explanation:** Risk mitigators aim to help limit overall portfolio declines during crises, supporting more stable portfolio peak-to-trough outcomes.
 
----
 
 ### 7. Alternative strategies can have low correlation with equities. However, what is a potential drawback?
 
@@ -262,7 +256,6 @@ Left to right, you can see a progression from traditional bond exposures (with g
 
 > **Explanation:** While the low correlation can benefit a portfolio, some alternatives can carry leverage or strategy-specific risks, which can occasionally result in major drawdowns.
 
----
 
 ### 8. Real estate is often used as a partial inflation hedge. Under what condition might real estate still struggle to mitigate overall portfolio risk?
 
@@ -273,7 +266,6 @@ Left to right, you can see a progression from traditional bond exposures (with g
 
 > **Explanation:** Real estate may reduce overall risk, but if a local market downturn or sector-specific weakness occurs, real estate values could drop significantly, undermining its benefit as a hedge.
 
----
 
 ### 9. What is the main reason correlations might shift during times of market stress?
 
@@ -284,7 +276,6 @@ Left to right, you can see a progression from traditional bond exposures (with g
 
 > **Explanation:** In severe crises, various assets may become correlated because most investors head for the exit at the same time, intensifying the co-movement of many asset classes.
 
----
 
 ### 10. True or False: A portfolio with both bonds and alternatives completely eliminates all risk.
 

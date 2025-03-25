@@ -129,7 +129,6 @@ References and Further Reading
 
 > **Explanation:** Forward rates derived from the yield curve reflect the market’s collective view of future rates, though they’re not a guaranteed forecast.
 
----
 
 ### When implementing a roll-down strategy (riding the yield curve), which outcome typically leads to higher returns?
 - [ ] The yield curve flattens drastically across all maturities.
@@ -139,7 +138,6 @@ References and Further Reading
 
 > **Explanation:** Roll-down strategies profit when the bond’s yield declines naturally with the passage of time and a stable or upward-sloping curve.
 
----
 
 ### In a steepener trade, an investor anticipates:
 - [ ] Short-term rates to decrease at a faster rate than long-term rates.
@@ -149,7 +147,6 @@ References and Further Reading
 
 > **Explanation:** A steepener trade aims to benefit from the spread between short and long maturities getting larger.
 
----
 
 ### A butterfly trade typically involves:
 - [x] Positioning in short, intermediate, and long maturities to profit from changes in the curve’s curvature.
@@ -159,7 +156,6 @@ References and Further Reading
 
 > **Explanation:** Butterfly trades capitalize on relative changes among three segments of the curve, typically short, intermediate, and long maturities.
 
----
 
 ### Why might a bond manager prefer using swaps instead of physical bonds when implementing yield curve strategies?
 - [x] Swaps can require less capital outlay and can be more flexible to adjust positions.
@@ -169,7 +165,6 @@ References and Further Reading
 
 > **Explanation:** An interest rate swap can replicate desired exposures along the curve with less capital than purchasing physical bonds, but they don’t eliminate all costs or risks.
 
----
 
 ### Which of these is an example of a flattener trade in the bond market?
 - [ ] Buying long-term Treasury bonds and shorting short-term T-bills.
@@ -191,7 +186,6 @@ differential shrinking between short-term and long-term bonds. That usually invo
 
 > **Explanation:** Central bank announcements often revise the market’s outlook on short-term rates, which ripples through the curve and thus affects forward rates.
 
----
 
 ### Which of the following best characterizes the curve effect of strong GDP growth and rising inflation expectations?
 - [ ] The yield curve typically disappears entirely.
@@ -201,7 +195,6 @@ differential shrinking between short-term and long-term bonds. That usually invo
 
 > **Explanation:** A robust economy and rising inflation expectations often push long-term yields higher relative to short-term yields, making the curve steeper.
 
----
 
 ### What is a key risk of over-relying on forward curves as a forecast for interest rates?
 - [ ] Forward curves are always accurate for the first 12 months only.
@@ -211,7 +204,6 @@ differential shrinking between short-term and long-term bonds. That usually invo
 
 > **Explanation:** Forwards are driven by market supply, demand, and risk premia; they do not represent pure guesses of the market about future rates with certainty.
 
----
 
 ### True or False: A common approach to risk control in yield curve strategies is to run scenario analyses that test multiple parallel shifts and twists of the yield curve.
 - [x] True

@@ -184,7 +184,6 @@ With these insights, you will be more equipped to tackle the multi-asset, cross-
 
 > **Explanation:** Systemic risk refers to the possibility of a widespread financial system collapse precipitated by failures or shocks in one or more large, interconnected institutions.
 
----
 
 ### Macroprudential regulation primarily aims to:
 
@@ -195,7 +194,6 @@ With these insights, you will be more equipped to tackle the multi-asset, cross-
 
 > **Explanation:** While traditional microprudential regulation looks at individual institutions, macroprudential oversight focuses on the broader system, including vulnerabilities that arise from correlations, interconnectedness, and amplified feedback loops.
 
----
 
 ### SIFIs (Systemically Important Financial Institutions) typically face:
 
@@ -206,7 +204,6 @@ With these insights, you will be more equipped to tackle the multi-asset, cross-
 
 > **Explanation:** SIFIs are subject to enhanced regulatory measures due to their potential to impact the entire financial system. This typically means higher capital requirements, tighter scrutiny, and living will obligations.
 
----
 
 ### Stress testing is used to:
 
@@ -217,7 +214,6 @@ With these insights, you will be more equipped to tackle the multi-asset, cross-
 
 > **Explanation:** Stress tests simulate adverse economic conditions to check whether institutions can remain adequately capitalized and solvent under large, unexpected shocks.
 
----
 
 ### One goal of living wills (recovery and resolution plans) is:
 
@@ -228,7 +224,6 @@ With these insights, you will be more equipped to tackle the multi-asset, cross-
 
 > **Explanation:** Living wills outline how a failing institution can be dismantled or restructured, aiming to reduce market disruption and moral hazard.
 
----
 
 ### Which action best helps prevent contagion effects?
 
@@ -239,7 +234,6 @@ With these insights, you will be more equipped to tackle the multi-asset, cross-
 
 > **Explanation:** Capital buffers and other macroprudential tools enhance resilience and reduce the likelihood that failures spread throughout the financial system.
 
----
 
 ### Central clearing of over-the-counter (OTC) derivatives:
 
@@ -250,7 +244,6 @@ With these insights, you will be more equipped to tackle the multi-asset, cross-
 
 > **Explanation:** By acting as an intermediary and requiring margins/collateral, central clearinghouses mitigate the risk of cascading defaults between counterparties.
 
----
 
 ### During a financial crisis, central banks primarily:
 
@@ -261,7 +254,6 @@ With these insights, you will be more equipped to tackle the multi-asset, cross-
 
 > **Explanation:** Central banks typically act fast to inject liquidity during crises, aiming to prevent a credit freeze and broader market panic.
 
----
 
 ### A moral hazard issue arises when:
 
@@ -272,7 +264,6 @@ With these insights, you will be more equipped to tackle the multi-asset, cross-
 
 > **Explanation:** Moral hazard is the risk that entities engage in reckless behavior because they assume they’ll be rescued if their bets go wrong.
 
----
 
 ### True or False: Macroprudential policy concentrates on the stability of each individual bank rather than the financial system as a whole.
 

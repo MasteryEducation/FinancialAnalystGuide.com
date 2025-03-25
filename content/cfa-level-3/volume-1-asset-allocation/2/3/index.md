@@ -198,7 +198,6 @@ So your fundamental-based expected return might be 2.2% + 3.0% = 5.2%. Then, if 
 
 > **Explanation:** Standard practice is to break down total equity returns into a risk-free component, an equity risk premium, and alpha.
 
----
 
 ### In the dividend discount model (DDM), which of the following is most directly relevant when determining the expected return?
 
@@ -209,7 +208,6 @@ So your fundamental-based expected return might be 2.2% + 3.0% = 5.2%. Then, if 
 
 > **Explanation:** Under the constant-growth DDM, expected return is roughly the sum of the dividend yield and the long-term growth rate of dividends.
 
----
 
 ### A high cyclically adjusted price-to-earnings (CAPE) ratio relative to its historical average typically suggests:
 
@@ -220,7 +218,6 @@ So your fundamental-based expected return might be 2.2% + 3.0% = 5.2%. Then, if 
 
 > **Explanation:** A high CAPE ratio often indicates that valuations are stretched, suggesting lowers-than-average returns going forward (mean reversion effect).
 
----
 
 ### Which of the following is an important consideration in sector-level analysis for forecasting equity returns?
 
@@ -231,7 +228,6 @@ So your fundamental-based expected return might be 2.2% + 3.0% = 5.2%. Then, if 
 
 > **Explanation:** Each sector has unique factors—regulation, capital intensity, competitive landscape—that lead to varying growth and required returns.
 
----
 
 ### What is a key way that share buybacks can influence expected returns?
 
@@ -242,7 +238,6 @@ So your fundamental-based expected return might be 2.2% + 3.0% = 5.2%. Then, if 
 
 > **Explanation:** By reducing shares outstanding, buybacks can increase earnings per share and potentially improve market return, all else equal.
 
----
 
 ### Which statement best captures how behavioral factors affect equity returns?
 
@@ -253,7 +248,6 @@ So your fundamental-based expected return might be 2.2% + 3.0% = 5.2%. Then, if 
 
 > **Explanation:** Sentiment and momentum can create divergences from fair value, impacting returns in the short to medium run.
 
----
 
 ### When discussing global integration, why is it critical to consider international capital flows?
 
@@ -264,7 +258,6 @@ So your fundamental-based expected return might be 2.2% + 3.0% = 5.2%. Then, if 
 
 > **Explanation:** Cross-border capital can drive up or down market valuations, particularly in markets that rely heavily on foreign investment inflows.
 
----
 
 ### An investor wants to add alpha through factor tilts. Which approach is most consistent with this goal?
 
@@ -275,7 +268,6 @@ So your fundamental-based expected return might be 2.2% + 3.0% = 5.2%. Then, if 
 
 > **Explanation:** Factor tilts involve deviating from the benchmark exposures to targeted styles or risk factors, which may generate alpha over time.
 
----
 
 ### How does a shift in regulatory policy potentially influence the equity risk premium?
 
@@ -286,7 +278,6 @@ So your fundamental-based expected return might be 2.2% + 3.0% = 5.2%. Then, if 
 
 > **Explanation:** Regulatory changes can alter the risk-return landscape—either by increasing uncertainty (thus raising the ERP) or by clarifying rules (potentially lowering it).
 
----
 
 ### True or False: In forecasting equity returns, the effect of global economic events on a domestic market is usually negligible.
 

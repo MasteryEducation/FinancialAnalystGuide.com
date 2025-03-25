@@ -199,7 +199,6 @@ From a CFA exam perspective, expect scenario-based questions that test your abil
 
 > **Explanation:** When a stock is added to a major index, index managers tracking that benchmark must buy the stock, pushing its price higher in the short term.
 
----
 
 ### A portfolio manager wants to minimize slippage upon a known index reconstitution date. Which strategy is most likely to reduce transaction costs while maintaining low tracking error?
 
@@ -210,7 +209,6 @@ From a CFA exam perspective, expect scenario-based questions that test your abil
 
 > **Explanation:** Executing trades in smaller increments over time can help minimize slippage. The manager balances front-running risk while keeping tracking error fairly low.
 
----
 
 ### Which statement is most accurate regarding front-running risk in index reconstitution?
 
@@ -221,7 +219,6 @@ From a CFA exam perspective, expect scenario-based questions that test your abil
 
 > **Explanation:** Active traders often anticipate reconstitution changes, buying or short-selling ahead of index funds, which can increase transaction costs for managers seeking to replicate the index.
 
----
 
 ### An index provider switches from a full market-cap weighting approach to a float-adjusted weighting approach. Which of the following is a likely outcome?
 
@@ -232,7 +229,6 @@ From a CFA exam perspective, expect scenario-based questions that test your abil
 
 > **Explanation:** Float-adjusted weighting excludes shares not regularly traded, so companies with large insider holdings typically see their index weights drop.
 
----
 
 ### When an index methodology changes to include ESG considerations (e.g., excluding tobacco and firearms), how should an index manager respond to maintain faithful replication?
 
@@ -243,7 +239,6 @@ From a CFA exam perspective, expect scenario-based questions that test your abil
 
 > **Explanation:** When an index’s methodology shifts to exclude certain industries, managers must remove those stocks and reallocate capital in line with the new constituents and weights, or risk higher tracking error.
 
----
 
 ### From a trading execution perspective, which measure best captures the difference between the price you expected to get on a trade and the price you actually receive?
 
@@ -254,7 +249,6 @@ From a CFA exam perspective, expect scenario-based questions that test your abil
 
 > **Explanation:** Trading slippage focuses specifically on the difference between the expected transaction price and the executed price, a critical concept around reconstitution events.
 
----
 
 ### An index manager is concerned about liquidity events during reconstitution. Which of the following is a recommended approach?
 
@@ -265,7 +259,6 @@ From a CFA exam perspective, expect scenario-based questions that test your abil
 
 > **Explanation:** Spreading trades and leveraging algorithmic strategies can mitigate liquidity risks, especially during volume spikes on reconstitution day.
 
----
 
 ### Which of the following approaches is most consistent with a semi-active (enhanced index) strategy seeking minor alpha around index reconstitution?
 
@@ -276,7 +269,6 @@ From a CFA exam perspective, expect scenario-based questions that test your abil
 
 > **Explanation:** Semi-active strategies often allow modest deviations in trade timing to capture potential alpha or reduce costs, while still adhering closely to the index composition overall.
 
----
 
 ### If a manager anticipates which stocks will be added to the index but is unsure of the timing, what is the primary risk of trading far in advance of the official announcement?
 
@@ -287,7 +279,6 @@ From a CFA exam perspective, expect scenario-based questions that test your abil
 
 > **Explanation:** Trading too early based on a guess could lead to a mismatch with the eventual official index holdings, creating unwanted tracking error if the guess is wrong.
 
----
 
 ### The primary objective in minimizing tracking error during index reconstitution events is:
 

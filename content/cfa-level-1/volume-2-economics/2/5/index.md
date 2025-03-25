@@ -173,7 +173,6 @@ When tackling constructed-response or item-set questions, be sure to read the sc
 
 > **Explanation:** By definition, oligopolistic firms recognize their mutual interdependence in pricing, output, advertising, and other strategic decisions.
 
----
 
 ### Which of the following is a common obstacle preventing stable long-term collusion in an oligopoly?
 
@@ -184,7 +183,6 @@ When tackling constructed-response or item-set questions, be sure to read the sc
 
 > **Explanation:** Collusion can break down because each firm can gain by secretly undercutting others, leading to cheating and eventual collapse of the agreement.
 
----
 
 ### In a standard two-player payoff matrix, a set of strategies where no player can improve their payoff by changing their strategy unilaterally is called:
 
@@ -195,7 +193,6 @@ When tackling constructed-response or item-set questions, be sure to read the sc
 
 > **Explanation:** A Nash equilibrium occurs where each player’s chosen strategy is the best response to the other player’s strategy.
 
----
 
 ### Which model specifically examines competition based on output quantities decided simultaneously by firms?
 
@@ -206,7 +203,6 @@ When tackling constructed-response or item-set questions, be sure to read the sc
 
 > **Explanation:** The Cournot model deals with simultaneous quantity competition. In contrast, Bertrand focuses on price, and Stackelberg introduces sequential moves.
 
----
 
 ### In the basic Bertrand model (assuming identical products and no capacity constraints), price is often driven down to:
 
@@ -217,7 +213,6 @@ When tackling constructed-response or item-set questions, be sure to read the sc
 
 > **Explanation:** In the classic Bertrand model, each firm undercuts the other by a minimal amount until price equals marginal cost.
 
----
 
 ### In the Stackelberg model, the “leader” firm:
 
@@ -228,7 +223,6 @@ When tackling constructed-response or item-set questions, be sure to read the sc
 
 > **Explanation:** The Stackelberg model is characterized by sequential moves. The leader chooses output first, predicting how the follower will best respond.
 
----
 
 ### A repeated-game strategy that establishes cooperation by mirroring the opponent’s previous action is known as:
 
@@ -239,7 +233,6 @@ When tackling constructed-response or item-set questions, be sure to read the sc
 
 > **Explanation:** Tit-for-tat replicates the rival’s last strategy—cooperating if the rival cooperated and punishing if the rival cheated.
 
----
 
 ### One significant difference between a monopoly and an oligopoly is that in an oligopoly:
 
@@ -250,7 +243,6 @@ When tackling constructed-response or item-set questions, be sure to read the sc
 
 > **Explanation:** Oligopolies feature several (often just a few) major players who must anticipate each other’s strategies. A monopoly has a single dominant seller.
 
----
 
 ### Which of the following industries is often cited as an example of oligopolistic behavior?
 
@@ -261,7 +253,6 @@ When tackling constructed-response or item-set questions, be sure to read the sc
 
 > **Explanation:** Airlines, with only a few large carriers, exemplify the interdependent strategic behavior typical of oligopolies.
 
----
 
 ### True or False: Cartels are typically unstable because each member has an incentive to cheat to gain extra profit.
 

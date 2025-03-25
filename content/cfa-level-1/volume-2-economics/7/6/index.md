@@ -182,7 +182,6 @@ Between 2010 and 2015, the Federal Reserve explicitly stated targets for how lon
 
 > **Explanation:** OMOs involve a central bank purchasing or selling government securities to manage liquidity and shape short-term interest rates.
 
----
 
 ### When a central bank raises its policy rate, which one of the following is a likely short-term consequence?
 
@@ -193,7 +192,6 @@ Between 2010 and 2015, the Federal Reserve explicitly stated targets for how lon
 
 > **Explanation:** An increased policy rate raises the cost of funds for banks, causing them to be less inclined to extend credit.
 
----
 
 ### A decrease in reserve requirements generally:
 
@@ -204,7 +202,6 @@ Between 2010 and 2015, the Federal Reserve explicitly stated targets for how lon
 
 > **Explanation:** Lower reserve requirements free up more deposits for lending, expanding the money supply.
 
----
 
 ### Which channel of monetary policy transmission specifically deals with changes in exchange rates?
 
@@ -215,7 +212,6 @@ Between 2010 and 2015, the Federal Reserve explicitly stated targets for how lon
 
 > **Explanation:** The exchange rate channel focuses on how shifts in interest rates affect capital flows and thus the value of the domestic currency.
 
----
 
 ### Which statement is true regarding the asset price channel?
 
@@ -226,7 +222,6 @@ Between 2010 and 2015, the Federal Reserve explicitly stated targets for how lon
 
 > **Explanation:** Reduced borrowing costs and lower discount rates often inflate asset values, prompting a wealth effect.
 
----
 
 ### Which of the following is the primary goal of forward guidance?
 
@@ -237,7 +232,6 @@ Between 2010 and 2015, the Federal Reserve explicitly stated targets for how lon
 
 > **Explanation:** Forward guidance aims to communicate future policy intentions, anchoring expectations of long-term interest rates and inflation.
 
----
 
 ### How might an increase in the policy rate affect aggregate demand (AD)?
 
@@ -248,7 +242,6 @@ Between 2010 and 2015, the Federal Reserve explicitly stated targets for how lon
 
 > **Explanation:** Higher interest rates typically reduce consumption and investment, lowering aggregate demand.
 
----
 
 ### Which of the following explains why monetary policy changes do not have an immediate effect on economic output?
 
@@ -259,7 +252,6 @@ Between 2010 and 2015, the Federal Reserve explicitly stated targets for how lon
 
 > **Explanation:** Monetary policy works with a lag, meaning it can take months or longer for changes in interest rates to fully influence spending and investment.
 
----
 
 ### How does the credit channel support the interest rate channel?
 
@@ -270,7 +262,6 @@ Between 2010 and 2015, the Federal Reserve explicitly stated targets for how lon
 
 > **Explanation:** Through the bank lending channel and the balance sheet channel, credit conditions reinforce or dampen the effects of interest rate adjustments.
 
----
 
 ### If a central bank lowers interest rates and simultaneously communicates it will keep them low for a prolonged period, this is an example of:
 

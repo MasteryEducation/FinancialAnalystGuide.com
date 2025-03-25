@@ -191,7 +191,6 @@ Sometimes, though, it’s easy to forget how each piece—trade weighting, infla
 
 > **Explanation:** NEER is a weighted average of nominal exchange rates, while REER further adjusts for inflation (relative price levels) to measure competitiveness more accurately.
 
----
 
 ### 2. A rising REER generally implies:
 
@@ -202,7 +201,6 @@ Sometimes, though, it’s easy to forget how each piece—trade weighting, infla
 
 > **Explanation:** A higher REER indicates the home currency and domestic prices have appreciated in real terms, making home goods more expensive relative to trading partners’ goods.
 
----
 
 ### 3. Which of the following data points is most critical when calculating NEER?
 
@@ -213,7 +211,6 @@ Sometimes, though, it’s easy to forget how each piece—trade weighting, infla
 
 > **Explanation:** NEER relies on bilateral exchange rates weighted by the proportion of trade with each partner. Without proper trade weights, the index can be distorted.
 
----
 
 ### 4. If a country’s NEER remains constant but its domestic inflation is higher than that of its trading partners, what happens to the REER?
 
@@ -224,7 +221,6 @@ Sometimes, though, it’s easy to forget how each piece—trade weighting, infla
 
 > **Explanation:** Higher domestic inflation, relative to foreign inflation, raises domestic prices, making exports less competitive and thereby increasing the real effective exchange rate.
 
----
 
 ### 5. When computing the real effective exchange rate, which of the following pairs is typically used?
 
@@ -235,7 +231,6 @@ Sometimes, though, it’s easy to forget how each piece—trade weighting, infla
 
 > **Explanation:** REER is derived by adjusting the NEER for inflation differentials, typically using a price index (CPI, PPI, or another suitable measure).
 
----
 
 ### 6. One limitation of focusing solely on NEER is:
 
@@ -246,7 +241,6 @@ Sometimes, though, it’s easy to forget how each piece—trade weighting, infla
 
 > **Explanation:** NEER doesn’t consider changes in relative prices (inflation). So it fails to indicate whether goods are becoming more or less competitive, which REER captures.
 
----
 
 ### 7. In the context of REER, a high inflation country with a fixed exchange rate most likely experiences:
 
@@ -257,7 +251,6 @@ Sometimes, though, it’s easy to forget how each piece—trade weighting, infla
 
 > **Explanation:** With a fixed nominal exchange rate, rising prices at home lead to a higher REER. Eventually, competitiveness deteriorates, prompting potential currency adjustments.
 
----
 
 ### 8. Suppose Country X has embedded trade weights of 40% for the US dollar, 30% for the euro, and 30% for the yen. The country experiences a strong inflation surge. Which measure would best reflect the new loss of competitiveness for Country X?
 
@@ -268,7 +261,6 @@ Sometimes, though, it’s easy to forget how each piece—trade weighting, infla
 
 > **Explanation:** REER incorporates inflation to capture competitiveness. So if inflation in Country X rises, REER will reveal this change in real competitiveness more accurately than NEER alone.
 
----
 
 ### 9. Which of the following is the best reason policymakers watch REER?
 
@@ -279,7 +271,6 @@ Sometimes, though, it’s easy to forget how each piece—trade weighting, infla
 
 > **Explanation:** Policymakers watch REER to see if domestic goods are becoming more or less expensive compared to foreign goods, which directly influences trade flows and external balances.
 
----
 
 ### 10. True or False: A nominal effective exchange rate index accounts for inflation rates among all trading partners.
 

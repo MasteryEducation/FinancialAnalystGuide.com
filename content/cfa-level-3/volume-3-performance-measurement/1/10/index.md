@@ -173,7 +173,6 @@ Remember also to reference the concept of style drift (which is elaborated in th
 
 > **Explanation:** Private equity returns typically rely on appraisal-based valuations. There is a lag relative to real-time market economic shifts, and survivorship bias can affect peer-based private equity benchmarks.
 
----
 
 ### Which factor creates the largest discrepancy between reported Hedge Fund Index returns and actual investor experiences?
 
@@ -184,7 +183,6 @@ Remember also to reference the concept of style drift (which is elaborated in th
 
 > **Explanation:** Survivorship bias greatly skews hedge fund index data since failing funds drop out of the dataset, artificially boosting average returns.
 
----
 
 ### In evaluating a farmland investment, which feature poses one of the biggest challenges for constructing a reliable benchmark?
 
@@ -195,7 +193,6 @@ Remember also to reference the concept of style drift (which is elaborated in th
 
 > **Explanation:** Farmland often has significant irregular cash flows driven by crop cycles, environmental conditions, and changing commodity prices, which makes constructing a typical benchmark challenging.
 
----
 
 ### Which strategy would best capture a hedge fund’s underlying risk exposures?
 
@@ -206,7 +203,6 @@ Remember also to reference the concept of style drift (which is elaborated in th
 
 > **Explanation:** Factor-based decomposition allows performance analysts to identify exposures to equity, credit, commodity, and other systematic risk factors specific to hedge fund strategies.
 
----
 
 ### What is one key advantage of measuring private equity performance against vintage-year-specific benchmarks?
 
@@ -217,7 +213,6 @@ Remember also to reference the concept of style drift (which is elaborated in th
 
 > **Explanation:** Vintage-year-specific benchmarks allow for comparing funds that invested under similar economic conditions, improving comparability of performance metrics.
 
----
 
 ### Why might relying on only peer-based real estate fund benchmarks be problematic?
 
@@ -228,7 +223,6 @@ Remember also to reference the concept of style drift (which is elaborated in th
 
 > **Explanation:** Peer-based indices often depend on voluntary fund performance reporting. Funds that underperform might be less likely to report, causing skewed data.
 
----
 
 ### In constructing a custom benchmark for infrastructure investments, which step is most critical?
 
@@ -239,7 +233,6 @@ Remember also to reference the concept of style drift (which is elaborated in th
 
 > **Explanation:** Infrastructure investments often have a limited number of data points and potentially high survivorship bias. Ensuring the data is representative and accounts for funds that left the market is critical.
 
----
 
 ### How does the appraisal-based approach commonly affect reported volatility in private real estate investments?
 
@@ -250,7 +243,6 @@ Remember also to reference the concept of style drift (which is elaborated in th
 
 > **Explanation:** Appraisal-based valuations are updated infrequently and lead to artificially smooth performance patterns, understating the true variability in property values.
 
----
 
 ### When comparing a multi-strategy hedge fund’s performance, which approach is typically the most comprehensive?
 
@@ -261,7 +253,6 @@ Remember also to reference the concept of style drift (which is elaborated in th
 
 > **Explanation:** Multi-strategy funds can have exposure to multiple risk factors. A combination of factor-based analysis and peer comparison helps identify both skill-based alpha and relative positioning.
 
----
 
 ### True or False: Survivorship bias generally leads to an understatement of hedge fund index returns.
 

@@ -151,7 +151,6 @@ For investors and economists, ignoring these aspects can lead to misjudging risk
 
 > **Explanation:** Mandatory disclosures reduce information asymmetry and empower buyers with the information they need to make an informed decision.
 
----
 
 ### A Pigovian tax is typically designed to:
 
@@ -162,7 +161,6 @@ For investors and economists, ignoring these aspects can lead to misjudging risk
 
 > **Explanation:** Pigovian taxes put a monetary cost on the externality so that the private entity pays a total cost equal to the social cost. This encourages the producer to reduce negative externalities to avoid higher taxes.
 
----
 
 ### In a cap-and-trade system:
 
@@ -173,7 +171,6 @@ For investors and economists, ignoring these aspects can lead to misjudging risk
 
 > **Explanation:** Cap-and-trade introduces a market for emissions permits, with an overarching limit (cap) on total pollution. Firms can trade permits, which incentivizes efficient reductions in emissions or purchase of additional permits.
 
----
 
 ### One important reason for government warranties or liability laws is to:
 
@@ -184,7 +181,6 @@ For investors and economists, ignoring these aspects can lead to misjudging risk
 
 > **Explanation:** Liability laws and warranties place responsibility on producers or sellers to ensure product quality and/or compensate buyers for harm caused by defective goods.
 
----
 
 ### If negative externalities are not corrected by regulation, which outcome is most likely?
 
@@ -195,7 +191,6 @@ For investors and economists, ignoring these aspects can lead to misjudging risk
 
 > **Explanation:** With a negative externality, the private cost is less than the social cost, resulting in overproduction or consumption beyond the socially efficient level.
 
----
 
 ### How does consumer protection typically relate to asymmetric information?
 
@@ -206,7 +201,6 @@ For investors and economists, ignoring these aspects can lead to misjudging risk
 
 > **Explanation:** Consumer protection reduces asymmetric information by requiring disclosures and penalizing deceptive practices, thereby helping consumers make more informed decisions.
 
----
 
 ### Command-and-control regulation for externalities is characterized by:
 
@@ -217,7 +211,6 @@ For investors and economists, ignoring these aspects can lead to misjudging risk
 
 > **Explanation:** Under command-and-control, law or regulation explicitly dictates how firms must address an externality (e.g., install emissions filters), rather than using a flexible market-based approach.
 
----
 
 ### A positive externality typically results in:
 
@@ -228,7 +221,6 @@ For investors and economists, ignoring these aspects can lead to misjudging risk
 
 > **Explanation:** Positive externalities lead to underproduction relative to the socially optimal level because producers don’t recover all of the benefits that spill over to others.
 
----
 
 ### In consumer protection, a typical role played by government agencies (like the CFPB) is to:
 
@@ -239,7 +231,6 @@ For investors and economists, ignoring these aspects can lead to misjudging risk
 
 > **Explanation:** Government agencies help protect consumers by setting regulations, conducting investigations, imposing sanctions, and generally acting as a watchdog against unfair or deceptive acts.
 
----
 
 ### True or False: Consumer protection efforts and regulatory measures on externalities only benefit consumers, not producers.
 

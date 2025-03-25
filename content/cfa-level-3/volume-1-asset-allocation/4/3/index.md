@@ -166,7 +166,6 @@ When tackling these questions, watch out for common pitfalls such as failing to 
 
 > **Explanation:** An economic balance sheet accounts for both tangible and intangible assets, plus financial and non-financial liabilities, giving a holistic view of the investor’s total wealth.
 
----
 
 ### How does having stable, bond-like human capital typically affect an investor’s target asset allocation?
 
@@ -177,7 +176,6 @@ When tackling these questions, watch out for common pitfalls such as failing to 
 
 > **Explanation:** If human capital is stable and considered low risk, it acts like a bond, allowing an investor to take on more equity risk in their financial portfolio.
 
----
 
 ### Which of the following is most likely to be considered a discretionary liability?
 
@@ -188,7 +186,6 @@ When tackling these questions, watch out for common pitfalls such as failing to 
 
 > **Explanation:** Discretionary liabilities are those that are not strictly necessary and can be postponed or canceled, such as buying a vacation home or similarly optional expenses.
 
----
 
 ### When an investor’s human capital is highly correlated with the equity market, a prudent recommendation for his financial portfolio is to:
 
@@ -199,7 +196,6 @@ When tackling these questions, watch out for common pitfalls such as failing to 
 
 > **Explanation:** If human capital is already equity-like, the rest of the portfolio should ideally lean toward stable or less-correlated assets to reduce total wealth volatility.
 
----
 
 ### Which of the following best reflects the present value approach to integrating pension benefits into asset allocation?
 
@@ -210,7 +206,6 @@ When tackling these questions, watch out for common pitfalls such as failing to 
 
 > **Explanation:** By discounting future pension inflows to present value, one can treat them as bond-like wealth, shaping how other portions of the portfolio are allocated.
 
----
 
 ### A common pitfall when incorporating intangible assets into the overall allocation is:
 
@@ -221,7 +216,6 @@ When tackling these questions, watch out for common pitfalls such as failing to 
 
 > **Explanation:** An undecorrelated intangible asset might be overvalued if you use too low a discount rate, creating false security about total wealth.
 
----
 
 ### Which of the following statements is most accurate regarding mandatory versus discretionary liabilities?
 
@@ -232,7 +226,6 @@ When tackling these questions, watch out for common pitfalls such as failing to 
 
 > **Explanation:** Mandatory liabilities are obligations that generally cannot be postponed or adjusted, whereas discretionary liabilities can be reduced if cash flows are constrained.
 
----
 
 ### When determining risk tolerance, the correlation between the portfolio’s assets and the investor’s human capital:
 
@@ -243,7 +236,6 @@ When tackling these questions, watch out for common pitfalls such as failing to 
 
 > **Explanation:** High correlation between job earnings and the investment portfolio can lead to compounding losses in an economic downturn, making it crucial to manage correlated risks.
 
----
 
 ### A homeowner with a significant mortgage might reduce portfolio volatility by:
 
@@ -254,7 +246,6 @@ When tackling these questions, watch out for common pitfalls such as failing to 
 
 > **Explanation:** Retaining liquid resources or lower-volatility assets can safeguard against disruption if personal cash flows become tight, ensuring those mandatory payments are met.
 
----
 
 ### True or False: Owning a closely held business typically reduces an investor’s need to hold fixed income investments because the business can hedge all market risk.
 

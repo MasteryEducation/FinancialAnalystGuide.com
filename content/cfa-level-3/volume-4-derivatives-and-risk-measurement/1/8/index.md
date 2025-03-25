@@ -144,7 +144,6 @@ Anyway, next time you see someone punch in a single implied volatility number â€
 
 > **Explanation:** In equity markets, volatility skew often takes the form of higher implied vol for OTM puts because of increased demand for downside hedges.
 
----
 
 ### Which market factor most commonly contributes to the volatility skew in equity options?
 
@@ -155,7 +154,6 @@ Anyway, next time you see someone punch in a single implied volatility number â€
 
 > **Explanation:** Put options protecting against a sharp drop in equity prices are more in demand, pushing up their implied volatility relative to ATM or OTM calls.
 
----
 
 ### In a volatility smile scenario, how is implied volatility typically distributed across strikes?
 
@@ -166,7 +164,6 @@ Anyway, next time you see someone punch in a single implied volatility number â€
 
 > **Explanation:** A volatility smile arises when both tails of the strike distribution show higher implied vol than near-the-money strikes, creating a U-shaped pattern.
 
----
 
 ### Why might the Blackâ€“Scholes model be insufficient for pricing deep out-of-the-money puts?
 
@@ -177,7 +174,6 @@ Anyway, next time you see someone punch in a single implied volatility number â€
 
 > **Explanation:** The key limitation is that Blackâ€“Scholes uses a single volatility input and cannot capture the higher implied vol for deep OTM puts (or calls) that the market often exhibits.
 
----
 
 ### A portfolio manager notices that OTM calls are trading at slightly lower implied volatility than at-the-money options. Which market condition does this most likely reflect?
 
@@ -188,7 +184,6 @@ Anyway, next time you see someone punch in a single implied volatility number â€
 
 > **Explanation:** When the skew is driven primarily by downside risk demand, OTM calls might appear relatively cheap compared with OTM puts, often resulting in a near â€œsmirkâ€ pattern.
 
----
 
 ### If a trader wants to hedge an equity position using OTM puts during a market stress event, what immediate challenge are they likely to face?
 
@@ -199,7 +194,6 @@ Anyway, next time you see someone punch in a single implied volatility number â€
 
 > **Explanation:** During market stress, demand for OTM puts skyrockets, pushing up implied vol and making the hedge more expensive.
 
----
 
 ### Which of the following statements is TRUE regarding volatility skew risk?
 
@@ -210,7 +204,6 @@ Anyway, next time you see someone punch in a single implied volatility number â€
 
 > **Explanation:** Skew risk means the shape of implied volatility across strikes can shift, impacting spreads and other multi-legged positions that rely on relative pricing.
 
----
 
 ### In currency markets, why might a volatility smile be more common than a one-sided skew?
 
@@ -221,7 +214,6 @@ Anyway, next time you see someone punch in a single implied volatility number â€
 
 > **Explanation:** Currency movements can be large in either direction, so out-of-the-money calls and puts both see heavier demand, forming a smile.
 
----
 
 ### When both OTM puts and OTM calls carry higher implied volatility, how does that shape appear on an implied volatility chart?
 
@@ -232,7 +224,6 @@ Anyway, next time you see someone punch in a single implied volatility number â€
 
 > **Explanation:** Higher IV at both the put and call wings is classically referred to as a smile.
 
----
 
 ### Volatility skew often expands sharply during market crises. True or False?
 

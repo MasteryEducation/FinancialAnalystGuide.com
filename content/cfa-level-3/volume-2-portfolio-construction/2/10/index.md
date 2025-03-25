@@ -185,7 +185,6 @@ Over time, portfolio managers who systematically incorporate ESG factors can dev
 
 > **Explanation:** Under the Green Bond Principles, issuers must outline how proceeds will be used specifically for environmental or climate-related projects.
 
----
 
 ### Which statement is most accurate regarding potential yield spreads on green bonds?
 
@@ -196,7 +195,6 @@ Over time, portfolio managers who systematically incorporate ESG factors can dev
 
 > **Explanation:** Demand for green bonds can lead to tighter spreads compared to similar conventional bonds, creating a “greenium.” This is not guaranteed, but it does happen often as investor demand for sustainable finance instruments grows.
 
----
 
 ### A sustainability-linked bond (SLB) typically differs from a green bond in that:
 
@@ -207,7 +205,6 @@ Over time, portfolio managers who systematically incorporate ESG factors can dev
 
 > **Explanation:** Sustainability-linked bonds include provisions allowing coupon adjustments if the issuer meets or fails specific ESG performance targets.
 
----
 
 ### Which of the following best exemplifies greenwashing?
 
@@ -218,7 +215,6 @@ Over time, portfolio managers who systematically incorporate ESG factors can dev
 
 > **Explanation:** Greenwashing occurs when issuers overstate or fail to substantiate the environmental or social benefits of a bond, often due to a lack of transparency or misleading claims.
 
----
 
 ### When integrating ESG into fixed-income portfolio construction, a “best-in-class” approach refers to:
 
@@ -229,7 +225,6 @@ Over time, portfolio managers who systematically incorporate ESG factors can dev
 
 > **Explanation:** A best-in-class approach invests in top ESG performers within each industry rather than excluding whole industries.
 
----
 
 ### Which statement is true about the Green Bond Principles (GBP)?
 
@@ -240,7 +235,6 @@ Over time, portfolio managers who systematically incorporate ESG factors can dev
 
 > **Explanation:** GBP guidelines are recommended but voluntary, focusing on transparency around the use of proceeds, process of project evaluation, and regular reporting.
 
----
 
 ### What is a primary argument supporting the view that ESG integration can reduce a bond’s default risk?
 
@@ -251,7 +245,6 @@ Over time, portfolio managers who systematically incorporate ESG factors can dev
 
 > **Explanation:** ESG-forward issuers often have better risk controls, stakeholder relationships, and brand reputation, potentially lowering default risk.
 
----
 
 ### Which is an example of a second-party opinion (SPO) in green bond issuance?
 
@@ -262,7 +255,6 @@ Over time, portfolio managers who systematically incorporate ESG factors can dev
 
 > **Explanation:** A second-party opinion is typically from an independent reviewer, confirming that a bond’s framework aligns with established green or social bond principles.
 
----
 
 ### Among the key challenges in ESG and green bond investing is:
 
@@ -273,7 +265,6 @@ Over time, portfolio managers who systematically incorporate ESG factors can dev
 
 > **Explanation:** Varying ESG scoring methods and definitions can create inconsistency in how issuers are evaluated, which is a significant challenge.
 
----
 
 ### True or False: Sustainability-linked bonds (SLBs) have rigid restrictions on how bond proceeds are spent.
 

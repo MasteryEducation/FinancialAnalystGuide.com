@@ -152,7 +152,6 @@ Good luck with your studies, and remember: these strategies, though complex, sha
 
 > **Explanation:** Capital structure arbitrage is specifically about exploiting misprices between different tranches (e.g., senior vs. subordinated debt) within the same firm’s capital structure.
 
----
 
 ### In capital structure arbitrage, a typical trade might involve:
 
@@ -163,7 +162,6 @@ Good luck with your studies, and remember: these strategies, though complex, sha
 
 > **Explanation:** A classic capital structure arbitrage strategy involves a long position in one bond (often senior) and a short position in another bond (often subordinated or less secure) of the same issuer to profit from relative mispricing.
 
----
 
 ### One key ownership benefit of convertible bonds is:
 
@@ -174,7 +172,6 @@ Good luck with your studies, and remember: these strategies, though complex, sha
 
 > **Explanation:** Convertible bonds include an embedded call option, allowing holders to convert into shares at a set conversion ratio. However, they are still part of the issuer’s debt structure and do not share the same priority as senior secured lenders.
 
----
 
 ### What is the primary driver behind convertible arbitrage strategies?
 
@@ -185,7 +182,6 @@ Good luck with your studies, and remember: these strategies, though complex, sha
 
 > **Explanation:** Convertible arbitrage generally aims to benefit from potential mispricing of the embedded option in a convertible bond, often coupled with dynamic hedging of the underlying equity.
 
----
 
 ### Which of the following best defines dynamic hedging in convertible arbitrage?
 
@@ -196,7 +192,6 @@ Good luck with your studies, and remember: these strategies, though complex, sha
 
 > **Explanation:** Dynamic hedging means rebalancing a position—commonly the short equity leg—to reflect changing stock prices, volatility, and the evolving option sensitivity of the convertible bond.
 
----
 
 ### Which market condition typically yields the greatest arbitrage opportunities for both capital structure and convertible arbitrage?
 
@@ -207,7 +202,6 @@ Good luck with your studies, and remember: these strategies, though complex, sha
 
 > **Explanation:** In turbulent markets, spreads can widen and mispricings often emerge, providing ripe opportunities for arbitrageurs to exploit the discrepancies.
 
----
 
 ### A significant event risk in capital structure arbitrage might include:
 
@@ -218,7 +212,6 @@ Good luck with your studies, and remember: these strategies, though complex, sha
 
 > **Explanation:** Sudden corporate events like mergers, share buybacks, or unexpected issuances can rewrite the firm’s capital needs, dramatically altering the values of different securities in the capital structure.
 
----
 
 ### In a simplified convertible arbitrage setup, an investor buys a convertible bond and hedges by:
 
@@ -229,7 +222,6 @@ Good luck with your studies, and remember: these strategies, though complex, sha
 
 > **Explanation:** Classic convertible arbitrage often involves shorting the underlying stock in proportion to the bond’s equity exposure, which is measured through the bond’s delta.
 
----
 
 ### When the yield gap between senior debt and subordinate debt is narrower than historical norms, a capital structure arbitrageur might:
 
@@ -240,7 +232,6 @@ Good luck with your studies, and remember: these strategies, though complex, sha
 
 > **Explanation:** If the gap is narrower than typical, the subordinate debt might be “cheap” relative to senior debt. The arbitrageur would go long the cheaper claim and short the relatively expensive claim.
 
----
 
 ### For CFA® Level III exam preparation, capital structure arbitrage and convertible arbitrage commonly require candidates to:
 

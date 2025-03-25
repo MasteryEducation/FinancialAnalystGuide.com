@@ -263,7 +263,6 @@ These references offer deeper insights into the sophisticated techniques for eac
 
 > **Explanation:** Cross-sectional data is collected from many entities at one fixed time point.
 
----
 
 ### Which phenomenon is more common in time-series data compared to cross-sectional data?
 
@@ -274,7 +273,6 @@ These references offer deeper insights into the sophisticated techniques for eac
 
 > **Explanation:** Time-series often faces autocorrelation, where consecutive observations over time are correlated.
 
----
 
 ### In the context of analyzing multiple companies over several years, the data structure is typically described as:
 
@@ -285,7 +283,6 @@ These references offer deeper insights into the sophisticated techniques for eac
 
 > **Explanation:** Panel data combines a cross-section of entities (companies) over multiple time periods.
 
----
 
 ### A “fixed effects” model in panel data:
 
@@ -296,7 +293,6 @@ These references offer deeper insights into the sophisticated techniques for eac
 
 > **Explanation:** Fixed effects models capture unobserved, time-invariant differences across entities (e.g., firms) by giving each entity its own intercept term.
 
----
 
 ### In time-series analysis, which step is key before building a predictive model?
 
@@ -307,7 +303,6 @@ These references offer deeper insights into the sophisticated techniques for eac
 
 > **Explanation:** Stationarity is crucial in time-series; non-stationary data can lead to spurious results. The Augmented Dickey–Fuller test is a standard approach.
 
----
 
 ### A regression using only 10 individuals at different points in time for each individual is best classified as:
 
@@ -318,7 +313,6 @@ These references offer deeper insights into the sophisticated techniques for eac
 
 > **Explanation:** Observing multiple individuals (entities) over time is a hallmark of panel data.
 
----
 
 ### A random effects model in panel data is characterized by:
 
@@ -329,7 +323,6 @@ These references offer deeper insights into the sophisticated techniques for eac
 
 > **Explanation:** Random effects models assume the unobserved individual effect is a random variable uncorrelated with the regressors. If valid, it can be more efficient than fixed effects.
 
----
 
 ### An analyst suspects that all companies in her cross-sectional sample are influenced by the same sudden regulatory event. This is an example of:
 
@@ -340,7 +333,6 @@ These references offer deeper insights into the sophisticated techniques for eac
 
 > **Explanation:** If an external event affects all firms similarly, that can induce correlation across entities (i.e., cross-sectional dependence).
 
----
 
 ### When analyzing daily returns of a single stock for 10 years, which issue is most critical to check?
 
@@ -351,7 +343,6 @@ These references offer deeper insights into the sophisticated techniques for eac
 
 > **Explanation:** For a single stock’s returns in a time-series format, autocorrelation is often the prime concern.
 
----
 
 ### True or False: Panel data sets always eliminate the need for autocorrelation or heteroskedasticity checks.
 

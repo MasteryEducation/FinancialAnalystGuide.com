@@ -158,7 +158,6 @@ And personally, I’ve noticed the best-run SWFs rarely see themselves as just g
 
 > **Explanation:** A centralized governance model consolidates key decision-making in a single body, ensuring greater cohesion and accountability. Political leaders typically do not make day-to-day investment decisions in well-governed SWFs.
 
----
 
 ### What is a primary benefit of maintaining operational independence in a sovereign wealth fund?
 
@@ -169,7 +168,6 @@ And personally, I’ve noticed the best-run SWFs rarely see themselves as just g
 
 > **Explanation:** Operational independence protects the SWF from immediate political influence, allowing it to pursue its strategic, long-term investment goals. Full independence does not exempt the fund from transparency or regulatory compliance.
 
----
 
 ### According to best practices, what is the principal role of a sovereign wealth fund’s board of directors (or supervisory council)?
 
@@ -180,7 +178,6 @@ And personally, I’ve noticed the best-run SWFs rarely see themselves as just g
 
 > **Explanation:** The board provides high-level guidance, establishes the fund’s mission, and ensures that operations align with the intended objectives. Execution duties are usually delegated to investment teams.
 
----
 
 ### How do the Santiago Principles aim to mitigate concerns about SWF investment practices?
 
@@ -191,7 +188,6 @@ And personally, I’ve noticed the best-run SWFs rarely see themselves as just g
 
 > **Explanation:** The Santiago Principles encourage openness and robust governance structures, reassuring stakeholders that the SWF operates in a commercially oriented and responsible manner.
 
----
 
 ### Which of the following scenarios best exemplifies agency risk within a sovereign wealth fund?
 
@@ -202,7 +198,6 @@ And personally, I’ve noticed the best-run SWFs rarely see themselves as just g
 
 > **Explanation:** Agency risk arises when managers prioritize their personal incentives, such as short-term compensation, over the long-term goals of the principal (i.e., the fund’s beneficiaries).
 
----
 
 ### What is one advantage of a decentralized governance model for a sovereign wealth fund?
 
@@ -213,7 +208,6 @@ And personally, I’ve noticed the best-run SWFs rarely see themselves as just g
 
 > **Explanation:** Decentralized structures allow sub-committees or specialized teams to focus on specific investment areas with autonomy, often leading to more rapid and expert-driven decisions.
 
----
 
 ### Why might a sovereign wealth fund be cautious about disclosing real-time investment holdings?
 
@@ -224,7 +218,6 @@ And personally, I’ve noticed the best-run SWFs rarely see themselves as just g
 
 > **Explanation:** Large, market-sensitive trades can be front-run by other market participants if disclosed in real time. This risk underlines the need to balance transparency with confidentiality.
 
----
 
 ### An explicit investment mandate for an SWF typically includes:
 
@@ -235,7 +228,6 @@ And personally, I’ve noticed the best-run SWFs rarely see themselves as just g
 
 > **Explanation:** A well-defined investment mandate sets out the SWF’s purpose, the types of investments permissible, the targeted returns, and the acceptable level of risk, including relevant constraints.
 
----
 
 ### Which statement is true about conflicts of interest in an SWF context?
 
@@ -246,7 +238,6 @@ And personally, I’ve noticed the best-run SWFs rarely see themselves as just g
 
 > **Explanation:** Conflicts of interest arise when individuals’ incentives are at odds with the SWF’s goals, and they require continuous monitoring and mitigation through strict policies and transparent procedures.
 
----
 
 ### In the context of sovereign wealth funds, the best approach to balancing transparency and confidentiality is:
 

@@ -169,7 +169,6 @@ Also, remember to revisit Chapter 5 (Portfolio Mathematics), Chapter 6 (Simulati
 
 > **Explanation:** In a multi-factor scenario, multiple market variables shift together—much more realistic than focusing on just one factor at a time.
 
----
 
 ### Which of the following highlights a reason scenario analysis can capture portfolio vulnerabilities better than standard deviation alone?
 - [ ] Standard deviation is always underestimating returns.
@@ -179,7 +178,6 @@ Also, remember to revisit Chapter 5 (Portfolio Mathematics), Chapter 6 (Simulati
 
 > **Explanation:** Non-linear exposures (e.g., from options) are poorly captured by variance-based measures. Scenario analysis allows for diverse moves across multiple variables, exposing such non-linearities.
 
----
 
 ### Imagine you have a portfolio of convertible bonds. Which statement best describes how scenario analysis may enrich your risk assessment compared to value at risk (VaR)?
 - [ ] Scenario analysis is exact, while VaR is only approximate.
@@ -189,7 +187,6 @@ Also, remember to revisit Chapter 5 (Portfolio Mathematics), Chapter 6 (Simulati
 
 > **Explanation:** Convertible bonds have both bond-like and option-like features. Scenario analysis can explicitly model different paths and magnitudes of shocks, revealing non-linear payoffs less transparent in VaR.
 
----
 
 ### When designing stress levels for scenario analysis:
 - [ ] Choose only the smallest plausible movements for your variables to stay conservative.
@@ -199,7 +196,6 @@ Also, remember to revisit Chapter 5 (Portfolio Mathematics), Chapter 6 (Simulati
 
 > **Explanation:** Stress levels often come from historically observed tail events or plausible extremes. This approach ensures scenarios remain relevant yet sufficiently stressful.
 
----
 
 ### A best-case scenario typically includes:
 - [x] Strong GDP growth, stable interest rates, favorable capital market conditions.
@@ -209,7 +205,6 @@ Also, remember to revisit Chapter 5 (Portfolio Mathematics), Chapter 6 (Simulati
 
 > **Explanation:** Best-case scenarios assume favorable macroeconomic and market conditions—like strong growth, stable interest rates, and healthy earnings.
 
----
 
 ### Which of the following is NOT a common pitfall in scenario analysis?
 - [ ] Overlooking correlation changes in stressed markets.
@@ -219,7 +214,6 @@ Also, remember to revisit Chapter 5 (Portfolio Mathematics), Chapter 6 (Simulati
 
 > **Explanation:** Being mindful of realistic stress levels is actually a best practice, not a pitfall. The other options describe genuine pitfalls that undermine scenario analysis.
 
----
 
 ### A risk manager wants to isolate the effect of a single variable change on a portfolio. The most appropriate type of scenario analysis is:
 - [x] A single-factor scenario.
@@ -229,7 +223,6 @@ Also, remember to revisit Chapter 5 (Portfolio Mathematics), Chapter 6 (Simulati
 
 > **Explanation:** Single-factor scenarios allow the risk manager to assess the sensitivity of a portfolio to one major variable while holding others constant.
 
----
 
 ### Scenario analysis for a portfolio containing commodity derivatives should always consider:
 - [ ] Only interest rate moves, ignoring commodity prices.
@@ -239,7 +232,6 @@ Also, remember to revisit Chapter 5 (Portfolio Mathematics), Chapter 6 (Simulati
 
 > **Explanation:** Commodity-derivative portfolios are heavily sensitive to commodity price changes, along with other macro factors such as currency levels, global demand, and interest rates.
 
----
 
 ### In the context of scenario analysis, which of the following statements is correct regarding qualitative judgment?
 - [ ] Only historical data should be used; expert judgment skews results.
@@ -249,7 +241,6 @@ Also, remember to revisit Chapter 5 (Portfolio Mathematics), Chapter 6 (Simulati
 
 > **Explanation:** Combining qualitative insights and quantitative data helps ensure scenarios are relevant—particularly when facing new or unprecedented policy or market actions.
 
----
 
 ### Scenario analysis is useful because it:
 - [x] Reveals potential outcomes under specified “what-if” conditions.

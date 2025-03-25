@@ -141,7 +141,6 @@ References and Further Reading
 
 > **Explanation:** Rebalancing’s main purpose is to keep the portfolio’s risk exposures in line with the target allocations. It doesn’t guarantee outperformance over a buy-and-hold approach and can actually trigger taxable events.
 
----
 
 ### Which of the following is a disadvantage of a calendar-based rebalancing policy?
 
@@ -152,7 +151,6 @@ References and Further Reading
 
 > **Explanation:** With calendar-based rebalancing, you may miss significant market moves if they occur soon after the last scheduled rebalance date.
 
----
 
 ### An investor who sets ±5% bands around a 50/50 equity/bond allocation, only rebalancing if allocations exceed 55% in equity or 45% in equity, is most likely using:
 
@@ -163,7 +161,6 @@ References and Further Reading
 
 > **Explanation:** Threshold-based rebalancing involves monitoring allocations and trading only when they deviate beyond preset tolerance bands.
 
----
 
 ### Suppose an investor’s target allocation is 60% equities and 40% bonds. After a strong equity rally, the portfolio is 65% equities and 35% bonds. The investor sells part of the equity holding to restore 60%. Which is a likely tax implication?
 
@@ -174,7 +171,6 @@ References and Further Reading
 
 > **Explanation:** Selling appreciated equities triggers realized capital gains, generally creating a taxable event in non-tax-advantaged accounts.
 
----
 
 ### What is a potential advantage of a dynamic rebalancing strategy over a simple threshold-based strategy?
 
@@ -185,7 +181,6 @@ References and Further Reading
 
 > **Explanation:** Dynamic rebalancing shifts the threshold bands or rebalancing frequency based on volatility or market conditions. It does not guarantee free transactions or zero taxes.
 
----
 
 ### Which of the following statements best describes a hybrid rebalancing approach?
 
@@ -196,7 +191,6 @@ References and Further Reading
 
 > **Explanation:** A hybrid approach involves reviewing the portfolio periodically (e.g., monthly or quarterly) but only executing trades if any asset class is outside the set threshold band.
 
----
 
 ### In a heavily taxable personal portfolio with large unrealized gains, one common approach to limit tax impact is:
 
@@ -207,7 +201,6 @@ References and Further Reading
 
 > **Explanation:** Using contributions or new cash flow to correct underweights is often called “cash-flow rebalancing.” This can reduce or delay realizing capital gains comparedto outright asset sales.
 
----
 
 ### An institutional investor with significant illiquid allocations finds it difficult to rebalance frequently because:
 
@@ -218,7 +211,6 @@ References and Further Reading
 
 > **Explanation:** Illiquid assets such as private equity and real estate often have long lockup periods and cannot be sold on short notice, restricting the ability to rebalance as markets shift.
 
----
 
 ### When volatility spikes in the broader market, dynamic threshold-based rebalancing would most likely:
 
@@ -229,7 +221,6 @@ References and Further Reading
 
 > **Explanation:** In dynamic approaches, higher volatility typically triggers narrower bands, ensuring the portfolio doesn’t drift too far from desired targets in a rapidly changing environment.
 
----
 
 ### True or False: Rebalancing is equally beneficial in tax-advantaged and taxable accounts.
 

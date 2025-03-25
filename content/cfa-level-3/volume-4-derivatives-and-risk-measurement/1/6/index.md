@@ -189,7 +189,6 @@ Also, remember there’s a behavioral component: sometimes, clients prefer a col
 
 > **Explanation:** A bull call spread usually involves buying a lower-strike call and selling a higher-strike call, creating a debit spread that profits if the underlying price rises moderately.
 
----
 
 ### An investor establishes a bear put spread on Stock A by buying a put at strike $50 for $3 and selling a put at strike $40 for $1. The net debit is:
 
@@ -200,7 +199,6 @@ Also, remember there’s a behavioral component: sometimes, clients prefer a col
 
 > **Explanation:** The net debit is $3 (cost of the higher-strike put) minus $1 (premium received from the lower-strike put) = $2.
 
----
 
 ### Which of the following statements correctly describes a long straddle?
 
@@ -211,7 +209,6 @@ Also, remember there’s a behavioral component: sometimes, clients prefer a col
 
 > **Explanation:** In a long straddle, you buy both a call and a put at the same strike and maturity. You benefit from big moves up or down.
 
----
 
 ### Which spread is likely to have the highest initial cost out of pocket among these choices?
 
@@ -222,7 +219,6 @@ Also, remember there’s a behavioral component: sometimes, clients prefer a col
 
 > **Explanation:** A long straddle requires buying both a call and a put, typically yielding a significant premium outlay. In contrast, short strategies collect premium.
 
----
 
 ### When constructing a collar, an investor:
 
@@ -233,7 +229,6 @@ Also, remember there’s a behavioral component: sometimes, clients prefer a col
 
 > **Explanation:** A collar is usually an existing long stock position, combined with a long put for downside protection and a short call for premium income (often offsetting the put cost).
 
----
 
 ### The maximum profit for a bull call spread is:
 
@@ -244,7 +239,6 @@ Also, remember there’s a behavioral component: sometimes, clients prefer a col
 
 > **Explanation:** For a bull call spread, the profit is capped at (K2 – K1) – net debit.
 
----
 
 ### A short straddle has:
 
@@ -255,7 +249,6 @@ Also, remember there’s a behavioral component: sometimes, clients prefer a col
 
 > **Explanation:** A short straddle collects call and put premiums, so the maximum profit is limited to the premium received. If the underlying moves significantly, losses can exceed that.
 
----
 
 ### An investor wants partial protection against a moderate decline but does not want to pay a large premium. Which of the following strategies is most appropriate?
 
@@ -266,7 +259,6 @@ Also, remember there’s a behavioral component: sometimes, clients prefer a col
 
 > **Explanation:** A collar provides downside protection through a long put while offsetting costs by writing a call.
 
----
 
 ### In a bear put spread, maximum profit is achieved if:
 
@@ -277,7 +269,6 @@ Also, remember there’s a behavioral component: sometimes, clients prefer a col
 
 > **Explanation:** A bear put spread benefits from a downward move. At or below the lower strike, the spread is fully in-the-money, realizing maximum profit.
 
----
 
 ### A short straddle is a viable strategy if the investor believes:
 

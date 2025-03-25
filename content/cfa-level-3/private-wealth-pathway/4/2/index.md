@@ -148,7 +148,6 @@ A portion of income withheld by the payer (e.g., dividend-paying company) and re
 
 > **Explanation:** High-yield bond funds typically produce frequent, substantial interest income taxed at ordinary income rates in many jurisdictions. By housing them in tax-advantaged vehicles, you minimize ongoing tax drags.
 
----
 
 ### What is the primary purpose of tax-loss harvesting?
 
@@ -159,7 +158,6 @@ A portion of income withheld by the payer (e.g., dividend-paying company) and re
 
 > **Explanation:** Tax-loss harvesting involves realizing losses to offset gains, thus reducing the taxable portion of your gains. It doesn’t inherently boost gross returns.
 
----
 
 ### A client wants to avoid selling a highly appreciated stock despite its risk. Which is the ideal argument for why tax should not be the only factor?
 
@@ -170,7 +168,6 @@ A portion of income withheld by the payer (e.g., dividend-paying company) and re
 
 > **Explanation:** Focusing narrowly on avoiding capital gains taxes can lead to dangerous concentration risk. Paying some taxes now can be more beneficial than facing serious downside risk if the stock price falls.
 
----
 
 ### Which statement is most accurate regarding stepped-up cost basis?
 
@@ -181,7 +178,6 @@ A portion of income withheld by the payer (e.g., dividend-paying company) and re
 
 > **Explanation:** Under a stepped-up basis, heirs inherit assets at the fair market value at the decedent’s date of death, reducing their tax liability on future sales.
 
----
 
 ### Which of the following is a key consideration for cross-border or dual-citizen clients?
 
@@ -192,7 +188,6 @@ A portion of income withheld by the payer (e.g., dividend-paying company) and re
 
 > **Explanation:** Cross-border investors face potential double taxation but can benefit from treaties that mitigate this. They must carefully navigate withholding taxes and reclaim them via foreign tax credits where possible.
 
----
 
 ### Which of the following assets is typically considered most suitable for a taxable account?
 
@@ -203,7 +198,6 @@ A portion of income withheld by the payer (e.g., dividend-paying company) and re
 
 > **Explanation:** A low-turnover equity index fund typically incurs fewer immediate tax events, making it very tax-efficient for a taxable account.
 
----
 
 ### What is an example of a pitfall when prioritizing tax efficiency above all else?
 
@@ -214,7 +208,6 @@ A portion of income withheld by the payer (e.g., dividend-paying company) and re
 
 > **Explanation:** Sometimes investors who obsess over taxes forget about liquidity or other financial goals. If you lock up funds too rigidly simply to avoid taxes, you can restrict your spending flexibility.
 
----
 
 ### If a client realizes a loss but repurchases a “substantially identical” security within the restricted window, which regulation typically disallows the loss?
 
@@ -225,7 +218,6 @@ A portion of income withheld by the payer (e.g., dividend-paying company) and re
 
 > **Explanation:** The Wash Sale Rule disallows claiming a tax loss if you repurchase the same or a substantially equivalent asset within a designated time frame (often 30 days before or after the sale).
 
----
 
 ### In managing internationally diversified portfolios, which of the following is typically advised to minimize tax drag across various geographies?
 
@@ -236,7 +228,6 @@ A portion of income withheld by the payer (e.g., dividend-paying company) and re
 
 > **Explanation:** Minimizing tax drag in cross-border investments often involves analyzing treaties, working with foreign tax credits, and aligning investments with local withholding laws.
 
----
 
 ### A critical best practice when measuring performance in a tax-managed portfolio is:
 

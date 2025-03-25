@@ -210,7 +210,6 @@ Finally, it’s essential to remember that an attribution analysis is only as us
 
 > **Explanation:** Performance attribution breaks down the active portfolio’s return into various decisions (asset allocation, selection, factor tilts, etc.) so managers can identify where their skill or underperformance originated.
 
----
 
 ### In a standard return-based attribution model, which of the following components typically captures the difference in returns from choosing specific companies within each sector?
 
@@ -221,7 +220,6 @@ Finally, it’s essential to remember that an attribution analysis is only as us
 
 > **Explanation:** Security selection effect isolates the impact of picking particular securities, whereas the sector selection effect isolates over- or underweighting particular sectors.
 
----
 
 ### A manager notices that her portfolio’s factor-based attribution indicates a strong exposure to value stocks. What does this imply?
 
@@ -232,7 +230,6 @@ Finally, it’s essential to remember that an attribution analysis is only as us
 
 > **Explanation:** Factor-based attribution shows that a significant share of her active returns or risk is tied to the value factor. However, it doesn’t guarantee outperformance or performance outcomes in all market environments.
 
----
 
 ### Which statement about holdings-based attribution is most accurate?
 
@@ -243,7 +240,6 @@ Finally, it’s essential to remember that an attribution analysis is only as us
 
 > **Explanation:** Holdings-based attribution uses snapshots of the portfolio (e.g., month-end), so it can overlook trades that occurred in the middle of those intervals.
 
----
 
 ### In micro-attribution analysis, what is the primary focus?
 
@@ -254,7 +250,6 @@ Finally, it’s essential to remember that an attribution analysis is only as us
 
 > **Explanation:** Micro-attribution drills down to individual components, such as specific securities or factors driving performance.
 
----
 
 ### Which best describes macro-attribution in performance analysis?
 
@@ -265,7 +260,6 @@ Finally, it’s essential to remember that an attribution analysis is only as us
 
 > **Explanation:** Macro-attribution takes a top-down approach, attributing performance to policy decisions and broad asset-level allocations rather than individual securities.
 
----
 
 ### Why might transaction-based attribution yield more accurate performance analysis than holdings-based attribution for a high-frequency trader?
 
@@ -276,7 +270,6 @@ Finally, it’s essential to remember that an attribution analysis is only as us
 
 > **Explanation:** Transaction-based approaches track all trades as they occur, providing a fine-grained and accurate picture of a high-frequency trader’s performance.
 
----
 
 ### Which of the following is an advantage of factor-based attribution?
 
@@ -287,7 +280,6 @@ Finally, it’s essential to remember that an attribution analysis is only as us
 
 > **Explanation:** Factor-based methods attribute portfolio performance to specific risk factors, separating out alpha that cannot be explained by those factors.
 
----
 
 ### When interpreting performance attribution results, which practice is most likely to improve long-term investment outcomes?
 
@@ -298,7 +290,6 @@ Finally, it’s essential to remember that an attribution analysis is only as us
 
 > **Explanation:** Attribution results are valuable only if applied. Adjusting the investment process in response to attribution insights can enhance future performance and risk management.
 
----
 
 ### An integrated risk and return attribution analysis primarily helps active equity managers to:
 

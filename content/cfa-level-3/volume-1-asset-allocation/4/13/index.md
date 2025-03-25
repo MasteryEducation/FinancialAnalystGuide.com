@@ -231,7 +231,6 @@ Finally, stay mindful of how to adapt heuristics for an investor with unique con
 
 > **Explanation:** A heuristic approach (e.g., 60/40) is a practical rule or method used to cut through complexity rather than to ensure an optimal outcome.
 
----
 
 ### What is a key drawback of equally weighting all asset classes in a portfolio?
 - [ ] It ensures the portfolio will have maximum diversification and minimal tail risk.
@@ -241,7 +240,6 @@ Finally, stay mindful of how to adapt heuristics for an investor with unique con
 
 > **Explanation:** Equal weighting (1/N) is a naive diversification rule that completely ignores correlations and volatility differences among assets.
 
----
 
 ### In a risk parity approach, allocations are determined in order to:
 - [x] Equalize the contribution to risk from each asset in the portfolio.
@@ -251,7 +249,6 @@ Finally, stay mindful of how to adapt heuristics for an investor with unique con
 
 > **Explanation:** Risk parity balances risk contributions so that each asset (or asset class) contributes similarly to overall volatility.
 
----
 
 ### Which of the following is a “pro” of using a 60/40 heuristic approach for a pension portfolio?
 - [ ] It reflects the most current market conditions through advanced analytics.
@@ -261,7 +258,6 @@ Finally, stay mindful of how to adapt heuristics for an investor with unique con
 
 > **Explanation:** 60/40 is popular for its simplicity and for being easy to present to stakeholders, even though it may not be perfectly aligned with all specific objectives.
 
----
 
 ### Maximum diversification as an asset allocation strategy does which of the following?
 - [ ] Ignores correlation and instead looks only at expected returns.
@@ -271,7 +267,6 @@ Finally, stay mindful of how to adapt heuristics for an investor with unique con
 
 > **Explanation:** Maximum diversification aims to maximize the diversification ratio, which is the sum of weighted volatilities divided by the overall portfolio volatility.
 
----
 
 ### Which is a valid reason to use heuristics in extreme market conditions?
 - [x] Overfitted optimization models may rely too heavily on historical data, which can become unreliable.
@@ -281,7 +276,6 @@ Finally, stay mindful of how to adapt heuristics for an investor with unique con
 
 > **Explanation:** In volatile or crisis contexts, historical correlations and parametric estimates may not hold, and simpler heuristics can be more robust than overfitted models.
 
----
 
 ### Mean–Conditional Value at Risk (Mean–CVaR) approaches help investors primarily by:
 - [ ] Ignoring tail events and focusing on standard deviation as the main risk measure.
@@ -291,7 +285,6 @@ Finally, stay mindful of how to adapt heuristics for an investor with unique con
 
 > **Explanation:** Mean–CVaR strategies address potential tail risks by focusing on the average of the worst outcomes, providing a measure beyond simple variance.
 
----
 
 ### The 1/N heuristic generally:
 - [x] Allocates assets equally without regard to risk, correlation, or expected return differences.
@@ -301,7 +294,6 @@ Finally, stay mindful of how to adapt heuristics for an investor with unique con
 
 > **Explanation:** The 1/N approach splits the total capital equally among available asset classes, ignoring differences in risk or correlation.
 
----
 
 ### When explaining a heuristic approach to a new client or stakeholder, a key advantage is that:
 - [ ] It always achieves higher returns than advanced quantitative models.
@@ -311,7 +303,6 @@ Finally, stay mindful of how to adapt heuristics for an investor with unique con
 
 > **Explanation:** Heuristic approaches are often chosen because they’re straightforward, transparent, and easy for non-technical stakeholders to grasp.
 
----
 
 ### True or False: A risk parity approach might require leverage to reach a desired return target.
 - [x] True
