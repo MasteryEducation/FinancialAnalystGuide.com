@@ -1,6 +1,5 @@
 ---
-title: |
-  Volume 3: Performance Measurement
+title: Performance Measurement
 linkTitle: |
   Volume 3: Performance Measurement
 type: docs

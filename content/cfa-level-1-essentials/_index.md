@@ -5,7 +5,7 @@ homepage: true
 homepageTitle: |
   CFA Level I Essentials: Your Gateway to the CFA® Program | FinancialAnalystGuide.com
 type: docs
-nav_weight: 510
+nav_weight: 1001
 description: | 
   This free, open‐source book is designed to guide you through CFA Level I with extraordinary clarity, comprehensive examples, and thousands of practice questions. Whether you’re just beginning your journey or refining your study plan, our approach focuses on accessible explanations, real‐world applications, and an active community of learners.
 menu:

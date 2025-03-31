@@ -1,6 +1,5 @@
 ---
-title: |
-  Volume 4: Derivatives And Risk Management
+title: Derivatives And Risk Management
 linkTitle: |
   Volume 4: Derivatives And Risk Management
 type: docs

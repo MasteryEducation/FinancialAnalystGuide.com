@@ -1,6 +1,5 @@
 ---
-title: |
-  Volume 1: Asset Allocation
+title: Asset Allocation
 linkTitle: |
   Volume 1: Asset Allocation
 type: docs

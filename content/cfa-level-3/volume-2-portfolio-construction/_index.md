@@ -1,6 +1,5 @@
 ---
-title: |
-  Volume 2: Portfolio Construction
+title: Portfolio Construction
 linkTitle: |
   Volume 2: Portfolio Construction
 type: docs

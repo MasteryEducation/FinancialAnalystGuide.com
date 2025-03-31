@@ -1,11 +1,11 @@
 ---
-title: CFA Level 2
-linkTitle: CFA® Level 2
+title: CFA Level 2 Essentials
+linkTitle: CFA® Level 2 Essentials
 homepage: true
 homepageTitle: |
   CFA Level II Book: Your Bridge to Advanced Analysis | FinancialAnalystGuide.com
 type: docs
-nav_weight: 520
+nav_weight: 1002
 description: |
   This free, open‐source book is designed to guide you through CFA Level II with in‐depth clarity, extensive examples, and thousands of practice questions. Building on the foundations of Level I, our focus broadens to more advanced analytical techniques, real‐world scenarios, and a collaborative, learner‐driven approach.
 menu:

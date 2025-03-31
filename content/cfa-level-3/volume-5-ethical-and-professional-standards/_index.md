@@ -1,6 +1,5 @@
 ---
-title: |
-  Volume 5: Ethical and Professional Standards
+title: Ethical and Professional Standards
 linkTitle: |
   Volume 5: Ethical and Professional Standards
 type: docs
