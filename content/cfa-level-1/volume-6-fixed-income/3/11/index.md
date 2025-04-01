@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Tri-Party Repos and Collateral Management"
 description: "Explore the essentials of tri-party repurchase agreements, the role of third-party agents, key collateral management techniques, and real-world market practices for effective funding and liquidity."
@@ -244,4 +243,4 @@ Finally, don’t just memorize definitions. Focus on how tri-party repos fit int
 > **Explanation:** Margin or “haircuts” are typically decided by the counterparties. The tri-party agent enforces any agreed-upon guidelines, including minimum haircuts set by regulation or internal risk frameworks, but they don’t unilaterally dictate a single universal rate.
 
 {{< /quizdown >}}
-```
+
