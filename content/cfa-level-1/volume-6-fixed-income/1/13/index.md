@@ -113,12 +113,11 @@ Below is a simple Mermaid diagram illustrating some major bond market disruption
 
 ```mermaid
 timeline
-    title "Major Bond Market Disruptions"
-    dateFormat YYYY
-    1982  : ["Latin American <br/> Debt Crisis"]
-    1998  : ["Russian Default <br/> & LTCM"]
-    2008  : ["Global Financial <br/> Crisis"]
-    2010  : ["European Sovereign <br/> Debt Crisis"]
+    title Major Bond Market Disruptions
+    1982  : Latin American Debt Crisis
+    1998  : Russian Default & LTCM
+    2008  : Global Financial Crisis
+    2010  : European Sovereign Debt Crisis
 ```
 
 ## Putting It All Together
