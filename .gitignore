@@ -13,3 +13,4 @@ response/
 
 # Local Netlify folder
 .netlify
+_vendor/
