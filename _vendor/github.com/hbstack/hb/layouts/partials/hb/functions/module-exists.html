@@ -1,9 +1,0 @@
-{{- $exists := false }}
-{{- $module := . }}
-{{- range hugo.Deps }}
-  {{- if eq .Path $module }}
-    {{- $exists = true }}
-    {{- break }}
-  {{- end }}
-{{- end }}
-{{- return $exists }}

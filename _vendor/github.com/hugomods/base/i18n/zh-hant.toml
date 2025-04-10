@@ -1,2 +1,0 @@
-[paginator_title]
-other = "{{ .PageNumber }}/{{ .TotalPages }}"

@@ -1,2 +1,0 @@
-{{- $params := site.Params.hb.content_panel }}
-$hb-content-panel-bottom: {{ default "20px" $params.bottom }};

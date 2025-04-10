@@ -1,5 +1,0 @@
-[params.hugopress.modules.seo-base.attributes.document]
-cacheable = true
-
-[params.hugopress.modules.seo-base.hooks.head-begin]
-partial = "seo/modules/base/index"

@@ -1,5 +1,0 @@
-{{- $html := slice }}
-{{- range partial "ascii/convert" . }}
-  {{- $html = $html | append (cond (eq (printf "%T" .) "int") (printf "&#%d;" .) .) }}
-{{- end }}
-{{- return delimit $html "" }}

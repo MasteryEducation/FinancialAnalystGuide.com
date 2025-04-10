@@ -1,7 +1,0 @@
-@mixin top-offset($position:"") {
-  @if $position != "" {
-    position: $position;
-  }
-
-  top: var(--#{$prefix}top-offset);
-}

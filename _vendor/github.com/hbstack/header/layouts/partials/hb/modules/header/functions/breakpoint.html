@@ -1,3 +1,0 @@
-{{- $breakpoint := site.Params.hb.header.breakpoint }}
-{{- $breakpoints := slice "lg" "xl" "xxl" }}
-{{- return cond (in $breakpoints $breakpoint) $breakpoint "lg" }}
