@@ -20,6 +20,7 @@ menu:
         className: text-primary
 canonical: "https://FinancialAnalystGuide.com/cfa-level-1"
 license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
+docs_root_section: false
 ---
 
 # CFA Level 1 Book: Your Launchpad into the World of Financial Analysis

@@ -20,6 +20,7 @@ menu:
         className: text-primary
 canonical: "https://FinancialAnalystGuide.com/cfa-level-3"
 license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
+docs_root_section: false
 ---
 
 # CFA Level 3 Book: Your Final Step to Earning the CFA® Charter

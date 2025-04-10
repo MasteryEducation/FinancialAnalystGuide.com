@@ -1,0 +1,8 @@
+/*! purgecss start ignore */
+@import "../../../../mods/snackbar/scss/index";
+
+.snackbars {
+    z-index: $zindex-modal + 1;
+}
+
+/*! purgecss end ignore */

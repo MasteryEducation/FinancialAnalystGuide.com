@@ -1,0 +1,10 @@
+.hb-docs-main,
+.hb-docs-doc-main,
+.hb-docs-doc-toc,
+.hb-docs-nav {
+  > .hb-module:last-of-type {
+    @include media-breakpoint-up($hb-header-breakpoint) {
+      margin-bottom: 0 !important;
+    }
+  }
+}

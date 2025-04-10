@@ -1,0 +1,26 @@
+{{- with . }}
+  <div
+    class="hb-content-panel-item hb-content-panel-translations dropup-center dropup">
+    <button
+      class="btn btn-link text-body"
+      type="button"
+      data-bs-toggle="dropdown"
+      title="{{ i18n `translations` }}"
+      aria-expanded="false">
+      {{- $icon := dict
+        "vendor" "bs"
+        "name" "translate"
+      }}
+      {{- partialCached "icons/icon" $icon $icon -}}
+    </button>
+    <ul class="dropdown-menu">
+      {{- range . }}
+        <li>
+          <a class="dropdown-item" href="{{ .Permalink }}">
+            {{- .Language.LanguageName -}}
+          </a>
+        </li>
+      {{- end }}
+    </ul>
+  </div>
+{{- end }}

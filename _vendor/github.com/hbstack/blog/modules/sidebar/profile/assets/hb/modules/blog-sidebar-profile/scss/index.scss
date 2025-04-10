@@ -1,0 +1,13 @@
+.hb-blog-sidebar-profile-img {
+  height: #{$hb-blog-sidebar-profile-avatar-size}px;
+  width: #{$hb-blog-sidebar-profile-avatar-size}px;
+  object-fit: cover;
+}
+
+.hb-blog-sidebar-profile {
+  .hb-social {
+    &:not(:hover) {
+      --#{$prefix}link-color-rgb: var(--#{$prefix}body-color-rgb);
+    }
+  }
+}

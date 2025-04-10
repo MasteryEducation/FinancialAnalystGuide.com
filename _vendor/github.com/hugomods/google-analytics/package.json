@@ -1,0 +1,16 @@
+{
+  "name": "hugo-google-analytics",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugomods/google-analytics.git"
+  },
+  "author": "Razon Yang <razonyang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hugomods/google-analytics/issues"
+  },
+  "homepage": "https://github.com/hugomods/google-analytics#readme",
+  "dependencies": {
+    "prettier-plugin-go-template": "^0.0.13"
+  }
+}

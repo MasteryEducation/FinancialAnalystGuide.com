@@ -1,0 +1,17 @@
+[metrics_page_sections]
+other = "板塊"
+
+[metrics_page_types]
+other = "類型"
+
+[metrics_posts]
+other = "文章"
+
+[on_this_page]
+other = "本頁內容"
+
+[read_more_about]
+other = "閱讀更多關於{{ . }}的內容。"
+
+[reading_time]
+other = "{{ .Count }} 分鐘閱讀"

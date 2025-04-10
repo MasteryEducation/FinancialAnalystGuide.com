@@ -1,0 +1,26 @@
+.hb-content-panel-wrapper {
+    bottom: $hb-content-panel-bottom;
+    opacity: 0.875;
+
+    &:hover {
+        opacity: 1;
+    }
+}
+
+.hb-content-panel-item {
+    &:first-child {
+        margin-left: 0.75rem;
+    }
+
+    &:last-child {
+        margin-right: 0.75rem;
+    }
+
+    &:not(:last-child) {
+        &::after {
+            color: var(--#{$prefix}border-color);
+            content: "|";
+            padding-right: 0.25rem;
+        }
+    }
+}

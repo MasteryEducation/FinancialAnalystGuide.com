@@ -1,0 +1,36 @@
+.hb-docs-nav,
+.hb-docs-doc-toc {
+    grid-area: toc;
+
+    @include media-breakpoint-up(lg) {
+        height: calc(100vh - var(--#{$prefix}top-offset));
+        overflow-y: auto;
+        scrollbar-width: thin;
+
+        @include top-offset(sticky);
+
+        &:hover {
+            scrollbar-color: var(--#{$prefix}primary) transparent;
+        }
+    }
+}
+
+.hb-docs-doc-toc {
+    @include media-breakpoint-down(lg) {
+        color: var(--#{$prefix}body-color) !important;
+        margin: 0.5rem 0 1rem;
+
+        /* stylelint-disable selector-id-pattern */
+        #TableOfContents {
+            border-bottom: 1px solid var(--#{$prefix}border-color);
+            font-size: 1rem !important;
+        }
+        /* stylelint-enable selector-id-pattern */
+    }
+}
+
+@include media-breakpoint-up(md) {
+    .hb-docs-doc-toc-collapse {
+        display: block !important;
+    }
+}

@@ -1,0 +1,21 @@
+{{- if and (not .IsHome) (not .Site.Params.hb.breadcrumb.disabled) -}}
+  <div class="container-fluid px-0 mb-4">
+    <nav aria-label="breadcrumb">
+      <ol class="hb-breadcrumb breadcrumb">
+        {{- if .IsPage }}
+          {{ partial "hb/modules/breadcrumb/ancestors" .Ancestors }}
+        {{- else }}
+          {{ partialCached "hb/modules/breadcrumb/ancestors" .Ancestors .CurrentSection }}
+        {{- end }}
+        <li class="breadcrumb-item active" aria-current="page">
+          <a href="{{ .RelPermalink }}" title="{{ .Title }}">
+            {{- with .Params.nav_icon }}
+              {{- partial "icons/icon" (merge . (dict "color" "" "className" "me-1")) }}
+            {{- end }}
+            {{- .LinkTitle -}}
+          </a>
+        </li>
+      </ol>
+    </nav>
+  </div>
+{{- end -}}

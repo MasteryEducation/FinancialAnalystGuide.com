@@ -1,0 +1,14 @@
+{{- .Pre -}}
+{{- with .Params.icon }}
+  {{- $className := "hb-footer-menu-icon me-2" }}
+  {{- $default := dict "vendor" "bootstrap" "width" "1em" "height" "1em" "className" $className }}
+  {{- $opts := merge $default . }}
+  {{- with index . "className" }}
+    {{- $opts = merge $opts (dict
+      "className" (printf "%s %s" $className .))
+    }}
+  {{- end }}
+  {{- partial "icons/icon" $opts }}
+{{- end }}
+{{- .Name -}}
+{{- .Post -}}

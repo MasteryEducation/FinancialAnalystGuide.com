@@ -1,0 +1,15 @@
+[[module.imports]]
+path = "github.com/hbstack/blog"
+
+[[module.imports]]
+path = "github.com/hbstack/slide"
+
+[params.hugopress.modules.hb-blog-sidebar-posts.hooks.hb-blog-sidebar]
+cacheable = true
+
+[params.hb.blog.sidebar.posts]
+style = "pills"
+fill = true
+list_style = "slide"
+recent_count = 5
+featured_count = 5

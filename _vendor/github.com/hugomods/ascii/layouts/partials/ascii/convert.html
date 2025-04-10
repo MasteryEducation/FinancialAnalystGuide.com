@@ -1,0 +1,10 @@
+{{- $v := slice }}
+{{- $table := partialCached "ascii/table" "" "" }}
+{{- range split . "" }}
+  {{- $code := . }}
+  {{- with index $table $code }}
+    {{- $code = . }}
+  {{- end }}
+  {{- $v = $v | append $code }}
+{{- end }}
+{{- return $v }}

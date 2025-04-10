@@ -1,0 +1,128 @@
+{{- $showContributors := default false site.Params.hb.revision.repo_contributors }}
+{{- $repoActions := default true site.Params.hb.revision.repo_actions }}
+{{- $createdAt := default true site.Params.hb.revision.created_at }}
+{{- if or $showContributors (or $createdAt (ne .Lastmod .Date)) }}
+<div class="hb-module hb-revision text-body-secondary d-flex flex-wrap">
+  {{- $tooltip := partial "hb/functions/module-exists" "github.com/hbstack/bs-tooltip" }}
+  {{- $params := site.Params.hb.revision }}
+  {{- $icons := default true $params.icons }}
+  {{- $format := default ":date_full" $params.date_format }}
+  {{- $path := "" }}
+  {{- $isFile := true }}
+  {{- with $.Page.File }}
+    {{- $path = printf "%scontent/%s"
+      (cond (eq $params.repo_subpath "") "" (printf "/%s" $params.repo_subpath))
+      .Path
+    }}
+    {{ if ge hugo.Version "0.126.0" }}
+      {{ $isFile = not .IsContentAdapter }}
+    {{ end }}
+  {{- end }}
+  {{- $viewURL := "" }}
+  {{- $editURL := "" }}
+  {{- $historyURL := "" }}
+  {{- $repoBranch := default "master" $params.repo_branch }}
+  {{- $contributors := dict }}
+  {{- if $isFile }}
+    {{- if eq $params.repo_service "github" }}
+      {{- $url := printf "https://api.github.com/repos/%s/%s/commits?path=%s" $params.repo_owner $params.repo_name $path }}
+      {{- $editURL = printf "https://github.com/%s/%s/edit/%s/%s" $params.repo_owner $params.repo_name $repoBranch $path }}
+      {{- $viewURL = printf "https://github.com/%s/%s/blob/%s/%s" $params.repo_owner $params.repo_name $repoBranch $path }}
+      {{- $historyURL = printf "https://github.com/%s/%s/commits/%s/%s" $params.repo_owner $params.repo_name $repoBranch $path }}
+      {{- if and $showContributors .GitInfo }}
+        {{- $opts := dict "key" $.Lastmod }}
+        {{- with getenv "GITHUB_TOKEN" }}
+          {{- $opts = merge $opts (dict "headers" (dict "Authorization" (printf "Bearer %s" .))) }}
+        {{- end }}
+        {{- with try (resources.GetRemote $url $opts) }}
+          {{- with .Err }}
+            {{- errorf "[github.com/hbstack/revision] failed to fetch %s: %s" $url . }}
+          {{- end }}
+          {{- range $weight, $commit := transform.Unmarshal .Value }}
+            {{- if not .author }}
+              {{- continue }}
+            {{- end }}
+            {{- if not (isset $contributors .author.login) }}
+              {{- $contributors = merge $contributors (dict .author.login (dict
+                "weight" $weight
+                "name" .commit.author.name
+                "img" .author.avatar_url
+                "url" .author.html_url))
+              }}
+            {{- end }}
+          {{- end }}
+        {{- end }}
+      {{- end }}
+    {{- else if ne $params.repo_service "" }}
+      {{- warnf "[github.com/hbstack/revision] unsupported repo service: %s" $params.repo_service }}
+    {{- end }}
+  {{- end }}
+  {{- with sort $contributors "weight" "desc" }}
+    <div class="d-flex hb-revision-contributors flex-wrap gap-1 w-100 hb-revision-repo mb-2">
+      {{- range . }}
+        <a class="hb-revision-contributor text-decoration-none" href="{{ .url }}" rel="external" target="_blank" title="{{ .name }}">
+          <img class="hb-revision-contributor-img rounded-circle" src="{{ .img }}" alt="{{ .name }}" />
+        </a>
+      {{- end }}
+    </div>
+  {{- end }}
+  {{- with and $repoActions $viewURL $editURL $historyURL }}
+    <div class="d-flex flex-wrap gap-2 w-100 hb-revision-repo-actions mb-2">
+      {{- with $viewURL }}
+        <a class="text-decoration-none" href="{{ . }}" rel="external" target="_blank">
+          {{- if $icons -}}
+            {{- partial "icons/icon" (dict "vendor" "bs" "name" "eye" "className" "me-1") -}}
+          {{- end -}}
+          {{ i18n "view_the_page_source" }}
+        </a>
+      {{- end }}
+      {{- with $editURL }}
+        <a class="text-decoration-none" href="{{ . }}" rel="external" target="_blank">
+          {{- if $icons -}}
+            {{- partial "icons/icon" (dict "vendor" "bs" "name" "pencil-square" "className" "me-1") -}}
+          {{- end -}}
+          {{ i18n "edit_the_page" }}
+        </a>
+      {{- end }}
+      {{- with $historyURL}}
+        <a class="text-decoration-none" href="{{ . }}" rel="external" target="_blank">
+          {{- if $icons -}}
+            {{- partial "icons/icon" (dict "vendor" "bs" "name" "clock" "className" "me-1") -}}
+          {{- end -}}
+          {{ i18n "history" }}
+        </a>
+      {{- end }}
+    </div>
+  {{- end }}
+  {{- if ne .Lastmod .Date }}
+    {{- $lastmod := .Lastmod | time.Format $format }}
+    {{- $lastmodFull := printf "%s %s" (.Lastmod | time.Format ":date_full") (.Lastmod | time.Format ":time_full") }}
+    <span
+      class="hb-revision-lastmod me-2"
+      {{ if $tooltip }}data-bs-toggle="tooltip"{{ end }}
+      title="{{ i18n `revised_at` (dict `Date` $lastmodFull) }}">
+      {{- if $icons }}
+        {{ partial "icons/icon" (dict "vendor" "bs" "name" "pencil-square") }}
+        <span>{{ $lastmod }}</span>
+      {{- else }}
+        {{ i18n `revised_at` (dict `Date` $lastmod) }}
+      {{- end }}
+    </span>
+  {{- end }}
+  {{- if $createdAt }}
+    {{- $date := .Date | time.Format $format }}
+    {{- $dateFull := printf "%s %s" (.Date | time.Format ":date_full") (.Date | time.Format ":time_full") }}
+    <span
+      class="hb-revision-date"
+      {{ if $tooltip }}data-bs-toggle="tooltip"{{ end }}
+      title="{{ i18n `created_at` (dict `Date` $dateFull) }}">
+      {{- if $icons }}
+        {{ partial "icons/icon" (dict "vendor" "bs" "name" "calendar-plus") }}
+        <span>{{ $date }}</span>
+      {{- else }}
+        {{ i18n `created_at` (dict `Date` $date) }}
+      {{- end }}
+    </span>
+  {{- end }}
+</div>
+{{- end }}

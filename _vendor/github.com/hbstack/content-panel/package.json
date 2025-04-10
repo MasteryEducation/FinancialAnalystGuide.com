@@ -1,0 +1,17 @@
+{
+  "name": "hb-mod-content-panel",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbstack/content-panel.git"
+  },
+  "author": "Razon Yang <razonyang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hbstack/content-panel/issues"
+  },
+  "homepage": "https://github.com/hbstack/content-panel",
+  "devDependencies": {
+    "prettier": "^3.0.0",
+    "prettier-plugin-go-template": "^0.0.15"
+  }
+}

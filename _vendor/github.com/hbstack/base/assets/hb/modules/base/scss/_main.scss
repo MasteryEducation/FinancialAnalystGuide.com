@@ -1,0 +1,21 @@
+$hb-main-margin-bottom: 2rem;
+
+.hb-main {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    margin-bottom: $hb-main-margin-bottom;
+    overflow-wrap: break-word;
+}
+
+body {
+    &[data-layout="landing"] {
+        .hb-header {
+            margin-bottom: calc(var(--#{$prefix}top-offset) - 24px);
+        }
+
+        .hb-main {
+            padding: 0;
+        }
+    }
+}

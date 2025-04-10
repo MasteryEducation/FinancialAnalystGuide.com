@@ -1,0 +1,45 @@
+{{- $pages := site.RegularPages }}
+{{- with site.Params.hb.blog.home.main_sections }}
+  {{- $pages = where $pages "Section" "in" . }}
+{{- end }}
+{{- $pinnedPos := default "" site.Params.hb.blog.home.pinned_posts_position }}
+{{- $featuredCount := 10 }}
+{{- if isset site.Params.hb.blog.home "featured_posts" }}
+  {{- $featuredCount = site.Params.hb.blog.home.featured_posts }}
+{{- end }}
+{{- $featuredPages := first $featuredCount (where $pages ".Params.featured" true) }}
+{{- if $featuredPages }}
+  <div class="row mb-3">
+    {{- $pinnedPages := first 1 (where $pages ".Params.pinned" true) }}
+    {{- $hasPinned := and (ne $pinnedPos "list") (gt (len $pinnedPages) 0) }}
+    <div
+      class="col-12{{ cond $hasPinned ` col-lg-6` `` }} hb-blog-home-carousel">
+      {{- partialCached "hb/modules/carousel/carousel" (dict "Pages" $featuredPages) $featuredPages -}}
+    </div>
+    {{- if $hasPinned }}
+      <div class="col-12 col-lg-6">
+        {{- $ctx := dict "Page" (index $pinnedPages 0) "ReadMore" false }}
+        {{ partial "hb/modules/blog/post/card" $ctx }}
+      </div>
+    {{- end }}
+  </div>
+{{- end }}
+<div class="hb-blog-main-container">
+  <div class="hb-blog-main">
+    {{- if default true site.Params.hb.blog.home.taxonomies }}
+      <div>
+        {{ partialCached "hb/modules/blog/home/taxonomies" . }}
+      </div>
+    {{- end }}
+    {{- with .Paginator }}
+      {{- if eq site.Params.hb.blog.list_style "minimalist" }}
+        {{ partial "hb/modules/blog/posts-minimalist" (dict "Pages" .Pages) }}
+      {{- else }}
+        {{- $cols := partialCached "hb/modules/blog/functions/list-cols" . }}
+        {{ partial "hb/modules/blog/posts" (dict "Pages" .Pages "Cols" $cols) }}
+      {{- end }}
+      {{ partial "hb/modules/pagination/index" . }}
+    {{- end }}
+  </div>
+  {{ partial "hb/modules/blog/sidebar" . }}
+</div>

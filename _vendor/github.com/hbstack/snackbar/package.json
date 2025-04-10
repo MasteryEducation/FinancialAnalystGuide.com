@@ -1,0 +1,31 @@
+{
+  "name": "HB Snackbar Module",
+  "homepage": "https://github.com/hbstack/snackbar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbstack/snackbar.git"
+  },
+  "author": "Razon Yang <razonyang@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/hbstack/snackbar/issues"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.52.0",
+    "@typescript-eslint/parser": "^5.52.0",
+    "eslint": "^8.34.0",
+    "prettier": "^2.7.1",
+    "prettier-plugin-go-template": "^0.0.13",
+    "stylelint": "^15.1.0",
+    "stylelint-config-standard-scss": "^9.0.0",
+    "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "lint": "npm run stylelint",
+    "eslint": "npx eslint .",
+    "stylelint": "npx stylelint \"**/*.scss\""
+  },
+  "dependencies": {
+    "stylelint-scss": "^5.0.0"
+  }
+}

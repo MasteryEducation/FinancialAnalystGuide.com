@@ -1,0 +1,82 @@
+/*! purgecss start ignore */
+
+@import "../../../../scss/bootstrap/carousel";
+
+.hb-carousel {
+    .carousel-img-placeholder {
+        background: rgba(var(--hb-body-color-rgb), 0.1);
+    }
+
+    .carousel-img,
+    .carousel-img-placeholder {
+        height: 240px;
+        object-fit: cover;
+    }
+
+    @include media-breakpoint-up(md) {
+        .carousel-img,
+        .carousel-img-placeholder {
+            height: 320px;
+        }
+    }
+
+    .carousel-caption {
+        bottom: 0;
+        left: 0;
+        padding: 0.75rem 1rem 2.25rem;
+        opacity: 0.75;
+        right: 0;
+    }
+
+    .carousel-img-placeholder,
+    .carousel-caption {
+        background: rgba(0, 0, 0, 0.75);
+    }
+
+    .carousel-link {
+        color: rgba(255, 255, 255, 0.75);
+
+        &:hover {
+            color: white;
+        }
+    }
+
+    .carousel-indicators {
+        bottom: 0.5rem;
+        justify-content: start;
+        margin: 0 0.825rem;
+
+        [data-bs-target] {
+            background-color: #fff !important;
+            border-radius: 50%;
+            border-top: 5px solid transparent;
+            border-bottom: 5px solid transparent;
+            height: 15px;
+            width: 15px;
+            margin: 0 5px;
+            padding: 2px;
+        }
+
+        [aria-current="true"] {
+            background-color: var(--#{$prefix}primary) !important;
+        }
+    }
+
+    .carousel-controls {
+        bottom: 0.5rem;
+        position: absolute;
+        right: 1.25rem;
+        z-index: 3;
+
+        .carousel-control {
+            text-decoration: none;
+            color: rgba(255, 255, 255, 0.75);
+
+            &:hover {
+                color: white;
+            }
+        }
+    }
+}
+
+/*! purgecss end ignore */

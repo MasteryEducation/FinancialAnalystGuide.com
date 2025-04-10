@@ -1,0 +1,14 @@
+[comments]
+other = "评论"
+
+[edit]
+other = "编辑"
+
+[edit_the_page]
+other = "编辑本页"
+
+[translations]
+other = "译文"
+
+[view_the_page_source]
+other = "查看页面源码"

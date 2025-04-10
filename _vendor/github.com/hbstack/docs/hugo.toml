@@ -1,0 +1,23 @@
+[[module.imports]]
+path = "github.com/hugomods/hugopress"
+
+[[module.imports]]
+path = "github.com/hbstack/blog"
+
+[params.hugopress.modules.hb-docs.hooks.head-begin]
+cacheable = true
+cache_param_key = "redirect"
+
+[params.hugopress.modules.hb-docs.hooks.hb-header-nav-begin]
+cacheable = "true"
+cache_key = "page.Type"
+
+[params.hb.docs]
+date_format = ":date_long"
+navs_reduce_font_size = false
+navs_sticky_scroll = true
+navs_active_style = "" # empty or bordered.
+
+# Takes the full width by default.
+[params.hb.full_width_types.docs]
+enable = true

@@ -1,0 +1,10 @@
+{{- define "title" }}
+  {{- $pages := .RegularPagesRecursive }}
+  {{- $paginator := .Paginate $pages (default 12 .Site.Params.hb.blog.paginate) }}
+  {{- .Store.Set "paginated" true }}
+  {{ partial "base/title" . }}
+{{- end -}}
+
+{{- define "main" }}
+  {{ partial "hb/modules/blog/list" . }}
+{{- end -}}

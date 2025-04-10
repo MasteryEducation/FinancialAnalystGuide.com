@@ -1,0 +1,42 @@
+/*! purgecss start ignore */
+.hb-back-to-top {
+    background: transparent;
+    border: none;
+    bottom: $hb-back-to-top-bottom;
+    color: var(--#{$prefix}body-color);
+    opacity: 0;
+    padding: 0;
+    position: fixed;
+    right: $hb-back-to-top-end;
+    transition: opacity 0.5s;
+    z-index: -1;
+
+    @if $hb-back-to-top-animation {
+        &.scrolling {
+            bottom: 100%;
+            color: var(--#{$prefix}primary-text-emphasis);
+            transition: bottom 1s;
+        }
+    }
+
+    &.show {
+        opacity: 1;
+        z-index: 1000;
+    }
+
+    &:hover {
+        color: var(--#{$prefix}primary-text-emphasis);
+    }
+}
+
+.hb-back-to-top-icon {
+    display: flex;
+
+    rect {
+        &:nth-of-type(2) {
+            fill: var(--#{$prefix}primary);
+        }
+    }
+}
+
+/*! purgecss end ignore */

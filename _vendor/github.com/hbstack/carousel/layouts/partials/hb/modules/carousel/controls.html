@@ -1,0 +1,18 @@
+<div class="carousel-controls d-none d-md-block">
+  <a
+    class="carousel-control me-2"
+    role="button"
+    href="#{{ . }}"
+    data-bs-slide="prev">
+    {{- partial "icons/icon" (dict "vendor" "bs" "name" "arrow-left-circle" "height" "1.75em" "width" "1.75em") -}}
+    <span class="visually-hidden">Previous</span>
+  </a>
+  <a
+    class="carousel-control"
+    role="button"
+    href="#{{ . }}"
+    data-bs-slide="next">
+    {{- partial "icons/icon" (dict "vendor" "bs" "name" "arrow-right-circle" "height" "1.75em" "width" "1.75em") -}}
+    <span class="visually-hidden">Next</span>
+  </a>
+</div>

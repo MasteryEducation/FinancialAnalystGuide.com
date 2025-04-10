@@ -1,0 +1,20 @@
+<div
+  class="hb-blog-term-profile hb-module d-flex flex-column align-items-center">
+  {{ partial "hb/modules/blog/author/image" (dict
+    "Page" .
+    "Placeholder" false
+    "ClassName" "hb-blog-term-img img-fluid rounded-circle mb-3")
+  }}
+  <h1 class="text-center h4 mb-3 mt-2">
+    <a class="text-decoration-none" href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </h1>
+  {{- with .Description }}
+    <p class="text-body-secondary text-center mb-1">{{ . }}</p>
+  {{- end }}
+  {{- with .Params.socials }}
+    {{ partial "hb/modules/blog/term/socials" . }}
+  {{- end }}
+  {{- if default true site.Params.terms.profile_metrics }}
+    {{ partialCached "hb/modules/blog/term/metrics" . . }}
+  {{- end }}
+</div>

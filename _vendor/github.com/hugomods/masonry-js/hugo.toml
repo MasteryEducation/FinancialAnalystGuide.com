@@ -1,0 +1,5 @@
+[[module.imports]]
+path = "github.com/desandro/masonry"
+[[module.imports.mounts]]
+source = "dist/masonry.pkgd.min.js"
+target = "assets/hugomods/masonry-js/masonry.pkgd.min.js"

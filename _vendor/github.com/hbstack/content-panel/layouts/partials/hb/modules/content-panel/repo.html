@@ -1,0 +1,82 @@
+{{- $params := site.Params.hb.content_panel.repo }}
+{{- $page := . }}
+{{- with $params }}
+  {{- $services := partialCached "hb/modules/content-panel/functions/repo-services" . }}
+  {{- $root := partialCached "hb/modules/content-panel/functions/working-directory" . }}
+  {{- $srvBaseURL := "" }}
+  {{- $srvCommitPath := "commit" }}
+  {{- $srvEditPath := "edit" }}
+  {{- $srvSourcePath := "blob" }}
+  {{- with index $services (default "github" .service) }}
+    {{- with .baseURL }}{{ $srvBaseURL = . }}{{ end }}
+    {{- with .commitPath }}{{ $srvCommitPath = . }}{{ end }}
+    {{- with .editPath }}{{ $srvEditPath = . }}{{ end }}
+    {{- with .sourcePath }}{{ $srvSourcePath = . }}{{ end }}
+  {{- end }}
+  {{- with $params.service_baseurl }}
+    {{- $srvBaseURL = strings.TrimSuffix "/" . }}
+  {{- end }}
+  {{- $branch := default "main" $params.branch }}
+  {{- $baseURL := printf "%s/%s" $srvBaseURL $params.repo }}
+  {{- $subpath := "" }}
+  {{- with $params.subpath }}
+    {{- $subpath = printf "/%s" . }}
+  {{- end }}
+  {{- $filepath := "" }}
+  {{- with $page.File }}
+    {{- $filepath = printf "%s%s" $subpath (strings.TrimPrefix $root .Filename) -}}
+  {{- end }}
+  {{/* replace the path separator to / when running Hugo server on Windows. */}}
+  {{- $filepath = replace $filepath "\\" "/" | strings.TrimPrefix "/" }}
+  {{- $editURL := printf "%s/%s/%s/%s" $baseURL $srvEditPath $branch $filepath }}
+  {{- $sourceURL := printf "%s/%s/%s/%s" $baseURL $srvSourcePath $branch $filepath }}
+  {{- $editIcon := dict "vendor" "bs" "name" "pencil-square" }}
+  {{- $pencilIcon := dict "vendor" "bs" "name" "pencil" "className" "me-2" }}
+  {{- $viewIcon := dict "vendor" "bs" "name" "eye" "className" "me-2" }}
+  {{- $commitIcon := dict "vendor" "bs" "name" "git" "className" "me-2" }}
+  <div
+    class="hb-content-panel-item hb-content-panel-repo dropup-center dropup">
+    <button
+      class="btn btn-link text-body"
+      type="button"
+      title="{{ i18n `edit` }}"
+      data-bs-toggle="dropdown"
+      aria-expanded="false">
+      {{- partialCached "icons/icon" $editIcon $editIcon }}
+    </button>
+    <ul class="dropdown-menu">
+      <li>
+        <a
+          class="dropdown-item"
+          href="{{ $editURL }}"
+          target="_blank"
+          rel="noreferrer noopener">
+          {{- partialCached "icons/icon" $pencilIcon $pencilIcon -}}
+          {{- i18n "edit_the_page" -}}
+        </a>
+      </li>
+      <li>
+        <a
+          class="dropdown-item"
+          href="{{ $sourceURL }}"
+          target="_blank"
+          rel="noreferrer noopener">
+          {{- partialCached "icons/icon" $viewIcon $viewIcon -}}
+          {{- i18n "view_the_page_source" -}}
+        </a>
+      </li>
+      {{- with $page.GitInfo }}
+        <li>
+          <a
+            class="dropdown-item"
+            href="{{ printf `%s/%s/%s` $baseURL $srvCommitPath .Hash }}"
+            target="_blank"
+            rel="noreferrer noopener">
+            {{- partialCached "icons/icon" $commitIcon $commitIcon -}}
+            {{- .Subject -}}
+          </a>
+        </li>
+      {{- end }}
+    </ul>
+  </div>
+{{- end }}

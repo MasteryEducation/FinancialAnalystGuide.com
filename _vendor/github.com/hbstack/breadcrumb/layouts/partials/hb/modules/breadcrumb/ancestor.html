@@ -1,0 +1,8 @@
+<li class="breadcrumb-item">
+  <a href="{{ .RelPermalink }}" title="{{ .Title }}">
+    {{- with .Params.nav_icon }}
+      {{- partial "icons/icon" (merge . (dict "color" "" "className" "me-1")) }}
+    {{- end }}
+    {{- cond .IsHome (i18n "hb_breadcrumb_home") .LinkTitle -}}
+  </a>
+</li>

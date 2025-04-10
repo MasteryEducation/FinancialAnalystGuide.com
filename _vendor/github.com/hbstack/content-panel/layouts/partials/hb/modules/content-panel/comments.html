@@ -1,0 +1,14 @@
+{{- $iconCtx := dict
+  "vendor" "bs"
+  "name" "chat-dots"
+}}
+{{- $icon := partialCached "icons/icon" $iconCtx $iconCtx }}
+<div class="hb-content-panel-item">
+  <a
+    href="#content-comments"
+    class="btn btn-link text-body"
+    title="{{ i18n `comments` }}"
+    role="button">
+    {{- $icon }}
+  </a>
+</div>

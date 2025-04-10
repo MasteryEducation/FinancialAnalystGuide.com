@@ -1,0 +1,57 @@
+.hb-breadcrumb {
+    --#{$prefix}breadcrumb-margin-bottom: 0;
+    --#{$prefix}breadcrumb-divider: "";
+    --#{$prefix}link-color-rgb: var(--#{$prefix}body-secondary);
+
+    overflow: hidden;
+    flex-wrap: nowrap;
+    white-space: nowrap;
+
+    .breadcrumb-item {
+        background: var(--#{$prefix}secondary-bg);
+        clip-path: polygon(0 0, calc(100% - 1rem) 0, 100% 50%, calc(100% - 1rem) 100%, 0 100%, 1rem 50%);
+        margin-right: -0.875rem;
+        max-width: 240px;
+        flex-shrink: 0;
+        overflow: hidden;
+        padding: 0.5rem 0;
+        text-overflow: ellipsis;
+
+        &.active,
+        &:focus,
+        &:hover,
+        &:active {
+            background: var(--#{$prefix}primary);
+            color: var(--#{$prefix}white);
+        }
+
+        a {
+            padding: 0.5rem 1.25rem 0.5rem 1.75rem;
+            text-decoration: none;
+
+            &:hover {
+                color: inherit;
+            }
+        }
+
+        &:first-child {
+            padding-right: .5rem;
+        }
+
+        &:last-child {
+            max-width: 320px;
+
+            @include media-breakpoint-up(xl) {
+                max-width: 480px;
+            }
+
+            @include media-breakpoint-up(xxl) {
+                max-width: 640px;
+            }
+
+            @include media-breakpoint-down(sm) {
+                display: none;
+            }
+        }
+    }
+}

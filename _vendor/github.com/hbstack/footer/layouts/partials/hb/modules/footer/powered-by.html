@@ -1,0 +1,15 @@
+{{- if default true .Site.Params.hb.footer.powered_by }}
+  {{- $sites := slice
+    (dict "url" "https://gohugo.io/" "title" "Hugo")
+    (dict "url" "https://hugomods.com/" "title" "HugoMods")
+    (dict "url" "https://hbstack.dev/" "title" "HB Framework")
+  }}
+  {{- $format := `<a class="text-body-emphasis" href="%s" target="_blank" rel="external" title="%s">%s</a>` }}
+  {{- $links := slice }}
+  {{- range $sites }}
+    {{- $links = $links | append (printf $format .url .title .title) }}
+  {{- end }}
+  <li class="mt-2">
+    Built with ❤️ from {{ delimit $links ", " " and " | safeHTML }}.
+  </li>
+{{- end -}}

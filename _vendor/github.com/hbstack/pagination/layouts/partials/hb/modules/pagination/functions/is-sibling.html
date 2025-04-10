@@ -1,0 +1,13 @@
+{{- $v := false }}
+{{- if eq .Number 1 }}
+  {{- $v = true }}
+{{- else if eq .Number .Last }}
+  {{- $v = true }}
+{{- else if eq .Number .Current }}
+  {{- $v = true }}
+{{- else }}
+{{- $range := default 2 site.Params.hb.pagination.siblings }}
+  {{- $dif := sub (math.Max .Current .Number) (math.Min .Current .Number) }}
+  {{- $v = le $dif $range }}
+{{- end }}
+{{- return $v -}}

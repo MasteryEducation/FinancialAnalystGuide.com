@@ -1,0 +1,11 @@
+{{/* Returns the ancestral sections titles of current page, except home page. */}}
+{{- $titles := slice }}
+{{/* Get parent section of the page. */}}
+{{- range .Ancestors }}
+  {{/* Break the loop if home page reached. */}}
+  {{- if .IsHome }}
+    {{- continue }}
+  {{- end }}
+  {{- $titles = $titles | append .Title }}
+{{- end }}
+{{- return $titles }}

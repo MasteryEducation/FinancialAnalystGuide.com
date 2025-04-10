@@ -1,0 +1,7 @@
+{{- $has := false }}
+{{- if .Params.images }}
+  {{- $has = true }}
+{{- else if partialCached "hb/functions/page-featured-image" . . }}
+  {{- $has = true }}
+{{- end }}
+{{- return $has -}}

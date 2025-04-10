@@ -1,0 +1,67 @@
+{{- $id := "" }}
+{{- with page.File }}
+  {{- $id = printf "carousel-%s" .UniqueID }}
+{{- else }}
+  {{- $id = printf "carousel-%d" now.UnixNano }}
+{{- end }}
+{{- $pages := .Pages }}
+{{- if $pages }}
+<div class="hb-module">
+  <div id="{{ $id }}" class="hb-carousel carousel slide">
+    <div
+      class="carousel-indicators justify-content-center justify-content-md-start">
+      {{- $first := true }}
+      {{- range $i, $page := $pages }}
+        <button
+          type="button"
+          data-bs-target="#{{ $id }}"
+          data-bs-slide-to="{{ $i }}"
+          {{ if $first }}class="active" aria-current="true"{{ end }}
+          aria-label="Slide {{ $i }}"></button>
+        {{- $first = false }}
+      {{- end }}
+    </div>
+    <div class="carousel-inner border border-secondary-subtle rounded-1">
+      {{- $first := true }}
+      {{- range $page := $pages }}
+        {{- $imgs := partialCached "_funcs/get-page-images" . . }}
+        <div class="carousel-item{{ cond $first ` active` `` }}">
+          {{- with index $imgs 0 }}
+            {{- $img := .RelPermalink }}
+            {{- with .Image }}
+              {{- $img = printf "%s?height=360px" .Name }}
+            {{- end }}
+            <a href="{{ $page.RelPermalink }}" title="{{ $page.Title }}">
+              {{ partial "images/image" (dict
+                "Page" $page
+                "Alt" $page.Title
+                "Filename" $img
+                "ClassName" "carousel-img d-block w-100"
+                "LazyLoading" $first
+                "Original" true)
+              }}
+            </a>
+            <div class="carousel-caption text-center text-md-start">
+              <div class="h5">
+                <a
+                  class="carousel-link d-block text-decoration-none"
+                  href="{{ $page.RelPermalink }}">
+                  {{- $page.Title -}}
+                </a>
+              </div>
+            </div>
+          {{- else }}
+            <a
+              class="carousel-img-placeholder carousel-link d-flex align-items-center justify-content-center text-decoration-none h5 mb-0 px-3 text-center"
+              href="{{ $page.RelPermalink }}">
+              {{- $page.Title -}}
+            </a>
+          {{- end }}
+        </div>
+        {{- $first = false }}
+      {{- end }}
+    </div>
+    {{ partialCached "hb/modules/carousel/controls" $id $id }}
+  </div>
+</div>
+{{- end }}

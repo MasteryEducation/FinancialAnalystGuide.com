@@ -1,0 +1,17 @@
+{{- $page := . }}
+{{- range $kind, $taxonomy := site.Taxonomies }}
+  {{- if eq $kind "authors" }}
+    {{ continue }}
+  {{- end }}
+  {{- with $page.GetTerms $kind }}
+    {{- range . }}
+      <span class="hb-blog-post-taxonomy-meta">
+        <a
+          class="hb-blog-post-taxonomy hb-blog-post-taxonomy-{{ $kind | singularize }} badge bg-secondary text-decoration-none fw-normal me-1"
+          href="{{ .RelPermalink }}">
+          {{- .Title -}}
+        </a>
+      </span>
+    {{- end }}
+  {{- end }}
+{{- end -}}

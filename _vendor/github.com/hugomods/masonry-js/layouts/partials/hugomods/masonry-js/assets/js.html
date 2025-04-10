@@ -1,0 +1,2 @@
+{{ $js := resources.Get "hugomods/masonry-js/masonry.pkgd.min.js" | resources.Copy "js/masonry.js" }}
+<script src="{{ $js.RelPermalink }}"></script>

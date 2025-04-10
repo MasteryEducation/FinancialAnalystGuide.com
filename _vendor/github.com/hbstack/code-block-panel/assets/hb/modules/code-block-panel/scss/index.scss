@@ -1,0 +1,14 @@
+/*! purgecss start ignore */
+@import "../../../../mods/code-block-panel/scss/index";
+
+.highlight {
+  pre {
+    scrollbar-width: thin;
+
+    &:hover {
+      scrollbar-color: var(--#{$prefix}primary) transparent;
+    }
+  }
+}
+
+/*! purgecss end ignore */

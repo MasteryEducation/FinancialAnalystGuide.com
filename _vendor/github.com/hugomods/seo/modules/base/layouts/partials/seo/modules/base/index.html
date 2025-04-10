@@ -1,0 +1,7 @@
+{{/* Generate the description meta tag. */}}
+{{- $desc := default .Title (default (.Summary | plainify) .Description) }}
+<meta name="description" content="{{ $desc }}" />
+{{/* Generate the noindex meta tag. */}}
+{{- if .Params.noindex }}
+  <meta name="robots" content="noindex">
+{{- end }}

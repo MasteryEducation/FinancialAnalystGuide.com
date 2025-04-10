@@ -1,0 +1,7 @@
+{{- $v := "" }}
+{{- if isset .Site.Params.hb.header "brand" }}
+  {{- $v = .Site.Params.hb.header.brand }}
+{{- else }}
+  {{- $v = .Site.Title }}
+{{- end }}
+{{- return $v -}}

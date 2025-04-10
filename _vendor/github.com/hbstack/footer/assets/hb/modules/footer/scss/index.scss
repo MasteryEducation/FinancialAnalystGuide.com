@@ -1,0 +1,10 @@
+.hb-footer {
+    a {
+        color: var(--#{$prefix}body-color);
+
+        &:hover,
+        &:focus {
+            color: var(--#{$prefix}link-hover-color);
+        }
+    }
+}

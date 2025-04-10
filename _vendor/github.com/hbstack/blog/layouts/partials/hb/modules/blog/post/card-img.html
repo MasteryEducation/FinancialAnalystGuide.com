@@ -1,0 +1,42 @@
+{{- $page := . }}
+{{- $url := .RelPermalink }}
+{{- $external := false }}
+{{- with .Params.external_url }}
+  {{- $url = . }}
+  {{- $external = true }}
+{{- end }}
+<a
+  class="card-img-top overflow-hidden border border-secondary-subtle text-body text-decoration-none mt-2"
+  {{ if $external }}target="_blank" rel="external"{{ end }}
+  href="{{ $url }}">
+  {{- $img := "" }}
+  {{- with .Params.images }}
+    {{- $img = index . 0 }}
+  {{- else }}
+    {{- $res := partialCached "hb/functions/page-thumbnail" . . }}
+    {{- $thumbnailHeight := default 360 site.Params.hb.blog.post_thumbnail_resize_height }}
+    {{- if $res }}
+      {{- $img = printf "%s?height=%d" (replace $res.Permalink $page.Permalink "") $thumbnailHeight }}
+    {{- else }}
+      {{/* Get the default thumbnail if set. */}}
+      {{- $default := site.Params.hb.blog.post_thumbnail_default }}
+      {{- with resources.Get $default }}
+        {{- $img = printf "/%s?height=%d" (strings.TrimPrefix "/" $default) $thumbnailHeight }}
+      {{- end }}
+    {{- end }}
+  {{- end -}}
+  {{- with $img }}
+    {{ partial "images/image" (dict
+      "Page" $page
+      "Alt" $page.Title
+      "Filename" $img
+      "ClassName" "hb-blog-post-card-img"
+      "Original" false)
+    }}
+  {{- else }}
+    <div
+      class="hb-blog-post-card-img-none d-flex align-items-center justify-content-center">
+      {{- default site.Title site.Params.hb.blog.post_thumbnail_placeholder }}
+    </div>
+  {{- end }}
+</a>

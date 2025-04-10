@@ -1,0 +1,102 @@
+{{- $media := dict
+  "afdian" (dict "url" "https://afdian.com/a/%s" "iconVendor" "hb-socials" "icon" "afdian" "color" "#946CE6")
+  "artstation" (dict "url" "https://www.artstation.com/%s" "color" "#0a5878")
+  "bilibili" (dict "url" "https://space.bilibili.com/%s" "color" "#fb7299")
+  "bitbucket" (dict "url" "https://bitbucket.org/%s" "color" "#0e65df")
+  "bluesky" (dict "url" "https://bsky.app/profile/%s" "color" "#0285ff")
+  "buymeacoffee" (dict "url" "https://buymeacoffee.com/%s")
+  "codeberg" (dict "url" "https://codeberg.org/%s" "color" "#2185d0")
+  "discord" (dict "url" "https://discord.com/invite/%s")
+  "dockerhub" (dict "url" "https://hub.docker.com/u/%s" "icon" "docker")
+  "email" (dict "url" "mailto:%s" "iconVendor" "bs" "iconName" "envelope-fill")
+  "facebook" (dict "url" "https://facebook.com/%s" "color" "#1877f2")
+  "facebookgroup" (dict "url" "https://facebook.com/groups/%s" "color" "#1877f2" "icon" "facebook")
+  "github" (dict "url" "https://github.com/%s")
+  "githubsponsors" (dict "url" "https://github.com/%s" "icon" "githubsponsors" "color" "#EA4AAA")
+  "gitlab" (dict "url" "https://gitlab.com/%s" "color" "#e24329")
+  "gmail" (dict "url" "mailto:%s" "color" "#EA4335")
+  "instagram" (dict "url" "https://www.instagram.com/%s" "color" "#c03957")
+  "itchdotio" (dict "url" "https://%s.itch.io/")
+  "kaggle" (dict "url" "https://kaggle.com/%s" "color" "#3cc6ff")
+  "kofi" (dict "url" "https://ko-fi.com/%s")
+  "lastdotfm" (dict "url" "https://www.last.fm/user/%s" "color" "#ba0000")
+  "liberapay" (dict "url" "https://liberapay.com/%s")
+  "linkedin" (dict "url" "https://linkedin.com/in/%s" "color" "#0a66c2")
+  "mastodon" (dict "url" "https://mastodon.social/@%s" "color" "#5c4ce2")
+  "medium" (dict "url" "https://medium.com/@%s")
+  "opencollective" (dict "url" "https://opencollective.com/%s")
+  "patreon" (dict "url" "https://www.patreon.com/%s" "color" "#ff424d")
+  "paypal" (dict "url" "https://www.paypal.com/paypalme/%s")
+  "pinterest" (dict "url" "https://www.pinterest.com/%s" "color" "#cc0000")
+  "quora" (dict "url" "https://www.quora.com/profile/%s" "color" "#b92b27")
+  "reddit" (dict "url" "https://www.reddit.com/user/%s" "color" "#FF4500")
+  "rss" (dict "iconVendor" "bs" "iconName" "rss-fill")
+  "sinaweibo" (dict "url" "https://weibo.com/%s" "color" "#e1162c")
+  "stackoverflow" (dict "url" "https://stackoverflow.com/users/%s" "color" "#f48024")
+  "tel" (dict "url" "tel:%s" "iconVendor" "bs" "iconName" "telephone-fill")
+  "telegram" (dict "url" "https://t.me/%s" "color" "#2481cc")
+  "tencetqq" (dict "url" "http://wpa.qq.com/msgrd?v=3&uin=%s&site=qq&menu=yes")
+  "threads" (dict "url" "https://www.threads.net/@%s")
+  "tiktok" (dict "url" "https://www.tiktok.com/@%s")
+  "tumblr" (dict "url" "https://%s.tumblr.com")
+  "twitter" (dict "url" "https://twitter.com/%s" "icon" "x")
+  "website" (dict "url" "%s" "icon" "globe" "iconVendor" "bootstrap")
+  "x" (dict "url" "https://x.com/%s")
+  "xing" (dict "url" "https://www.xing.com/profile/%s")
+  "youtube" (dict "url" "https://www.youtube.com/channel/%s" "color" "#ff0000")
+  "zhihu" (dict "url" "https://www.zhihu.com/people/%s" "color" "#056de8")
+}}
+{{- $title := default (.name | title) (printf `social_%s` .name | i18n) }}
+{{- if eq .name "tel" }}
+  {{- $title = .id }}
+{{- end }}
+{{- $icon := default .name .iconName }}
+{{- $iconVendor := "simple-icons" }}
+{{- $color := .color }}
+{{- $width := default "1em" .width }}
+{{- $height := default "1em" .height }}
+{{- $url := urls.Parse .id }}
+{{- with index $media .name }}
+  {{- with .iconName }}{{ $icon = . }}{{ end }}
+  {{- with .iconVendor }}{{ $iconVendor = . }}{{ end }}
+  {{- if not $url.Scheme }}
+    {{- if .url }}
+      {{- $url = printf .url $.id }}
+    {{- else if eq $.name "rss" }}
+      {{- with site.Home.OutputFormats.Get "rss" }}
+        {{- $url = .Permalink }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+  {{- if and (ne $color false) .color }}
+    {{- $color = .color }}
+  {{- end }}
+  {{- with .icon }}
+    {{- $icon = . }}
+  {{- end }}
+{{- end }}
+{{- if or (hasPrefix $url "mailto:") (hasPrefix $url "tel:") }}
+  {{- $url = partial "ascii/str2html" $url }}
+{{- else }}
+  {{- $url = $url | safeURL }}
+{{- end }}
+<a
+  class="hb-social {{ .class }}"
+  {{ printf `href="%s"` $url | safeHTMLAttr }}
+  target="_blank"
+  rel="nofollow me"
+  {{ if eq .name "rss" }}data-rss-feed{{ end }}
+  title="{{ $title }}">
+  {{- partial "icons/icon" (dict
+    "vendor" $iconVendor
+    "name" $icon
+    "color" $color
+    "className" "hb-social-icon"
+    "width" $width
+    "height" $height) }}
+  {{- if default false .text }}
+    <span class="hb-social-text{{ with .textClass }} {{ . }}{{ end }}">
+      {{- $title -}}
+    </span>
+  {{- end }}
+</a>

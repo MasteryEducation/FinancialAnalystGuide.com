@@ -1,0 +1,5 @@
+{{ if .Page.IsPage }}
+  {{ partial "hb/modules/breadcrumb/index" .Page }}
+{{ else }}
+  {{ partialCached "hb/modules/breadcrumb/index" .Page .Page.CurrentSection }}
+{{ end }}

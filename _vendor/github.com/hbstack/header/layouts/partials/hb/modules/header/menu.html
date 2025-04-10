@@ -1,0 +1,102 @@
+{{- $page := .Page }}
+{{- $breakpoint := partialCached "hb/modules/header/functions/breakpoint" . }}
+{{- $menu := .Menu }}
+{{- $baseURL := site.BaseURL }}
+{{- $url := $menu.URL | absURL -}}
+{{- $current := false }}
+{{- $isExternal := not (hasPrefix $url $baseURL) }}
+{{- $target := "" }}
+{{- $rel := "" }}
+{{- if $isExternal }}
+  {{- $target = "_blank" }}
+  {{- $rel = "external" }}
+{{- end }}
+{{- $target = default $target .Menu.Params.target }}
+{{- $rel = default $rel .Menu.Params.rel }}
+{{- $menuID := printf "header-menu-%s" ($menu.Identifier | lower) }}
+{{- if $menu.Params.divider -}}
+  <li class="nav-item py-2 py-lg-1 col-12 col-lg-auto">
+    <div class="vr d-none d-lg-flex h-100 mx-lg-2 text-body"></div>
+    <hr class="d-lg-none my-2 text-body-50">
+  </li>
+{{- else if $menu.HasChildren -}}
+  {{- $dropdownClasses := slice "hb-header-menu dropdown nav-item col-12" (printf "col-%s-auto" $breakpoint) }}
+  {{- if $current }}
+    {{- $dropdownClasses = $dropdownClasses | append "active" }}
+  {{- end }}
+  <li class="{{ delimit $dropdownClasses ` ` }}">
+    {{/* Split the toggle button and menu link if URL presents. */}}
+    {{- if $menu.URL }}
+      <a
+        class="nav-link pe-0 d-inline-flex align-items-center{{ cond $current ` active` `` }}"
+        href="{{ $menu.URL }}"
+        {{ if $current }}aria-current="page"{{ end }}
+        {{ with $target }}target="{{ . }}"{{ end }}
+        {{ with $rel }}rel="{{ . }}"{{ end }}>
+        {{- partialCached "hb/modules/header/menu-name" $menu $menu -}}
+      </a>
+      <a
+        class="nav-link ps-0 d-inline-flex"
+        href="#"
+        id="{{ $menuID }}"
+        role="button"
+        data-bs-toggle="dropdown"
+        aria-expanded="false">
+        <span class="visually-hidden">Toggle Dropdown</span>
+        {{- partial "icons/icon" (dict "vendor" "bootstrap" "name" "chevron-compact-down" "height" "16" "width" "16") }}
+      </a>
+    {{- else }}
+      <a
+        class="nav-link{{ cond $current ` active` `` }}"
+        id="{{ $menuID }}"
+        href=""
+        {{ if $current }}aria-current="page"{{ end }}
+        role="button"
+        data-bs-toggle="dropdown"
+        data-bs-reference="#{{ $menuID }}-submenus"
+        aria-expanded="false">
+        <div class="nav-link-content d-flex align-items-center">
+          {{- partialCached "hb/modules/header/menu-name" $menu $menu -}}
+          <span class="dropdown-toggle-icon d-flex align-items-center ms-1">
+            {{- partial "icons/icon" (dict "vendor" "bootstrap" "name" "chevron-compact-down" "height" "16" "width" "16") }}
+          </span>
+        </div>
+      </a>
+    {{- end }}
+    {{- $alignment := "" }}
+    {{- if isset $menu.Params "alignment" }}
+      {{- $alignment = printf " dropdown-menu-%s" $menu.Params.alignment }}
+    {{- else if ge .Index 6 }}
+      {{- $alignment = " dropdown-menu-end" }}
+    {{- end }}
+    {{- $total := len $menu.Children }}
+    {{- $columns := default (cond (ge $total 6) 2 1) $menu.Params.columns }}
+    <ul
+      class="hb-header-submenus dropdown-menu{{ $alignment }}"
+      aria-labelledby="{{ $menuID }}"
+      {{ if gt $columns 1 }}data-columns="{{ $columns }}"{{ end }}
+      data-bs-popper="none">
+      {{- with $menu.Params.header }}
+        <li class="column-span-all">
+          <h6 class="dropdown-header">{{ . }}</h6>
+        </li>
+      {{- end }}
+      {{- range $i, $child := $menu.Children }}
+        {{- $submenuCtx := dict "Menu" $child "Page" $page "Index" $i "Total" $total }}
+        {{- partialCached "hb/modules/header/submenu" $submenuCtx $submenuCtx }}
+      {{- end }}
+    </ul>
+  </li>
+{{- else -}}
+  <li
+    class="hb-header-menu nav-item col-6 col-{{ $breakpoint }}-auto{{ cond $current ` active` `` }}">
+    <a
+      class="nav-link{{ cond $current ` active` `` }}"
+      {{ if $current }}aria-current="page"{{ end }}
+      href="{{ $url }}"
+      {{ with $target }}target="{{ . }}"{{ end }}
+      {{ with $rel }}rel="{{ . }}"{{ end }}>
+      {{- partialCached "hb/modules/header/menu-name" $menu $menu -}}
+    </a>
+  </li>
+{{- end -}}

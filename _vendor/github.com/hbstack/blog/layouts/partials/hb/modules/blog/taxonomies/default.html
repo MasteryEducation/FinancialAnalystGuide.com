@@ -1,0 +1,27 @@
+{{- $taxonomies := partial "hb/modules/blog/functions/filter-taxonomies" . }}
+{{- range $taxonomies }}
+  {{- $name := .name }}
+  {{- $count := .count }}
+  {{- $title := .title }}
+  <div class="taxonomy-terms hb-module">
+    {{- with site.GetPage $name }}
+      <div class="taxonomy-terms-title h5">
+        <a class="text-decoration-none" href="{{ .RelPermalink }}">
+          {{- default .Title $title -}}
+        </a>
+      </div>
+    {{- end }}
+    {{- range .terms }}
+      <a
+        class="taxonomy-term taxonomy-term-{{ $name }} btn btn-sm btn-outline-secondary my-1 me-1"
+        href="{{ .Page.RelPermalink }}">
+        <span class="taxonomy-term-title">{{- .Page.Title -}}</span>
+        {{- if $count }}
+          <small class="taxonomy-term-count border rounded px-1">
+            {{- .Count -}}
+          </small>
+        {{- end }}
+      </a>
+    {{- end }}
+  </div>
+{{- end }}

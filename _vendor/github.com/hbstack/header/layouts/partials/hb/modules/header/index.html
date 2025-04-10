@@ -1,0 +1,53 @@
+{{- $params := $.Site.Params.hb.header }}
+{{- $breakpoint := partialCached "hb/modules/header/functions/breakpoint" . }}
+<header class="hb-header"
+  {{ partial "hugopress/functions/render-attributes" (dict "Name" "hb-header" "Page" .) | safeHTMLAttr }}>
+  {{ partial "hugopress/functions/render-hooks" (dict "Name" "hb-header-begin" "Page" .) }}
+  <nav class="hb-header-nav navbar navbar-expand-{{ $breakpoint }}">
+    {{ partial "hugopress/functions/render-hooks" (dict "Name" "hb-header-nav-before" "Page" .) }}
+    <div
+      class="{{ cond $params.full_width `container-fluid` `container-xxl` }}">
+      {{ partial "hugopress/functions/render-hooks" (dict "Name" "hb-header-nav-begin" "Page" .) }}
+      {{- partialCached "hb/modules/header/brand" . }}
+      <div class="d-flex order-5">
+        {{ partial "hugopress/functions/render-hooks" (dict "Name" "hb-header-togglers-begin" "Page" .) }}
+        {{ partialCached "hb/modules/header/toggler" . }}
+        {{ partial "hugopress/functions/render-hooks" (dict "Name" "hb-header-togglers-end" "Page" .) }}
+      </div>
+      <div
+        class="offcanvas offcanvas-{{ $breakpoint }} offcanvas-end"
+        tabindex="-1"
+        id="hb-header-content"
+        aria-labelledby="hb-header-content-label">
+        <div class="offcanvas-header">
+          <h5 class="offcanvas-title" id="hb-header-content-label">
+            {{- partialCached "hb/modules/header/functions/brand" . -}}
+          </h5>
+          <button
+            type="button"
+            class="btn-close"
+            data-bs-dismiss="offcanvas"
+            aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+          {{/* Menus begin. */}}
+          {{- partialCached "hb/modules/header/menus" . }}
+          {{/* Menus end. */}}
+          {{/* Panel begin. */}}
+          <ul class="hb-header-panel navbar-nav flex-row flex-wrap">
+            {{- if partialCached "hugopress/functions/has-modules" "hb-header-panel" "hb-header-panel" }}
+              <li class="nav-item py-2 py-{{ $breakpoint }}-1 col-12 col-{{ $breakpoint }}-auto">
+                <hr class="d-{{ $breakpoint }}-none my-2 text-body-50" />
+              </li>
+            {{- end }}
+            {{ partial "hugopress/functions/render-hooks" (dict "Name" "hb-header-panel" "Page" .) }}
+          </ul>
+          {{/* Panel end. */}}
+        </div>
+      </div>
+    </div>
+    {{ partial "hugopress/functions/render-hooks" (dict "Name" "hb-header-nav-after" "Page" .) }}
+  </nav>
+  {{ partial "hugopress/functions/render-hooks" (dict "Name" "hb-header-end" "Page" .) }}
+</header>
+{{ partialCached "hb/modules/header/init.html" . }}

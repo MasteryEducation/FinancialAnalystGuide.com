@@ -1,0 +1,39 @@
+{{- $params := site.Params.hb.blockquotes }}
+{{- $borderClass := "" }}
+{{- if $params.bordered }}
+  {{- $borderClass = "border-start ps-3 py-1" }}
+  {{- with default "primary" $params.border_style }}
+    {{- $borderClass = printf "%s border-%s" $borderClass . }}
+  {{- end }}
+  {{- with default 4 $params.border_width }}
+    {{- $borderClass = printf "%s border-%d" $borderClass . }}
+  {{- end }}
+{{- end }}
+{{- $class := slice "blockquote" }}
+{{- with .Attributes.class }}
+  {{- $class = $class | append . }}
+{{- end }}
+{{- if or (isset .Attributes "align") (isset .Attributes "caption") }}
+  <figure
+    class="{{ $borderClass }}{{ with .Attributes.align }} text-{{ . }}{{ end }}">
+    <blockquote
+      {{ with .Attributes.id }}id="{{ . }}"{{ end }}
+      class="{{ delimit $class ` ` }} mb-0">
+      {{ .Text }}
+    </blockquote>
+    {{- with .Attributes.caption }}
+      {{- $caption := . | $.Page.RenderString }}
+      <figcaption class="blockquote-footer mt-1 mb-0">
+        <cite title="{{ $caption }}">
+          {{ $caption }}
+        </cite>
+      </figcaption>
+    {{- end }}
+  </figure>
+{{- else }}
+  <blockquote
+    {{ with .Attributes.id }}id="{{ . }}"{{ end }}
+    class="{{ delimit $class ` ` }} {{ $borderClass }}">
+    {{ .Text }}
+  </blockquote>
+{{- end }}

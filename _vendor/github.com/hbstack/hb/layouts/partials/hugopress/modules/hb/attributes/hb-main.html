@@ -1,0 +1,12 @@
+{{- $attrs := newScratch }}
+{{- $fullWidth := default (default false site.Params.hb.full_width) .Page.Params.full_width }}
+{{- if reflect.IsSlice $fullWidth }}
+  {{- $fullWidth = in $fullWidth .Page.Section }}
+{{- end }}
+{{- if not $fullWidth }}
+  {{- with index (default dict site.Params.hb.full_width_types) .Page.Type }}
+    {{- $fullWidth = default true .enable }}
+  {{- end }}
+{{- end }}
+{{- $attrs.Set "class" (cond $fullWidth "hb-main container-fluid" "hb-main container") }}
+{{- return $attrs.Values }}

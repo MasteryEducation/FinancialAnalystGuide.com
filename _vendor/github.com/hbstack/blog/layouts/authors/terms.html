@@ -1,0 +1,35 @@
+{{- define "main" }}
+  <div class="hb-blog-main-container">
+    <div class="hb-blog-main">
+      {{ partial "hugopress/functions/render-hooks" (dict "Name" "hb-blog-main-begin" "Page" .) }}
+      <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3">
+        {{- range $i, $page := sort .Data.Pages ".Data.Pages" "desc" }}
+          <div class="col">
+            <div
+              class="hb-blog-term-author d-flex pt-3 hb-module h-100 flex-column align-items-center justify-content-center">
+              {{- $img := partial "hb/modules/blog/author/image" (dict
+                "Page" .
+                "Placeholder" false
+                "ClassName" "hb-blog-term-img img-fluid rounded-circle mb-3")
+              }}
+              {{- with $img }}{{ . }}{{- end }}
+              <h2 class="h5 mb-2">
+                <a class="text-decoration-none" href="{{ .RelPermalink }}">
+                  {{- .Title -}}
+                </a>
+              </h2>
+              {{- with .Description }}
+                <p class="text-body-secondary mb-2 text-center">{{ . }}</p>
+              {{- end }}
+              {{ partialCached "hb/modules/blog/term/metrics" . . }}
+            </div>
+          </div>
+        {{- end -}}
+      </div>
+      {{ partial "hugopress/functions/render-hooks" (dict "Name" "hb-blog-main-end" "Page" .) }}
+    </div>
+    <div class="hb-blog-sidebar pe-lg-1">
+      {{ partial "hugopress/functions/render-hooks" (dict "Name" "hb-blog-sidebar" "Page" .) }}
+    </div>
+  </div>
+{{- end -}}

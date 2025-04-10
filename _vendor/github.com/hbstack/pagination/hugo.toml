@@ -1,0 +1,13 @@
+# [module.hugoVersion]
+# min = "0.111.3"
+
+[[module.imports]]
+path = "github.com/hbstack/hb"
+
+[params.hb.pagination]
+alignment = "center" # center, start (left) or end (right).
+size = "" # sm (small) or lg (large), leave it empty to use the default size.
+siblings = 2 # The number of siblings to the left/right of the current page number.
+
+# [params.hugopress.modules.hb-pagination.hooks.body-end]
+# cacheable = true

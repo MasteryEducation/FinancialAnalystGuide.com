@@ -1,0 +1,17 @@
+{{- $page := .Page }}
+{{- $images := partial "_funcs/get-page-images" $page }}
+{{- $html := "" }}
+{{- with $images }}
+  {{- $image := index . 0 }}
+  {{- $filename := $image.RelPermalink }}
+  {{- if $image.Image }}
+    {{- $filename = $image.Image.Name }}
+  {{- end }}
+  {{- $html = partial "images/image" (dict
+    "Filename" $filename
+    "Page" $page
+    "Style" $.Style
+    "ClassName" $.ClassName)
+  }}
+{{- end }}
+{{- return $html }}

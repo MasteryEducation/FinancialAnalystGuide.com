@@ -1,0 +1,63 @@
+[[module.imports]]
+path = "github.com/hbstack/base"
+
+[[module.imports]]
+path = "github.com/hbstack/carousel"
+
+[[module.imports]]
+path = "github.com/hbstack/pagination"
+
+[[module.imports]]
+path = "github.com/hbstack/socials"
+
+[[module.imports]]
+path = "github.com/hugomods/gravatar"
+
+[[module.imports]]
+path = "github.com/hugomods/icons/vendors/bootstrap"
+
+[[module.imports]]
+path = "github.com/hugomods/images"
+
+[[module.imports]]
+path = "github.com/hugomods/masonry-js"
+
+[params.hb.terms]
+paginate = 12
+profile = true
+profile_metrics = true
+list_style = "" # available options: minimalist, cascade.
+
+[params.hb.blog]
+list_style = "" # available options: minimalist, cascade.
+full_width = false
+paginate = 12
+post_date_format = ':date_long'
+post_thumbnail = true
+post_thumbnail_height = "160px"
+post_thumbnail_placeholder = ""
+post_thumbnail_default = "images/thumbnail.png"
+post_thumbnail_position = "top"
+post_thumbnail_resize_height = 360
+list_cols_md = 2
+list_cols_lg = 3 # won't work when sidebar was enabled.
+
+[params.hb.blog.archives]
+paginate = 30
+
+[params.hb.blog.home]
+pinned_posts_position = ""
+# taxonomies_style = 'toggle'
+
+[params.hb.blog.sidebar]
+position = "start"
+width = 0.35
+max_width = "320px"
+sticky = true
+
+[params.hb.blog.toc]
+position = "end" # start, end or content.
+
+[params.hugopress.modules.hb-blog.hooks.head-begin]
+cacheable = true
+cache_param_key = "external_url"

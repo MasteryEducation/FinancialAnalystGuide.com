@@ -1,0 +1,21 @@
+{{- $size := "2em" }}
+<button class="slide-control-left">
+  {{ partial "icons/icon" (dict
+    "vendor" "bootstrap"
+    "name" "arrow-left-circle"
+    "className" "slide-control-left-icon"
+    "width" $size
+    "height" $size)
+  }}
+  <span class="visually-hidden">{{ i18n "hb_slide_left" }}</span>
+</button>
+<button class="slide-control-right">
+  {{ partial "icons/icon" (dict
+    "vendor" "bootstrap"
+    "name" "arrow-right-circle"
+    "className" "slide-control-right-icon"
+    "width" $size
+    "height" $size)
+  }}
+  <span class="visually-hidden">{{ i18n "hb_slide_right" }}</span>
+</button>

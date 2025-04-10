@@ -1,0 +1,14 @@
+{{- $className := "hb-header-menu-icon me-1" }}
+{{- $default := dict
+  "vendor" "bootstrap"
+  "height" "1em"
+  "width" "1em"
+  "className" $className
+}}
+{{- $opts := merge $default . }}
+{{- with index . "className" }}
+  {{- $opts = merge $opts (dict
+    "className" (printf "%s %s" $className .))
+  }}
+{{- end }}
+{{- partial "icons/icon" $opts -}}

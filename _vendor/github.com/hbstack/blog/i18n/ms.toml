@@ -1,0 +1,17 @@
+[metrics_page_sections]
+other = "Bahagian"
+
+[metrics_page_types]
+other = "Jenis"
+
+[metrics_posts]
+other = "Hantaran"
+
+[on_this_page]
+other = "Dalam halaman ini"
+
+[read_more_about]
+other = "Baca selanjutnya mengenai {{ . }}."
+
+[reading_time]
+other = "{{ .Count }} minit bacaan"

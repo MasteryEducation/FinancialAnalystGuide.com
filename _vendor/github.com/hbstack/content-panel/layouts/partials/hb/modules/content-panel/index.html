@@ -1,0 +1,14 @@
+<div
+  class="hb-content-panel-wrapper position-sticky mb-4 d-flex justify-content-center">
+  <div class="hb-content-panel d-flex shadow w-auto rounded-5 bg-body border">
+    {{- with .Translations }}
+      {{ partial "hb/modules/content-panel/translations" . }}
+    {{- end }}
+    {{- if and (default true site.Params.hb.content_panel.comments) (default true .Params.comments) }}
+      {{ partialCached "hb/modules/content-panel/comments" . }}
+    {{- end }}
+    {{- if site.Params.hb.content_panel.repo }}
+      {{ partial "hb/modules/content-panel/repo" . }}
+    {{- end }}
+  </div>
+</div>

@@ -1,0 +1,128 @@
+$hb-header-sticky: true !default;
+$hb-header-menus-alignment: "center" !default;
+$hb-header-logo-bg: null !default;
+
+:root {
+    --#{$prefix}header-navbar-active-color: var(--#{$prefix}primary);
+
+    &[data-bs-theme="dark"] {
+      --#{$prefix}header-navbar-active-color: var(--#{$prefix}primary-text-emphasis);
+    }
+}
+
+@if $hb-header-sticky {
+    html {
+        scroll-padding-top: var(--#{$prefix}top-offset);
+    }
+}
+
+.hb-header {
+    margin-bottom: calc(var(--#{$prefix}top-offset) + .5rem);
+
+    .dropdown-item {
+        --#{$prefix}dropdown-item-padding-x: 0.5rem;
+        --#{$prefix}dropdown-item-padding-y: 0.5rem;
+    }
+
+    .dropdown-item-desc {
+        font-size: 0.8rem;
+        opacity: 0.7;
+        width: max-content;
+        word-break: keep-all;
+
+        @include media-breakpoint-down($hb-header-breakpoint) {
+            max-width: 280px;
+            width: auto;
+        }
+    }
+}
+
+.hb-header-nav {
+    @if $hb-header-sticky {
+        @extend .fixed-top;
+    }
+}
+
+.hb-header-menus {
+    @if $hb-header-menus-alignment == "center" {
+        margin: auto;
+    } @else if $hb-header-menus-alignment == "end" {
+        margin-left: auto;
+    } @else {
+        margin-right: auto;
+    }
+
+    .nav-link-icon {
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        margin-right: 0.25rem;
+    }
+
+    .dropdown-item-icon {
+        color: var(--#{$prefix}body-color);
+    }
+
+    .dropdown-toggle-icon {
+        margin-left: 0.25rem;
+    }
+
+    .hb-header-menu-icon {
+        display: inline-block;
+        vertical-align: -0.125rem;
+    }
+}
+
+.hb-header-logo {
+    height: 32px;
+    width: auto;
+}
+
+@if $hb-header-logo-bg {
+    .hb-header-logo {
+        background: $hb-header-logo-bg;
+    }
+}
+
+.hb-header-submenu {
+    color: inherit;
+}
+
+.dropdown-item-child {
+    &.active {
+        @extend .text-bg-light;
+    }
+}
+
+@include media-breakpoint-up($hb-header-breakpoint) {
+    .hb-header-submenus {
+        &.show {
+          display: grid;
+          max-height: 80vh;
+          overflow: auto;
+        }
+
+        @for $cols from 2 through 2 {
+            &[data-columns="#{$cols}"] {
+                grid-template-columns: repeat($cols, 1fr);
+
+                .hb-header-submenu {
+                    .dropdown-item-desc {
+                        max-width: calc(70vw / $cols);
+                        overflow: hidden;
+                    }
+                }
+              }
+        }
+    }
+}
+
+@include media-breakpoint-down($hb-header-breakpoint) {
+    .dropdown-header {
+        text-wrap: wrap;
+    }
+}
+
+.column-span-all {
+    column-span: all;
+}
