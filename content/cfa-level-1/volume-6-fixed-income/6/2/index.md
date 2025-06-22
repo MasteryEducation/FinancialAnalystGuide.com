@@ -190,7 +190,6 @@ Yield measures aren’t just academic curiosities. They sit at the heart of fixe
 
 > **Explanation:** Yield-to-call incorporates the first call date and the call price. It is the discount rate that equates the present value of all expected coupon payments until the call date and the call redemption amount to the bond’s current price.
 
----
 
 ### Suppose a bond has a 4% annual coupon rate and trades at par. Which is generally correct for a premium bond?
 
@@ -201,7 +200,6 @@ Yield measures aren’t just academic curiosities. They sit at the heart of fixe
 
 > **Explanation:** For a premium bond (price above par), the coupon rate is above the bond’s required yield. Therefore, the coupon rate exceeds the current yield, which in turn exceeds the yield-to-maturity.
 
----
 
 ### If a bond’s coupon payments are made semiannually and you quote its yield without compounding, you’re using:
 
@@ -212,7 +210,6 @@ Yield measures aren’t just academic curiosities. They sit at the heart of fixe
 
 > **Explanation:** When we simply double the semiannual yield without considering compounding, that’s the nominal (annualized) yield.
 
----
 
 ### Yield-to-worst for a callable and putable bond is best described as:
 
@@ -223,7 +220,6 @@ Yield measures aren’t just academic curiosities. They sit at the heart of fixe
 
 > **Explanation:** Yield-to-worst picks the minimum of all possible yields (to maturity, call, or put).
 
----
 
 ### You hold a bond trading below par due to a coupon rate lower than current market rates. Which relationship is most accurate?
 
@@ -234,7 +230,6 @@ Yield measures aren’t just academic curiosities. They sit at the heart of fixe
 
 > **Explanation:** If the bond is at a discount, the yield-to-maturity is the highest figure, the current yield is intermediate, and the coupon rate is the lowest.
 
----
 
 ### A short-term U.S. Treasury bill quoted on a discount basis will generally:
 
@@ -245,7 +240,6 @@ Yield measures aren’t just academic curiosities. They sit at the heart of fixe
 
 > **Explanation:** T-bills are often quoted on a bank discount yield basis, calculated off face value on a 360-day year. This typically understates the yield compared to the bond-equivalent yield.
 
----
 
 ### Which of the following assumptions does yield-to-maturity make?
 
@@ -256,7 +250,6 @@ Yield measures aren’t just academic curiosities. They sit at the heart of fixe
 
 > **Explanation:** YTM has two main assumptions: (1) coupons are reinvested at the same yield, and (2) the bond is held until maturity. YTM doesn’t incorporate the possibility of early redemption unless you’re specifically looking at a call or put feature.
 
----
 
 ### Which statement best describes the difference between current yield and yield-to-maturity?
 
@@ -267,7 +260,6 @@ Yield measures aren’t just academic curiosities. They sit at the heart of fixe
 
 > **Explanation:** Current yield simply divides the annual coupon by price; it does not account for the time value of money or any capital appreciation or depreciation from par.
 
----
 
 ### A bond has a call feature with multiple call dates. Yield-to-worst is determined by:
 
@@ -278,7 +270,6 @@ Yield measures aren’t just academic curiosities. They sit at the heart of fixe
 
 > **Explanation:** To find yield-to-worst, analysts compute yield-to-each-call date (and yield-to-maturity if not called) and take the minimum of those yields.
 
----
 
 ### True or False: An investor can safely assume that the nominal yield is always the same as the effective annual yield.
 

@@ -140,7 +140,6 @@ Midway through diligence, it turned out the manufacturing firm’s primary custo
 
 > **Explanation:** Fiduciary duty requires placing beneficiaries’ interests ahead of personal or organizational gain. It also involves duties of loyalty, care, and comprehensive disclosure.
 
----
 
 ### In a typical co-investment scenario, how does “duty of loyalty” commonly manifest?
 
@@ -151,7 +150,6 @@ Midway through diligence, it turned out the manufacturing firm’s primary custo
 
 > **Explanation:** Duty of loyalty implies fair dealing, equitable allocations, and open disclosure of conflicts, so all investors can make informed decisions.
 
----
 
 ### An LP who invests in a co-investment deal for a pension fund has its own fiduciary responsibility because:
 
@@ -162,7 +160,6 @@ Midway through diligence, it turned out the manufacturing firm’s primary custo
 
 > **Explanation:** Pension fund managers owe fiduciary duties to the plan beneficiaries (pensioners). Even when co-investing, they must align the deal with the fund’s overall risk profile.
 
----
 
 ### Side arrangements in co-investments can pose a fiduciary issue primarily because:
 
@@ -173,7 +170,6 @@ Midway through diligence, it turned out the manufacturing firm’s primary custo
 
 > **Explanation:** Side arrangements—often undisclosed or selectively disclosed—may erode fairness and transparency, undermining fiduciary duties of loyalty and care.
 
----
 
 ### What is a recommended practice to handle conflicts of interest in co-investments?
 
@@ -184,7 +180,6 @@ Midway through diligence, it turned out the manufacturing firm’s primary custo
 
 > **Explanation:** Setting up committees, documenting policies, and ensuring full disclosure helps manage conflicts proactively, keeping the fiduciary relationship intact.
 
----
 
 ### From a fiduciary perspective, a GP who discovers material adverse information about a target investment:
 
@@ -195,7 +190,6 @@ Midway through diligence, it turned out the manufacturing firm’s primary custo
 
 > **Explanation:** The duty of care and duty of loyalty both require full and timely disclosure of all pertinent information, even if it may cause investors to back out.
 
----
 
 ### Which of the following would violate a GP’s fiduciary duty in co-investments?
 
@@ -206,7 +200,6 @@ Midway through diligence, it turned out the manufacturing firm’s primary custo
 
 > **Explanation:** Favoritism violates fairness and loyalty principles. A GP must provide a transparent process for all interested co-investors.
 
----
 
 ### What is one key role of internal compliance in a GP’s setup?
 
@@ -217,7 +210,6 @@ Midway through diligence, it turned out the manufacturing firm’s primary custo
 
 > **Explanation:** Internal compliance programs are meant to uphold ethical and fiduciary standards, ensuring transparency, fairness, and alignment with the rules.
 
----
 
 ### In co-investment deals, the concept of “duty of care” implies:
 
@@ -228,7 +220,6 @@ Midway through diligence, it turned out the manufacturing firm’s primary custo
 
 > **Explanation:** Duty of care means the GP must investigate, analyze, and make informed decisions, ensuring the co-investment is suitable and in line with fiduciary standards.
 
----
 
 ### True or False: In a co-investment arrangement, the responsibility to disclose conflicts of interest is entirely on the LP.
 

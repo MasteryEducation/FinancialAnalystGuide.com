@@ -162,7 +162,6 @@ You see that the net DTA recognized is $15 million under US GAAP but might be ‚Ç
 
 > **Explanation:** Under ASC 740, DTAs are recognized in full and then offset through a valuation allowance if needed. Under IAS 12, DTAs are recognized only when their realization is considered probable.
 
----
 
 ### When it comes to classification of deferred tax assets and liabilities, which of the following is true?
 
@@ -173,7 +172,6 @@ You see that the net DTA recognized is $15 million under US GAAP but might be ‚Ç
 
 > **Explanation:** IAS 12 treats all deferred tax items as non-current, while US GAAP can classify them as current or non-current depending on the nature of the underlying items.
 
----
 
 ### A company has uncertain tax positions. Under US GAAP (ASC 740), what is the threshold for recognizing a tax benefit?
 
@@ -184,7 +182,6 @@ You see that the net DTA recognized is $15 million under US GAAP but might be ‚Ç
 
 > **Explanation:** ASC 740 uses a ‚Äúmore likely than not‚Äù standard (i.e., greater than 50% chance) for recognizing an uncertain tax benefit.
 
----
 
 ### Under IFRS (IFRIC 23), which measurement approach can be utilized for uncertain tax positions?
 
@@ -195,7 +192,6 @@ You see that the net DTA recognized is $15 million under US GAAP but might be ‚Ç
 
 > **Explanation:** IFRS allows either expected-value (probability-weighted) or most-likely-amount approaches, depending on which method better predicts the outcome of the uncertainty.
 
----
 
 ### Which statement regarding changes in tax rates is accurate?
 
@@ -206,7 +202,6 @@ You see that the net DTA recognized is $15 million under US GAAP but might be ‚Ç
 
 > **Explanation:** IAS 12 prescribes recognition once ‚Äúsubstantive enactment‚Äù has taken place, whereas ASC 740 requires that the law be fully enacted to recognize the changes in financial statements.
 
----
 
 ### How do differences in deferred tax asset recognition thresholds between IFRS and US GAAP potentially affect net income?
 
@@ -217,7 +212,6 @@ You see that the net DTA recognized is $15 million under US GAAP but might be ‚Ç
 
 > **Explanation:** Different thresholds for recognizing deferred tax assets can lead to different amounts of deferred tax expenses or benefits, which in turn can affect net income reported in each period.
 
----
 
 ### Why might an IFRS-based financial statement reflect a new tax rate before a US GAAP-based statement?
 
@@ -228,7 +222,6 @@ You see that the net DTA recognized is $15 million under US GAAP but might be ‚Ç
 
 > **Explanation:** IFRS uses the concept of substantive enactment, which can precede the actual legal passage required by US GAAP, thus leading to earlier recognition of a new tax rate.
 
----
 
 ### Which of the following best describes the treatment of valuation allowances under IFRS?
 
@@ -239,7 +232,6 @@ You see that the net DTA recognized is $15 million under US GAAP but might be ‚Ç
 
 > **Explanation:** Under IAS 12, DTAs are recognized only when probable; thus, there is no separate ‚Äúvaluation allowance‚Äù account. If future profits are not probable, the DTA is simply not recognized.
 
----
 
 ### How can an analyst best compare the tax positions of two companies when one follows IFRS and the other follows US GAAP?
 
@@ -250,7 +242,6 @@ You see that the net DTA recognized is $15 million under US GAAP but might be ‚Ç
 
 > **Explanation:** When comparing cross-border firms, examining footnote disclosures about DTAs, DTLs, valuation allowances, and uncertain tax positions is critical to achieving an apples-to-apples analysis.
 
----
 
 ### Under IFRS, a deferred tax asset is recognized when it is ‚Äúprobable‚Äù that sufficient taxable profits will be available to utilize the tax benefit. True or False?
 

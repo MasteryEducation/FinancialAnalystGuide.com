@@ -167,7 +167,6 @@ For the CFA Level I exam, it’s crucial to remember that regulatory frameworks 
 
 > **Explanation:** A regulatory sandbox provides a monitored environment for testing new financial products or services under relaxed rules, not a complete waiver of regulation.
 
----
 
 ### Which global body primarily sets AML/CFT standards that local regulators adopt?
 
@@ -178,7 +177,6 @@ For the CFA Level I exam, it’s crucial to remember that regulatory frameworks 
 
 > **Explanation:** The FATF is the leading intergovernmental organization providing AML/CFT regulations and guidelines that member countries then integrate into their domestic laws.
 
----
 
 ### What is a major regulatory consideration for an insurtech startup using blockchain-based smart contracts for automatic claims settlement?
 
@@ -189,7 +187,6 @@ For the CFA Level I exam, it’s crucial to remember that regulatory frameworks 
 
 > **Explanation:** Automated claims may raise questions about dispute resolution and manual oversight. Regulators require clear processes for addressing errors and protecting policyholders.
 
----
 
 ### In the United States, the classification of digital assets as securities primarily depends on:
 
@@ -200,7 +197,6 @@ For the CFA Level I exam, it’s crucial to remember that regulatory frameworks 
 
 > **Explanation:** In the US, the SEC applies the Howey Test to determine if a token is a security, focusing on aspects like expectation of profit and reliance on a third party’s efforts.
 
----
 
 ### Under FATF guidelines, which procedure is crucial for Fintech/Insurtech firms handling customer funds?
 
@@ -211,7 +207,6 @@ For the CFA Level I exam, it’s crucial to remember that regulatory frameworks 
 
 > **Explanation:** FATF guidelines require robust KYC checks and ongoing transaction monitoring to deter money laundering and terrorism financing. Eliminating due diligence is not permissible.
 
----
 
 ### Which statement best describes how the EU is approaching crypto-asset regulation under MiCA?
 
@@ -222,7 +217,6 @@ For the CFA Level I exam, it’s crucial to remember that regulatory frameworks 
 
 > **Explanation:** The Markets in Crypto-Assets (MiCA) framework creates consistent licensing and disclosure requirements across EU markets, reducing the patchwork effect of single-country rules.
 
----
 
 ### A Fintech firm is evaluating whether to classify its token as a security or utility token. Which of the following factors might indicate it falls under “security token” rules?
 
@@ -233,7 +227,6 @@ For the CFA Level I exam, it’s crucial to remember that regulatory frameworks 
 
 > **Explanation:** If a token offers equity-like returns or is explicitly marketed as an investment, regulators may deem it a security. A mere access or “utility use” token typically is not.
 
----
 
 ### One major advantage of joining a regulatory sandbox is:
 
@@ -244,7 +237,6 @@ For the CFA Level I exam, it’s crucial to remember that regulatory frameworks 
 
 > **Explanation:** The core benefit of a sandbox is a controlled, limited environment to experiment with new solutions and refine compliance and risk controls before a full market launch.
 
----
 
 ### Which of the following is NOT typically a focus of insurtech regulation?
 
@@ -255,7 +247,6 @@ For the CFA Level I exam, it’s crucial to remember that regulatory frameworks 
 
 > **Explanation:** Regulators don’t generally dictate specific user interface styles. They focus on privacy, solvency, and ensuring that insurance offerings are fair and transparent.
 
----
 
 ### True or False: If a token is classified as a security token, it must comply with securities law requirements for disclosure and investor protection.
 

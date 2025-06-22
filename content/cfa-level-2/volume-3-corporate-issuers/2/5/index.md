@@ -162,7 +162,6 @@ A company pays an annual dividend of $2.50 per share on 100 million outstanding 
 
 > **Explanation:** Dividend coverage ratio (e.g., Net Income / Dividends Paid) or an FCF-based coverage measure is most critical for assessing whether the firm can continue paying (or raising) dividends while also increasing capital expenditures.  
 
----
 
 ### Question 2
 
@@ -175,7 +174,6 @@ Shareholders in a high tax bracket receive higher after-tax returns from capital
 
 > **Explanation:** Tax Preference Theory states that investors may prefer lower dividends if capital gains enjoy a more favorable tax treatment.
 
----
 
 ### Question 3
 
@@ -188,7 +186,6 @@ A firm has net income of $500 million, shares outstanding of 200 million, and a 
 
 > **Explanation:** Even if net income can cover the dividend, the firm’s actual cash demands for operations and capital investments (i.e., FCF) determine if the payout is truly sustainable without debt financing.
 
----
 
 ### Question 4
 
@@ -201,7 +198,6 @@ Which of the following best exemplifies a “red herring” in a dividend policy
 
 > **Explanation:** While large retirees as shareholders or uncertain growth can be relevant to payout decisions, personal info like a CFO’s vacation schedule usually distracts from the real data needed for policy analysis.
 
----
 
 ### Question 5
 
@@ -214,7 +210,6 @@ Consider a firm that historically followed a stable dividend policy but is now u
 
 > **Explanation:** If the CFO is publicly worried about liquidity or expansions, that suggests an agency conflict between short-term dividend demands and the firm’s capital requirements for growth.  
 
----
 
 ### Question 6
 
@@ -227,7 +222,6 @@ A firm’s residual dividend policy states that dividends are paid “only after
 
 > **Explanation:** Under a strict residual approach, higher capital investment needs directly reduce the funds available for dividends.
 
----
 
 ### Question 7
 
@@ -240,7 +234,6 @@ Which statement is most consistent with the Bird-in-Hand theory in a vignette?
 
 > **Explanation:** Bird-in-Hand suggests shareholders value prompt, tangible dividends over uncertain future capital gains.
 
----
 
 ### Question 8
 
@@ -253,7 +246,6 @@ A firm’s current dividend is $0.80 per share, net income is $800 million, and 
 
 > **Explanation:** Before raising the dividend payout ratio, the firm must ensure it has the free cash flow to sustain that higher payout.
 
----
 
 ### Question 9
 
@@ -266,7 +258,6 @@ An exam vignette describes a company that continues to pay dividends at historic
 
 > **Explanation:** Dividend smoothing is when a company maintains a consistent (or gradually growing) dividend, even if it must borrow funds to do so. This is explicitly not a residual approach.
 
----
 
 ### Question 10
 

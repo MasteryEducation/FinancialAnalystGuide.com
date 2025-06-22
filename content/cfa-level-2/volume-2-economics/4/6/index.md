@@ -131,7 +131,6 @@ Staying alert to these concepts—and calmly applying them—can make all the di
 
 > **Explanation:** Because the sum of the absolute elasticities is below 1, the depreciation will probably not improve the country’s trade balance in the long run.
 
----
 
 ### Which of the following best explains the J-Curve effect?
 
@@ -142,7 +141,6 @@ Staying alert to these concepts—and calmly applying them—can make all the di
 
 > **Explanation:** The J-Curve describes how the trade balance initially deteriorates following a currency depreciation due to short-term contracts and inertia, then eventually recovers and improves.
 
----
 
 ### If a government expands its budget deficit significantly, resulting in higher interest rates that attract foreign capital, which outcome is most likely under the twin deficits hypothesis?
 
@@ -153,7 +151,6 @@ Staying alert to these concepts—and calmly applying them—can make all the di
 
 > **Explanation:** Higher interest rates and robust foreign capital inflows typically appreciate the currency, which makes exports more expensive abroad and can lead to a current account deficit, consistent with the twin deficits hypothesis.
 
----
 
 ### In the context of the Marshall-Lerner condition, which of the following is TRUE?
 
@@ -164,7 +161,6 @@ Staying alert to these concepts—and calmly applying them—can make all the di
 
 > **Explanation:** The condition highlights that both export and import demand must be sufficiently elastic in the aggregate (sum > 1) for a depreciation to improve the trade balance.
 
----
 
 ### Which statement best captures the main reason behind an initial worsening of a country’s current account following a sharp currency depreciation?
 
@@ -175,7 +171,6 @@ Staying alert to these concepts—and calmly applying them—can make all the di
 
 > **Explanation:** Existing purchase contracts and habit persistence mean import volumes often do not decline right away, contributing to a short-run decline in the current account.
 
----
 
 ### A country with a large budget deficit is experiencing stable demand for its exports. According to the twin deficits hypothesis, which factor could most directly lead to a worsening of its current account?
 
@@ -186,7 +181,6 @@ Staying alert to these concepts—and calmly applying them—can make all the di
 
 > **Explanation:** The basic channel of the twin deficits hypothesis is that large budget deficits invite foreign capital inflows, which often strengthen the currency and can push the current account toward deficit.
 
----
 
 ### Assuming a currency depreciation takes hold, but data show import volumes are unchanged while export volumes grow slowly. Which effect might best explain this pattern?
 
@@ -197,7 +191,6 @@ Staying alert to these concepts—and calmly applying them—can make all the di
 
 > **Explanation:** This is typical of the J-Curve’s initial phase: import quantities remain the same or do not adjust quickly, while export growth is gradual.
 
----
 
 ### If a country’s trade deficit continues to worsen even after a currency depreciation, which of the following reasons might be the MOST plausible?
 
@@ -208,7 +201,6 @@ Staying alert to these concepts—and calmly applying them—can make all the di
 
 > **Explanation:** When the sum of export and import elasticities is below 1, depreciation fails to produce the desired improvement in trade balance in the longer term.
 
----
 
 ### Which best captures the relationship between long-run and short-run trade balance analysis under currency depreciation?
 
@@ -219,7 +211,6 @@ Staying alert to these concepts—and calmly applying them—can make all the di
 
 > **Explanation:** The short run is governed by the J-Curve explanation, while the longer run typically aligns with the broader elasticity framework in the Marshall-Lerner condition—provided the sum of elasticities is sufficient.
 
----
 
 ### If a government budget deficit increases interest rates and the capital account surplus grows, the currency is likely to:
 

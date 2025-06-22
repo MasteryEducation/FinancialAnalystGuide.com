@@ -174,7 +174,6 @@ If you want to be more sophisticated and you believe the variance is a function 
 
 > **Explanation:** Heteroskedasticity specifically refers to non-constant variance of errors. It does not inherently concern the sign of errors or the use of an incorrect model specification.
 
----
 
 ### Which test specifically regresses the squared residuals on the independent variables to detect heteroskedasticity?
 
@@ -185,7 +184,6 @@ If you want to be more sophisticated and you believe the variance is a function 
 
 > **Explanation:** The Breusch–Pagan (and Cook–Weisberg) test involves regressing the squared residuals on the original regressors to detect heteroskedasticity.
 
----
 
 ### Which statement correctly summarizes the impact of heteroskedasticity on OLS estimates?
 
@@ -196,7 +194,6 @@ If you want to be more sophisticated and you believe the variance is a function 
 
 > **Explanation:** Under Gauss–Markov assumptions (other than constant variance), the coefficient estimates remain unbiased, but standard errors are distorted.
 
----
 
 ### In a residual-vs.-fitted-values plot, which pattern most strongly suggests heteroskedasticity?
 
@@ -207,7 +204,6 @@ If you want to be more sophisticated and you believe the variance is a function 
 
 > **Explanation:** A “fan-shape” pattern with increasing (or decreasing) spread in residuals as fitted values grow is a common visual indicator of heteroskedasticity.
 
----
 
 ### One quick remedy if you detect heteroskedasticity in your regression is to:
 
@@ -218,7 +214,6 @@ If you want to be more sophisticated and you believe the variance is a function 
 
 > **Explanation:** Adjusting your standard errors to be robust (a.k.a. White standard errors) is a straightforward fix when you detect heteroskedasticity.
 
----
 
 ### Which of the following best describes Weighted Least Squares (WLS)?
 
@@ -229,7 +224,6 @@ If you want to be more sophisticated and you believe the variance is a function 
 
 > **Explanation:** WLS is specifically designed to handle scenarios where each observation has a different variance. You weight each observation by 1/σᵢ² for more efficient estimates, assuming you know or can estimate σᵢ².
 
----
 
 ### Assume you suspect heteroskedasticity in your cross-sectional stock returns data due to market cap differences. A logical next step might be:
 
@@ -240,7 +234,6 @@ If you want to be more sophisticated and you believe the variance is a function 
 
 > **Explanation:** If market cap is believed to affect the variance of returns (e.g., large caps have different variability than small caps), you can try WLS with an estimated variance function. Alternatively, you can simply use robust standard errors.
 
----
 
 ### White’s General Test differs from Breusch–Pagan in that:
 
@@ -251,7 +244,6 @@ If you want to be more sophisticated and you believe the variance is a function 
 
 > **Explanation:** The hallmark of White’s Test is that it’s a more general test for heteroskedasticity that doesn’t rely on specifying how variance depends on regressors.
 
----
 
 ### When is log-transforming the dependent variable particularly useful in addressing heteroskedasticity?
 
@@ -262,7 +254,6 @@ If you want to be more sophisticated and you believe the variance is a function 
 
 > **Explanation:** If the spread grows proportionally as the variable itself grows, a log transform can often stabilize variance. However, the data should be strictly positive for a direct log transform.
 
----
 
 ### True or False: Heteroskedasticity can lead to inflated or deflated t-statistics, causing potentially incorrect inferences about significance.
 

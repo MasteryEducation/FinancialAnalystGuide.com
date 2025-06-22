@@ -148,7 +148,6 @@ In the exam context, watch for item sets that blend compliance triggers with cha
 
 > **Explanation:** If interest deductibility is curbed, the tax shield falls, effectively raising Redwood’s cost of debt.
 
----
 
 ### The CFO is considering issuing convertible debentures. Which of the following is generally an advantage of convertible debentures for Redwood?
 
@@ -159,7 +158,6 @@ In the exam context, watch for item sets that blend compliance triggers with cha
 
 > **Explanation:** Investors in convertible debentures often accept a lower coupon because they value the potential equity upside. IFRS allows for split accounting, classifying certain components as equity if future conversion is possible.
 
----
 
 ### If Redwood shifts from short-term debt to a mix of equity and convertible bonds, which ratio is most likely to show an immediate improvement?
 
@@ -170,7 +168,6 @@ In the exam context, watch for item sets that blend compliance triggers with cha
 
 > **Explanation:** By reducing interest-bearing short-term debt, Redwood lowers interest expense, thus potentially boosting its interest coverage ratio (EBIT / Interest Expense).
 
----
 
 ### Redwood is worried about an opportunistic takeover attempt due to its depressed share price. Which anti-takeover measure grants existing shareholders the right to buy additional shares at a discount if an acquirer’s stake crosses a specified threshold?
 
@@ -181,7 +178,6 @@ In the exam context, watch for item sets that blend compliance triggers with cha
 
 > **Explanation:** A poison pill or shareholder rights plan triggers an ability for existing shareholders (excluding the acquirer) to purchase shares at a discount, diluting the hostile bidder’s ownership stake.
 
----
 
 ### Redwood’s CFO wants to manage the compliance burden in multiple jurisdictions. Which action could immediately lower recurring compliance costs but might reduce the firm’s investor base?
 
@@ -192,7 +188,6 @@ In the exam context, watch for item sets that blend compliance triggers with cha
 
 > **Explanation:** Delisting from a foreign market can reduce filing and auditing expenses but might cause Redwood to lose some global investor visibility and liquidity.
 
----
 
 ### Which of the following best defines “operational restructuring” in the context of compliance-driven changes?
 
@@ -203,7 +198,6 @@ In the exam context, watch for item sets that blend compliance triggers with cha
 
 > **Explanation:** Operational restructuring involves reorganizing the company’s operations—e.g., establishing subsidiaries or adjusting management structures—to better comply with varying local regulations.
 
----
 
 ### Redwood’s CFO uses scenario analysis to estimate how interest coverage could shift under different regulatory outcomes. Which statement about scenario analysis is correct?
 
@@ -214,7 +208,6 @@ In the exam context, watch for item sets that blend compliance triggers with cha
 
 > **Explanation:** Scenario analysis tests various combinations of possible events or assumptions, exploring best-, base-, and worst-case outcomes.
 
----
 
 ### Under IFRS, Redwood’s convertible debentures may be split into both an equity component and a liability component upon issuance. What drives this classification?
 
@@ -225,7 +218,6 @@ In the exam context, watch for item sets that blend compliance triggers with cha
 
 > **Explanation:** IFRS typically requires bifurcation of the convertible bond into a liability (coupon payments) and an equity component (the embedded conversion option) when the conversion meets certain criteria.
 
----
 
 ### In Redwood’s compliance-driven restructuring scenario, which cost is likely to rise as a direct result of new cross-border disclosure requirements?
 
@@ -236,7 +228,6 @@ In the exam context, watch for item sets that blend compliance triggers with cha
 
 > **Explanation:** Additional disclosure mandates typically translate into higher legal and auditing fees, plus training and reporting software needs—thereby increasing compliance costs.
 
----
 
 ### True or False: CFA charterholders involved in Redwood’s restructuring may provide selective disclosure of material changes to a small group of investors before informing the public.
 

@@ -129,7 +129,6 @@ Remember, the payoff is substantial: by the time you’re done, you should be fu
 
 > **Explanation:** Level II focuses on item set or vignette-based questions that demand a deeper application of multiple concepts within a single scenario.
 
----
 
 ### One of the hallmark changes at Level II is the introduction of multi-step calculations. Which of the following scenarios best illustrates this concept?
 
@@ -140,7 +139,6 @@ Remember, the payoff is substantial: by the time you’re done, you should be fu
 
 > **Explanation:** Level II item sets often combine multiple analytical steps within a single vignette (EPS changes, debt ratio, WACC changes, etc.), reflecting real case complexities.
 
----
 
 ### According to the Modigliani–Miller proposition (with no taxes), which statement is most accurate?
 
@@ -151,7 +149,6 @@ Remember, the payoff is substantial: by the time you’re done, you should be fu
 
 > **Explanation:** Under the MM proposition (no taxes), a firm’s value is unaffected by whether it finances itself with debt or equity, assuming no transaction costs and no bankruptcy costs.
 
----
 
 ### Which of the following best characterizes an “item set” or “vignette” at Level II?
 
@@ -162,7 +159,6 @@ Remember, the payoff is substantial: by the time you’re done, you should be fu
 
 > **Explanation:** Level II item sets feature a case (vignette) that describes a scenario in detail, followed by multiple questions referencing the same information.
 
----
 
 ### When approaching a vignette concerning cost of capital and dividend policy, candidates should do what first?
 
@@ -173,7 +169,6 @@ Remember, the payoff is substantial: by the time you’re done, you should be fu
 
 > **Explanation:** Many candidates find success by quickly previewing the type of questions asked, then reading the scenario carefully with those questions in mind to locate key information.
 
----
 
 ### Which is a common pitfall when converting Level I knowledge into Level II practice?
 
@@ -184,7 +179,6 @@ Remember, the payoff is substantial: by the time you’re done, you should be fu
 
 > **Explanation:** Time pressure and dense text can lead candidates to miss key details, which can derail all subsequent computations and analyses.
 
----
 
 ### A vignette discusses a company under pressure to increase its dividend payout. Which concept from Level I is crucial to apply here?
 
@@ -195,7 +189,6 @@ Remember, the payoff is substantial: by the time you’re done, you should be fu
 
 > **Explanation:** Dividend signaling and the bird-in-hand theory are key to understanding how increasing dividends might affect investor perception and share valuation.
 
----
 
 ### In which way might items within a single vignette be interconnected?
 
@@ -206,7 +199,6 @@ Remember, the payoff is substantial: by the time you’re done, you should be fu
 
 > **Explanation:** The Level II exam is designed so that multiple questions build on the same scenario. A calculation in one question may help solve the next.
 
----
 
 ### A typical multi-step vignette requiring capital budgeting analysis might include all of the following steps EXCEPT:
 
@@ -217,7 +209,6 @@ Remember, the payoff is substantial: by the time you’re done, you should be fu
 
 > **Explanation:** While government bond yields influence discount rates, a direct question about calculating the future yield in isolation is unlikely. Capital budgeting vignettes focus on project cash flows, discount rates, and relevant tax/shield aspects.
 
----
 
 ### True or False: In Level II, revisiting fundamental theories from Level I—like Modigliani–Miller or the basics of capital budgeting—is unnecessary because the exam does not test foundational knowledge again.
 

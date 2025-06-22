@@ -236,7 +236,6 @@ And if you’re someone who has to juggle a portfolio containing all sorts of ex
 
 > **Explanation:** Macaulay Duration is the time-weighted measure (in years) of a bond’s cash flows, reflecting when, on average, the investor will recoup the bond’s price in present value terms.
 
----
 
 ### If a bond’s Macaulay Duration is 8 years and the yield is 6%, what is the Modified Duration (assuming annual compounding)?
 
@@ -247,7 +246,6 @@ And if you’re someone who has to juggle a portfolio containing all sorts of ex
 
 > **Explanation:** Modified Duration = Macaulay Duration ÷ (1 + yield) = 8 ÷ 1.06 ≈ 7.55.
 
----
 
 ### Which duration measure specifically accounts for changes in bond cash flows due to embedded options?
 
@@ -258,7 +256,6 @@ And if you’re someone who has to juggle a portfolio containing all sorts of ex
 
 > **Explanation:** Effective Duration is designed for callable, putable, or otherwise option-embedded bonds where actual cash flow timing can shift with changes in interest rates.
 
----
 
 ### A standard coupon bond with no embedded options is most accurately analyzed by:
 
@@ -269,7 +266,6 @@ And if you’re someone who has to juggle a portfolio containing all sorts of ex
 
 > **Explanation:** For a vanilla bond, Macaulay Duration and Modified Duration offer reliable insights. Effective Duration is critical only when cash flows are uncertain.
 
----
 
 ### For an immunization strategy, one typically matches:
 
@@ -280,7 +276,6 @@ And if you’re someone who has to juggle a portfolio containing all sorts of ex
 
 > **Explanation:** Immunization is the strategy of offsetting interest rate risk by aligning a portfolio’s duration with liability duration.
 
----
 
 ### If yield changes are very large, Modified Duration’s estimate of price change can be significantly off because:
 
@@ -291,7 +286,6 @@ And if you’re someone who has to juggle a portfolio containing all sorts of ex
 
 > **Explanation:** Modified Duration is based on a linear assumption, and large changes in yield require a convexity adjustment to accurately measure price changes.
 
----
 
 ### Which of the following best describes a key difference between Modified Duration and Macaulay Duration?
 
@@ -302,7 +296,6 @@ And if you’re someone who has to juggle a portfolio containing all sorts of ex
 
 > **Explanation:** Modified Duration = Macaulay Duration ÷ (1 + y). This relationship outlines how Macaulay Duration is converted into a measure of price sensitivity for a 1% yield change.
 
----
 
 ### When a callable bond is likely to be called if yields fall, its price appreciation:
 
@@ -313,7 +306,6 @@ And if you’re someone who has to juggle a portfolio containing all sorts of ex
 
 > **Explanation:** An embedded call option caps the bond’s price appreciation in a falling rate environment, which lowers the bond’s Effective Duration.
 
----
 
 ### In calculating duration for a mortgage-backed security, the biggest complication is:
 
@@ -324,7 +316,6 @@ And if you’re someone who has to juggle a portfolio containing all sorts of ex
 
 > **Explanation:** Mortgage-backed securities come with uncertain prepayment schedules, requiring Effective Duration to capture changing cash flow patterns.
 
----
 
 ### True or False: Matching your portfolio’s Macaulay Duration to your investment horizon ensures zero price volatility in all scenarios.
 

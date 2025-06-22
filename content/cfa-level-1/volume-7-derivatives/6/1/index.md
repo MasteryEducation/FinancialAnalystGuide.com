@@ -146,7 +146,6 @@ I once knew a small importer who tried to cover overseas currency exposure by bu
 
 > **Explanation:** Basis risk arises when the price of the hedging instrument doesn’t move in perfect tandem with the underlying, so it may not fully offset gains or losses.
 
----
 
 ### A company with a large anticipated purchase of oil in six months is most likely to use which of the following to lock in its acquisition cost?
 
@@ -157,7 +156,6 @@ I once knew a small importer who tried to cover overseas currency exposure by bu
 
 > **Explanation:** To guard against rising oil prices, the firm would go long an oil futures contract and lock in the purchase price.
 
----
 
 ### What is an aspect of dynamic hedging in options?
 
@@ -168,7 +166,6 @@ I once knew a small importer who tried to cover overseas currency exposure by bu
 
 > **Explanation:** Dynamic (or delta) hedging involves frequently rebalancing the position in the underlying to keep the net delta near zero.
 
----
 
 ### An airline that wants to manage fuel costs for the next year decides to regularly replace expiring fuel futures contracts with new longer-dated contracts. This practice is known as:
 
@@ -179,7 +176,6 @@ I once knew a small importer who tried to cover overseas currency exposure by bu
 
 > **Explanation:** A rolling hedge involves continually extending hedges by entering new contracts as old ones expire.
 
----
 
 ### In a short hedge, a producer of corn concerned about price declines would:
 
@@ -190,7 +186,6 @@ I once knew a small importer who tried to cover overseas currency exposure by bu
 
 > **Explanation:** A short hedge typically involves selling futures contracts to offset potential price declines on the underlying commodity.
 
----
 
 ### Which of the following statements about cost of carry is correct?
 
@@ -201,7 +196,6 @@ I once knew a small importer who tried to cover overseas currency exposure by bu
 
 > **Explanation:** Cost of carry includes all expenses (like storage, insurance, and borrowed funds) for holding the physical commodity and is reflected in futures/forward pricing.
 
----
 
 ### Overhedging occurs when:
 
@@ -212,7 +206,6 @@ I once knew a small importer who tried to cover overseas currency exposure by bu
 
 > **Explanation:** Overhedging means the hedge exceeds the underlying exposure, potentially flipping the position to an opposite exposure rather than just covering the risk.
 
----
 
 ### What is the main objective of hedge ratio determination?
 
@@ -223,7 +216,6 @@ I once knew a small importer who tried to cover overseas currency exposure by bu
 
 > **Explanation:** The hedge ratio determines how many (or how much) of the derivative instruments are needed to offset a given exposure.
 
----
 
 ### Which of the following best describes a perfect hedge?
 
@@ -234,7 +226,6 @@ I once knew a small importer who tried to cover overseas currency exposure by bu
 
 > **Explanation:** A perfect hedge theoretically removes all risk, though this is seldom achievable in practice due to basis risk and other market frictions.
 
----
 
 ### True or False: When hedge effectiveness is measured, a high correlation between the hedging instrument and the underlying exposure typically suggests a more effective hedge.
 

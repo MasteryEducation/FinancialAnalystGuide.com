@@ -137,7 +137,6 @@ The best defense is a well-constructed global code of conduct that balances resp
 
 > **Explanation:** Firms face different regulatory and cultural landscapes in each jurisdiction. These variations often necessitate carefully designed global codes of conduct to consistently manage ethical standards.
 
----
 
 ### 2. Which concept suggests that the morality of an action depends largely on the social norms of a particular culture?
 
@@ -148,7 +147,6 @@ The best defense is a well-constructed global code of conduct that balances resp
 
 > **Explanation:** Cultural relativism holds that local cultural norms determine whether something is considered ethical or unethical.
 
----
 
 ### 3. A Global Code of Conduct within a multinational investment firm should do which of the following?
 
@@ -159,7 +157,6 @@ The best defense is a well-constructed global code of conduct that balances resp
 
 > **Explanation:** A well-crafted Global Code of Conduct offers broad standards of integrity but leaves room for responsible adaptation across different jurisdictions.
 
----
 
 ### 4. In reconciling conflicts between home-country rules and host-country norms, a recommended strategy is:
 
@@ -170,7 +167,6 @@ The best defense is a well-constructed global code of conduct that balances resp
 
 > **Explanation:** When local and global norms clash, adopting the stricter ethical or regulatory standard helps ensure integrity and consistency in professional conduct.
 
----
 
 ### 5. Which phenomenon most significantly contributes to increasing cross-border transactions?
 
@@ -181,7 +177,6 @@ The best defense is a well-constructed global code of conduct that balances resp
 
 > **Explanation:** Technology, especially digital platforms and rapid communications, accelerates cross-border transactions by simplifying global reach.
 
----
 
 ### 6. Professional associations like the CFA Institute can help global investment firms by:
 
@@ -192,7 +187,6 @@ The best defense is a well-constructed global code of conduct that balances resp
 
 > **Explanation:** Organizations like the CFA Institute create broadly accepted ethical frameworks that guide practitioners worldwide, bridging local variations in ethics and regulations.
 
----
 
 ### 7. What is the best way to handle gift-giving in cultures where it is customary to provide significant gifts?
 
@@ -216,7 +210,6 @@ The best defense is a well-constructed global code of conduct that balances resp
 
 > **Explanation:** Failing to train local offices opens the door to inconsistent or incorrect compliance practices, jeopardizing global ethical standards.
 
----
 
 ### 9. In the context of data privacy and technology, which statement is most accurate?
 
@@ -227,7 +220,6 @@ The best defense is a well-constructed global code of conduct that balances resp
 
 > **Explanation:** With the interconnected nature of data systems, a breach in one office can damage trust at a global scale, necessitating robust and unified data protection efforts.
 
----
 
 ### 10. True or False: Cultural Relativism means that a global firm should ignore universal ethical principles in favor of local norms.
 

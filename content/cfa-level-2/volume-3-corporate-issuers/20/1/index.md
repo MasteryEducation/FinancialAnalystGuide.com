@@ -149,7 +149,6 @@ Ultimately, the best boards embrace a culture of transparency, active dialogue, 
 
 > **Explanation:** The board of directors oversees the firm's strategic direction and ensures management acts in shareholders' best interests. They do not handle daily operations or guarantee the highest share price.
 
----
 
 ### What is the main benefit of having an independent director on the board?
 
@@ -160,7 +159,6 @@ Ultimately, the best boards embrace a culture of transparency, active dialogue, 
 
 > **Explanation:** Independent directors lack ties to the company's management or major shareholders, helping foster objective decision-making and limit conflicts.
 
----
 
 ### In structuring the audit committee, which of the following is most aligned with best practice?
 
@@ -171,7 +169,6 @@ Ultimately, the best boards embrace a culture of transparency, active dialogue, 
 
 > **Explanation:** Best practice requires independence from management and the presence of a “financial expert” to ensure meaningful oversight of financial reporting and auditing practices.
 
----
 
 ### Which of the following would be a sign of strong compensation committee governance?
 
@@ -182,7 +179,6 @@ Ultimately, the best boards embrace a culture of transparency, active dialogue, 
 
 > **Explanation:** Aligning compensation with long-term performance and ensuring that the committee—not the CEO—sets pay fosters accountability and incentive alignment with shareholders.
 
----
 
 ### Which committee typically evaluates the skill sets needed among directors and oversees board succession planning?
 
@@ -193,7 +189,6 @@ Ultimately, the best boards embrace a culture of transparency, active dialogue, 
 
 > **Explanation:** The nomination/governance committee identifies board composition needs, recruits new directors, and manages succession. Other committees focus on financial reporting, risk, or executive compensation.
 
----
 
 ### How might a dedicated risk committee differ from an audit committee in its primary focus?
 
@@ -204,7 +199,6 @@ Ultimately, the best boards embrace a culture of transparency, active dialogue, 
 
 > **Explanation:** While audit committees concentrate on financial reporting integrity and internal controls, a dedicated risk committee monitors broader risks (e.g., credit risk, market risk, operational risk).
 
----
 
 ### If a company's directors rarely question management and meetings end quickly with no records of disagreement, this often indicates:
 
@@ -215,7 +209,6 @@ Ultimately, the best boards embrace a culture of transparency, active dialogue, 
 
 > **Explanation:** Too little debate and no dissent signals a potential lack of rigorous oversight. Effective boards typically engage in thorough discussions that are documented in meeting minutes.
 
----
 
 ### What is one reason why mandatory director retirement ages are sometimes implemented?
 
@@ -226,7 +219,6 @@ Ultimately, the best boards embrace a culture of transparency, active dialogue, 
 
 > **Explanation:** Mandatory retirement policies prompt director turnover, helping keep board discussions lively and preventing entrenchment.
 
----
 
 ### Why might splitting the roles of CEO and board chairperson enhance corporate governance?
 
@@ -237,7 +229,6 @@ Ultimately, the best boards embrace a culture of transparency, active dialogue, 
 
 > **Explanation:** Separating CEO and chair roles (or appointing a lead independent director) can strengthen checks and balances and guard against excessive influence by a single individual.
 
----
 
 ### A board that diligently incorporates climate risk assessment into its strategic planning is most likely:
 

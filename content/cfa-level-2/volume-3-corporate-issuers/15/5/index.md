@@ -257,7 +257,6 @@ It’s rarely simple. But with careful planning, ongoing communication with lend
 
 > **Explanation:** Secured debt typically offers lenders collateral, which lowers their risk exposure. Thus, the quality and availability of pledgeable collateral most strongly influence the interest rate spread relative to unsecured debt.
 
----
 
 ### A firm’s existing coverage covenant requires maintaining a ratio of at least 3.0. Currently, its EBITDA is USD 60 million, and interest expense is USD 18 million. It plans to take on new debt that will add USD 3 million to annual interest expense. What will be the new coverage ratio, and does it breach the covenant?
 - [ ] 2.7 coverage ratio; does not breach covenant
@@ -267,7 +266,6 @@ It’s rarely simple. But with careful planning, ongoing communication with lend
 
 > **Explanation:** Current coverage = USD 60M / USD 18M = 3.33. After adding USD 3M of interest, total interest = 21M, so coverage = 60 / 21 ≈ 2.86, which further reduces to about 2.86 if you keep precision. (Rounded more precisely: 2.86, or about 2.9 if approximated. This is below 3.0, thus breaching the covenant. The correct numeric value is around 2.86, so we interpret that as a breach of a 3.0 threshold.)
 
----
 
 ### Which factor is generally more restrictive in a syndicated loan agreement compared to a public bond issue?
 - [ ] The ability to refinance at maturity
@@ -277,7 +275,6 @@ It’s rarely simple. But with careful planning, ongoing communication with lend
 
 > **Explanation:** Syndicated loans are typically arranged by banks with more stringent financial covenants (e.g., tighter coverage or leverage thresholds) than public bond markets, which often have simpler, less restrictive covenants.
 
----
 
 ### A company has an interest coverage covenant of 2.5 in both its existing bond and new proposed loan. Which clause could trigger a cross-default if the company breaches the coverage ratio on the loan?
 - [ ] Call protection clause
@@ -287,7 +284,6 @@ It’s rarely simple. But with careful planning, ongoing communication with lend
 
 > **Explanation:** A cross-default clause stipulates that a default on one obligation is considered a default on all other obligations. If the loan’s covenant is breached, the cross-default clause would trigger a default on the bond as well.
 
----
 
 ### If a new project does not generate immediate EBITDA uplift, which calculation is most valuable to understand the impact of fresh debt on the firm’s financial health?
 - [ ] Discounted Payback Period
@@ -297,7 +293,6 @@ It’s rarely simple. But with careful planning, ongoing communication with lend
 
 > **Explanation:** Because the new project might not raise EBITDA in the short term, pro forma interest coverage (EBITDA/Interest) best reveals whether the firm can meet interest payments before any project returns materialize.
 
----
 
 ### A company’s CFO is worried about near-term interest rate hikes. Which financing option likely aligns best with mitigating this risk?
 - [ ] A short-term floating rate note
@@ -307,7 +302,6 @@ It’s rarely simple. But with careful planning, ongoing communication with lend
 
 > **Explanation:** A long-term fixed-rate bond locks in the interest cost, shielding the company from future interest rate increases.
 
----
 
 ### Which event might cause a rating agency to downgrade a firm after issuing more debt?
 - [x] A significant increase in leverage without growth in operating cash flow
@@ -317,7 +311,6 @@ It’s rarely simple. But with careful planning, ongoing communication with lend
 
 > **Explanation:** Ratings typically hinge on leverage and cash flows. If debt rises sharply and operating cash flow does not keep pace, that could trigger a rating downgrade.
 
----
 
 ### A firm’s board is debating between a syndicated loan and a public bond. Which factor is most likely to sway them toward the syndicated loan?
 - [x] Desire for potentially faster execution and negotiation
@@ -327,7 +320,6 @@ It’s rarely simple. But with careful planning, ongoing communication with lend
 
 > **Explanation:** Syndicated loans can often be arranged relatively quickly through a group of banks, which might help the firm meet time-sensitive funding needs (e.g., an acquisition). While covenant restrictions in syndicated loans are often higher than public bonds, the speed and direct negotiation can be advantageous.
 
----
 
 ### In what scenario might a cross-default clause be considered especially risky?
 - [x] When a company’s existing debt has tight covenants and is nearing threshold limits
@@ -337,7 +329,6 @@ It’s rarely simple. But with careful planning, ongoing communication with lend
 
 > **Explanation:** If covenants are already tight, a minor breach in one debt agreement can trigger cross-default on other obligations, exacerbating liquidity or solvency issues.
 
----
 
 ### A firm is analyzing new debt structures in a scenario where it has high uncertainty about future cash flows. True or False: “Conducting sensitivity and scenario analyses on key variables (interest rates, EBITDA) is a waste of time and highly discouraged by rating agencies.”
 - [ ] True

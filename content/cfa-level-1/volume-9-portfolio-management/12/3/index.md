@@ -195,7 +195,6 @@ From an exam standpoint, remember to demonstrate how these classifications tie i
 
 > **Explanation:** GICS focuses on grouping companies by their business activities into sectors and further subdivisions, making it easier to analyze and compare how each sector behaves.
 
----
 
 ### Which metric is commonly associated with identifying value stocks?
 
@@ -206,7 +205,6 @@ From an exam standpoint, remember to demonstrate how these classifications tie i
 
 > **Explanation:** Value investors typically look for undervalued companies, often indicated by a low P/B ratio.
 
----
 
 ### Which sector is generally considered defensive?
 
@@ -217,7 +215,6 @@ From an exam standpoint, remember to demonstrate how these classifications tie i
 
 > **Explanation:** Defensive sectors (Consumer Staples, Health Care, Utilities) usually have stable revenues regardless of economic upswings or downturns.
 
----
 
 ### Suppose a manager believes the economy is entering a late expansion phase. What sector tilt might they adopt to reduce downside risk?
 
@@ -228,7 +225,6 @@ From an exam standpoint, remember to demonstrate how these classifications tie i
 
 > **Explanation:** As the cycle matures, managers often shift to defensive sectors to mitigate downturn risk.
 
----
 
 ### In a situation where interest rates are predicted to rise significantly, which statement is most accurate?
 
@@ -239,7 +235,6 @@ From an exam standpoint, remember to demonstrate how these classifications tie i
 
 > **Explanation:** Rising rates generally increase the discount rate used in valuation models, which disproportionately impacts growth stocks whose cash flows are further in the future.
 
----
 
 ### What is style drift in the context of portfolio management?
 
@@ -250,7 +245,6 @@ From an exam standpoint, remember to demonstrate how these classifications tie i
 
 > **Explanation:** Style drift occurs when a portfolio’s characteristics evolve from the original style, often without the manager realizing it.
 
----
 
 ### Which of the following is a true statement regarding blend (or core) investing?
 
@@ -261,7 +255,6 @@ From an exam standpoint, remember to demonstrate how these classifications tie i
 
 > **Explanation:** A blend approach mixes both value and growth characteristics and can include various market capitalizations.
 
----
 
 ### An investor decides to overweight the Information Technology sector by 4% and underweight Financials by 3% relative to the benchmark. This approach is most directly associated with:
 
@@ -272,7 +265,6 @@ From an exam standpoint, remember to demonstrate how these classifications tie i
 
 > **Explanation:** Adjusting exposures relative to a benchmark by overweighting or underweighting specific sectors reflects a tactical allocation or sector rotation strategy.
 
----
 
 ### When constructing a sector-based portfolio, which of the following risks is the most concerning if not properly managed?
 
@@ -283,7 +275,6 @@ From an exam standpoint, remember to demonstrate how these classifications tie i
 
 > **Explanation:** Overconcentration in one sector can lead to outsized drawdowns if that sector performs poorly.
 
----
 
 ### True or False: Value stocks always outperform growth stocks in periods of rising inflation.
 

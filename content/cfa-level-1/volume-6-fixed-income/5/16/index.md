@@ -221,7 +221,6 @@ To do well with leveraged finance—whether you’re a sponsor, a lender, or an 
 
 > **Explanation:** In an LBO, the sponsor uses a high proportion of borrowed money (leveraged finance) to acquire a company, intending to amplify returns on the equity portion.
 
----
 
 ### Which type of covenant is tested periodically to ensure the borrower meets specific financial metrics, such as leverage ratios?
 
@@ -232,7 +231,6 @@ To do well with leveraged finance—whether you’re a sponsor, a lender, or an 
 
 > **Explanation:** Maintenance covenants are tested regularly (e.g., quarterly) and require the borrower to maintain defined financial measures like maximum Debt/EBITDA.
 
----
 
 ### Within a leveraged capital structure, which debt layer typically carries the highest risk and offers the greatest potential yield?
 
@@ -243,7 +241,6 @@ To do well with leveraged finance—whether you’re a sponsor, a lender, or an 
 
 > **Explanation:** Mezzanine debt is subordinate to senior and sometimes junior debt, takes on more risk, and often demands higher interest rates or equity kickers.
 
----
 
 ### How does a covenant-lite loan affect the lender-borrower relationship?
 
@@ -254,7 +251,6 @@ To do well with leveraged finance—whether you’re a sponsor, a lender, or an 
 
 > **Explanation:** Covenant-lite loans commonly reduce maintenance covenants, providing borrowers with greater freedom and reduced lender oversight.
 
----
 
 ### A private equity firm invests 30% equity in a $400 million acquisition with 70% debt. If the exit value is $700 million and the debt remains constant, what is the equity multiple?
 
@@ -281,7 +277,6 @@ The correct multiple is 3.5×. The previously displayed answer of 2.83× is inco
 
 > **Explanation:** After repaying the $280 million debt outstanding, the sponsor retains $420 million. Dividing by the original equity of $120 million yields 3.5×.
 
----
 
 ### Which of these instruments is typically unsecured and offers a higher coupon rate compared to investment-grade bonds?
 
@@ -292,7 +287,6 @@ The correct multiple is 3.5×. The previously displayed answer of 2.83× is inco
 
 > **Explanation:** High-yield bonds are generally unsecured and offer higher yields.
 
----
 
 ### In a typical LBO, the expected holding period for a sponsor’s investment is usually:
 
@@ -303,7 +297,6 @@ The correct multiple is 3.5×. The previously displayed answer of 2.83× is inco
 
 > **Explanation:** Most private equity sponsors have a medium-term horizon, commonly 3 to 7 years.
 
----
 
 ### When a leveraged buyout fails and the company’s cash flow can no longer support interest payments, which of the following scenarios is most likely?
 
@@ -314,7 +307,6 @@ The correct multiple is 3.5×. The previously displayed answer of 2.83× is inco
 
 > **Explanation:** If the target cannot service its debt, lenders and the sponsor must negotiate new terms or follow formal bankruptcy processes.
 
----
 
 ### What is one primary reason private equity sponsors might favor incurrence covenants over maintenance covenants?
 
@@ -325,7 +317,6 @@ The correct multiple is 3.5×. The previously displayed answer of 2.83× is inco
 
 > **Explanation:** Incurrence covenants are triggered by events such as issuing dividends, taking on additional debt, or making acquisitions—rather than being continuously tested.
 
----
 
 ### True or False: A successful LBO exit can occur via an IPO or a strategic sale, potentially repaying the leveraged debt and creating realized returns for the sponsor.
 

@@ -195,7 +195,6 @@ Staying on top of covenant compliance is also critical—failing to do so can le
 
 > **Explanation:** A debt covenant is a clause in a loan or bond agreement that requires (positive covenant) or prohibits (negative covenant) certain actions, ensuring lenders’ interests are safeguarded.
 
----
 
 ### An example of a negative (restrictive) covenant is:
 
@@ -206,7 +205,6 @@ Staying on top of covenant compliance is also critical—failing to do so can le
 
 > **Explanation:** By restricting additional debt issuance, the lender retains the senior status and mitigates risk. The other items listed are examples of affirmative covenants or financial maintenance clauses.
 
----
 
 ### Which outcome is a likely consequence of breaching a financial covenant?
 
@@ -217,7 +215,6 @@ Staying on top of covenant compliance is also critical—failing to do so can le
 
 > **Explanation:** Violating a covenant constitutes a technical default. It can result in measures that force the borrower to cure the breach or face acceleration and other penalties.
 
----
 
 ### What is a maintenance covenant?
 
@@ -228,7 +225,6 @@ Staying on top of covenant compliance is also critical—failing to do so can le
 
 > **Explanation:** Maintenance covenants require borrowers to meet certain thresholds or ratios constantly or at regular intervals (e.g., quarterly), rather than only when a new action is taken.
 
----
 
 ### Suppose a company agrees to a covenant setting its maximum Debt/EBITDA ratio at 4.0. If the firm’s current Debt/EBITDA is 3.9 and is forecast to rise to 4.1 next quarter, what’s the best approach?
 
@@ -239,7 +235,6 @@ Staying on top of covenant compliance is also critical—failing to do so can le
 
 > **Explanation:** If the firm sees an imminent breach, proactively addressing it with lenders can lead to less punitive outcomes (e.g., a waiver, adjusting the capital structure, or renegotiating terms).
 
----
 
 ### Which of the following might limit a company’s ability to pay dividends?
 
@@ -250,7 +245,6 @@ Staying on top of covenant compliance is also critical—failing to do so can le
 
 > **Explanation:** Negative covenants related to dividends often tie dividend limits to financial metrics such as leverage. If the company’s ratio is too high, dividends may be restricted.
 
----
 
 ### Affirmative covenants typically include which of the following actions by the borrower?
 
@@ -261,7 +255,6 @@ Staying on top of covenant compliance is also critical—failing to do so can le
 
 > **Explanation:** Submitting annual (or quarterly) financial statements is indeed an example of an affirmative covenant, as is ensuring compliance with other operational or reporting requirements. Negative covenants are restrictions, while affirmative covenants require positive actions.
 
----
 
 ### If a lender grants a waiver for a covenant breach, it typically means:
 
@@ -272,7 +265,6 @@ Staying on top of covenant compliance is also critical—failing to do so can le
 
 > **Explanation:** A waiver is a temporary measure that allows the borrower to remain in good standing despite the breach. It often comes with additional fees or adjustments.
 
----
 
 ### Why might a firm negotiate fewer, less restrictive covenants?
 
@@ -283,7 +275,6 @@ Staying on top of covenant compliance is also critical—failing to do so can le
 
 > **Explanation:** Fewer or less restrictive covenants enable the company to pursue expansions, acquisitions, or operational changes without seeking lender consent. However, this often means a higher interest rate for the added risk.
 
----
 
 ### A “technical default” can occur even when scheduled payments to lenders are current.
 

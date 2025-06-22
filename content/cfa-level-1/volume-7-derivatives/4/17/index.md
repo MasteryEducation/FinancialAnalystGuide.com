@@ -219,7 +219,6 @@ Overall, volatility-targeting strategies using options combine engineering-like 
 
 > **Explanation:** Volatility targeting ensures a systematic strategy keeps the portfolio’s actual volatility at or near a desired level. It does not eliminate all risk, nor does it necessarily track the VIX specifically.  
 
----
 
 ### A manager notices realized volatility has dropped below the target in a multi-asset portfolio. Which action might the manager take?
 
@@ -230,7 +229,6 @@ Overall, volatility-targeting strategies using options combine engineering-like 
 
 > **Explanation:** If volatility is below target, the manager may seek to increase volatility exposure by being net long options (buying premium). Selling options would reduce volatility exposure.  
 
----
 
 ### What is one reason for using a threshold-based rebalancing approach instead of daily rebalancing?
 
@@ -241,7 +239,6 @@ Overall, volatility-targeting strategies using options combine engineering-like 
 
 > **Explanation:** Threshold-based rebalancing (e.g., only rebalance if realized volatility deviates from target by ±2%) can reduce trading frequency and costs.  
 
----
 
 ### In a tail-risk hedging context, how might out-of-the-money put options be used within a volatility-targeting strategy?
 
@@ -252,7 +249,6 @@ Overall, volatility-targeting strategies using options combine engineering-like 
 
 > **Explanation:** Out-of-the-money puts act like insurance against a sharp market drop, mitigating tail-risk in a volatility-targeted portfolio.  
 
----
 
 ### Which of the following best describes the relationship between realized and implied volatility in the context of volatility-targeting strategies?
 
@@ -263,7 +259,6 @@ Overall, volatility-targeting strategies using options combine engineering-like 
 
 > **Explanation:** A manager looks for discrepancies between implied vs. realized. When implied is lower than realized, options can be seen as “cheap,” and vice versa.  
 
----
 
 ### Why can frequent adjustments in a volatility-targeting strategy be problematic?
 
@@ -274,7 +269,6 @@ Overall, volatility-targeting strategies using options combine engineering-like 
 
 > **Explanation:** Too many trades can rack up commissions, bid–ask spreads, and slippage, undermining the benefits of volatility targeting.  
 
----
 
 ### What is a major consequence if several large, volatility-targeting funds de-risk at the same time?
 
@@ -285,7 +279,6 @@ Overall, volatility-targeting strategies using options combine engineering-like 
 
 > **Explanation:** If many market participants simultaneously sell risky assets to lower volatility, the move can magnify price declines and possibly spur a broader sell-off.  
 
----
 
 ### Which of the following is a common pitfall of volatility-targeting strategies?
 
@@ -296,7 +289,6 @@ Overall, volatility-targeting strategies using options combine engineering-like 
 
 > **Explanation:** Many volatility-targeting models use historical-based or simplistic volatility measures. Market regimes can shift abruptly in a crisis, rendering such models inaccurate.  
 
----
 
 ### A manager is concerned about the cost of maintaining purchased options. Which approach might help offset premium costs?
 
@@ -307,7 +299,6 @@ Overall, volatility-targeting strategies using options combine engineering-like 
 
 > **Explanation:** Vertical spreads, like call spreads or put spreads, can reduce upfront premium outlay by selling one option to partially offset the costs of the other.  
 
----
 
 ### True or False: Volatility-targeting portfolios always experience lower drawdowns than portfolios without volatility targeting.
 

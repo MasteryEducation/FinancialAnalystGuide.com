@@ -193,7 +193,6 @@ If Sustaino-Tech Inc. had to pay the entire $20 million fine immediately, that r
 
 > **Explanation:** Relative measures, such as “carbon emissions per $1 million of revenue,” normalize the data and reveal efficiency, unlike the absolute measure of total emissions.
 
----
 
 ### 2. A company facing repeated environmental fines for wastewater discharge wants to show a “cleaner” profitability metric. Which is the most appropriate step?
 
@@ -204,7 +203,6 @@ If Sustaino-Tech Inc. had to pay the entire $20 million fine immediately, that r
 
 > **Explanation:** Firms often use adjusted metrics (e.g., Adjusted EBIT) to isolate nonrecurring events, but they must clearly disclose them, especially if the events are repeated.
 
----
 
 ### 3. Analyzing employee turnover over multiple periods as an ESG metric can help:
 
@@ -215,7 +213,6 @@ If Sustaino-Tech Inc. had to pay the entire $20 million fine immediately, that r
 
 > **Explanation:** Tracking employee turnover helps assess the sustainability of the workforce, which can affect labor costs and productivity over time.
 
----
 
 ### 4. A firm’s greenhouse gas intensity decreases yearly. This most likely indicates:
 
@@ -226,7 +223,6 @@ If Sustaino-Tech Inc. had to pay the entire $20 million fine immediately, that r
 
 > **Explanation:** A downward trend in greenhouse gas intensity typically signals the firm is producing fewer emissions per unit of output, implying greater efficiency.
 
----
 
 ### 5. If a major product recall leads to a spike in warranty expenses for a car manufacturer, how should an analyst treat this for ESG-adjusted ratio analysis?
 
@@ -237,7 +233,6 @@ If Sustaino-Tech Inc. had to pay the entire $20 million fine immediately, that r
 
 > **Explanation:** Product recalls may reflect broader governance or supply chain management issues, so an ESG-adjusted view might itemize them separately to gauge operational sustainable profit.
 
----
 
 ### 6. When a firm’s controversy score repeatedly increases over consecutive quarters, the best interpretation is:
 
@@ -248,7 +243,6 @@ If Sustaino-Tech Inc. had to pay the entire $20 million fine immediately, that r
 
 > **Explanation:** An increasing controversy score indicates growing ESG-related negative publicity or events, which can translate into higher risks or costs down the line.
 
----
 
 ### 7. Which of the following might signal a lower cost of capital for a company with strong ESG performance?
 
@@ -259,7 +253,6 @@ If Sustaino-Tech Inc. had to pay the entire $20 million fine immediately, that r
 
 > **Explanation:** Investors and lenders often perceive ESG-compliant firms as less risky, leading to potentially reduced financing costs. High turnover and poor internal controls can have the opposite effect.
 
----
 
 ### 8. A firm is heavily criticized on social media for unfair labor practices. Which best describes the role of this as an ESG indicator?
 
@@ -270,7 +263,6 @@ If Sustaino-Tech Inc. had to pay the entire $20 million fine immediately, that r
 
 > **Explanation:** Negative coverage for labor disputes may forecast future disruptions or financial impacts, making it an important “leading indicator.”
 
----
 
 ### 9. Why is it important to disclose and reconcile ESG adjustments in financial statements?
 
@@ -281,7 +273,6 @@ If Sustaino-Tech Inc. had to pay the entire $20 million fine immediately, that r
 
 > **Explanation:** Clear reconciliation ensures stakeholders understand how adjustments were made and builds confidence in both traditional and adjusted numbers.
 
----
 
 ### 10. True or False: A decline in absolute carbon emissions always indicates a company is becoming more environmentally efficient.
 

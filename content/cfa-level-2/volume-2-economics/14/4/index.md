@@ -152,7 +152,6 @@ Continual practice with the typical “vignette + 6 questions” format is the b
 
 > **Explanation:** Rising CDS spreads typically indicate higher perceived default risk. Investors purchase more protection, causing the CDS spread to move up.
 
----
 
 ### Interpreting Yield Spreads
 
@@ -163,7 +162,6 @@ Continual practice with the typical “vignette + 6 questions” format is the b
 
 > **Explanation:** If the yield spread decreases, it typically signals that investors perceive the sovereign as less risky, potentially due to positive developments or improved fundamentals.
 
----
 
 ### Flight-to-Quality Phenomenon
 
@@ -174,7 +172,6 @@ Continual practice with the typical “vignette + 6 questions” format is the b
 
 > **Explanation:** Flight to quality involves shifting capital into safer assets (like U.S. Treasuries), driving their yields down and effectively increasing funding costs for riskier issuers.
 
----
 
 ### Impact of Political Transitions
 
@@ -185,7 +182,6 @@ Continual practice with the typical “vignette + 6 questions” format is the b
 
 > **Explanation:** Political and institutional factors weigh heavily on perceptions of creditworthiness, often causing yield spreads and CDS to react immediately.
 
----
 
 ### Monitoring Forward Currency Markets
 
@@ -196,7 +192,6 @@ Continual practice with the typical “vignette + 6 questions” format is the b
 
 > **Explanation:** A forward discount can highlight the market’s anticipation of future currency weakness, which might occur if the sovereign faces fiscal or political stress.
 
----
 
 ### Effect of Capital Flight
 
@@ -207,7 +202,6 @@ Continual practice with the typical “vignette + 6 questions” format is the b
 
 > **Explanation:** Capital flight deprives a country of needed financing, weakens the exchange rate, and may fuel inflation, making debt service more challenging.
 
----
 
 ### Institutional Strength and Market Perception
 
@@ -218,7 +212,6 @@ Continual practice with the typical “vignette + 6 questions” format is the b
 
 > **Explanation:** Robust institutions and transparency reduce uncertainty, often resulting in narrower spreads and improved market sentiment. Sudden leadership changes, on the other hand, commonly increase risk.
 
----
 
 ### Yield Curve Inversions and Sovereign Risk
 
@@ -229,7 +222,6 @@ Continual practice with the typical “vignette + 6 questions” format is the b
 
 > **Explanation:** Yield curve inversions in sovereign markets can signal that short-term borrowing costs have risen sharply due to risk concerns or policy choices, which can be a warning sign for investors.
 
----
 
 ### Tactical vs. Strategic Flight to Quality
 
@@ -240,7 +232,6 @@ Continual practice with the typical “vignette + 6 questions” format is the b
 
 > **Explanation:** A short-term flight to quality is a tactical maneuver, often in response to crises or uncertainty. In contrast, strategic investors may retain some safe assets over longer horizons as part of overall risk management.
 
----
 
 ### True or False: Ratings Agencies React Faster Than Markets
 

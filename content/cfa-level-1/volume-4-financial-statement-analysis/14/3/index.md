@@ -202,7 +202,6 @@ Strengthening your ability to evaluate financial institutions requires a well-ro
 
 > **Explanation:** The LCR aims to ensure banks have sufficient high-quality liquid assets to meet their 30-day net cash outflows in a stressed environment.
 
----
 
 ### In evaluating asset quality at a bank, which key ratio specifically focuses on loans that are unlikely to be fully repaid?
 
@@ -213,7 +212,6 @@ Strengthening your ability to evaluate financial institutions requires a well-ro
 
 > **Explanation:** The NPL ratio highlights the portion of the loan book that is past due or unlikely to be repaid. It is a primary asset quality indicator for banks.
 
----
 
 ### What is the primary objective of the Net Stable Funding Ratio (NSFR)?
 
@@ -224,7 +222,6 @@ Strengthening your ability to evaluate financial institutions requires a well-ro
 
 > **Explanation:** The NSFR focuses on aligning a bank’s asset maturities and stable funding base over a one-year horizon.
 
----
 
 ### When analyzing an insurer’s investment portfolio, the term “duration mismatch” refers to:
 
@@ -235,7 +232,6 @@ Strengthening your ability to evaluate financial institutions requires a well-ro
 
 > **Explanation:** Duration mismatch occurs when the average duration of an insurer’s investments differs substantially from that of its insurance liabilities, creating exposure to changes in interest rates.
 
----
 
 ### Which of the following is most directly aimed at measuring the adequacy of capital from a regulatory perspective for banks?
 
@@ -246,7 +242,6 @@ Strengthening your ability to evaluate financial institutions requires a well-ro
 
 > **Explanation:** Risk-weighted capital ratios, such as the Common Equity Tier 1 (CET1) ratio, account for the varying risk levels of different assets and represent a key regulatory requirement under Basel III.
 
----
 
 ### In a bank, the ratio of loan loss reserves to non-performing loans primarily indicates:
 
@@ -257,7 +252,6 @@ Strengthening your ability to evaluate financial institutions requires a well-ro
 
 > **Explanation:** A higher loan loss reserve to NPL ratio suggests stronger coverage for troubled loans, indicating prudent risk management.
 
----
 
 ### Regarding liquidity risk, a key vulnerability for insurers arises from:
 
@@ -268,7 +262,6 @@ Strengthening your ability to evaluate financial institutions requires a well-ro
 
 > **Explanation:** Insurers typically invest in longer-term assets. A sudden surge in claims can force early liquidation of these instruments, potentially below fair value.
 
----
 
 ### If a bank’s Liquidity Coverage Ratio (LCR) drops well below 100%, this most likely indicates:
 
@@ -279,7 +272,6 @@ Strengthening your ability to evaluate financial institutions requires a well-ro
 
 > **Explanation:** An LCR below 100% signals that the bank might struggle to meet liquidity needs in a stressed environment without additional financing or asset sales.
 
----
 
 ### Which of the following statements about solvency measurements is accurate?
 
@@ -290,7 +282,6 @@ Strengthening your ability to evaluate financial institutions requires a well-ro
 
 > **Explanation:** A common theme is that solvency frameworks—whether for banks or insurers—are risk-based, aiming to align capital requirements with the underlying risk of each asset.
 
----
 
 ### True or False: A loan-to-deposit ratio above 100% automatically indicates a liquidity crisis in a bank.
 

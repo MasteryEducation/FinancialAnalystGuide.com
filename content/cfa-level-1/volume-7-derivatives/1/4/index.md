@@ -178,7 +178,6 @@ Ultimately, exchange-traded and over-the-counter derivatives can serve different
 
 > **Explanation:** A central clearinghouse guarantees the performance of both parties, minimizing counterparty risk in exchange-traded derivatives.
 
----
 
 ### Which of the following is a typical characteristic of OTC derivatives?
 
@@ -189,7 +188,6 @@ Ultimately, exchange-traded and over-the-counter derivatives can serve different
 
 > **Explanation:** OTC derivatives allow for bespoke terms negotiated between counterparties, often requiring collateral arrangements without a central clearinghouse.
 
----
 
 ### Which statement about margin requirements in exchange-traded derivatives is most accurate?
 
@@ -200,7 +198,6 @@ Ultimately, exchange-traded and over-the-counter derivatives can serve different
 
 > **Explanation:** In exchange-traded derivatives, margin requirements (initial and maintenance) are dictated by exchange rules and enforced daily by the clearinghouse.
 
----
 
 ### After the 2008 financial crisis, global regulators mandated:
 
@@ -211,7 +208,6 @@ Ultimately, exchange-traded and over-the-counter derivatives can serve different
 
 > **Explanation:** Regulatory reforms after the crisis introduced mandatory clearing for standardized OTC contracts (e.g., interest rate swaps), boosting transparency and reducing systemic risk.
 
----
 
 ### In a typical OTC forward contract, which of the following is TRUE?
 
@@ -222,7 +218,6 @@ Ultimately, exchange-traded and over-the-counter derivatives can serve different
 
 > **Explanation:** OTC forward contracts are bilateral agreements with customizable features—no standardization or central clearing.
 
----
 
 ### Which statement best characterizes standardization in exchange-traded derivatives?
 
@@ -233,7 +228,6 @@ Ultimately, exchange-traded and over-the-counter derivatives can serve different
 
 > **Explanation:** By design, exchange rules set uniform terms—like contract size, expiration, and the underlying asset—making these contracts interchangeable.
 
----
 
 ### How does customization in OTC derivatives typically affect liquidity?
 
@@ -244,7 +238,6 @@ Ultimately, exchange-traded and over-the-counter derivatives can serve different
 
 > **Explanation:** Customized contracts can be less liquid, as the exact terms might not match other traders’ needs, making them harder to offset in the market.
 
----
 
 ### Which factor commonly increases counterparty credit risk for OTC derivatives compared to ETDs?
 
@@ -255,7 +248,6 @@ Ultimately, exchange-traded and over-the-counter derivatives can serve different
 
 > **Explanation:** Without a central clearinghouse, OTC parties rely on bilateral agreements and collateral, meaning any counterparty default risk falls directly on the other party.
 
----
 
 ### One reason post-2008 reforms encourage central clearing of standardized OTC contracts is:
 
@@ -266,7 +258,6 @@ Ultimately, exchange-traded and over-the-counter derivatives can serve different
 
 > **Explanation:** When standardized OTC trades are cleared centrally, the clearinghouse effectively absorbs default risk, thus reducing the potential for a chain reaction of defaults.
 
----
 
 ### True or False: In an exchange-traded contract, margins are not required because the clearinghouse guarantees performance.
 

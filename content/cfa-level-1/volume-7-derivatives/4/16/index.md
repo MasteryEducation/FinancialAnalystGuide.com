@@ -221,7 +221,6 @@ For commodity-based producers and users, spread options can be designated as hed
 
 > **Explanation:** Crack spreads represent the margin between crude oil (input) and refined petroleum products (output).  
 
----
 
 ### What is the primary reason valuation of spread options can be more complex than single-asset options?
 
@@ -232,7 +231,6 @@ For commodity-based producers and users, spread options can be designated as hed
 
 > **Explanation:** Spread option valuation is more complex because the payoff depends on two assets whose correlation must be accurately modeled.  
 
----
 
 ### Consider a spark spread option where electricity (S1) is priced at $60/MWh and natural gas (S2) is $3.50/MMBtu (converted to $35/MWh). How is the spread defined if you assume no strike (K=0)?
 
@@ -243,7 +241,6 @@ For commodity-based producers and users, spread options can be designated as hed
 
 > **Explanation:** The spark spread is $60 (electricity) – $35 (gas) = $25.  
 
----
 
 ### A power plant operator uses a spread call option with a zero strike between natural gas input and electricity output. Which choice best describes the payoff at expiration?
 
@@ -254,7 +251,6 @@ For commodity-based producers and users, spread options can be designated as hed
 
 > **Explanation:** A spread call with zero strike pays if the difference (electricity – gas) is above 0, so the payoff is max(S1 – S2, 0).  
 
----
 
 ### Which of the following is a key risk factor specifically relevant to spread options (compared to single-asset options)?
 
@@ -265,7 +261,6 @@ For commodity-based producers and users, spread options can be designated as hed
 
 > **Explanation:** For a spread option, correlation between the assets drives the distribution of the spread.  
 
----
 
 ### Which statement about crack spread options is true?
 
@@ -276,7 +271,6 @@ For commodity-based producers and users, spread options can be designated as hed
 
 > **Explanation:** Crack spread options hedge the refinery margin, i.e., the difference between crude oil input and refined product output prices.  
 
----
 
 ### Why is Monte Carlo simulation often favored for pricing complex spread options?
 
@@ -287,7 +281,6 @@ For commodity-based producers and users, spread options can be designated as hed
 
 > **Explanation:** Monte Carlo can incorporate multi-factor models and different correlation structures, making it suitable for complicated spread option pricing.  
 
----
 
 ### Which best describes Kirk’s approximation in spread option valuation?
 
@@ -298,7 +291,6 @@ For commodity-based producers and users, spread options can be designated as hed
 
 > **Explanation:** Kirk’s approximation is a known closed-form formula for approximating the spread option value under certain constraints.  
 
----
 
 ### If correlation between two underlying commodities increases unexpectedly, what might happen to the value of a spread option?
 
@@ -309,7 +301,6 @@ For commodity-based producers and users, spread options can be designated as hed
 
 > **Explanation:** Higher positive correlation can reduce the volatility of the difference (S1 – S2), often lowering the value of spread options.  
 
----
 
 ### True or False: Spread options are only suitable for hedging and have no speculative uses.
 

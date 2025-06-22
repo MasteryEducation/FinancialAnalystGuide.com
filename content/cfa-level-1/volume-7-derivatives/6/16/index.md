@@ -145,7 +145,6 @@ Remember to structure your answers carefully in essay or item-set format: articu
 
 > **Explanation:** The custodian’s primary function is to hold and verify collateral while ensuring compliance with contractual rules, not to provide margin or credit on its own.
 
----
 
 ### In a tri-party repo arrangement, which entity typically holds or moves the underlying securities?
 
@@ -156,7 +155,6 @@ Remember to structure your answers carefully in essay or item-set format: articu
 
 > **Explanation:** In a tri-party repo, a clearing bank or custodian acts as the neutral third party responsible for holding and moving the securities used as collateral.
 
----
 
 ### Suppose a derivatives contract specifies that the posted collateral must be AAA-rated bonds with maturities under 10 years. If the posted collateral is downgraded to AA, what is the custodian most likely to do?
 
@@ -167,7 +165,6 @@ Remember to structure your answers carefully in essay or item-set format: articu
 
 > **Explanation:** The custodian generally issues a notice for substitute collateral. It does not unilaterally replace or ignore the ineligible bonds.
 
----
 
 ### Which of the following risks is most directly reduced by using a third-party custodian in an OTC derivatives transaction?
 
@@ -178,7 +175,6 @@ Remember to structure your answers carefully in essay or item-set format: articu
 
 > **Explanation:** While custodians can influence various risks, their most direct impact is on settlement risk by holding the collateral independently and managing margin movements.
 
----
 
 ### Which of the following is a common function performed by a custodian during daily margin calls?
 
@@ -200,7 +196,6 @@ Remember to structure your answers carefully in essay or item-set format: articu
 
 > **Explanation:** A custodian holds collateral and enforces the collateral requirements but does not guarantee either party’s performance.
 
----
 
 ### In our simplified Python snippet for a collateral check, how does the custodian conceptually use the haircut?
 
@@ -211,7 +206,6 @@ Remember to structure your answers carefully in essay or item-set format: articu
 
 > **Explanation:** Haircuts reduce the stated value of posted assets to account for market risk and volatility.  
 
----
 
 ### Why might a custodian ask for collateral substitution during a derivative’s life?
 
@@ -222,7 +216,6 @@ Remember to structure your answers carefully in essay or item-set format: articu
 
 > **Explanation:** Collateral substitution is triggered by eligibility violations or other contractual triggers, such as a downgrade or liquidity concerns.
 
----
 
 ### Which of the following is LEAST likely to appear as a “best practice” for collateral management with third-party custodians?
 
@@ -233,7 +226,6 @@ Remember to structure your answers carefully in essay or item-set format: articu
 
 > **Explanation:** Reliance on manual processes like faxes alone is regarded as outdated and risky, as automation substantially reduces errors and delays.
 
----
 
 ### True or False: A tri-party custodian’s function includes regularly verifying that the collateral’s currency matches the specification in the contract.
 

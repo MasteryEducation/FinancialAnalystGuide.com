@@ -108,7 +108,6 @@ For your CFA exam—and certainly for your real-world financial career—knowing
 
 > **Explanation:** The framing effect refers to the powerful influence that different presentations or “frames” can have on how individuals evaluate outcomes, often triggering irrational decision-making.
 
----
 
 ### A negotiation counterpart who perceives your consistent transparency is more likely to:
 - [x] Extend similar levels of openness and trust in return.
@@ -118,7 +117,6 @@ For your CFA exam—and certainly for your real-world financial career—knowing
 
 > **Explanation:** The reciprocity effect suggests that individuals tend to respond in kind. Transparent, fair tactics often invite a similar approach from the counterpart.
 
----
 
 ### Which bias is most closely associated with negotiators over-relying on an initial piece of information?
 - [ ] Framing effect
@@ -128,7 +126,6 @@ For your CFA exam—and certainly for your real-world financial career—knowing
 
 > **Explanation:** Anchoring occurs when the first figure or statement introduced in a discussion exerts a disproportionate influence on subsequent decisions, potentially overshadowing other rational considerations.
 
----
 
 ### Why might rationalizing ethical “grey areas” in negotiations be especially tempting?
 - [ ] Grey areas reduce the risk of personal liability.
@@ -138,7 +135,6 @@ For your CFA exam—and certainly for your real-world financial career—knowing
 
 > **Explanation:** Even slight situational pressures like financial incentives or fear of losing a client can override strong personal morals, causing rationalized ethical slips.
 
----
 
 ### Which of the following describes a useful strategy for promoting an ethical win-win approach?
 - [x] Establishing shared goals early and focusing on joint problem-solving.
@@ -148,7 +144,6 @@ For your CFA exam—and certainly for your real-world financial career—knowing
 
 > **Explanation:** Win-win negotiation often involves open, collaborative communication. Emphasizing collective goals and “we” language fosters alignment, rather than zero-sum thinking.
 
----
 
 ### An effective way to prevent unethical behavior from subtle omissions is to:
 - [x] Implement regular accountability checks (e.g., a second review of client documents).
@@ -158,7 +153,6 @@ For your CFA exam—and certainly for your real-world financial career—knowing
 
 > **Explanation:** Accountability mechanisms, such as having a colleague cross-check negotiations or documents, reduce the likelihood that minor—but significant—omissions slip by.
 
----
 
 ### Which statement is true about emotional bias in negotiation?
 - [x] Anxiety or fear can lead to withholding critical information to close a deal.
@@ -168,7 +162,6 @@ For your CFA exam—and certainly for your real-world financial career—knowing
 
 > **Explanation:** Negative emotions such as stress and anxiety can prompt misrepresentations to secure a deal, while strong empathy can also distort objectivity if it leads to excessive concessions.
 
----
 
 ### A key advantage of consistent ethical behavior in negotiations is:
 - [x] Building a trustworthy reputation leading to long-term business gains.
@@ -178,7 +171,6 @@ For your CFA exam—and certainly for your real-world financial career—knowing
 
 > **Explanation:** Ethical consistency doesn’t guarantee the highest short-term profit but does foster loyalty, repeat business, and a respected reputation across the professional community.
 
----
 
 ### Which measure best helps finance professionals recognize and manage blind spots?
 - [x] Participating in regular ethical “refreshers” and open discussions.
@@ -188,7 +180,6 @@ For your CFA exam—and certainly for your real-world financial career—knowing
 
 > **Explanation:** Continuous engagement with ethical training and having open dialogue about real scenarios promotes awareness and clearer moral judgment.
 
----
 
 ### Engaging in minor misrepresentation for a “greater good” strategy is:
 - [x] True

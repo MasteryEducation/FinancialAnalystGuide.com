@@ -223,7 +223,6 @@ flowchart LR
 
 > **Explanation:** TVP models permit coefficients to evolve each period, typically using a state‑space form. This is distinct from a constant‑coefficient OLS setup or a single structural break model.
 
----
 
 ### In a Markov switching model with two states, which transition probability represents the likelihood that the process remains in State 1 from one period to the next?
 
@@ -234,7 +233,6 @@ flowchart LR
 
 > **Explanation:** p₁₁ denotes the probability of staying in Regime/State 1. The matrix’s diagonal terms (p₁₁, p₂₂) reflect staying in the same state, and the off‑diagonal terms (p₁₂, p₂₁) reflect switching.
 
----
 
 ### Suppose you have a model for equity returns where each regime exhibits different volatility. Which diagnostic would best help you confirm that two distinct regimes are present?
 
@@ -245,7 +243,6 @@ flowchart LR
 
 > **Explanation:** Filtered and smoothed probabilities from a Markov switching model allow you to see if the model identifies two separate regimes, each with its own volatility level.
 
----
 
 ### An analyst is examining monthly data on corporate spreads and notices a persistent upward trend in residuals starting in 2019. Which approach could she use to confirm a structural break in 2019?
 
@@ -256,7 +253,6 @@ flowchart LR
 
 > **Explanation:** The Chow test is a common method to examine whether a structural break takes place at a known date. If the test indicates a significant difference, it confirms a break.
 
----
 
 ### Time‑varying parameter regression is particularly useful for which of these scenarios?
 
@@ -267,7 +263,6 @@ flowchart LR
 
 > **Explanation:** Time‑varying models capture continuously evolving relationships. They’re less about single, abrupt breaks and more about drifting parameters over time.
 
----
 
 ### In a two‑regime Markov switching model, p₁₂ = 0.10 describes what scenario?
 
@@ -278,7 +273,6 @@ flowchart LR
 
 > **Explanation:** p₁₂ denotes the transition probability from Regime 1 to Regime 2. A value of 0.10 means there is a 10% chance of switching from Regime 1 to Regime 2 from one period to the next.
 
----
 
 ### Which of the following is a major disadvantage of time‑varying parameter models?
 
@@ -289,7 +283,6 @@ flowchart LR
 
 > **Explanation:** A key challenge with time‑varying models is their computational complexity. Tools like the Kalman filter are necessary, which can be more involved than standard OLS.
 
----
 
 ### Which statement about regime‑switching models is correct?
 
@@ -300,7 +293,6 @@ flowchart LR
 
 > **Explanation:** Regime‑switching allows multiple sets of parameters that can switch according to specified transition probabilities, often capturing different levels of variance or slopes across regimes.
 
----
 
 ### A regression model might show constant coefficients in a normal analysis, but further investigation reveals distinct volatility patterns before and after a crisis period. Which approach is best if you suspect there are exactly two such periods?
 
@@ -311,7 +303,6 @@ flowchart LR
 
 > **Explanation:** If you strongly suspect exactly two periods, you can implement a piecewise regression or a two‑regime (Markov switching) model that captures the structural break.
 
----
 
 ### True or False: The Kalman filter only updates parameter estimates after the entire sample is observed.
 

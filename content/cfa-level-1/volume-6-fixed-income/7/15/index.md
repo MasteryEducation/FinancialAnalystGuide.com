@@ -138,7 +138,6 @@ They’re all excellent readings if you want to dive deeper into building or tes
 
 > **Explanation:** Macro-finance models explicitly incorporate macroeconomic indicators and policy expectations to interpret yield curve shifts.
 
----
 
 ### In a no-arbitrage term structure model, which condition must hold?
 
@@ -149,7 +148,6 @@ They’re all excellent readings if you want to dive deeper into building or tes
 
 > **Explanation:** No-arbitrage says that two identical sets of cash flows cannot be priced differently; otherwise, there would be a riskless profit.
 
----
 
 ### One advantage of macro-finance models over purely statistical models is:
 
@@ -160,7 +158,6 @@ They’re all excellent readings if you want to dive deeper into building or tes
 
 > **Explanation:** Macro-finance models offer clear, economics-based narratives for changes in interest rates (e.g., changes in inflation or GDP growth).
 
----
 
 ### Which statement is most accurate regarding the trade-offs of a macro-finance, no-arbitrage model?
 
@@ -171,7 +168,6 @@ They’re all excellent readings if you want to dive deeper into building or tes
 
 > **Explanation:** The main benefit is merging macroeconomic interpretations with details of bond pricing. However, this added complexity can make calibration challenging.
 
----
 
 ### Why might a yield curve flatten according to a combined macro-finance and no-arbitrage framework?
 
@@ -182,7 +178,6 @@ They’re all excellent readings if you want to dive deeper into building or tes
 
 > **Explanation:** Macro variables signal a slowdown (or rate cut expectations), and in a no-arbitrage model, prices immediately incorporate that information, causing the curve to flatten.
 
----
 
 ### In an affine no-arbitrage model, the term “affine” typically implies:
 
@@ -193,7 +188,6 @@ They’re all excellent readings if you want to dive deeper into building or tes
 
 > **Explanation:** “Affine” in term structure models typically means that bond yields are linear (affine) in the state variables, which makes the models more tractable.
 
----
 
 ### When a monetary authority unexpectedly raises rates due to inflation fears, a macro-finance model would likely show:
 
@@ -204,7 +198,6 @@ They’re all excellent readings if you want to dive deeper into building or tes
 
 > **Explanation:** If the central bank raises rates, macro-finance models capturing monetary policy expectations typically indicate an upward shift in shorter maturities.
 
----
 
 ### How do risk premiums factor into a no-arbitrage yield curve model?
 
@@ -215,7 +208,6 @@ They’re all excellent readings if you want to dive deeper into building or tes
 
 > **Explanation:** Risk premiums account for the fact that investors generally demand extra yield for holding longer maturities or riskier instruments, aligning model-implied yields with observed data.
 
----
 
 ### A major challenge of macro-finance models is:
 
@@ -226,7 +218,6 @@ They’re all excellent readings if you want to dive deeper into building or tes
 
 > **Explanation:** One major issue with macro-finance models is that macro relationships may change (policy regimes, shifting inflation dynamics, etc.), leading to unstable parameter estimates.
 
----
 
 ### True or False: By combining macroeconomic drivers with no-arbitrage conditions, you can derive a yield curve that offers both economic explanations and consistent pricing.
 

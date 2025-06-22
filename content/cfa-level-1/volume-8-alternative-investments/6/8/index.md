@@ -174,7 +174,6 @@ Behavioral finance, particularly in hedge fund management, is a vast subject. Fo
 
 > **Explanation:** Anchoring is the tendency to latch onto an initial piece of information (or price) too strongly, impacting later decisions even when new data suggests a shift in fair value.
 
----
 
 ### A hedge fund manager has had two consecutive years of double-digit outperformance and believes they can pick undervalued tech stocks better than any competitor. Which bias are they likely exhibiting?
 
@@ -185,7 +184,6 @@ Behavioral finance, particularly in hedge fund management, is a vast subject. Fo
 
 > **Explanation:** Overconfidence bias is evident when managers overestimate their skill or predictive accuracy after notable success.
 
----
 
 ### Groupthink can be especially dangerous in hedge funds because:
 
@@ -196,7 +194,6 @@ Behavioral finance, particularly in hedge fund management, is a vast subject. Fo
 
 > **Explanation:** Groupthink leads to everyone accepting a central viewpoint without scrutiny, which can cause significant blind spots in investment decisions.
 
----
 
 ### Which of the following risk management techniques directly addresses confirmation bias?
 
@@ -207,7 +204,6 @@ Behavioral finance, particularly in hedge fund management, is a vast subject. Fo
 
 > **Explanation:** A devil’s advocate approach challenges the investment thesis critically, which helps counteract the human tendency to ignore evidence that conflicts with one’s existing view.
 
----
 
 ### Performance fees may exacerbate certain biases because:
 
@@ -218,7 +214,6 @@ Behavioral finance, particularly in hedge fund management, is a vast subject. Fo
 
 > **Explanation:** Performance fees can cause managers to swing for the fences, potentially intensifying overconfidence, confirmation bias, or risk-taking beyond prudent levels.
 
----
 
 ### The “checklist approach” helps hedge fund managers:
 
@@ -229,7 +224,6 @@ Behavioral finance, particularly in hedge fund management, is a vast subject. Fo
 
 > **Explanation:** Checklists ensure that managers methodically address all vital points (e.g., risk factors, fundamental metrics) and don’t rely solely on emotion or incomplete information.
 
----
 
 ### A hedge fund manager refuses to sell a position despite severe underperformance, insisting the stock “must rebound.” This scenario best illustrates:
 
@@ -240,7 +234,6 @@ Behavioral finance, particularly in hedge fund management, is a vast subject. Fo
 
 > **Explanation:** The manager is holding onto a losing position by focusing on confirming evidence (e.g., promising news articles, supportive analysts) and ignoring contradictory signs, which is a classic manifestation of confirmation bias.
 
----
 
 ### Which of the following is an excellent way to minimize the negative impacts of groupthink in investment committees?
 
@@ -251,7 +244,6 @@ Behavioral finance, particularly in hedge fund management, is a vast subject. Fo
 
 > **Explanation:** Encouraging debate and dissent—through formal roles opposing dominant viewpoints—is crucial in addressing groupthink.
 
----
 
 ### Ego risk in hedge fund management is often tied to:
 
@@ -262,7 +254,6 @@ Behavioral finance, particularly in hedge fund management, is a vast subject. Fo
 
 > **Explanation:** When a manager’s sense of self-worth or public image is heavily staked on a track record of success, they may overlook or rationalize new risks rather than adapt.
 
----
 
 ### True or False: Systematic or algorithmic trading models are entirely free from behavioral biases.
 

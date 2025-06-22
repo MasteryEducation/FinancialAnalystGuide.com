@@ -223,7 +223,6 @@ Anyway, keep practicing these advanced vignettes. You’ll find that once you ha
 
 > **Explanation:** Distractors are included to test a candidate’s ability to sift out non-essential information. While they may appear significant, they typically have minimal relevance to the question’s ultimate conclusion.
 
----
 
 ### An analyst observes stable inflation, a significant upward revision in GDP growth, and a dovish-policy statement from the central bank. Which outcome is most likely?
 
@@ -234,7 +233,6 @@ Anyway, keep practicing these advanced vignettes. You’ll find that once you ha
 
 > **Explanation:** With stable inflation and a dovish central bank, growth revisions typically drive higher corporate earnings expectations, supporting equities. There is little impetus for tightening if inflation remains stable.
 
----
 
 ### In analyzing a vignette with both rising GDP growth forecasts and a forecast for moderate inflation, which of the following sectors would likely benefit the most?
 
@@ -245,7 +243,6 @@ Anyway, keep practicing these advanced vignettes. You’ll find that once you ha
 
 > **Explanation:** Growth-oriented sectors, such as tech and consumer discretionary, often benefit from higher GDP growth and moderate inflation. Strong domestic consumption or business investment typically fosters expansions in these areas.
 
----
 
 ### Suppose you anticipate a 50 bps rate hike and moderate inflation, but the vignette states that unemployment remains high. How should you interpret this contradictory signal?
 
@@ -256,7 +253,6 @@ Anyway, keep practicing these advanced vignettes. You’ll find that once you ha
 
 > **Explanation:** Contradictory signals force you to balance inflation concerns with labor market slack. The central bank may proceed with a planned hike (as inflation is a concern) but move more slowly if unemployment remains elevated.
 
----
 
 ### Why might an analyst partially hedge foreign bond positions if the domestic currency is forecast to appreciate?
 
@@ -267,7 +263,6 @@ Anyway, keep practicing these advanced vignettes. You’ll find that once you ha
 
 > **Explanation:** Currency appreciation decreases returns on unhedged foreign assets when converted back to the domestic currency. A partial hedge can mitigate this currency risk.
 
----
 
 ### A multi-variable macro item set includes a line that mentions potential corporate tax changes. However, the rest of the vignette focuses primarily on inflation and interest rate forecasts. How might you treat this information?
 
@@ -278,7 +273,6 @@ Anyway, keep practicing these advanced vignettes. You’ll find that once you ha
 
 > **Explanation:** You should quickly assess the impact of any new detail. If it doesn’t significantly sway earnings, growth, or market sentiment, it might be a distractor. If it does, it deserves deeper integration into the final recommendation.
 
----
 
 ### An item set states that the local currency is pegged to a major world currency at a fixed exchange rate. How should this detail influence a portfolio hedge decision?
 
@@ -289,7 +283,6 @@ Anyway, keep practicing these advanced vignettes. You’ll find that once you ha
 
 > **Explanation:** With a currency peg, exchange rate fluctuations are limited (barring a major breakout event). As a result, investors may choose to hedge less. Of course, if the peg collapses, things change drastically, but in stable conditions, typical FX volatility is reduced.
 
----
 
 ### In a scenario where short-term interest rates are increasing and growth is stagnant, which bond strategy might be most appropriate?
 
@@ -300,7 +293,6 @@ Anyway, keep practicing these advanced vignettes. You’ll find that once you ha
 
 > **Explanation:** When short-term rates increase and growth is not robust, bonds may face price pressure. Reducing duration helps mitigate interest rate risk in a rising-rate environment.
 
----
 
 ### In the face of contradictory indicators—like stable inflation but an unexpectedly hawkish central bank speech—how should an analyst proceed?
 
@@ -311,7 +303,6 @@ Anyway, keep practicing these advanced vignettes. You’ll find that once you ha
 
 > **Explanation:** Contradictions require deeper analysis, especially regarding the central bank’s outlook. Often, central banks act on forward expectations or credibility concerns rather than current inflation data.
 
----
 
 ### True or False: Time management in complex vignettes is enhanced by focusing on the final question first, then searching the vignette for only relevant details.
 

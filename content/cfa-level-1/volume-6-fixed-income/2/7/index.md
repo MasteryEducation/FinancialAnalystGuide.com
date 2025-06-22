@@ -158,7 +158,6 @@ To deepen your mastery, consider exploring:
 
 > **Explanation:** Because all principal is paid at maturity (with no interim coupon payments), zero-coupon bonds can precisely match the timing and amount of future liabilities. However, zero-coupon bonds typically have high price sensitivity and may involve phantom income for taxes.
 
----
 
 ### An investor purchases a 10-year zero-coupon bond at issuance with a face value of $1,000 and a discount yield to maturity of 5%. Which of the following statements about the bond is most accurate?
 
@@ -169,7 +168,6 @@ To deepen your mastery, consider exploring:
 
 > **Explanation:** A zero-coupon bond sells at a discount to par in order to achieve the stated yield to maturity. It pays no coupons, and its price is still subject to interest rate fluctuations.
 
----
 
 ### Which of the following scenarios most accurately illustrates “phantom income” for an investor in zero-coupon bonds?
 
@@ -180,7 +178,6 @@ To deepen your mastery, consider exploring:
 
 > **Explanation:** Phantom income arises when an investor must pay tax on imputed interest each year, even though no cash coupon is received during that period.
 
----
 
 ### A CFO is interested in using stripped securities to gain exposure to specific points along the yield curve. Which stripped securities would represent only the final redemption value of the underlying bond?
 
@@ -191,7 +188,6 @@ To deepen your mastery, consider exploring:
 
 > **Explanation:** Principal strips (often referred to as POs in the mortgage-backed space or simply principal-only strips) represent the final redemption component of the bond.
 
----
 
 ### If interest rates suddenly increase across the market, how would a large holding of zero-coupon bonds likely affect the current market value of a portfolio?
 
@@ -202,7 +198,6 @@ To deepen your mastery, consider exploring:
 
 > **Explanation:** Zero-coupon bonds, with all cash flow at maturity, have the highest sensitivity to changes in interest rates for a given maturity. A general rise in interest rates would depress their current market prices more dramatically than comparable coupon-bearing bonds.
 
----
 
 ### Which of the following is a key advantage of using zero-coupon bonds in liability-driven investing (LDI) strategies?
 
@@ -213,7 +208,6 @@ To deepen your mastery, consider exploring:
 
 > **Explanation:** The single maturity payment of zero-coupon bonds makes them ideal for matching known future liabilities at a specific date. They do not eliminate all interest rate risks, and they do not pay coupons.
 
----
 
 ### An investor in the 35% tax bracket holds a U.S. Treasury STRIPS with 15 years to maturity. Which statement is correct regarding the investment’s tax implications?
 
@@ -224,7 +218,6 @@ To deepen your mastery, consider exploring:
 
 > **Explanation:** U.S. investors typically owe federal income tax on annual accrued interest for STRIPS at ordinary income rates, creating “phantom income” until maturity. Depending on the state, taxes may vary, but there is no general exemption from federal taxation for STRIPS.
 
----
 
 ### Which of the following securities offers exposure purely to the coupon payments of an original fixed-rate bond?
 
@@ -235,7 +228,6 @@ To deepen your mastery, consider exploring:
 
 > **Explanation:** A coupon strip represents a zero-coupon security derived from a single coupon payment of the underlying bond. Principal strips correspond exclusively to par redemption value.
 
----
 
 ### A manager compares the yield on a zero-coupon bond to a coupon-bearing bond of the same maturity and credit risk. In a typical upward-sloping yield curve environment, which yield is often higher, assuming no unusual market conditions?
 
@@ -246,7 +238,6 @@ To deepen your mastery, consider exploring:
 
 > **Explanation:** Generally, zero-coupon bonds may have a slightly higher yield on an annualized basis than comparable coupon-bearing bonds. The absence of interim cash flow can call for a yield premium, although this can vary with market forces.
 
----
 
 ### True or False: Stripped securities can only be created from government bonds.
 

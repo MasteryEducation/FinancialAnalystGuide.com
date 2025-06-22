@@ -156,7 +156,6 @@ By focusing on these areas, you’ll be well-positioned to tackle credit derivat
 
 > **Explanation:** Under "Failure to Pay," the payment must remain uncured beyond the specified grace period to trigger a credit event.
 
----
 
 ### Which of the following is most likely a valid credit event under standard ISDA definitions?
 
@@ -167,7 +166,6 @@ By focusing on these areas, you’ll be well-positioned to tackle credit derivat
 
 > **Explanation:** Bankruptcy is a clearly recognized credit event once the reference entity officially files for protection.
 
----
 
 ### In a cash-settled CDS contract, which of the following best represents the payoff to the protection buyer?
 
@@ -178,7 +176,6 @@ By focusing on these areas, you’ll be well-positioned to tackle credit derivat
 
 > **Explanation:** In a cash settlement, the buyer of protection receives (Par – Recovery Price) on the notional amount.
 
----
 
 ### For restructuring to be deemed a credit event, what factor generally must be met?
 
@@ -189,7 +186,6 @@ By focusing on these areas, you’ll be well-positioned to tackle credit derivat
 
 > **Explanation:** Under ISDA definitions, restructuring requires debt terms (e.g., maturity, coupon) to significantly change in a way detrimental to holders.
 
----
 
 ### Which best describes an “auction settlement” organized by ISDA?
 
@@ -200,7 +196,6 @@ By focusing on these areas, you’ll be well-positioned to tackle credit derivat
 
 > **Explanation:** ISDA organizes auctions where dealers submit bids/offers, and a final clearing price emerges to settle CDS positions consistently.
 
----
 
 ### In the case that a sovereign entity openly declares it will suspend all external debt repayments but has not yet filed any official bankruptcy proceedings, which credit event under ISDA definitions is most likely triggered?
 
@@ -211,7 +206,6 @@ By focusing on these areas, you’ll be well-positioned to tackle credit derivat
 
 > **Explanation:** A public declaration of not paying is classified as repudiation/moratorium, particularly for sovereign reference entities.
 
----
 
 ### A CDS buyer prefers physical settlement over cash settlement. Which of the following might be a risk in opting for physical settlement?
 
@@ -222,7 +216,6 @@ By focusing on these areas, you’ll be well-positioned to tackle credit derivat
 
 > **Explanation:** Physical settlement can be problematic if there’s a scramble for the defaulted bonds, causing scarcity and driving up prices.
 
----
 
 ### Under a standard ISDA Master Agreement, which clause primarily governs how a missed payment is determined to be a credit event?
 
@@ -233,7 +226,6 @@ By focusing on these areas, you’ll be well-positioned to tackle credit derivat
 
 > **Explanation:** The Failure to Pay clause in the Credit Event definitions covers missed payment specifics, including grace periods and thresholds.
 
----
 
 ### Which factor is typically most crucial for determining the final payout in a standard CDS auction settlement?
 
@@ -244,7 +236,6 @@ By focusing on these areas, you’ll be well-positioned to tackle credit derivat
 
 > **Explanation:** In an auction settlement, the final price established through ISDA’s process is the critical determinant for the payoff.
 
----
 
 ### True or False: Once ISDA publicly declares a credit event has occurred for a reference entity, physical settlement is automatically enforced for all CDS contracts on that entity.
 

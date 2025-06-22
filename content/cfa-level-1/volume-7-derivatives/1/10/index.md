@@ -148,7 +148,6 @@ Also, don’t overlook basic definitions, like “cross-listing” or “interop
 
 > **Explanation:** Global exchanges typically operate nearly 24 hours a day to cater to participants across different regions. There is no single global regulator, and many of their products are cash-settled.
 
----
 
 ### A portfolio manager in Singapore needs to hedge her U.S. equity exposure. Which approach best illustrates cross-listing?
 
@@ -159,7 +158,6 @@ Also, don’t overlook basic definitions, like “cross-listing” or “interop
 
 > **Explanation:** Cross-listing refers to offering the same or very similar derivative contracts on more than one exchange, making them more accessible for investors in different time zones or regions.
 
----
 
 ### A Brazilian coffee exporter wants to lock in the price of coffee in local currency terms. Which exchange is most aligned with this goal?
 
@@ -170,7 +168,6 @@ Also, don’t overlook basic definitions, like “cross-listing” or “interop
 
 > **Explanation:** B3 caters to local currencies and commodities relevant to Brazil. Although the CME or ICE might have coffee contracts, these are typically quoted in U.S. dollars, thus adding additional currency risk.
 
----
 
 ### Time-zone differences in global derivative markets primarily affect traders in what way?
 
@@ -181,7 +178,6 @@ Also, don’t overlook basic definitions, like “cross-listing” or “interop
 
 > **Explanation:** The biggest operational effect of time-zone gaps is the potential for price movements and margin calls that occur outside a trader’s local business hours, creating added risk and administrative complexity.
 
----
 
 ### When an exchange in Asia cross-lists a popular U.S. equity index contract, which of the following benefits often arises?
 
@@ -192,7 +188,6 @@ Also, don’t overlook basic definitions, like “cross-listing” or “interop
 
 > **Explanation:** Cross-listing generally improves accessibility and potentially increases liquidity, allowing traders to manage exposures in their local time zone. It does not necessarily merge clearing or eliminate basis risk.
 
----
 
 ### A trader in Germany uses Eurex equity index futures and simultaneously hedges risk with an OTC swap referencing a Brazilian index. Which key risk factor is the trader most likely exposed to (apart from market risk)?
 
@@ -203,7 +198,6 @@ Also, don’t overlook basic definitions, like “cross-listing” or “interop
 
 > **Explanation:** Whenever dealing with multiple currencies (e.g., euro-denominated futures and a swap potentially denominated in Brazilian real), currency risk arises unless it’s explicitly hedged.
 
----
 
 ### Which regulatory factor can significantly impact the liquidity of a regional derivative contract?
 
@@ -214,7 +208,6 @@ Also, don’t overlook basic definitions, like “cross-listing” or “interop
 
 > **Explanation:** Regulations like capital controls, transaction taxes, or position limits can deter international participation, thus affecting the liquidity of a regional derivative contract.
 
----
 
 ### An investor places hedges on multiple exchanges to take advantage of time-zone coverage, but needs a single clearing arrangement. This is an example of:
 
@@ -225,7 +218,6 @@ Also, don’t overlook basic definitions, like “cross-listing” or “interop
 
 > **Explanation:** Interoperability allows trades executed on multiple platforms or exchanges to be cleared through a single or interconnected clearing arrangement, simplifying collateral and margin requirements.
 
----
 
 ### Why might an investor choose to trade soybean futures on B3 rather than on the CME?
 
@@ -236,7 +228,6 @@ Also, don’t overlook basic definitions, like “cross-listing” or “interop
 
 > **Explanation:** B3’s soybean futures offer a localized approach, denominated in BRL and reflective of domestic market fundamentals. By contrast, the CME contract is dollar-denominated and references a more global benchmark.
 
----
 
 ### True or False: Global derivative markets are regulated by a single, unified global authority that standardizes practices across all exchanges.
 

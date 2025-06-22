@@ -184,7 +184,6 @@ If you’d like to dive deeper, consider these references:
 
 > **Explanation:** Under Pure Expectations Theory, a positively sloped curve suggests the market believes short-term rates will increase in the future.
 
----
 
 ### Which statement is most consistent with the Liquidity Preference Theory?
 
@@ -195,7 +194,6 @@ If you’d like to dive deeper, consider these references:
 
 > **Explanation:** Liquidity Preference Theory centers on the additional premium investors demand for longer maturities due to factors like interest rate risk and reduced liquidity.
 
----
 
 ### Market Segmentation Theory suggests that:
 
@@ -206,7 +204,6 @@ If you’d like to dive deeper, consider these references:
 
 > **Explanation:** Market Segmentation posits that demand and supply in each maturity segment are relatively independent, driven by distinct investor needs.
 
----
 
 ### Which of the following best explains an inverted yield curve when factoring in Pure Expectations Theory?
 
@@ -217,7 +214,6 @@ If you’d like to dive deeper, consider these references:
 
 > **Explanation:** Under Pure Expectations Theory, an inverted curve indicates the market foresees short-term rates declining in the future.
 
----
 
 ### Suppose a pension fund modifies its investment policy to increasingly seek 30-year government bonds to better match its liabilities. Which theory best captures the direct impact on long-end yields?
 
@@ -228,7 +224,6 @@ If you’d like to dive deeper, consider these references:
 
 > **Explanation:** Preferred Habitat or Market Segmentation Theory states that unique investors with specific maturity needs can influence the yield in that part of the curve.
 
----
 
 ### Under Liquidity Preference Theory, if the term premium expands at longer maturities while expectations for future short-term rates remain steady, the yield curve likely:
 
@@ -239,7 +234,6 @@ If you’d like to dive deeper, consider these references:
 
 > **Explanation:** In Liquidity Preference Theory, higher term premiums increase long-end yields, making the curve steeper if short-rate expectations are stable.
 
----
 
 ### A key limitation of the Pure Expectations Theory is:
 
@@ -250,7 +244,6 @@ If you’d like to dive deeper, consider these references:
 
 > **Explanation:** Pure Expectations Theory does not consider risk premiums, leading to potential underestimation of long-term yields.
 
----
 
 ### In Market Segmentation Theory, a “hump” in the yield curve could happen if:
 
@@ -261,7 +254,6 @@ If you’d like to dive deeper, consider these references:
 
 > **Explanation:** Segment-specific demand or supply can create unique shapes like humps or dips in the curve, reflecting localized market pressures.
 
----
 
 ### Which factor is most relevant to Liquidity Preference Theory?
 
@@ -272,7 +264,6 @@ If you’d like to dive deeper, consider these references:
 
 > **Explanation:** Liquidity Preference Theory is driven by the notion of extra return for the extra risk and reduced liquidity associated with longer maturities.
 
----
 
 ### True or False: Under the Market Segmentation Theory, a single investor’s maturity preference has no effect on bond yields.
 

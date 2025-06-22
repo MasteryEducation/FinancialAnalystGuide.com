@@ -223,7 +223,6 @@ If you aim to incorporate growth equity or minority deals into a portfolio—or 
 
 > **Explanation:** Growth equity deals typically target established companies that desire additional capital to scale into new markets or product lines. They do not completely acquire or restructure the companies.
 
----
 
 ### Which of the following rights is most commonly associated with minority investments?
 
@@ -234,7 +233,6 @@ If you aim to incorporate growth equity or minority deals into a portfolio—or 
 
 > **Explanation:** Minority investments typically include protective provisions or veto rights for major transactions. However, they do not typically grant unilateral power over operations or exits.
 
----
 
 ### Preferred equity in growth equity deals typically provides:
 
@@ -245,7 +243,6 @@ If you aim to incorporate growth equity or minority deals into a portfolio—or 
 
 > **Explanation:** Preferred equity ensures that investors receive priority in liquidation, offering additional downside protection. However, it doesn’t guarantee an IPO or eliminate potential capital gains from growth.
 
----
 
 ### What is a key drawback for the founding team when accepting a growth equity investment?
 
@@ -256,7 +253,6 @@ If you aim to incorporate growth equity or minority deals into a portfolio—or 
 
 > **Explanation:** While founders retain control in a growth equity deal, they must typically accept some degree of ownership dilution. However, they still benefit from capital infusion and the expertise an investor can offer.
 
----
 
 ### Which of the following typically occurs when the investor’s stake remains under 50%?
 
@@ -267,7 +263,6 @@ If you aim to incorporate growth equity or minority deals into a portfolio—or 
 
 > **Explanation:** Minority stakes usually mean the investor has less than 50% ownership. The founding team still controls the company, but the investor can negotiate veto rights on key decisions. They do not, however, automatically get majority board representation.
 
----
 
 ### A growth equity investor might prefer convertible notes because:
 
@@ -278,7 +273,6 @@ If you aim to incorporate growth equity or minority deals into a portfolio—or 
 
 > **Explanation:** Convertible instruments often provide a cushion if the company fails to meet expectations, but can still convert into equity if it performs strongly, giving investors the potential upside.
 
----
 
 ### Which scenario would make growth equity a better fit than a buyout?
 
@@ -289,7 +283,6 @@ If you aim to incorporate growth equity or minority deals into a portfolio—or 
 
 > **Explanation:** Growth equity deals are generally used by companies aiming to expand, not undergo a full buyout or major restructuring. Founders often seek to retain control, so selling only a minority stake suits their objectives.
 
----
 
 ### From an investor standpoint, one advantage of minority growth investments is:
 
@@ -300,7 +293,6 @@ If you aim to incorporate growth equity or minority deals into a portfolio—or 
 
 > **Explanation:** Growth equity investments can yield attractive returns if the company accelerates growth. However, investors also face risk, retain some (but not total) governance influence, and still have structured means for exit.
 
----
 
 ### A typical exit route for growth equity investors is:
 
@@ -311,7 +303,6 @@ If you aim to incorporate growth equity or minority deals into a portfolio—or 
 
 > **Explanation:** Growth equity investments often end in an IPO, a strategic sale, or sometimes a sponsor-to-sponsor transaction once growth objectives have been met. Immediate liquidation is usually not the goal of an expansion-focused investment.
 
----
 
 ### True or False: Condition-based “tranche investing” is often employed in growth equity deals to mitigate risk.
 

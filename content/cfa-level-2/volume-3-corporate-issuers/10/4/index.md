@@ -153,7 +153,6 @@ Post-merger integration can be a defining factor in whether your M&A is deemed a
 
 > **Explanation:** A well-structured PMI plan with specific synergy scorecards and cross-functional “capture committees” tends to facilitate a more successful realization of cost savings and revenue enhancements.
 
----
 
 ### Which of the following is a likely red flag in the post-merger environment?
 - [ ] Smooth consolidation of all supply chains and IT platforms.  
@@ -163,7 +162,6 @@ Post-merger integration can be a defining factor in whether your M&A is deemed a
 
 > **Explanation:** A high turnover rate—particularly among key personnel—can seriously undermine synergy capture and disrupt operational continuity.
 
----
 
 ### Which factor most affects cultural alignment in post-merger integration?
 - [ ] Implementation of synergy “watch-lists.”  
@@ -173,7 +171,6 @@ Post-merger integration can be a defining factor in whether your M&A is deemed a
 
 > **Explanation:** Cultural alignment goes beyond dress codes or formalities. It hinges on whether both entities share similar values, leadership styles, and approaches to risk-taking.
 
----
 
 ### Under IFRS 3 or US GAAP Topic 805, goodwill arises when:
 - [ ] The fair value of the net identifiable assets exceeds the purchase price.  
@@ -183,7 +180,6 @@ Post-merger integration can be a defining factor in whether your M&A is deemed a
 
 > **Explanation:** Goodwill is recognized when the acquirer pays more than the fair value of the identifiable net assets. If the fair value exceeds the purchase price, the deal is considered a bargain purchase, which is handled differently.
 
----
 
 ### A synergy scorecard typically tracks:
 - [ ] Share price only.  
@@ -193,7 +189,6 @@ Post-merger integration can be a defining factor in whether your M&A is deemed a
 
 > **Explanation:** Scorecards break down cost and revenue synergy targets into measurable items, regularly tracking actual achievements vs. projections.
 
----
 
 ### A cultural mismatch in a post-merger scenario often results in:
 - [ ] No effect on synergy.  
@@ -203,7 +198,6 @@ Post-merger integration can be a defining factor in whether your M&A is deemed a
 
 > **Explanation:** Cultural clashes can harm morale, foster resistance, and slow down the flow of ideas and processes needed to achieve synergy.
 
----
 
 ### When pro forma financial statements are prepared for a merger:
 - [ ] They ignore synergy assumptions and intangible assets.  
@@ -213,7 +207,6 @@ Post-merger integration can be a defining factor in whether your M&A is deemed a
 
 > **Explanation:** Pro forma statements combine the acquirer’s and target’s financials as if they had always been one entity. They often incorporate synergy assumptions, intangible valuations, and goodwill.
 
----
 
 ### Which of the following best explains the concept of post-merger integration (PMI)?
 - [ ] A simple press release announcing the merger.  
@@ -223,7 +216,6 @@ Post-merger integration can be a defining factor in whether your M&A is deemed a
 
 > **Explanation:** PMI is an ongoing process for blending all aspects of the acquired and acquiring businesses, ensuring synergies are realized.
 
----
 
 ### A synergy “watch-list” is used to:
 - [ ] Identify agreements that violate antitrust laws.  
@@ -233,7 +225,6 @@ Post-merger integration can be a defining factor in whether your M&A is deemed a
 
 > **Explanation:** A synergy watch-list highlights at-risk areas (e.g., delayed system integration, potential client churn), so that management can proactively address them.
 
----
 
 ### True or False: Goodwill impairment can occur if anticipated synergies in an acquisition do not materialize and reduce the recoverable value of the combined entity.
 - [x] True  

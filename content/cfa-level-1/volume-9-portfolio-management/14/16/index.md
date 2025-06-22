@@ -186,7 +186,6 @@ Sure, no plan is foolproof. But scenario planning fosters a mindset of anticipat
 
 > **Explanation:** Scenario planning aims to explore multiple plausible futures, not to eliminate all risk or guarantee maximal returns. It helps portfolio managers adjust allocations based on different macroeconomic possibilities.
 
----
 
 ### In a global recession accompanied by deflationary pressures, which asset is most likely to provide a relatively safe haven?
 
@@ -197,7 +196,6 @@ Sure, no plan is foolproof. But scenario planning fosters a mindset of anticipat
 
 > **Explanation:** In a deflationary environment, investors often flock to risk-free or near risk-free government bonds, especially long duration if rates are expected to fall further.
 
----
 
 ### Which of the following steps in the scenario planning process best fits the phrase “translating high-level economic narratives into projected market outcomes”?
 
@@ -208,7 +206,6 @@ Sure, no plan is foolproof. But scenario planning fosters a mindset of anticipat
 
 > **Explanation:** Once macro scenarios are established, managers assign quantitative outcomes to asset classes—expected returns, volatilities, and correlations—so they can stress test a real portfolio.
 
----
 
 ### When central banks promote synchronized global growth through low interest rates and fiscal stimulus, which of the following portfolio strategies might be most beneficial?
 
@@ -219,7 +216,6 @@ Sure, no plan is foolproof. But scenario planning fosters a mindset of anticipat
 
 > **Explanation:** Under coordinated global growth, cyclical and growth stocks often benefit from rising consumer demand and improving corporate earnings.
 
----
 
 ### A portfolio manager identifies a risk that all asset classes could become highly correlated during crises. Which practice best addresses this concern within scenario planning?
 
@@ -230,7 +226,6 @@ Sure, no plan is foolproof. But scenario planning fosters a mindset of anticipat
 
 > **Explanation:** One key scenario planning principle is acknowledging that correlations can (and often do) rise drastically in crises. Factoring these correlation spikes helps prevent underestimating downside.
 
----
 
 ### Under a growth-driven scenario, inflation rates might rise modestly. Which instrument could a portfolio manager consider to hedge moderate inflation risks?
 
@@ -241,7 +236,6 @@ Sure, no plan is foolproof. But scenario planning fosters a mindset of anticipat
 
 > **Explanation:** TIPS adjust principal values with inflation, protecting investors from purchasing-power erosion.
 
----
 
 ### True or False: Scenario planning is a static process that requires only one set of assumptions, updated annually.
 
@@ -250,7 +244,6 @@ Sure, no plan is foolproof. But scenario planning fosters a mindset of anticipat
 
 > **Explanation:** Scenario planning must be iterative, updating assumptions and probabilities as new economic data and policy changes emerge.
 
----
 
 ### What is a major pitfall to be aware of when conducting scenario planning?
 
@@ -261,7 +254,6 @@ Sure, no plan is foolproof. But scenario planning fosters a mindset of anticipat
 
 > **Explanation:** Overconfidence in a single forecast of the future may blindside a portfolio manager if unexpected events occur. Scenario planning is about balancing multiple plausible outcomes, not clinging to just one.
 
----
 
 ### Which of the following is a direct benefit of scenario planning for a multi-asset portfolio?
 
@@ -272,7 +264,6 @@ Sure, no plan is foolproof. But scenario planning fosters a mindset of anticipat
 
 > **Explanation:** Scenario planning helps reveal a portfolio’s strengths and weaknesses under different economic situations, allowing managers to prepare hedges or adjust exposures as needed.
 
----
 
 ### True or False: In a commodity boom scenario, service-oriented economies are always better positioned than commodity-exporting economies.
 

@@ -183,7 +183,6 @@ In a frictionless market, “Delta × S₀ + B” must equal the option price to
 
 > **Explanation:** Replication involves combining underlying assets and bonds (or other instruments) so that the total payoff mirrors the derivative’s payoff at maturity.
 
----
 
 ### In a one-period binomial model, you replicate a call option payoff by:
 
@@ -194,7 +193,6 @@ In a frictionless market, “Delta × S₀ + B” must equal the option price to
 
 > **Explanation:** The binomial replication approach requires a specific number of shares (Δ) plus a risk-free bond position B that achieves the same outcomes as the call in both up and down states.
 
----
 
 ### According to no-arbitrage principles, if two assets have the same final payoff:
 
@@ -205,7 +203,6 @@ In a frictionless market, “Delta × S₀ + B” must equal the option price to
 
 > **Explanation:** If two assets or portfolios produce the same terminal payoff in every state, their prices must converge in a frictionless, arbitrage-free market.
 
----
 
 ### Which of the following is true about delta-hedging in continuous time under the Black–Scholes–Merton framework?
 
@@ -216,7 +213,6 @@ In a frictionless market, “Delta × S₀ + B” must equal the option price to
 
 > **Explanation:** The core of the BSM model is that the option seller dynamically (continuously) hedges the option to replicate a riskless payoff, thus leading to the risk-free valuation approach.
 
----
 
 ### What does the "risk-neutral" assumption specifically imply in pricing derivatives?
 
@@ -227,7 +223,6 @@ In a frictionless market, “Delta × S₀ + B” must equal the option price to
 
 > **Explanation:** Under risk neutrality, the expected return on all assets is the risk-free rate, simplifying pricing by removing the need for subjective risk premia.
 
----
 
 ### When we say a replication strategy is “self-financing,” we mean:
 
@@ -238,7 +233,6 @@ In a frictionless market, “Delta × S₀ + B” must equal the option price to
 
 > **Explanation:** In a self-financing strategy, changes in the underlying positions are compensated by proceeds from other parts of the portfolio, avoiding the need for fresh capital inflows.
 
----
 
 ### Suppose the current stock price is $50, and you replicate a European call with strike $50 by holding 0.5 shares and borrowing $20. If the market price of the call is $27:
 
@@ -249,7 +243,6 @@ In a frictionless market, “Delta × S₀ + B” must equal the option price to
 
 > **Explanation:** If it costs only $25 to replicate a payoff that the call sells for $27, you can sell the call for $27 and set up the replication for $25, capturing a $2 arbitrage profit.
 
----
 
 ### In a binomial model, if you fail to incorporate transaction costs but real markets have them:
 
@@ -260,7 +253,6 @@ In a frictionless market, “Delta × S₀ + B” must equal the option price to
 
 > **Explanation:** Omitting transaction costs can lead to perceived (but unrealizable) arbitrage. Real trading frictions shrink or eliminate many textbook arbitrage strategies.
 
----
 
 ### When using put–call parity for European options, which combination replicates a long call position?
 
@@ -271,7 +263,6 @@ In a frictionless market, “Delta × S₀ + B” must equal the option price to
 
 > **Explanation:** By rearranging put–call parity, you’ll see that owning a call is equivalent to holding the stock and a put, while shorting the present value of the strike.
 
----
 
 ### In practical markets, does dynamic replication typically eliminate all risks?
 

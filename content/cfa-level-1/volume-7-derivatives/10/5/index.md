@@ -192,7 +192,6 @@ In your career (and especially as you prepare for the CFA exams), you’ll likel
 
 > **Explanation:** Continuous hedging in the BSM model requires indiscriminate, frictionless trading—meaning no transaction costs and no bid-ask spreads—so the hedging portfolio can be continuously rebalanced at no cost.
 
----
 
 ### According to the standard Black–Scholes–Merton model, which of the following best describes the underlying asset price process?
 
@@ -203,7 +202,6 @@ In your career (and especially as you prepare for the CFA exams), you’ll likel
 
 > **Explanation:** The BSM model assumes the asset price follows geometric Brownian motion, implying lognormal price distributions and constant volatility. Jump processes and dynamic volatility are outside the basic BSM scope.
 
----
 
 ### In the classic (original) BSM setting, what does the model assume about dividends?
 
@@ -214,7 +212,6 @@ In your career (and especially as you prepare for the CFA exams), you’ll likel
 
 > **Explanation:** The original BSM formulation applies to European-style options on non-dividend-paying stocks. Including dividends requires an adjustment to the standard formula.
 
----
 
 ### Which of the following is a direct implication of the unlimited short-sale assumption in the BSM model?
 
@@ -225,7 +222,6 @@ In your career (and especially as you prepare for the CFA exams), you’ll likel
 
 > **Explanation:** The BSM model assumes no constraints or additional costs on short selling, so it’s theoretically possible to replicate key payoffs by shorting the underlying asset at will.
 
----
 
 ### Which of the following is NOT an assumption underlying the risk-neutral valuation in the BSM framework?
 
@@ -236,7 +232,6 @@ In your career (and especially as you prepare for the CFA exams), you’ll likel
 
 > **Explanation:** Risk-neutral valuation in the basic BSM model hinges on constant risk-free rates, lognormal price processes, and frictionless markets. A volatile term structure falls outside the standard BSM assumptions.
 
----
 
 ### In which scenario is the BSM model least likely to hold perfectly?
 
@@ -247,7 +242,6 @@ In your career (and especially as you prepare for the CFA exams), you’ll likel
 
 > **Explanation:** The BSM model degrades quickly when dividends are uncertain, transaction costs are high, or the option is long-dated and subject to significant changes in volatility or interest rates.
 
----
 
 ### Which assumption under BSM directly relates to ignoring the impact of taxes and fees on each trade?
 
@@ -258,7 +252,6 @@ In your career (and especially as you prepare for the CFA exams), you’ll likel
 
 > **Explanation:** The frictionless market assumption means trading is done without transaction costs, spreads, or taxes, allowing unlimited rebalancing.
 
----
 
 ### How would lifting the “constant volatility” assumption likely change option prices under real market conditions?
 
@@ -269,7 +262,6 @@ In your career (and especially as you prepare for the CFA exams), you’ll likel
 
 > **Explanation:** In practice, volatility is not truly constant. Accounting for stochastic or local volatility helps align model prices with observed market skews/smiles.
 
----
 
 ### What is a common method to adapt the BSM formula for dividend-paying stocks?
 
@@ -280,7 +272,6 @@ In your career (and especially as you prepare for the CFA exams), you’ll likel
 
 > **Explanation:** A standard adaptation is to subtract the present value of expected dividends from the stock price or to use a continuous dividend yield term (q) in the BSM formula.
 
----
 
 ### True or False: Hedging an option under the BSM model in actual markets is seamless because short sales and continuous rebalancing are always feasible.
 

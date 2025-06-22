@@ -224,7 +224,6 @@ Try to approach the exam with a calm mind. You know the key formula and the conc
 
 > **Explanation:** By definition, Jensen’s alpha is the amount by which a portfolio’s realized return deviates from the return predicted by the CAPM, reflecting potential manager skill or luck.
 
----
 
 ### Suppose a portfolio realizes a 12% annual return, with a beta of 1.1 to the market. If the market return is 9% and the risk-free rate is 2%, what is Jensen’s alpha?
 
@@ -235,7 +234,6 @@ Try to approach the exam with a calm mind. You know the key formula and the conc
 
 > **Explanation:** CAPM suggests E(R) = R_f + β × (R_m – R_f) = 2% + 1.1 × (9% – 2%) = 2% + 1.1 × 7% = 2% + 7.7% = 9.7%. The actual return is 12%. So the alpha is 12% – 9.7% = 2.3%. (If you see 2.2% vs. 2.3%, watch out for rounding differences, but 2.2% is closest to that result in this context.)
 
----
 
 ### What is the key critique of using CAPM for Jensen’s alpha measurement?
 
@@ -246,7 +244,6 @@ Try to approach the exam with a calm mind. You know the key formula and the conc
 
 > **Explanation:** CAPM is a single-factor (market-only) model. Modern finance recognizes many additional drivers of systematic risk, so Jensen’s alpha based solely on CAPM might attribute outperformance to skill when in reality it could be a factor tilt.
 
----
 
 ### Which of the following is a reason why net alpha is often considered more relevant to end investors?
 
@@ -257,7 +254,6 @@ Try to approach the exam with a calm mind. You know the key formula and the conc
 
 > **Explanation:** Net alpha is what investors actually keep once fees, expenses, and taxes are deducted. Gross alpha can be misleading if it doesn’t reflect the true cost burden.
 
----
 
 ### If a portfolio shows a positive alpha of 2% but is fully explained by a size factor premium upon deeper analysis, which of the following statements is most accurate?
 
@@ -268,7 +264,6 @@ Try to approach the exam with a calm mind. You know the key formula and the conc
 
 > **Explanation:** If the returns align with a known factor exposure (e.g., small-cap premium), the alpha you see could simply come from systematically tilting toward smaller companies, rather than unique skill.
 
----
 
 ### Which of the following best explains why Jensen’s alpha could be positive in a short time frame but negative over the long term?
 
@@ -279,7 +274,6 @@ Try to approach the exam with a calm mind. You know the key formula and the conc
 
 > **Explanation:** Alpha may be influenced by random events, especially over short periods. Over time, luck often balances out, revealing a strategy’s true worth.
 
----
 
 ### How might transaction costs affect a manager’s reported alpha?
 
@@ -290,7 +284,6 @@ Try to approach the exam with a calm mind. You know the key formula and the conc
 
 > **Explanation:** Transaction costs, including commissions and the bid-ask spread, directly lower net returns. That difference will typically reduce any measured alpha.
 
----
 
 ### In evaluating alpha consistency, which analytic measurement might be helpful?
 
@@ -301,7 +294,6 @@ Try to approach the exam with a calm mind. You know the key formula and the conc
 
 > **Explanation:** Rolling alpha (e.g., monthly or quarterly) indicates how alpha evolves over time and helps determine reliability and consistency of outperformance.
 
----
 
 ### Which of the following statements about a negative Jensen’s alpha is correct?
 
@@ -312,7 +304,6 @@ Try to approach the exam with a calm mind. You know the key formula and the conc
 
 > **Explanation:** A negative Jensen’s alpha indicates underperformance relative to the risk exposure implied by the portfolio’s beta.
 
----
 
 ### Jensen’s alpha primarily evaluates a manager’s performance relative to:
 

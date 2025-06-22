@@ -196,7 +196,6 @@ So the next time you see a fancy chart with a “95% accuracy,” try not to get
 
 > **Explanation:** Overfitting occurs when a model captures random fluctuation or “noise” in the training data, causing it to perform poorly when tested on unseen data.
 
----
 
 ### In k-fold cross-validation, why is performance typically averaged over the k folds?
 
@@ -207,7 +206,6 @@ So the next time you see a fancy chart with a “95% accuracy,” try not to get
 
 > **Explanation:** By training on k−1 folds and validating on the remaining fold repeatedly, the approach provides multiple estimates of performance. Averaging those estimates yields a stable indication of how the model might perform out-of-sample.
 
----
 
 ### Which cross-validation method is most computationally expensive for a dataset with n observations?
 
@@ -218,7 +216,6 @@ So the next time you see a fancy chart with a “95% accuracy,” try not to get
 
 > **Explanation:** Leave-One-Out Cross-Validation (LOOCV) trains the model n times (once for each observation held out), making it significantly more computationally expensive than standard k-fold methods.
 
----
 
 ### For a large financial dataset where we don’t want to waste any data, but also want a solid performance estimate, which cross-validation approach generally offers the best balance?
 
@@ -229,7 +226,6 @@ So the next time you see a fancy chart with a “95% accuracy,” try not to get
 
 > **Explanation:** k-fold cross-validation (with commonly used k values such as 5 or 10) is often seen as a good balance between computational efficiency and robust performance estimation.
 
----
 
 ### What does the Time Series Split approach in cross-validation help to avoid?
 
@@ -240,7 +236,6 @@ So the next time you see a fancy chart with a “95% accuracy,” try not to get
 
 > **Explanation:** By respecting the chronological order, time series cross-validation specifically avoids leaking future data into the training process, mitigating look-ahead bias.
 
----
 
 ### If you are trying to predict a binary outcome (e.g., default vs. no default), which metric specifically measures how many of the actual defaults you capture?
 
@@ -251,7 +246,6 @@ So the next time you see a fancy chart with a “95% accuracy,” try not to get
 
 > **Explanation:** Recall (or sensitivity) is the fraction of actual positives (defaults) correctly identified as positive by the model.
 
----
 
 ### Which metric provides a single-value summary of the trade-off between precision and recall?
 
@@ -262,7 +256,6 @@ So the next time you see a fancy chart with a “95% accuracy,” try not to get
 
 > **Explanation:** The F1 Score is the harmonic mean of precision and recall, combining them into a single performance figure especially useful for imbalanced datasets.
 
----
 
 ### Which of the following is most appropriate for measuring how well a regression model fits extremely large but relatively infrequent errors?
 
@@ -273,7 +266,6 @@ So the next time you see a fancy chart with a “95% accuracy,” try not to get
 
 > **Explanation:** RMSE heavily penalizes large errors because of the squared term, making it appropriate for scenarios where rare but big errors are critical to track.
 
----
 
 ### A high R² in your training set but a much lower R² in your validation set is often symptomatic of:
 
@@ -284,7 +276,6 @@ So the next time you see a fancy chart with a “95% accuracy,” try not to get
 
 > **Explanation:** When a model has a high training accuracy but fails to replicate that performance on validation data, it usually indicates overfitting—where patterns learned do not generalize.
 
----
 
 ### True or False: Balancing bias and variance is crucial because high variance models perform well on training data but may fail on new data.
 

@@ -135,7 +135,6 @@ Feel free to dig deeper, check out official filings on the SEC website, or read 
 
 > **Explanation:** In a primary market, the company creates brand-new shares that investors can purchase to provide fresh capital.
 
----
 
 ### In an IPO, the underwriter’s main responsibility typically includes:
 - [ ] Setting strict government regulations for how many shares can be issued.  
@@ -145,7 +144,6 @@ Feel free to dig deeper, check out official filings on the SEC website, or read 
 
 > **Explanation:** The underwriter buys the new shares at an agreed price (often at a slight discount) and then markets and sells them to the public (or specific investors), thus assuming the underwriting risk.
 
----
 
 ### What does the term “follow-on offering” refer to in equity markets?
 - [ ] The process of repurchasing shares through a buyback program.  
@@ -155,7 +153,6 @@ Feel free to dig deeper, check out official filings on the SEC website, or read 
 
 > **Explanation:** A follow-on offering, also called a seasoned equity offering, occurs when an already public company decides to raise additional funds by selling more shares.
 
----
 
 ### Which of the following statements about secondary markets is most accurate?
 - [ ] In secondary markets, the issuing company receives capital from each trade.  
@@ -165,7 +162,6 @@ Feel free to dig deeper, check out official filings on the SEC website, or read 
 
 > **Explanation:** After the initial issuance, the company no longer receives capital from the buying and selling of its shares. Funds pass between investors.
 
----
 
 ### Liquidity in the secondary market is best described as:
 - [x] The ability to buy or sell shares quickly without causing drastic changes in their prices.  
@@ -175,7 +171,6 @@ Feel free to dig deeper, check out official filings on the SEC website, or read 
 
 > **Explanation:** Liquidity is the ease of transacting (buying or selling) in a security without significantly impacting its price.
 
----
 
 ### Price discovery occurs primarily when:
 - [ ] The issuing company's board of directors determines a fair stock price.  
@@ -185,7 +180,6 @@ Feel free to dig deeper, check out official filings on the SEC website, or read 
 
 > **Explanation:** The market arrives at a price for the stock based on collective buy and sell orders—the essence of price discovery.
 
----
 
 ### Which statement about regulatory oversight is correct?
 - [x] Primary market regulations usually mandate disclosure of critical company information before selling shares.  
@@ -195,7 +189,6 @@ Feel free to dig deeper, check out official filings on the SEC website, or read 
 
 > **Explanation:** In the primary market, regulators demand transparency about the company’s financial state and operations. In the secondary market, they enforce fair trading practices and monitoring for insider trading and market manipulation.
 
----
 
 ### Under what scenario does a company typically receive no further capital from the sale of stocks?
 - [x] When shares trade on the secondary market between two investors.  
@@ -205,7 +198,6 @@ Feel free to dig deeper, check out official filings on the SEC website, or read 
 
 > **Explanation:** Once on the secondary market, shares trade among investors, and the issuing company is no longer part of the transaction.
 
----
 
 ### A common pitfall for retail investors in an IPO is:
 - [ ] Performing due diligence on the company’s fundamentals.  
@@ -215,7 +207,6 @@ Feel free to dig deeper, check out official filings on the SEC website, or read 
 
 > **Explanation:** Hype can lead to investors bidding up a newly listed company’s shares well beyond its underlying value.
 
----
 
 ### True or False: The price discovery function in the secondary market benefits only large institutional investors.
 - [x] True  

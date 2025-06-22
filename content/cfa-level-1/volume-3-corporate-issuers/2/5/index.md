@@ -212,7 +212,6 @@ Gaining comfort with these intersection points—financial performance, governan
 
 > **Explanation:** Traditional activists usually concentrate on unlocking value through financial tactics (like spin-offs or cost-cutting), while ESG-focused activists prioritize sustainability and social issues as a critical part of the firm’s valuation.
 
----
 
 ### An activist investor acquires a significant stake in a company and initiates discussions with management to address poor labor practices across the firm's supply chain. This is best described as:
 
@@ -223,7 +222,6 @@ Gaining comfort with these intersection points—financial performance, governan
 
 > **Explanation:** When an activist investor directly engages in dialogue with management to bring about changes—especially involving social or environmental issues—it is referred to as engagement. It does not necessarily escalate to a hostile takeover or a proxy contest.
 
----
 
 ### Which of the following is an example of a shareholder proposal focused on governance?
 
@@ -234,7 +232,6 @@ Gaining comfort with these intersection points—financial performance, governan
 
 > **Explanation:** Board diversity is primarily a governance issue. While other proposals (carbon footprint, plastic waste) are also important, they pertain more to environmental objectives rather than governance structure.
 
----
 
 ### How might adopting robust CSR policies protect a company from activist pressure?
 
@@ -245,7 +242,6 @@ Gaining comfort with these intersection points—financial performance, governan
 
 > **Explanation:** When a company regularly engages in CSR and addresses potential ESG vulnerabilities, activists have less material to target. This lessens the likelihood of an activist campaign focusing on those issues. However, CSR doesn’t guarantee an increased share price or eliminate the possibility of a proxy contest.
 
----
 
 ### In a proxy contest, what is an activist typically trying to achieve?
 
@@ -256,7 +252,6 @@ Gaining comfort with these intersection points—financial performance, governan
 
 > **Explanation:** Proxy contests often aim to reconstitute the board to support the activist’s plans. Compensation and governance changes are also common objectives. Eliminating shareholder voting rights would be contrary to shareholder democracy.
 
----
 
 ### One potential downside of catering to an activist’s demands for cost reductions is:
 
@@ -267,7 +262,6 @@ Gaining comfort with these intersection points—financial performance, governan
 
 > **Explanation:** While cost reductions might favor short-term financial returns, they can hinder investment in areas like R&D or CSR if resources are too constrained.
 
----
 
 ### ESG activism and financial activism can coincide when:
 
@@ -278,7 +272,6 @@ Gaining comfort with these intersection points—financial performance, governan
 
 > **Explanation:** ESG activism and financial activism can go hand-in-hand if the activist sees tangible economic benefits from addressing ESG shortcomings. Having a small share stake usually limits influence, so that alone is less impactful.
 
----
 
 ### When an activist investor publicly criticizes a company’s strategy and urges other shareholders to vote in favor of their proposals at an annual meeting, the investor is engaging in:
 
@@ -289,7 +282,6 @@ Gaining comfort with these intersection points—financial performance, governan
 
 > **Explanation:** Public campaigns involve going to the media or releasing open letters or social media content to rally shareholder support in favor of the activist’s ideas.
 
----
 
 ### What term is used to describe the strategy of pressuring a firm to release or sell off standalone segments to unlock value?
 
@@ -300,7 +292,6 @@ Gaining comfort with these intersection points—financial performance, governan
 
 > **Explanation:** A common activist tactic is calling for spin-offs/divestitures to unlock value from underperforming or non-core operations.
 
----
 
 ### True or False: A robust CSR strategy can sometimes reduce a company’s operational risks and related costs over the long term.
 

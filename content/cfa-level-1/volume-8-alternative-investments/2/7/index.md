@@ -215,7 +215,6 @@ In a perfect world, you calculate both. TWR gives you confidence in whether your
 
 > **Explanation:** TWR measures the manager’s performance irrespective of cash flows. MWR includes the timing and size of cash flows, making it more investor-centric.
 
----
 
 ### Why is TWR generally preferred when comparing managers’ performance?
 
@@ -226,7 +225,6 @@ In a perfect world, you calculate both. TWR gives you confidence in whether your
 
 > **Explanation:** TWR is time-based and ignores the specific timing and size of cash flows, allowing for a fair comparison across portfolios with different cash-flow patterns.
 
----
 
 ### In alternative investments with large capital calls and distributions, which measure is commonly used for assessing investor experience?
 
@@ -237,7 +235,6 @@ In a perfect world, you calculate both. TWR gives you confidence in whether your
 
 > **Explanation:** MWR/IRR captures the effect of varying capital calls and distributions, making it more relevant for measuring the individual investor’s actual outcome.
 
----
 
 ### Assume you have a series of cash flows for a private equity fund that includes multiple calls and distributions. Which approach solves for a discount rate that makes the net present value of all cash flows equal to zero?
 
@@ -248,7 +245,6 @@ In a perfect world, you calculate both. TWR gives you confidence in whether your
 
 > **Explanation:** By definition, the Internal Rate of Return is the discount rate that makes the present value of inflows equal to outflows over time.
 
----
 
 ### During the first six months of the year, you have $100 invested and earn 10%. Then you invest another $400 for the second six months, and the portfolio returns 5%. How does TWR compare with MWR?
 
@@ -259,7 +255,6 @@ In a perfect world, you calculate both. TWR gives you confidence in whether your
 
 > **Explanation:** TWR calculates the sub-period returns first (10% and 5%) and compounds them evenly. MWR weighs the second period’s return more heavily because more capital is invested during that period.
 
----
 
 ### What is the main disadvantage of using TWR for an individual investor’s portfolio?
 
@@ -270,7 +265,6 @@ In a perfect world, you calculate both. TWR gives you confidence in whether your
 
 > **Explanation:** TWR focuses solely on the periodic performance of the manager’s decisions, ignoring whether the investor contributed or withdrew funds at opportune or inopportune times.
 
----
 
 ### Which measure is more likely to be “juiced” by an early partial distribution, even if the final total gain is modest?
 
@@ -281,7 +275,6 @@ In a perfect world, you calculate both. TWR gives you confidence in whether your
 
 > **Explanation:** IRR can be inflated by early distributions, because the investor recovers part of the initial outlay sooner, improving the discount rate’s outcome.
 
----
 
 ### The compounding effect in TWR means:
 
@@ -292,7 +285,6 @@ In a perfect world, you calculate both. TWR gives you confidence in whether your
 
 > **Explanation:** TWR uses geometric compounding of sub-period returns to measure the cumulative effect of returns over the full investment horizon.
 
----
 
 ### When an investor is evaluating a fund manager’s skill in picking securities (and ignoring investor-driven cash flows), which return measure is ideal?
 
@@ -303,7 +295,6 @@ In a perfect world, you calculate both. TWR gives you confidence in whether your
 
 > **Explanation:** TWR is used specifically to isolate a fund manager’s competence without being affected by when and how much money investors add or remove.
 
----
 
 ### True or False: MWR can be negative even when TWR is positive, if large inflows happen before the fund’s poor performance.
 

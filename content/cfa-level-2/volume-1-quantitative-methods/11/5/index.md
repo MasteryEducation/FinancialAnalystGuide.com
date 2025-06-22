@@ -159,7 +159,6 @@ If you can, look up past CFA® mock exams that have tested macroeconomic forecas
 
 > **Explanation:** A change in definition or measurement often signals a structural break. You must test for and potentially incorporate that break in your model.
 
----
 
 ### A candidate is given results of a Johansen test showing one cointegration vector among inflation (INF), interest rate (INT), and GDP. Which approach would be most appropriate?
 
@@ -170,7 +169,6 @@ If you can, look up past CFA® mock exams that have tested macroeconomic forecas
 
 > **Explanation:** With evidence of cointegration, a VECM is appropriate to capture both the long-run equilibrium relationship and short-run dynamics.
 
----
 
 ### A vignette indicates a Markov switching model with two regimes: expansion and recession. The transition probability matrix shows a 0.90 probability of staying in the same regime. When interpreting a multi-step forecast, the next step is to:
 
@@ -181,7 +179,6 @@ If you can, look up past CFA® mock exams that have tested macroeconomic forecas
 
 > **Explanation:** Even if the probability of staying in the current regime is 0.90, the correct approach is to weight each possible future regime outcome by its transition probability.
 
----
 
 ### Time-series data for inflation, interest rates, and consumer confidence from 1995 to 2025 is provided. A major monetary policy shift occurred in 2010. Which statement best describes how to handle this for cointegration testing?
 
@@ -192,7 +189,6 @@ If you can, look up past CFA® mock exams that have tested macroeconomic forecas
 
 > **Explanation:** A known policy change may alter long-run relationships. Splitting or modeling the break is often necessary to maintain reliable results.
 
----
 
 ### A candidate is shown a 3-variable VAR impulse response function. An unexpected 1% rise in interest rates leads to a temporary GDP drop after two quarters, followed by a rebound. This pattern is describing:
 
@@ -203,7 +199,6 @@ If you can, look up past CFA® mock exams that have tested macroeconomic forecas
 
 > **Explanation:** In a VAR, an impulse response function depicts how a shock to one variable flows through the system over time.
 
----
 
 ### In an error correction model, the coefficient on the error correction term (ECT) is −0.4. Interpreting that coefficient suggests:
 
@@ -214,7 +209,6 @@ If you can, look up past CFA® mock exams that have tested macroeconomic forecas
 
 > **Explanation:** A negative error correction term close to −0.4 implies that 40% of last period’s disequilibrium is “corrected” in the current period.
 
----
 
 ### When building a multi-step Markov switching forecast for GDP growth, which factor is NOT typically required?
 
@@ -225,7 +219,6 @@ If you can, look up past CFA® mock exams that have tested macroeconomic forecas
 
 > **Explanation:** Markov switching doesn’t inherently require cointegration vectors unless you specifically combine it with an ECM approach. It primarily revolves around different states (regimes) and the probabilities of transitioning between them.
 
----
 
 ### A vignette states that "the short-run errors between GDP and inflation do not appear to accumulate over time, but they do revert toward a common trend." This observation supports the presence of:
 
@@ -236,7 +229,6 @@ If you can, look up past CFA® mock exams that have tested macroeconomic forecas
 
 > **Explanation:** If two series revert toward a common trend in the long run, that’s a hallmark of cointegrated variables.
 
----
 
 ### If an exam vignette shows that mean inflation drops significantly after a certain date but interest rate responses are unchanged, examiners might be hinting at:
 
@@ -247,7 +239,6 @@ If you can, look up past CFA® mock exams that have tested macroeconomic forecas
 
 > **Explanation:** A shift in mean for one variable only can signal a partial structural break, potentially requiring advanced modeling or at least a shift dummy.
 
----
 
 ### The main benefit of using a VAR structure (instead of a single-equation AR model) for macroeconomic forecasting is:
 

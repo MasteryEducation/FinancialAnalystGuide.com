@@ -159,7 +159,6 @@ In exam scenarios, you might encounter a question that references greenhouse gas
 
 > **Explanation:** ESG factors can uncover risks or enhance value beyond what’s shown in traditional financial statements. They’re increasingly considered relevant across various industries.
 
----
 
 ### Which of the following most accurately characterizes governance (“G”) in ESG?
 
@@ -170,7 +169,6 @@ In exam scenarios, you might encounter a question that references greenhouse gas
 
 > **Explanation:** Governance focuses on oversight and accountability, including board practices, executive compensation, and transparency. It underpins how the firm is managed at the highest level.
 
----
 
 ### A tech hardware company faces potential legal action due to inhumane working conditions at a supplier’s factory. Which ESG category is most directly implicated?
 
@@ -181,7 +179,6 @@ In exam scenarios, you might encounter a question that references greenhouse gas
 
 > **Explanation:** Employee conditions at a supplier’s location fall under social factors, as they involve labor rights, worker safety, and ethical sourcing.
 
----
 
 ### A firm’s ESG rating slipped due to numerous cybersecurity breaches and data protection issues. Under which ESG factor would these issues most likely be classified?
 
@@ -192,7 +189,6 @@ In exam scenarios, you might encounter a question that references greenhouse gas
 
 > **Explanation:** Data privacy and security primarily relate to social factors, reflecting the relationship between the company and its stakeholders, especially customers.
 
----
 
 ### In a potential exam vignette, a firm invests heavily in clean energy to reduce emissions by 30% over five years. Which statement best captures the short-term vs. long-term ESG tradeoff?
 
@@ -203,7 +199,6 @@ In exam scenarios, you might encounter a question that references greenhouse gas
 
 > **Explanation:** Clean energy projects might increase upfront expenses, negatively affecting short-term earnings, but they can pay off by reducing future risks and improving brand image in the long run.
 
----
 
 ### The Task Force on Climate-Related Financial Disclosures (TCFD) primarily provides:
 
@@ -214,7 +209,6 @@ In exam scenarios, you might encounter a question that references greenhouse gas
 
 > **Explanation:** TCFD focuses on climate issues and how companies should disclose their exposure, risk management, and future climate-related strategies.
 
----
 
 ### Which of the following is a common pitfall when companies implement ESG policies?
 
@@ -225,7 +219,6 @@ In exam scenarios, you might encounter a question that references greenhouse gas
 
 > **Explanation:** Greenwashing is a major pitfall, as it involves misleading claims about sustainability efforts that aren’t backed by real changes or data.
 
----
 
 ### ESG factors can influence the cost of capital by:
 
@@ -236,7 +229,6 @@ In exam scenarios, you might encounter a question that references greenhouse gas
 
 > **Explanation:** Firms with strong ESG performance often benefit from lower perceived risk, which can translate into a lower cost of equity or borrowing. Conversely, weak ESG can push up financing costs.
 
----
 
 ### Which statement below correctly explains the materiality concept in ESG?
 
@@ -247,7 +239,6 @@ In exam scenarios, you might encounter a question that references greenhouse gas
 
 > **Explanation:** The concept of materiality ties ESG issues to potential real-world impacts on a firm’s value or operations, making certain factors more relevant than others depending on industry and strategy.
 
----
 
 ### True or False: Companies with strong ESG profiles always have higher stock valuations than those with weaker ESG profiles.
 

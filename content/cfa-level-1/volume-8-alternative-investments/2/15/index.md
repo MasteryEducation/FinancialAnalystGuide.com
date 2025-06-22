@@ -189,7 +189,6 @@ Ultimately, whether you’re on the exam or in real practice, scenario testing i
 
 > **Explanation:** Scenario analysis is a flexible tool for investigating how portfolios might behave under predefined conditions, although it does not guarantee outcomes.
 
----
 
 ### When conducting a Monte Carlo simulation, which step is most critical in modeling correlation shifts during stressful market periods?
 
@@ -200,7 +199,6 @@ Ultimately, whether you’re on the exam or in real practice, scenario testing i
 
 > **Explanation:** In times of crisis, correlations often increase significantly. Accounting for regime shifts ensures a more realistic simulation.
 
----
 
 ### Which statement about historical stress testing is most accurate?
 
@@ -211,7 +209,6 @@ Ultimately, whether you’re on the exam or in real practice, scenario testing i
 
 > **Explanation:** Historical stress tests use real crisis data (e.g., the 2008 meltdown) and apply that environment to today’s portfolio. This helps reveal vulnerabilities to similarly severe market conditions.
 
----
 
 ### In a performance simulation context, confidence intervals:
 
@@ -222,7 +219,6 @@ Ultimately, whether you’re on the exam or in real practice, scenario testing i
 
 > **Explanation:** Confidence intervals illustrate the uncertainty around estimated values. While not guaranteed, they are crucial for understanding possible performance outcomes in any asset class.
 
----
 
 ### Suppose you’ve run a scenario test for a real estate fund under extreme liquidity stress, and the results show a 25% drawdown in a “worst-case scenario.” How might you directly use this outcome to mitigate risk?
 
@@ -233,7 +229,6 @@ Ultimately, whether you’re on the exam or in real practice, scenario testing i
 
 > **Explanation:** Scenario test insights are often used to establish risk limits so that corrective measures (like partial liquidation) can be triggered if the portfolio drawdown nears an extreme level.
 
----
 
 ### When performing Monte Carlo simulations, why is it essential to validate input data?
 
@@ -244,7 +239,6 @@ Ultimately, whether you’re on the exam or in real practice, scenario testing i
 
 > **Explanation:** “Garbage in, garbage out” is a key principle. If your input data is poor or unrealistic, your simulated performance results will be unreliable.
 
----
 
 ### What is the best rationale for mixing scenario analysis, Monte Carlo simulations, and historical stress testing?
 
@@ -255,7 +249,6 @@ Ultimately, whether you’re on the exam or in real practice, scenario testing i
 
 > **Explanation:** No single approach can capture every market nuance. A blended method offers a more robust perspective on potential outcomes.
 
----
 
 ### A structural break in the context of performance simulation refers to:
 
@@ -266,7 +259,6 @@ Ultimately, whether you’re on the exam or in real practice, scenario testing i
 
 > **Explanation:** Structural breaks happen when historical relationships (like correlations) no longer hold, often triggered by major market changes or crises.
 
----
 
 ### Which of the following is an example of a “tail or extreme event” scenario?
 
@@ -277,7 +269,6 @@ Ultimately, whether you’re on the exam or in real practice, scenario testing i
 
 > **Explanation:** Tail events are highly unlikely but potentially catastrophic, such as a sudden and significant market drop that is outside normal volatility.
 
----
 
 ### True or False: Scenario testing can help in setting drawdown thresholds and adjusting portfolio allocations accordingly.
 

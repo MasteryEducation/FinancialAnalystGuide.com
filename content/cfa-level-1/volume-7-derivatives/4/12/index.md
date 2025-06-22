@@ -164,7 +164,6 @@ The constructed-response portion might ask you to discuss how a company accounts
 
 > **Explanation:** Employee stock options typically have vesting schedules and cannot be sold or transferred, linking them closely to the holder’s employment. By contrast, exchange-traded options usually can be bought or sold freely.
 
----
 
 ### In accounting under US GAAP (ASC 718), the fair value of ESOs must be:
 
@@ -175,7 +174,6 @@ The constructed-response portion might ask you to discuss how a company accounts
 
 > **Explanation:** Under ASC 718, the total fair value of stock options granted is recognized as compensation expense over the service period (i.e., the vesting period).
 
----
 
 ### Which aspect of ESOs typically incentivizes employee retention?
 
@@ -186,7 +184,6 @@ The constructed-response portion might ask you to discuss how a company accounts
 
 > **Explanation:** Gradual vesting schedules mean employees must remain at the company for certain periods or performance conditions to earn their options, motivating them to stay.
 
----
 
 ### If an employee leaves the firm before their options have vested, what generally happens to the unvested portion?
 
@@ -197,7 +194,6 @@ The constructed-response portion might ask you to discuss how a company accounts
 
 > **Explanation:** In most plans, unvested options are forfeited when an employee leaves, reinforcing the concept that ESOs are a retention tool.
 
----
 
 ### Under IFRS 2, share-based payment accounting for employee stock options:
 
@@ -208,7 +204,6 @@ The constructed-response portion might ask you to discuss how a company accounts
 
 > **Explanation:** IFRS 2 and ASC 718 are aligned in principle: measure and expense ESOs based on their fair value at grant, recognized over the vesting period.
 
----
 
 ### Which statement describes a potential risk for employees who rely heavily on ESOs?
 
@@ -219,7 +214,6 @@ The constructed-response portion might ask you to discuss how a company accounts
 
 > **Explanation:** Relying heavily on one company’s shares (especially your employer) poses concentration risk. If the stock price falls or the company runs into trouble, both job security and investment value suffer.
 
----
 
 ### A key difference in valuing ESOs vs. exchange-traded calls is:
 
@@ -230,7 +224,6 @@ The constructed-response portion might ask you to discuss how a company accounts
 
 > **Explanation:** ESOs are often valued using models that incorporate early exercise and turnover probabilities, a nuance not typical in standard call option pricing on an exchange.
 
----
 
 ### When a company issues new shares for employees to exercise their stock options, the resulting effect is:
 
@@ -241,7 +234,6 @@ The constructed-response portion might ask you to discuss how a company accounts
 
 > **Explanation:** Exercise typically involves creating new shares, which can dilute existing shareholders and lower the firm’s earnings per share unless offset by share repurchases.
 
----
 
 ### An employee holds ESOs that are deep in-the-money, but the expiration date is approaching. Failure to exercise would result in:
 
@@ -252,7 +244,6 @@ The constructed-response portion might ask you to discuss how a company accounts
 
 > **Explanation:** If ESOs expire unexercised, any intrinsic value is lost. There’s typically no automatic exercise feature (unlike some exchange-broker programs).
 
----
 
 ### True or False: ESOs are typically protected by central clearing counterparties, ensuring that employees face minimal counterparty risk.
 

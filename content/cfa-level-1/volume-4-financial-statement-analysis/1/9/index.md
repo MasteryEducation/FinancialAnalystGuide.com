@@ -178,7 +178,6 @@ flowchart LR
 
 > **Explanation:** A customer’s bankruptcy that reflects pre-existing financial woes at year-end is classified as an adjusting event. It provides evidence that the receivable was impaired before the reporting date.
 
----
 
 ### 2. Which standard addresses subsequent events under IFRS?
 
@@ -189,7 +188,6 @@ flowchart LR
 
 > **Explanation:** IAS 10 outlines the requirements and guidance for events after the reporting period.  
 
----
 
 ### 3. Which of the following best describes a non-adjusting event?
 
@@ -200,7 +198,6 @@ flowchart LR
 
 > **Explanation:** An event that arises from conditions completely after the balance sheet date (such as a new combination) is non-adjusting.
 
----
 
 ### 4. Company X discovered an error in its inventory count, revealing overvaluation at year-end. This discovery took place two weeks after the reporting date but relates to pre-existing conditions. How should the company proceed?
 
@@ -211,7 +208,6 @@ flowchart LR
 
 > **Explanation:** Since it relates to a pre-existing condition (incorrect inventory count), the event is an adjusting event and requires adjustment to the year-end figures.
 
----
 
 ### 5. Under US GAAP (ASC 855), when is disclosure of a non-adjusting event necessary?
 
@@ -222,7 +218,6 @@ flowchart LR
 
 > **Explanation:** Non-adjusting events that are material and could affect the decisions of users must be disclosed, even if they do not require changes to the financial statements.
 
----
 
 ### 6. Which of the following would most likely be considered a non-adjusting event?
 
@@ -233,7 +228,6 @@ flowchart LR
 
 > **Explanation:** The hurricane event is new, arising fully after the balance sheet date. No adjusting entries are needed, although disclosure might be.
 
----
 
 ### 7. True or False? An event that provides new information about conditions that existed before the reporting date should always lead to a restatement of the financial statements.
 
@@ -242,7 +236,6 @@ flowchart LR
 
 > **Explanation:** Adjusting events require updating statement amounts. Hence, if the condition pre-existed, it affects the recognized amounts.
 
----
 
 ### 8. Which statement about subsequent events is correct?
 
@@ -253,7 +246,6 @@ flowchart LR
 
 > **Explanation:** Subsequent events can either adjust recognized amounts (if the condition existed pre-year-end) or merely be disclosed (if the condition arose after year-end).
 
----
 
 ### 9. For which of the following instances should a company revise its year-end asset valuation?
 
@@ -264,7 +256,6 @@ flowchart LR
 
 > **Explanation:** The discovery of uncollectible receivables that ties back to existing conditions at year-end is an adjusting event.
 
----
 
 ### 10. Regarding a major acquisition announced after the reporting date (with no prior discussions or negotiations at year-end), how should it be treated?
 

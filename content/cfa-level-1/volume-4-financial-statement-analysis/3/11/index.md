@@ -139,7 +139,6 @@ It may feel a bit intimidating at first, especially when you see complicated val
 
 > **Explanation:** Level 1 inputs are observable prices in active markets for identical assets or liabilities, making them the most reliable.
 
----
 
 ### A corporate bond is normally valued using market prices for similar instruments. Under IFRS 13 and ASC 820, what level of the fair value hierarchy would this generally fall under?
 - [ ] Level 1
@@ -149,7 +148,6 @@ It may feel a bit intimidating at first, especially when you see complicated val
 
 > **Explanation:** Level 2 is used when valuation relies on observable market data for similar assets but not identical ones.
 
----
 
 ### Which of the following would most likely be classified as a Level 3 input?
 - [ ] Quoted price for a publicly traded common stock 
@@ -159,7 +157,6 @@ It may feel a bit intimidating at first, especially when you see complicated val
 
 > **Explanation:** Unobservable or entity-specific assumptions (like discount rates for specialized intangible assets) classify as Level 3.
 
----
 
 ### When shifting from using a Level 2 input to a Level 3 input in fair value measurement, what is the primary concern for analysts?
 - [x] Increased subjectivity and reliance on management’s assumptions 
@@ -169,7 +166,6 @@ It may feel a bit intimidating at first, especially when you see complicated val
 
 > **Explanation:** Moving to Level 3 increases reliance on internal estimates, raising concerns about bias or limited verifiability.
 
----
 
 ### According to IFRS 13 and ASC 820, which of the following actions must companies undertake regarding fair value disclosures?
 - [x] Disclose the valuation technique, inputs used, and any transfers between levels 
@@ -179,7 +175,6 @@ It may feel a bit intimidating at first, especially when you see complicated val
 
 > **Explanation:** Companies must be transparent by outlining techniques, important inputs, and transfers between levels, especially for Level 3.
 
----
 
 ### What is the main reason Level 1 inputs are considered the most reliable?
 - [x] They reflect actual market transactions for identical assets or liabilities 
@@ -189,7 +184,6 @@ It may feel a bit intimidating at first, especially when you see complicated val
 
 > **Explanation:** Level 1 inputs come from active, identical trades in the marketplace and thus require minimal adjustments or assumptions.
 
----
 
 ### Which of the following best illustrates a potential pitfall of Level 2 inputs?
 - [x] Limited trading in the comparable securities can reduce reliability 
@@ -199,7 +193,6 @@ It may feel a bit intimidating at first, especially when you see complicated val
 
 > **Explanation:** Level 2 inputs can be reliable but might be limited if comparable securities lack frequent or high-volume trading. (Note that Level 2 does rely on observable data—but sometimes in less active markets.)
 
----
 
 ### If a firm’s intangible asset valuations are consistently updated using internal projections of growth rates and discount rates, what should investors be most cautious about?
 - [x] Potential management bias affecting valuations 
@@ -209,7 +202,6 @@ It may feel a bit intimidating at first, especially when you see complicated val
 
 > **Explanation:** Internally generated projections, belonging to Level 3, may lead to bias or incorrect assumptions that materially affect fair value.
 
----
 
 ### Which of the following sets of information would you expect to appear in the notes to financial statements under IFRS 13 and ASC 820?
 - [x] A tabular disclosure of the fair value hierarchy for each class of assets or liabilities, the valuation techniques used, and explanations of transfers 
@@ -219,7 +211,6 @@ It may feel a bit intimidating at first, especially when you see complicated val
 
 > **Explanation:** IFRS 13 and ASC 820 require detailed note disclosures that reference fair value levels, valuation methods, and transfers between levels.
 
----
 
 ### True or False: 
 Under IFRS 13 and ASC 820, any asset or liability that cannot be measured at Level 2 must automatically be classified at Level 3.

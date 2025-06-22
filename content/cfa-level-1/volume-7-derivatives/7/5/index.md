@@ -167,7 +167,6 @@ Arbitrage is often framed as a foolproof, risk-free opportunity. And in those pu
 
 > **Explanation:** A margin account gives traders leverage by letting them borrow against their existing investments. Amplified returns can be earned, but margin calls also introduce additional risk.
 
----
 
 ### Why might short-selling be required in a typical two-legged arbitrage strategy?
 
@@ -178,7 +177,6 @@ Arbitrage is often framed as a foolproof, risk-free opportunity. And in those pu
 
 > **Explanation:** In a standard mispricing scenario, the trader buys the underpriced asset and simultaneously shorts the overpriced one. Short-selling is essential to capture the profit from the overpriced side.
 
----
 
 ### Which of the following is most likely to reduce an arbitrageur’s theoretical profit in practice?
 
@@ -189,7 +187,6 @@ Arbitrage is often framed as a foolproof, risk-free opportunity. And in those pu
 
 > **Explanation:** Transaction costs—like bid–ask spreads and fees—eat into the risk-free spread that arbitrageurs aim to capture, potentially making a seemingly attractive strategy unprofitable.
 
----
 
 ### Latency arbitrage strategies generally rely on:
 
@@ -200,7 +197,6 @@ Arbitrage is often framed as a foolproof, risk-free opportunity. And in those pu
 
 > **Explanation:** Latency arbitrage is all about speed. Traders with faster data feeds or lower-latency infrastructure can see price changes before others and execute profitable trades more quickly.
 
----
 
 ### If an arbitrage trade requires you to receive a large stock loan for short-selling, which of the following fees do you most likely face?
 
@@ -211,7 +207,6 @@ Arbitrage is often framed as a foolproof, risk-free opportunity. And in those pu
 
 > **Explanation:** When you borrow stocks to short, you pay a borrowing fee to the lender. This fee can be an important factor in whether the trade remains profitable.
 
----
 
 ### What is partial fill risk in arbitrage?
 
@@ -222,7 +217,6 @@ Arbitrage is often framed as a foolproof, risk-free opportunity. And in those pu
 
 > **Explanation:** Partial fill risk stems from not being able to fully execute the planned size or volume of the trade. This incomplete position can compromise the trade’s overall profitability.
 
----
 
 ### Why might settlement cycles affect arbitrage outcomes?
 
@@ -233,7 +227,6 @@ Arbitrage is often framed as a foolproof, risk-free opportunity. And in those pu
 
 > **Explanation:** Different settlement windows can cause timing mismatches that affect funding costs or the need for additional collateral, thereby influencing arbitrage returns.
 
----
 
 ### Algorithmic and high-frequency traders often locate servers physically close to major exchanges. What is the key goal of this practice?
 
@@ -244,7 +237,6 @@ Arbitrage is often framed as a foolproof, risk-free opportunity. And in those pu
 
 > **Explanation:** By colocating servers at or near exchange data centers, traders reduce data travel times, which can lead to faster trade execution—crucial for latency-sensitive strategies.
 
----
 
 ### Which factor below can cause increased margin requirements and higher capital costs for arbitrageurs?
 
@@ -255,7 +247,6 @@ Arbitrage is often framed as a foolproof, risk-free opportunity. And in those pu
 
 > **Explanation:** Clearinghouses often raise margin requirements when markets become volatile, as they want extra protection against large, rapid price moves. This can make arbitrage more costly.
 
----
 
 ### True or False: In true textbook theory, arbitrage offers a guaranteed risk-free profit, but real-world constraints like transaction costs and settlement complexities introduce risk.
 

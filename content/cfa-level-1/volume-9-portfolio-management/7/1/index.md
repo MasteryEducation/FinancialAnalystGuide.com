@@ -194,7 +194,6 @@ I’ll never forget one client—call her “Maria”—who was determined to in
 
 > **Explanation:** The prudent investor rule requires you to invest with care, skill, and diligence that a prudent person would exercise, not simply relying on personal or reckless approaches.
 
----
 
 ### A portfolio manager discovers a conflict of interest related to personal holdings in a company recommended to clients. The MOST appropriate step is to:
 
@@ -205,7 +204,6 @@ I’ll never forget one client—call her “Maria”—who was determined to in
 
 > **Explanation:** Whenever a conflict arises, it should be disclosed fully and managed according to firm policies and industry standards, ensuring transparency.
 
----
 
 ### What is the primary objective of maintaining thorough documentation in a fiduciary relationship?
 
@@ -216,7 +214,6 @@ I’ll never forget one client—call her “Maria”—who was determined to in
 
 > **Explanation:** Good documentation shows that decisions are made carefully, in line with the client’s stated objectives. It’s not just about compliance—it’s about best practices and demonstrating prudence.
 
----
 
 ### A client has a short time horizon and requires significant liquidity for upcoming expenses. Which practice best aligns with fiduciary duty?
 
@@ -227,7 +224,6 @@ I’ll never forget one client—call her “Maria”—who was determined to in
 
 > **Explanation:** Fiduciary duty demands aligning investments with the client’s timeline and liquidity needs, which in this case would favor more liquid, lower-risk assets.
 
----
 
 ### Which of the following statements about compensation structures is TRUE for a fiduciary?
 
@@ -238,7 +234,6 @@ I’ll never forget one client—call her “Maria”—who was determined to in
 
 > **Explanation:** Compensation should motivate the manager to act in the client’s best interest. Hurdle rates and high-water marks are tools to ensure fair performance fees. However, fixed fees do not necessarily guarantee full alignment in all situations.
 
----
 
 ### Duty of loyalty, care, and confidentiality applies to which of the following scenarios?
 
@@ -249,7 +244,6 @@ I’ll never forget one client—call her “Maria”—who was determined to in
 
 > **Explanation:** Fiduciary duties apply to all aspects of client relations, from large strategic moves to minor administrative tasks.
 
----
 
 ### A best practice for a fiduciary portfolio manager who suspects non-public information might be involved in a recommended investment is to:
 
@@ -260,7 +254,6 @@ I’ll never forget one client—call her “Maria”—who was determined to in
 
 > **Explanation:** Trading on material non-public information violates both fiduciary duty and market regulations. The correct approach is to defer action and escalate the concern to compliance.
 
----
 
 ### During a routine portfolio review, a manager notices that equity allocations have risen beyond the target range due to market appreciation. What is the ideal fiduciary response?
 
@@ -271,7 +264,6 @@ I’ll never forget one client—call her “Maria”—who was determined to in
 
 > **Explanation:** Rebalancing ensures the portfolio adheres to the specified risk profile and policy guidelines, preserving the spirit of the fiduciary agreement.
 
----
 
 ### Which of the following strategies best respects the need for confidentiality?
 
@@ -282,7 +274,6 @@ I’ll never forget one client—call her “Maria”—who was determined to in
 
 > **Explanation:** Limiting data access and employing secure methods are fundamental to maintaining client confidentiality.
 
----
 
 ### The term “suitability” in a fiduciary context implies that recommended investments and strategies:
 

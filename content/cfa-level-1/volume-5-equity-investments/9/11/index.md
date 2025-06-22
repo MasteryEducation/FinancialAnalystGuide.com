@@ -191,7 +191,6 @@ Ultimately, cost of equity is about ensuring that you—and your clients or stak
 
 > **Explanation:** Using CAPM: rₑ = 3% + 1.2 × (8% − 3%) = 3% + 1.2 × 5% = 3% + 6% = 9%.
 
----
 
 ### An analyst uses the Gordon Growth Model to find the cost of equity. If D₁ is 2.00, P₀ is 40, and the growth rate (g) is 4%, which is the resulting cost of equity?
 
@@ -202,7 +201,6 @@ Ultimately, cost of equity is about ensuring that you—and your clients or stak
 
 > **Explanation:** rₑ = (D₁ / P₀) + g = (2.00 / 40) + 0.04 = 0.05 + 0.04 = 0.09 or 9%.
 
----
 
 ### When using a build-up method for a small private company, an analyst starts with a 2.5% risk-free rate, applies a 6.0% market premium, and adds a 2% size premium. What is the final cost of equity?
 
@@ -213,7 +211,6 @@ Ultimately, cost of equity is about ensuring that you—and your clients or stak
 
 > **Explanation:** Summation approach (2.5% + 6.0% + 2.0%) = 10.5%.
 
----
 
 ### Suppose you have a firm operating in a politically unstable country. Which best describes how to handle the cost of equity calculation?
 
@@ -224,7 +221,6 @@ Ultimately, cost of equity is about ensuring that you—and your clients or stak
 
 > **Explanation:** For emerging or unstable markets, you add a specific premium (country risk premium) to capture additional risk not fully reflected by a standard ERP or beta.
 
----
 
 ### Which situation most likely causes an overestimation of the cost of equity when using CAPM?
 
@@ -235,7 +231,6 @@ Ultimately, cost of equity is about ensuring that you—and your clients or stak
 
 > **Explanation:** If beta is inflated (perhaps from a short period of extreme volatility), it leads to an inflated CAPM estimate of the cost of equity.
 
----
 
 ### In the context of DDM, a small increase in the growth rate “g” can lead to:
 
@@ -246,7 +241,6 @@ Ultimately, cost of equity is about ensuring that you—and your clients or stak
 
 > **Explanation:** As g rises in the DDM formula rₑ = (D₁ / P₀) + g, for a given P₀ and D₁, rₑ decreases if the growth rate goes up (since P₀ is typically fixed by the market).
 
----
 
 ### You compare two companies: Company A has a beta of 0.8, while Company B has a beta of 1.5. Both face the same risk-free rate and equity risk premium. Which statement is correct regarding their costs of equity using CAPM?
 
@@ -257,7 +251,6 @@ Ultimately, cost of equity is about ensuring that you—and your clients or stak
 
 > **Explanation:** The higher the beta, the higher the expected or required return, so Company B has a higher cost of equity.
 
----
 
 ### In the build-up approach, which component is least likely to be included explicitly?
 
@@ -268,7 +261,6 @@ Ultimately, cost of equity is about ensuring that you—and your clients or stak
 
 > **Explanation:** The build-up approach aggregates various premiums onto the risk-free rate. Dividend growth rate is not typically added as a “premium”; it’s used in the DDM approach if needed.
 
----
 
 ### Which of the following would immediately increase the cost of equity under the CAPM framework?
 
@@ -279,7 +271,6 @@ Ultimately, cost of equity is about ensuring that you—and your clients or stak
 
 > **Explanation:** An increase in the ERP due to higher market volatility raises the cost of equity directly in the CAPM model.
 
----
 
 ### True or False: Smaller companies generally have a lower cost of equity due to their greater flexibility.
 

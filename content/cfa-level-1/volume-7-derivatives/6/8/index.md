@@ -161,7 +161,6 @@ Always consult a professional tax advisor when dealing with complex derivative p
 
 > **Explanation:** In many jurisdictions, hedging gains and losses are aligned with the underlying item being hedged. If the forward contract is deemed a proper hedge, any realized gain or loss may be deferred until the underlying transaction occurs.
 
----
 
 ### Under the U.S. tax code, the 60/40 rule for certain futures contracts typically means:
 
@@ -172,7 +171,6 @@ Always consult a professional tax advisor when dealing with complex derivative p
 
 > **Explanation:** Under the 60/40 rule, 60% of the profits are treated as if they were long-term capital gains and 40% are treated as short-term, irrespective of the contract’s actual holding period.
 
----
 
 ### You sell a losing call option on a stock for a $2,000 loss, then three days later you buy a new, nearly identical call option on the same stock. How is the initial loss usually treated for tax purposes in many jurisdictions?
 
@@ -183,7 +181,6 @@ Always consult a professional tax advisor when dealing with complex derivative p
 
 > **Explanation:** Many jurisdictions have wash sale rules that disallow a loss if a “substantially identical” position is bought back within a specific timeframe. The disallowed loss increases the basis of the newly acquired position.
 
----
 
 ### A constructive sale occurs when:
 
@@ -194,7 +191,6 @@ Always consult a professional tax advisor when dealing with complex derivative p
 
 > **Explanation:** Constructive sale rules typically apply when an investor retains an appreciated position but uses a derivative (like a deep in-the-money option or short sale against the box) to effectively eliminate the risk of holding that position, thereby realizing the gain for tax purposes.
 
----
 
 ### Which of the following is one main purpose of cross-border withholding taxes on derivative gains?
 
@@ -205,7 +201,6 @@ Always consult a professional tax advisor when dealing with complex derivative p
 
 > **Explanation:** Governments often impose withholding taxes to make sure income deemed locally sourced is taxed at the point of origin. This is sometimes mitigated by double taxation treaties, but the fundamental purpose is to capture tax revenue on local income.
 
----
 
 ### In the United States, which of the following best describes how index options are typically taxed?
 
@@ -216,7 +211,6 @@ Always consult a professional tax advisor when dealing with complex derivative p
 
 > **Explanation:** Broad-based index options in the U.S. may be taxed under Section 1256, providing the 60%/40% split on gains and losses. However, check the specific classification to confirm that the particular index is recognized as broad-based.
 
----
 
 ### Why should a trader carefully document a derivative as a hedging transaction for tax purposes?
 
@@ -227,7 +221,6 @@ Always consult a professional tax advisor when dealing with complex derivative p
 
 > **Explanation:** Proper documentation is crucial to demonstrate to tax authorities that the derivative was used as a legitimate hedge, which can alter the timing and sometimes the character of gains and losses.
 
----
 
 ### A firm enters a total return swap on a bond portfolio with a foreign bank. The foreign bank withholds a portion of the swap payments. Which statement is most accurate?
 
@@ -238,7 +231,6 @@ Always consult a professional tax advisor when dealing with complex derivative p
 
 > **Explanation:** If the income is deemed sourced from the bank’s country, withholding can apply. Often, the firm can claim a foreign tax credit if a treaty exists, avoiding double taxation.
 
----
 
 ### The effect of a wash sale on your tax basis is:
 
@@ -249,7 +241,6 @@ Always consult a professional tax advisor when dealing with complex derivative p
 
 > **Explanation:** A disallowed loss under wash sale rules is added to the cost basis of the newly purchased position, effectively postponing recognition of that loss.
 
----
 
 ### Under constructive sale rules, an investor who enters a derivative contract that offsets substantially all price risk on an appreciated position:
 

@@ -203,7 +203,6 @@ The best risk management approach, therefore, is synergistic. It balances firm-w
 
 > **Explanation:** A forward contract is typically used to lock in a specific exchange rate by a set date, perfect for anticipated cash flows. Options give the right but not the obligation, and swaps can be more complex arrangements often involving periodic exchanges of interest and principal.
 
----
 
 ### A partial hedge ratio might be chosen if:
 
@@ -214,7 +213,6 @@ The best risk management approach, therefore, is synergistic. It balances firm-w
 
 > **Explanation:** A partial hedge ratio can be used when you don’t want to fully lock in an exchange rate or commodity price. You hedge, say, 70-80% of your exposure, leaving a portion open to potential favorable (or adverse) market movement.
 
----
 
 ### If GlobeTek engages in an interest rate swap to fix the cost of its floating-rate debt, the firm:
 
@@ -225,7 +223,6 @@ The best risk management approach, therefore, is synergistic. It balances firm-w
 
 > **Explanation:** In a typical “plain vanilla” interest rate swap, a borrower with floating-rate debt pays fixed and receives floating to lock in their cost. They do forgo the benefit of falling interest rates, though.
 
----
 
 ### An example of basis risk in a commodity hedge is when:
 
@@ -236,7 +233,6 @@ The best risk management approach, therefore, is synergistic. It balances firm-w
 
 > **Explanation:** Basis risk arises when the price of the hedge instrument (like a futures contract on a certain grade of steel) doesn’t move perfectly in tandem with the actual commodity you consume (maybe a different grade or location basis).
 
----
 
 ### Which scenario would MOST LIKELY require GlobeTek to reconsider its captive insurance decision?
 
@@ -247,7 +243,6 @@ The best risk management approach, therefore, is synergistic. It balances firm-w
 
 > **Explanation:** Stringent licensing or capital requirements can make a captive insurer structure expensive or unworkable, pushing a firm to consider commercial insurance alternatives.
 
----
 
 ### ESG considerations in GlobeTek’s risk framework MIGHT include:
 
@@ -258,7 +253,6 @@ The best risk management approach, therefore, is synergistic. It balances firm-w
 
 > **Explanation:** Under ESG, a rise in carbon taxes or environmental compliance costs can affect a firm’s risk profile, so that’s relevant. Office furniture color typically wouldn’t factor in ESG risk frameworks. It also doesn’t force the firm to drop derivative usage.
 
----
 
 ### In a severe supply chain breakdown, GlobeTek’s ERM department would likely focus on:
 
@@ -269,7 +263,6 @@ The best risk management approach, therefore, is synergistic. It balances firm-w
 
 > **Explanation:** In a supply chain crisis, quick sourcing alternatives, updated hedging strategies, and real-time analysis of operational and financial impacts are critical.
 
----
 
 ### For a large multinational firm, one advantage of a comprehensive ERM process is:
 
@@ -280,7 +273,6 @@ The best risk management approach, therefore, is synergistic. It balances firm-w
 
 > **Explanation:** ERM is about integrated oversight and synergy, ensuring that currency hedges, commodity hedges, and interest rate management are not siloed approaches but rather part of a cohesive risk strategy.
 
----
 
 ### Rating agencies might penalize GlobeTek if:
 
@@ -291,7 +283,6 @@ The best risk management approach, therefore, is synergistic. It balances firm-w
 
 > **Explanation:** Rating agencies look at exposure coverage and risk management rigor. If exposures are high and risk management is sloppy, they might downgrade the firm, increasing borrowing costs.
 
----
 
 ### True or False: Overhedging can sometimes lead to effectively speculating in the financial markets, contrary to the goal of risk reduction.
 

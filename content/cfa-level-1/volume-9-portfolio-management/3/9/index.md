@@ -218,7 +218,6 @@ You also want to keep an eye on your own investment process. Beta isn’t just a
 
 > **Explanation:** Beta drift is precisely the notion that a firm’s beta can evolve over time as leverage, fundamentals, or business cycles change.  
 
----
 
 ### What is one key advantage of using a shorter estimation window for beta?  
 - [ ] It eliminates all noise in the data.  
@@ -228,7 +227,6 @@ You also want to keep an eye on your own investment process. Beta isn’t just a
 
 > **Explanation:** Shorter windows capture more recent market conditions, though the trade-off is higher statistical noise.  
 
----
 
 ### In a thinly traded market, which of the following might you observe?  
 - [ ] Large sample sizes that eliminate outliers.  
@@ -238,7 +236,6 @@ You also want to keep an eye on your own investment process. Beta isn’t just a
 
 > **Explanation:** Thin trading can result in stale prices and distort returns, leading to potentially biased beta estimates.  
 
----
 
 ### Suppose a company significantly increases its debt ratio. What is a likely effect on its beta?  
 - [ ] Beta would remain completely unchanged.  
@@ -248,7 +245,6 @@ You also want to keep an eye on your own investment process. Beta isn’t just a
 
 > **Explanation:** More debt typically means higher leverage, which typically increases the firm’s sensitivity to market movements, raising beta.  
 
----
 
 ### Which statement about Bayesian or shrinkage approaches is accurate?  
 - [x] They combine prior beliefs with new data to stabilize beta estimates.  
@@ -258,7 +254,6 @@ You also want to keep an eye on your own investment process. Beta isn’t just a
 
 > **Explanation:** Bayesian or shrinkage methods use a prior distribution or historical mean and combine it with newly observed data to produce more stable estimates, particularly when data is limited.  
 
----
 
 ### When deciding on an estimation frequency for beta, an investor should primarily consider:  
 - [ ] Only the convenience of data collection.  
@@ -268,7 +263,6 @@ You also want to keep an eye on your own investment process. Beta isn’t just a
 
 > **Explanation:** The best frequency correlates with the investor's time horizon. For longer-term investors, monthly or weekly intervals might be more relevant than daily.  
 
----
 
 ### How might an analyst handle extreme outliers in historical returns when estimating beta?  
 - [x] Winsorize or remove outliers if they can be identified as data errors or rare anomalies.  
@@ -278,7 +272,6 @@ You also want to keep an eye on your own investment process. Beta isn’t just a
 
 > **Explanation:** Outliers can distort the regression slope. Checking their validity and potentially removing or adjusting them is a common practice.  
 
----
 
 ### Why might an analyst implement a rolling window approach for beta estimation?  
 - [ ] To avoid re-estimating parameters once they are calculated.  
@@ -288,7 +281,6 @@ You also want to keep an eye on your own investment process. Beta isn’t just a
 
 > **Explanation:** Rolling windows allow the analyst to capture changes over time, recalculating beta as newer data replace old.  
 
----
 
 ### According to many studies, beta estimates might regress toward 1 over time (e.g., Blume’s methodology). Why could that be beneficial?  
 - [ ] Because all stocks eventually converge to the same volatility.  
@@ -298,7 +290,6 @@ You also want to keep an eye on your own investment process. Beta isn’t just a
 
 > **Explanation:** Shrinking beta toward 1 is a recognized practical approach, as extremely high or low betas have a tendency to move closer to 1 when re-estimated over longer horizons.  
 
----
 
 ### True or False: In the real world, beta is a static, unchanging measure of risk.  
 - [ ] False  

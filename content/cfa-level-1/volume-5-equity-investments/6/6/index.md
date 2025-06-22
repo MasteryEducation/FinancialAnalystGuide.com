@@ -187,7 +187,6 @@ If you only looked at consolidated figures, you might go, “Cool, 10% overall g
 
 > **Explanation:** Segment reporting is intended to give stakeholders a clearer view of how various parts of a company perform individually. It does the opposite of masking divisions—it helps highlight them.
 
----
 
 ### Why might a company frequently change the way it groups its operating segments?
 
@@ -198,7 +197,6 @@ If you only looked at consolidated figures, you might go, “Cool, 10% overall g
 
 > **Explanation:** Companies often do this to align segment reporting with how management currently sees the business. This can also happen after a reorganization or major acquisition.
 
----
 
 ### Under US GAAP (ASC 280), what is one common threshold for determining whether a segment must be reported separately?
 
@@ -209,7 +207,6 @@ If you only looked at consolidated figures, you might go, “Cool, 10% overall g
 
 > **Explanation:** ASC 280 identifies segments that exceed 10% of total revenue, operating profit (or loss), or combined assets as generally required to be reported separately.
 
----
 
 ### Which of these can indicate cross-subsidization between segments?
 
@@ -220,7 +217,6 @@ If you only looked at consolidated figures, you might go, “Cool, 10% overall g
 
 > **Explanation:** Cross-subsidization happens when a profitable segment’s cash flow is used to cover losses of another segment or division.
 
----
 
 ### Which statement about IFRS 8 is correct?
 
@@ -231,7 +227,6 @@ If you only looked at consolidated figures, you might go, “Cool, 10% overall g
 
 > **Explanation:** IFRS 8 focuses on how management internally evaluates and monitors business units, thus making the segment reporting consistent with internal reporting practices.
 
----
 
 ### A high-growth technology segment within a mature conglomerate is best described as:
 
@@ -242,7 +237,6 @@ If you only looked at consolidated figures, you might go, “Cool, 10% overall g
 
 > **Explanation:** High-growth tech segments often command higher valuation multiples, so if it's overshadowed in a conglomerate, it might signal hidden value.
 
----
 
 ### Which scenario could prompt a company to separately disclose a new segment?
 
@@ -253,7 +247,6 @@ If you only looked at consolidated figures, you might go, “Cool, 10% overall g
 
 > **Explanation:** Significant acquisitions often cause management to re-evaluate how segments are structured, leading to a new, separately disclosed segment if it meets reporting thresholds.
 
----
 
 ### If information about a major loss-making segment is buried in “other” categories for multiple reporting periods, what should an analyst question?
 
@@ -264,7 +257,6 @@ If you only looked at consolidated figures, you might go, “Cool, 10% overall g
 
 > **Explanation:** Losses hidden in “other” categories might point to a lack of transparency or questionable capital allocation choices.
 
----
 
 ### What is a key difference between segment-level data and consolidated financials?
 
@@ -275,7 +267,6 @@ If you only looked at consolidated figures, you might go, “Cool, 10% overall g
 
 > **Explanation:** Segment-level data breaks down performance by individual unit or region, providing deeper insights than consolidated aggregates alone.
 
----
 
 ### True or False: Frequent restatements of historical segment data can complicate trend analysis.
 

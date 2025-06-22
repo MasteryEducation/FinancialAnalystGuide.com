@@ -163,7 +163,6 @@ Remember: regulations can change fairly frequently, so keep an eye on official u
 
 > **Explanation:** The SEC (Securities and Exchange Commission) is primarily tasked with protecting investors, ensuring fair and orderly markets, and facilitating capital formation in the U.S.
 
----
 
 ### Which directive significantly impacts transparency and investor protection across the EU?
 
@@ -174,7 +173,6 @@ Remember: regulations can change fairly frequently, so keep an eye on official u
 
 > **Explanation:** MiFID II (Markets in Financial Instruments Directive II) greatly expands transparency and investor protection measures within the EU. Dodd-Frank applies mainly to the U.S., the Investment Advisers Act also pertains to the U.S., and Basel III is more focused on banking capital requirements.
 
----
 
 ### What is regulatory arbitrage?
 
@@ -185,7 +183,6 @@ Remember: regulations can change fairly frequently, so keep an eye on official u
 
 > **Explanation:** Regulatory arbitrage involves exploiting differences in rules across jurisdictions, often to lower costs or bypass more stringent regulatory requirements.
 
----
 
 ### Which global framework primarily sets capital adequacy and liquidity standards for banks but can also indirectly affect asset managers?
 
@@ -196,7 +193,6 @@ Remember: regulations can change fairly frequently, so keep an eye on official u
 
 > **Explanation:** The Basel Accords set international banking standards, focusing on capital adequacy, stress testing, and market liquidity risk, and these can affect large broker-dealers or bank-affiliated asset managers.
 
----
 
 ### Which of the following best describes a common regulatory response to extreme market volatility related to short selling?
 
@@ -207,7 +203,6 @@ Remember: regulations can change fairly frequently, so keep an eye on official u
 
 > **Explanation:** Regulators sometimes implement short selling bans or restrict certain forms of short selling during episodes of extreme volatility to prevent further downward pressure on prices.
 
----
 
 ### Which of the following is a key purpose of AML (Anti-Money Laundering) and KYC (Know-Your-Customer) requirements?
 
@@ -218,7 +213,6 @@ Remember: regulations can change fairly frequently, so keep an eye on official u
 
 > **Explanation:** AML/KYC regulations are mandated to prevent money laundering, terrorist financing, and other criminal activities by verifying clients’ identities and monitoring suspicious transactions.
 
----
 
 ### When regulators set a strict cap on how much borrowed money a portfolio can deploy, they are imposing which type of limit?
 
@@ -229,7 +223,6 @@ Remember: regulations can change fairly frequently, so keep an eye on official u
 
 > **Explanation:** Leverage limits restrict the amount of borrowed capital a portfolio can utilize. These limits protect investors and maintain overall financial stability.
 
----
 
 ### Why might some smaller asset management firms decide not to launch complex derivative strategies despite potential higher returns?
 
@@ -240,7 +233,6 @@ Remember: regulations can change fairly frequently, so keep an eye on official u
 
 > **Explanation:** Complex products often require deeper compliance resources, which can be expensive or complicated for smaller firms. This overhead can dwarf potential returns, leading some firms to avoid these products altogether.
 
----
 
 ### What is one possible benefit of implementing robust internal policies and compliance training?
 
@@ -251,7 +243,6 @@ Remember: regulations can change fairly frequently, so keep an eye on official u
 
 > **Explanation:** Strong compliance policies and training help reduce the risk of regulatory violations, which can lead to major fines and reputational damage.
 
----
 
 ### True or False: Adequate capital requirements are meant to protect investors by ensuring a firm can absorb market shocks.
 

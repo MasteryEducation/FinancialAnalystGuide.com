@@ -207,7 +207,6 @@ Anyway, once you’ve nailed the difference between these two methods, the state
 
 > **Explanation:** The direct method provides a transparent view of gross groups of cash receipts and payments. Neither IFRS nor US GAAP requires it exclusively, and it may actually be more cumbersome to prepare.
 
----
 
 ### Which of the following statements about cash flow from operating activities is true when comparing the direct and indirect methods?
 - [ ] The total amount of net cash flow from operations often differs between the methods.  
@@ -217,7 +216,6 @@ Anyway, once you’ve nailed the difference between these two methods, the state
 
 > **Explanation:** The total net operating cash flow is the same under both methods; they simply present the information differently.
 
----
 
 ### When preparing an indirect cash flow statement, an increase in accounts receivable during the year is:
 - [x] Subtracted from net income.  
@@ -227,7 +225,6 @@ Anyway, once you’ve nailed the difference between these two methods, the state
 
 > **Explanation:** An increase in accounts receivable means cash has not been collected yet, so it’s a use of cash and is subtracted from net income to arrive at net cash flow from operating activities.
 
----
 
 ### Under the indirect method, if net income is $1,000, depreciation expense is $200, inventory decreases by $50, and dividends are paid to shareholders of $75, what is the net effect on operating cash flow from these items alone?
 - [ ] $1,000  
@@ -237,7 +234,6 @@ Anyway, once you’ve nailed the difference between these two methods, the state
 
 > **Explanation:** Operating cash flow would be $1,000 + $200 (add back noncash depreciation) + $50 (decrease in inventory is a source of cash) = $1,250. Dividends paid are a financing outflow.
 
----
 
 ### Which of the following is a limitation when using the direct method for reporting operating cash flows?
 - [ ] The FASB specifically disallows the direct method for public companies.  
@@ -247,7 +243,6 @@ Anyway, once you’ve nailed the difference between these two methods, the state
 
 > **Explanation:** Gathering all the cash transactions for the direct method often requires more detailed tracking, making it more time-consuming.
 
----
 
 ### Under both IFRS and US GAAP, investing and financing cash flows:
 - [x] Are reported similarly under either the direct or indirect method.  
@@ -257,7 +252,6 @@ Anyway, once you’ve nailed the difference between these two methods, the state
 
 > **Explanation:** Only the operating section differs between the direct and indirect methods. Both IFRS and US GAAP present investing and financing sections similarly in either method.
 
----
 
 ### A primary reason that many companies use the indirect method instead of the direct method is:
 - [x] The indirect method is typically less costly and easier to prepare.  
@@ -267,7 +261,6 @@ Anyway, once you’ve nailed the difference between these two methods, the state
 
 > **Explanation:** Many prefer the indirect method because it starts with net income (readily available) and then makes specified adjustments rather than requiring an itemization of all cash receipts and payments.
 
----
 
 ### Which of the following items would appear in the operating activities section when using the direct method?
 - [ ] Depreciation expense.  
@@ -277,7 +270,6 @@ Anyway, once you’ve nailed the difference between these two methods, the state
 
 > **Explanation:** The direct method focuses on actual cash inflows and outflows, such as cash paid to suppliers, employees, and so forth.
 
----
 
 ### Under IFRS, companies that use the indirect method:
 - [x] Must disclose interest and taxes paid in the footnotes or in the cash flow statement.  
@@ -287,7 +279,6 @@ Anyway, once you’ve nailed the difference between these two methods, the state
 
 > **Explanation:** IFRS requires disclosure of interest and taxes paid, even if the indirect method is used. This information might appear in the footnotes or be included in the statement itself.
 
----
 
 ### True or False: Management may choose which method to use for operating cash flows, but both IFRS and US GAAP encourage the direct method over the indirect method.
 - [x] True  

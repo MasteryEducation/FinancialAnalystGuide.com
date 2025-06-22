@@ -262,7 +262,6 @@ As with all derivatives, you need to be crystal clear on risk parameters—espec
 
 > **Explanation:** A TRS involves receiving the full economic return (coupon and capital gains/losses), while a CDS focuses primarily on protection against default or other specified credit events.
 
----
 
 ### In a Total Return Swap, which party benefits if the reference asset appreciates in value?
 
@@ -273,7 +272,6 @@ As with all derivatives, you need to be crystal clear on risk parameters—espec
 
 > **Explanation:** The total return receiver gains when the reference asset has positive performance, as they receive coupons and price appreciation.
 
----
 
 ### A bank enters into a TRS on a loan portfolio on its balance sheet and pays the loan’s total return to a counterparty. What is a primary motivation for the bank?
 
@@ -284,7 +282,6 @@ As with all derivatives, you need to be crystal clear on risk parameters—espec
 
 > **Explanation:** One key reason banks use TRSs is to transfer the risk of a loan portfolio and potentially reduce required regulatory capital levels.
 
----
 
 ### Which of the following is generally a characteristic of a Credit-Linked Note (CLN)?
 
@@ -295,7 +292,6 @@ As with all derivatives, you need to be crystal clear on risk parameters—espec
 
 > **Explanation:** CLNs are funded instruments that combine bond-like features with embedded exposure to a reference credit.
 
----
 
 ### An investor purchases a CLN yielding 8%, tied to a corporate bond with a 5% yield. Which statement is most accurate?
 
@@ -306,7 +302,6 @@ As with all derivatives, you need to be crystal clear on risk parameters—espec
 
 > **Explanation:** CLN investors demand a higher coupon due to the added risk of a credit event occurring in the reference asset.
 
----
 
 ### Which of these commonly arises during the life of a TRS to ensure credit risk mitigation?
 
@@ -317,7 +312,6 @@ As with all derivatives, you need to be crystal clear on risk parameters—espec
 
 > **Explanation:** Margin calls or collateral adjustments help manage the changing risk as the underlying asset’s value fluctuates.
 
----
 
 ### How does a TRS typically affect a bank’s reported balance sheet exposure to a reference asset?
 
@@ -328,7 +322,6 @@ As with all derivatives, you need to be crystal clear on risk parameters—espec
 
 > **Explanation:** While the bank continues to legally hold the asset, various regulations may permit capital relief if the economic exposure is transferred via the TRS.
 
----
 
 ### When comparing a TRS to physical ownership of a bond, what is a key advantage for the receiver of total return?
 
@@ -339,7 +332,6 @@ As with all derivatives, you need to be crystal clear on risk parameters—espec
 
 > **Explanation:** By entering into a TRS, the receiver enjoys the bond’s economic returns without allocating the entire notional value to purchase it outright.
 
----
 
 ### In a CLN structure, who ultimately bears the credit risk of the reference entity?
 
@@ -350,7 +342,6 @@ As with all derivatives, you need to be crystal clear on risk parameters—espec
 
 > **Explanation:** CLN buyers receive higher yields for taking on the possibility of a credit event in the reference entity, absorbing losses if one occurs.
 
----
 
 ### A TRS effectively allows for the replication of a long cash position in a bond without physical ownership. True or False?
 

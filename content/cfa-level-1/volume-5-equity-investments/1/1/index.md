@@ -127,7 +127,6 @@ And so on. Each year’s dividends become part of the next year’s starting bal
 
 > **Explanation:** Equities offer ownership in a company that can lead to price increases over time (capital appreciation) and periodic income (dividends).
 
----
 
 ### Which statement about equities is most accurate regarding risk management?
 - [ ] Equities and bonds always move in the same direction.  
@@ -137,7 +136,6 @@ And so on. Each year’s dividends become part of the next year’s starting bal
 
 > **Explanation:** Equities typically have a different risk-return profile and can provide diversification benefits when paired with other asset classes.
 
----
 
 ### From a diversification standpoint, how do equities typically behave relative to bonds?
 - [x] Equities generally have lower correlation with bonds than with similar growth stocks.  
@@ -147,7 +145,6 @@ And so on. Each year’s dividends become part of the next year’s starting bal
 
 > **Explanation:** While equities and bonds sometimes move together, historically they often exhibit lower correlation, making them useful for diversification.
 
----
 
 ### For investors with a longer time horizon and higher risk tolerance, which of the following allocation strategies might be most appropriate?
 - [x] A relatively high percentage of equities to benefit from potential higher returns.  
@@ -157,7 +154,6 @@ And so on. Each year’s dividends become part of the next year’s starting bal
 
 > **Explanation:** Longer horizons let investors ride out short-term fluctuations in the stock market, positioning them to capture equities’ historically higher returns.
 
----
 
 ### How does dividend reinvestment typically affect an investor’s returns over the long term?
 - [ ] It has no impact on long-term returns.  
@@ -167,7 +163,6 @@ And so on. Each year’s dividends become part of the next year’s starting bal
 
 > **Explanation:** By reinvesting dividends, an investor purchases more shares, which can generate more dividends in the future—leading to a compounding effect.
 
----
 
 ### Which macroeconomic factor is most likely to influence equity valuations?
 - [x] Interest rate levels set by central banks.  
@@ -177,7 +172,6 @@ And so on. Each year’s dividends become part of the next year’s starting bal
 
 > **Explanation:** Interest rates significantly affect corporate borrowing costs and investor risk preferences, impacting equity valuations.
 
----
 
 ### A portfolio has grown from 60% equities to 75% equities due to strong market performance. Rebalancing typically involves:
 - [x] Selling some equities and buying other assets like bonds to return to the target allocation.  
@@ -187,7 +181,6 @@ And so on. Each year’s dividends become part of the next year’s starting bal
 
 > **Explanation:** Rebalancing reverts the portfolio to its intended risk profile (for example, 60/40) rather than letting equity exposure grow unchecked.
 
----
 
 ### An investor with low risk tolerance nearing retirement might:
 - [ ] Allocate nearly 100% of their portfolio to high-volatility tech stocks.  
@@ -197,7 +190,6 @@ And so on. Each year’s dividends become part of the next year’s starting bal
 
 > **Explanation:** Near-retirement individuals often hold a smaller equity component to reduce volatility and protect principal.
 
----
 
 ### When analyzing a stock, which factor would fall under “microeconomic” drivers?
 - [ ] Changes in international trade law.  
@@ -207,7 +199,6 @@ And so on. Each year’s dividends become part of the next year’s starting bal
 
 > **Explanation:** Microeconomic factors are specific to the company itself, such as earnings, product lines, and managerial decisions.
 
----
 
 ### True or False: Equities can completely eliminate risk in a portfolio.
 - [x] False  

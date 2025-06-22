@@ -161,7 +161,6 @@ In exam contexts, keep in mind that the CFA Institute expects you to grasp not m
 
 > **Explanation:** Hedge accounting is designed to match gains/losses from the hedging instrument with the timing of the hedged item's impact on the financial statements, thereby reducing volatility that doesn’t reflect the hedge’s true economic effect.
 
----
 
 ### In a fair value hedge under IFRS 9, how is the gain or loss on the hedging instrument recognized?
 
@@ -172,7 +171,6 @@ In exam contexts, keep in mind that the CFA Institute expects you to grasp not m
 
 > **Explanation:** Under a fair value hedge, both the hedged item’s fair value changes and the hedging instrument’s changes go to the income statement in the same period.
 
----
 
 ### A company forecasts a sale in a foreign currency three months from today. It designates a forward contract as a cash flow hedge. Where is the effective portion of the forward contract’s unrealized gain or loss typically recorded prior to the actual sale?
 
@@ -183,7 +181,6 @@ In exam contexts, keep in mind that the CFA Institute expects you to grasp not m
 
 > **Explanation:** For a cash flow hedge, the effective portion of the hedging instrument’s gain or loss is recognized in OCI until the forecasted transaction occurs, at which point it’s reclassified into profit or loss.
 
----
 
 ### Which of the following is a valid example of a net investment hedge?
 
@@ -194,7 +191,6 @@ In exam contexts, keep in mind that the CFA Institute expects you to grasp not m
 
 > **Explanation:** Net investment hedges relate to hedging the foreign exchange risk of a net investment in a foreign operation, often by issuing or holding debt denominated in the subsidiary's currency or using derivatives designated for that purpose.
 
----
 
 ### A hedge is deemed ineffective under IFRS 9 when:
 
@@ -205,7 +201,6 @@ In exam contexts, keep in mind that the CFA Institute expects you to grasp not m
 
 > **Explanation:** Hedge effectiveness requires that changes in the fair value of the hedging instrument closely offset changes in the hedged item. If the offset is no longer high enough (per IFRS 9 criteria), the hedge is deemed ineffective.
 
----
 
 ### When applying a cash flow hedge and the forecasted transaction does not occur, what typically happens to any accumulated gains or losses in OCI?
 
@@ -216,7 +211,6 @@ In exam contexts, keep in mind that the CFA Institute expects you to grasp not m
 
 > **Explanation:** If the hedge is for a forecasted transaction that no longer occurs, any gains or losses in OCI get reclassified to profit or loss because the underlying hedged item will never take place to absorb such gains or losses.
 
----
 
 ### Under ASC 815, which of the following documentation elements is required at the inception of a hedge?
 
@@ -227,7 +221,6 @@ In exam contexts, keep in mind that the CFA Institute expects you to grasp not m
 
 > **Explanation:** US GAAP (ASC 815) requires thorough documentation at the start of the hedge, including the item, instrument, type of risk, risk management objectives, and how effectiveness will be assessed.
 
----
 
 ### In a net investment hedge, where are the foreign exchange gains and losses on the hedging instrument recognized before disposal of the foreign operation?
 
@@ -238,7 +231,6 @@ In exam contexts, keep in mind that the CFA Institute expects you to grasp not m
 
 > **Explanation:** Gains or losses on a derivative or debt instrument designated as a net investment hedge are recognized in OCI (translation reserve), mirroring the translation adjustments of the foreign subsidiary’s net assets.
 
----
 
 ### Which scenario is most likely to cause partial hedge ineffectiveness in a cash flow hedge?
 
@@ -249,7 +241,6 @@ In exam contexts, keep in mind that the CFA Institute expects you to grasp not m
 
 > **Explanation:** Hedge ineffectiveness often arises when the volume or timing of the hedging instrument doesn’t precisely match the hedged exposure—such as having an oversized derivative notional compared to the underlying exposure.
 
----
 
 ### True or False: Under IFRS 9, if a hedge relationship no longer meets the effectiveness requirements, it can continue to qualify for hedge accounting as long as the derivative remains outstanding.
 

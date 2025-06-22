@@ -151,7 +151,6 @@ Stay alert to how these social infrastructure topics intersect with ethics, espe
 
 > **Explanation:** Social infrastructure assets are focused on public services like education and healthcare. While toll roads count as infrastructure, they usually come under “economic infrastructure,” meaning the nature of their revenue source is different from social services.
 
----
 
 ### Under an availability-payment model, an operator’s compensation is primarily tied to:
 
@@ -162,7 +161,6 @@ Stay alert to how these social infrastructure topics intersect with ethics, espe
 
 > **Explanation:** In an availability-payment model, revenue does not depend on user volume. Instead, payments hinge on maintaining necessary service standards and keeping the asset available for use.
 
----
 
 ### One of the biggest political risks associated with social infrastructure PPPs is:
 
@@ -173,7 +171,6 @@ Stay alert to how these social infrastructure topics intersect with ethics, espe
 
 > **Explanation:** A major concern for long-term social infrastructure is that a change in political leadership could lead to an abrupt shift in policy, including renegotiation of existing agreements.
 
----
 
 ### In a concession agreement for a school, the operator is often responsible for:
 
@@ -184,7 +181,6 @@ Stay alert to how these social infrastructure topics intersect with ethics, espe
 
 > **Explanation:** Private operators in social infrastructure typically design, construct, and maintain the physical assets. The government generally retains authority over academic standards and credentialing.
 
----
 
 ### What is the primary goal of linking service fees to quality metrics (like hospital wait times)?
 
@@ -195,7 +191,6 @@ Stay alert to how these social infrastructure topics intersect with ethics, espe
 
 > **Explanation:** Linking fees to metrics such as wait times encourages operators to deliver consistently high service standards in line with community needs.
 
----
 
 ### Which of the following best characterizes the role of lifecycle costing in concession agreements?
 
@@ -206,7 +201,6 @@ Stay alert to how these social infrastructure topics intersect with ethics, espe
 
 > **Explanation:** Lifecycle costing seeks to account for all costs from day one to project end, thereby incentivizing prudent long-term decision-making and cost management.
 
----
 
 ### A typical duration for a social infrastructure concession might be:
 
@@ -217,7 +211,6 @@ Stay alert to how these social infrastructure topics intersect with ethics, espe
 
 > **Explanation:** Most social infrastructure concessions have long durations—20 to 30 years, or even longer—allowing the private operator time to recoup significant upfront expenditures.
 
----
 
 ### Why might investors be attracted to availability-based social infrastructure projects?
 
@@ -228,7 +221,6 @@ Stay alert to how these social infrastructure topics intersect with ethics, espe
 
 > **Explanation:** Availability-based contracts mitigate demand risk by offering fixed revenue streams, assuming the operator meets specified service levels, making returns more predictable.
 
----
 
 ### Which of the following is generally a standard risk allocation in a social infrastructure PPP?
 
@@ -239,7 +231,6 @@ Stay alert to how these social infrastructure topics intersect with ethics, espe
 
 > **Explanation:** Typically, design and construction risk lies with the private operator, whereas macro-level policy risks often remain with—or partly shared by—the government.
 
----
 
 ### True or False? Social infrastructure concession agreements may include penalties or reduced payments if service providers fail to meet performance metrics.
 

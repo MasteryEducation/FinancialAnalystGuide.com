@@ -153,7 +153,6 @@ These major mishaps highlight the real-world implications of derivative misuse‚Ä
 
 > **Explanation:** Barings collapsed primarily because Nick Leeson was able to conceal massive futures losses by managing both trade execution (front office) and trade reconciliation (back office). This duty overlap allowed for unauthorized trading activity to go undetected.
 
----
 
 ### Long-Term Capital Management's (LTCM) collapse showed that:
 
@@ -164,7 +163,6 @@ These major mishaps highlight the real-world implications of derivative misuse‚Ä
 
 > **Explanation:** LTCM relied on massive leverage in bond arbitrage strategies. When market conditions shifted, their huge position magnified losses that almost triggered global financial contagion.
 
----
 
 ### Soci√©t√© G√©n√©rale's case highlights the importance of:
 
@@ -175,7 +173,6 @@ These major mishaps highlight the real-world implications of derivative misuse‚Ä
 
 > **Explanation:** J√©r√¥me Kerviel's unauthorized trades escaped detection because of lax oversight and insufficient segregation of responsibilities.
 
----
 
 ### In the Metallgesellschaft disaster, the primary issue was:
 
@@ -186,7 +183,6 @@ These major mishaps highlight the real-world implications of derivative misuse‚Ä
 
 > **Explanation:** Metallgesellschaft‚Äôs ‚Äústack and roll‚Äù strategy used short-dated futures to hedge long-term oil supply commitments, creating costly margin calls in the short run despite an intended hedge.
 
----
 
 ### Basis risk in futures hedging refers to:
 
@@ -197,7 +193,6 @@ These major mishaps highlight the real-world implications of derivative misuse‚Ä
 
 > **Explanation:** Basis risk arises when the correlation between a futures contract and the underlying asset is imperfect, leading to potential under- or over-hedging.
 
----
 
 ### The term "proprietary trading desk" generally means:
 
@@ -208,7 +203,6 @@ These major mishaps highlight the real-world implications of derivative misuse‚Ä
 
 > **Explanation:** Proprietary desks are where an institution invests (and risks) its own capital rather than client funds, aiming to earn returns but potentially exposed to large losses.
 
----
 
 ### Which of the following best describes the role of internal controls in preventing derivative disasters?
 
@@ -219,7 +213,6 @@ These major mishaps highlight the real-world implications of derivative misuse‚Ä
 
 > **Explanation:** Effective internal controls include separating trading and back office functions, monitoring position limits, and reconciling trades in near real time.
 
----
 
 ### Leverage can be especially hazardous in derivatives because:
 
@@ -230,7 +223,6 @@ These major mishaps highlight the real-world implications of derivative misuse‚Ä
 
 > **Explanation:** In derivatives, high leverage amplifies even minor market fluctuations, which can result in outsized losses (or gains).
 
----
 
 ### One major lesson from rogue trading incidents is that:
 
@@ -241,7 +233,6 @@ These major mishaps highlight the real-world implications of derivative misuse‚Ä
 
 > **Explanation:** Rogue traders exploit weak controls and the lack of segregation between trading, record-keeping, and reconciliations.
 
----
 
 ### In all four cases discussed (Barings, LTCM, Soci√©t√© G√©n√©rale, and MG), a key takeaway is:
 

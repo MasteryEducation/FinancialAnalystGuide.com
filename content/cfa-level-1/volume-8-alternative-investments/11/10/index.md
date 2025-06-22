@@ -163,7 +163,6 @@ Beyond that, ethics also come into play: direct investors must ensure compliance
 
 > **Explanation:** Direct investments afford the investor more direct control and decision-making authority. However, they often come with higher concentration risk and increased operational burdens.
 
----
 
 ### A pension fund is debating whether to set up a small real estate acquisition team or commit capital to an external real estate private equity fund. One key drawback of going direct is:
 
@@ -174,7 +173,6 @@ Beyond that, ethics also come into play: direct investors must ensure compliance
 
 > **Explanation:** Going direct means the pension fund must hire and manage an internal real estate team, incurring overhead costs and responsibilities for deal sourcing, due diligence, and asset management.
 
----
 
 ### What is “fee drag” in the context of indirect investments?
 
@@ -185,7 +183,6 @@ Beyond that, ethics also come into play: direct investors must ensure compliance
 
 > **Explanation:** “Fee drag” is the effect of fees (management fees, carried interest, etc.) on net returns when investing through a fund or commingled vehicle.
 
----
 
 ### Which of the following statements best describes a hybrid approach to investing?
 
@@ -196,7 +193,6 @@ Beyond that, ethics also come into play: direct investors must ensure compliance
 
 > **Explanation:** A hybrid approach blends elements of direct and indirect investments. For instance, an investor might choose direct deals in familiar sectors while maintaining fund commitments for broader coverage.
 
----
 
 ### In the context of governance, what is one major difference between direct deals and indirect fund investments?
 
@@ -207,7 +203,6 @@ Beyond that, ethics also come into play: direct investors must ensure compliance
 
 > **Explanation:** Direct deals let you design specific governance rules, including board seats and veto rights. In a fund, these terms are largely predetermined in the partnership agreement.
 
----
 
 ### A smaller institutional investor with limited internal capacity might prefer an indirect investment approach primarily because:
 
@@ -218,7 +213,6 @@ Beyond that, ethics also come into play: direct investors must ensure compliance
 
 > **Explanation:** Less-resourced investors often lack the expertise and manpower to efficiently manage direct deals, so investing through a professional manager can be more effective despite fees.
 
----
 
 ### For large institutional investors, a key motivation to expand their direct investment program is often:
 
@@ -229,7 +223,6 @@ Beyond that, ethics also come into play: direct investors must ensure compliance
 
 > **Explanation:** Many large institutions aim to bring investment capabilities in-house once they reach scale, thereby lowering overall fees and retaining more of the investment upside.
 
----
 
 ### When designing a direct investment strategy, which of the following expenses should be anticipated?
 
@@ -240,7 +233,6 @@ Beyond that, ethics also come into play: direct investors must ensure compliance
 
 > **Explanation:** Direct investing entails building internal capacity, including staffing, technology, legal counsel, and external consultants—costs that can add up.
 
----
 
 ### While an indirect fund investment is generally more diversified, one potential disadvantage is:
 
@@ -251,7 +243,6 @@ Beyond that, ethics also come into play: direct investors must ensure compliance
 
 > **Explanation:** In an indirect structure, the GP manages the investments and the LP has limited authority to shape each investment’s strategy, exit timing, or operational decisions.
 
----
 
 ### True or False: Direct investment strategies inherently carry lower risk due to the absence of any GP-related fees.
 

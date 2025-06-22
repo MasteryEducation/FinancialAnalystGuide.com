@@ -202,7 +202,6 @@ This approach is straightforward once you have the mental framework of cost-of-c
 
 > **Explanation:** The classic no-arbitrage cost-of-carry formula for a non-dividend-paying asset is F = S × e^(rT), assuming a risk-free rate r and time to maturity T.
 
----
 
 ### Which factor, when higher, acts to reduce the forward price of a physical commodity all else being equal?
 
@@ -213,7 +212,6 @@ This approach is straightforward once you have the mental framework of cost-of-c
 
 > **Explanation:** A high convenience yield effectively provides an implicit benefit to holding the physical commodity, reducing the net cost-of-carry and thus lowering the forward price.
 
----
 
 ### In the case of a stock paying a continuous dividend yield δ, which formula captures the forward price under continuous compounding?
 
@@ -224,7 +222,6 @@ This approach is straightforward once you have the mental framework of cost-of-c
 
 > **Explanation:** With a continuous dividend yield δ, the forward price is Spot × e^((r - δ)T). Dividends reduce the effective cost of carrying the stock.
 
----
 
 ### Which term or concept is most closely associated with the non-monetary benefit of holding a physical commodity?
 
@@ -235,7 +232,6 @@ This approach is straightforward once you have the mental framework of cost-of-c
 
 > **Explanation:** The convenience yield represents the additional advantage or “convenience” gained from holding the actual commodity rather than a paper claim on it.
 
----
 
 ### A forward rate agreement (FRA) is best described as:
 
@@ -246,7 +242,6 @@ This approach is straightforward once you have the mental framework of cost-of-c
 
 > **Explanation:** An FRA locks in an interest rate for a future period, typically settled in cash, based on the notional interest over that future interval.
 
----
 
 ### In determining the forward price of a currency, which principle generally applies?
 
@@ -257,7 +252,6 @@ This approach is straightforward once you have the mental framework of cost-of-c
 
 > **Explanation:** Covered interest rate parity ensures no arbitrage by linking forward exchange rates to the relative interest rates in each currency.
 
----
 
 ### When an asset provides a known yield or payout during the life of a forward contract, how does this typically affect the forward price?
 
@@ -268,7 +262,6 @@ This approach is straightforward once you have the mental framework of cost-of-c
 
 > **Explanation:** If an asset pays a known dividend or yield, the present value of that income offsets some of the financing cost, reducing the forward price.
 
----
 
 ### Assume a forward contract on a commodity that has significant storage costs and negligible convenience yield. Compared to the spot price, the forward price would likely be:
 
@@ -279,7 +272,6 @@ This approach is straightforward once you have the mental framework of cost-of-c
 
 > **Explanation:** When storage costs are significant and the convenience yield is small, the net cost-of-carry is greater, pushing the forward price above the spot price.
 
----
 
 ### Which of the following is generally the driving force behind forward pricing models?
 
@@ -290,7 +282,6 @@ This approach is straightforward once you have the mental framework of cost-of-c
 
 > **Explanation:** The key principle underlying forward (and all derivative) pricing models is no-arbitrage. Arbitrage ensures market prices remain consistent with cost-of-carry relationships.
 
----
 
 ### In a forward agreement on a stock index with a known continuous dividend yield δ, if the risk-free rate is lower than δ, which of the following statements is most likely correct?
 

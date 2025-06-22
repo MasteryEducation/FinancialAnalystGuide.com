@@ -277,7 +277,6 @@ Despite these real-world nuances, the cost of carry framework remains the fundam
 
 > **Explanation:** The “cost of carry” refers to the expenses and benefits (financing costs, storage fees, dividends, etc.) of holding an underlying asset until the expiration of a forward/futures contract.
 
----
 
 ### If the futures price is below the fair value suggested by cost of carry, which strategy might an arbitrageur employ?
 
@@ -288,7 +287,6 @@ Despite these real-world nuances, the cost of carry framework remains the fundam
 
 > **Explanation:** When the futures price is too low, you generally short the spot asset and go long the futures (“reverse cash-and-carry”) to exploit the mispricing.
 
----
 
 ### In a continuously compounded model, which of the following formulas typically represents the forward price when there is a dividend yield (y) but no storage cost or convenience yield?
 
@@ -299,7 +297,6 @@ Despite these real-world nuances, the cost of carry framework remains the fundam
 
 > **Explanation:** The correct formula for a dividend-paying asset is F₀ = S₀ × e^((r – y)T), as the dividend yield offsets part of the financing cost.
 
----
 
 ### Convenience yield is best explained as:
 
@@ -310,7 +307,6 @@ Despite these real-world nuances, the cost of carry framework remains the fundam
 
 > **Explanation:** Convenience yield is the intangible benefit of owning a physical commodity (e.g., ensuring continuous production or avoiding delivery uncertainties).
 
----
 
 ### In the FX market, covered interest rate parity implies which relationship?
 
@@ -321,7 +317,6 @@ Despite these real-world nuances, the cost of carry framework remains the fundam
 
 > **Explanation:** Covered interest rate parity states that the forward exchange rate should reflect the interest rate differential between the domestic and foreign currencies.
 
----
 
 ### An asset that pays no dividends and has no storage costs shows a futures price higher than theoretical fair value derived using the risk-free rate. Which arbitrage strategy would most likely be employed?
 
@@ -332,7 +327,6 @@ Despite these real-world nuances, the cost of carry framework remains the fundam
 
 > **Explanation:** This is standard cash-and-carry arbitrage: you borrow to buy the asset and simultaneously short (sell) the overpriced futures.
 
----
 
 ### Which of the following best describes how storage and insurance costs affect the forward price of a commodity?
 
@@ -343,7 +337,6 @@ Despite these real-world nuances, the cost of carry framework remains the fundam
 
 > **Explanation:** Storage and insurance costs contribute to an overall higher “carrying cost,” thereby increasing the fair value of forward/futures prices.
 
----
 
 ### An equity index features a known and constant dividend yield. How is this reflected in the cost of carry model for its futures contract?
 
@@ -354,7 +347,6 @@ Despite these real-world nuances, the cost of carry framework remains the fundam
 
 > **Explanation:** The dividend yield lowers the effective cost of holding the index, thus reducing the futures price relative to a non-dividend-paying asset.
 
----
 
 ### A reverse cash-and-carry arbitrage typically does NOT require:
 
@@ -365,7 +357,6 @@ Despite these real-world nuances, the cost of carry framework remains the fundam
 
 > **Explanation:** A reverse cash-and-carry doesn’t inherently involve receiving or paying coupons or dividends. Instead, it involves short-selling the underlying and going long the futures, with proceeds invested at the risk-free rate.
 
----
 
 ### True or False: If actual market forward prices are exactly equal to the cost-of-carry-derived fair value, no arbitrage opportunities exist.
 

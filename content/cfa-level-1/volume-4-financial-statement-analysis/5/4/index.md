@@ -173,7 +173,6 @@ On the CFA exam, you might face a scenario-based question on inventory methods. 
 
 > **Explanation:** The fundamental difference is that the Periodic system calculates inventory and COGS at the end of the accounting period, while the Perpetual system tracks updates in real time.
 
----
 
 ### Under a Periodic Inventory System, which account is typically used to accumulate the cost of all purchases during the accounting period?
 
@@ -184,7 +183,6 @@ On the CFA exam, you might face a scenario-based question on inventory methods. 
 
 > **Explanation:** In a Periodic system, purchases are often recorded in a temporary “Purchases” account. At period-end, these amounts are used to calculate COGS and ending inventory.
 
----
 
 ### Which inventory costing method generally produces the same results under both Periodic and Perpetual systems?
 
@@ -195,7 +193,6 @@ On the CFA exam, you might face a scenario-based question on inventory methods. 
 
 > **Explanation:** FIFO assumptions typically yield consistent results under both systems because the oldest costs are assumed to be sold first, regardless of how frequently the inventory ledger is updated.
 
----
 
 ### In a Perpetual system, when a sale is made:
 
@@ -206,7 +203,6 @@ On the CFA exam, you might face a scenario-based question on inventory methods. 
 
 > **Explanation:** A Perpetual system posts a debit to COGS and a credit to Inventory right after each sale, ensuring real-time tracking of goods on hand.
 
----
 
 ### Which of the following is a significant advantage of using a Periodic Inventory System?
 
@@ -217,7 +213,6 @@ On the CFA exam, you might face a scenario-based question on inventory methods. 
 
 > **Explanation:** A key advantage of the Periodic method is simplicity: companies do not need to track every transaction in real time, which lowers ongoing record-keeping costs.
 
----
 
 ### How does the Perpetual Inventory System help reduce inventory shrinkage?
 
@@ -228,7 +223,6 @@ On the CFA exam, you might face a scenario-based question on inventory methods. 
 
 > **Explanation:** The Perpetual system monitors inventory in real time, prompting immediate checks if recorded levels do not match actual physical quantities.
 
----
 
 ### Under US GAAP, which cost-flow assumption is permitted but is not permitted under IFRS?
 
@@ -239,7 +233,6 @@ On the CFA exam, you might face a scenario-based question on inventory methods. 
 
 > **Explanation:** IFRS does not allow the LIFO method, while US GAAP explicitly permits it.
 
----
 
 ### If a company experiences fluctuating prices throughout the year, which combination is most likely to yield different results for COGS under Periodic vs. Perpetual?
 
@@ -250,7 +243,6 @@ On the CFA exam, you might face a scenario-based question on inventory methods. 
 
 > **Explanation:** Weighted Average Cost can produce different unit costs when recalculated periodically versus recalculated after each purchase batch under a Perpetual system.
 
----
 
 ### Looking at a retailer’s financial statements, you notice a sudden jump in the COGS ratio during a high-season quarter. Which of the following might be a reasonable explanation?
 
@@ -261,7 +253,6 @@ On the CFA exam, you might face a scenario-based question on inventory methods. 
 
 > **Explanation:** Shifting from Periodic to Perpetual Weighted Average Cost can cause changes in how costs are captured, leading to fluctuations in the reported COGS ratio.
 
----
 
 ### In an exam context, which of the following should you do first when determining how a company calculates its COGS?
 

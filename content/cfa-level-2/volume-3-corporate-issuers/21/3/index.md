@@ -195,7 +195,6 @@ Cultural and operational synergies can be a game-changer—if you plan carefully
 
 > **Explanation:** Cultural Distance refers to how dissimilar national or organizational cultures are, impacting collaboration and synergy realization.
 
----
 
 ### What is a primary benefit of conducting a thorough cultural assessment prior to finalizing a cross-border merger?
 
@@ -206,7 +205,6 @@ Cultural and operational synergies can be a game-changer—if you plan carefully
 
 > **Explanation:** By identifying differences in management style, hierarchy, or norms, cultural assessments highlight integration challenges that must be addressed.
 
----
 
 ### A global communication strategy to bridge language barriers should generally include:
 
@@ -217,7 +215,6 @@ Cultural and operational synergies can be a game-changer—if you plan carefully
 
 > **Explanation:** Practical steps, including interpreters and simpler language guidelines, facilitate a more efficient exchange of ideas in bilingual or multilingual workplaces.
 
----
 
 ### For effective corporate governance in a multinational setting, a company should:
 
@@ -228,7 +225,6 @@ Cultural and operational synergies can be a game-changer—if you plan carefully
 
 > **Explanation:** Unified governance with a core code of conduct is essential, but it must be adapted to comply with local regulations.
 
----
 
 ### When it comes to aligning performance metrics and compensation in a multinational firm:
 
@@ -239,7 +235,6 @@ Cultural and operational synergies can be a game-changer—if you plan carefully
 
 > **Explanation:** Aligning performance measures across geographies ensures all employees and divisions strive for common targets, including synergy realization.
 
----
 
 ### What is the most significant challenge when integrating IT systems after a cross-border merger?
 
@@ -250,7 +245,6 @@ Cultural and operational synergies can be a game-changer—if you plan carefully
 
 > **Explanation:** IT integration involves complex considerations such as data privacy laws, incompatible legacy systems, and large-scale data migration.
 
----
 
 ### Change management in post-merger integration should emphasize:
 
@@ -261,7 +255,6 @@ Cultural and operational synergies can be a game-changer—if you plan carefully
 
 > **Explanation:** Change management thrives on clear communication, buy-in from all levels, and phased implementation to minimize disruption.
 
----
 
 ### A key outcome of successful operational synergy might be:
 
@@ -272,7 +265,6 @@ Cultural and operational synergies can be a game-changer—if you plan carefully
 
 > **Explanation:** By successfully pooling resources (e.g., R&D, procurement, IT), organizations realize tangible financial benefits.
 
----
 
 ### If synergy targets are consistently missed post-integration, the company should first:
 
@@ -283,7 +275,6 @@ Cultural and operational synergies can be a game-changer—if you plan carefully
 
 > **Explanation:** Understanding the root cause (cultural, technical, or procedural) helps fix problems effectively before synergy efforts are abandoned.
 
----
 
 ### True or False: Merging two organizations with different cultures automatically leads to synergy benefits if the deal is financially sound.
 

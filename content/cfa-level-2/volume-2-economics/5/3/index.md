@@ -172,7 +172,6 @@ These are the types of item-set scenarios you’ll see in the Level II exam. You
 
 > **Explanation:** In a sterilized intervention, the central bank conducts an offsetting domestic operation to keep the monetary base unchanged.
 
----
 
 ### One reason a central bank might deliberately keep its currency undervalued is to:
 
@@ -183,7 +182,6 @@ These are the types of item-set scenarios you’ll see in the Level II exam. You
 
 > **Explanation:** A weaker currency often helps domestic exporters by making their goods cheaper in foreign markets.
 
----
 
 ### In a non-sterilized intervention where the central bank purchases foreign currency, what immediate impact might occur?
 
@@ -194,7 +192,6 @@ These are the types of item-set scenarios you’ll see in the Level II exam. You
 
 > **Explanation:** By purchasing foreign currency with newly printed domestic currency, monetary base expands unless sterilized.
 
----
 
 ### Under a managed float exchange rate system, the central bank:
 
@@ -205,7 +202,6 @@ These are the types of item-set scenarios you’ll see in the Level II exam. You
 
 > **Explanation:** A managed float typically implies some level of intervention when the currency swings too far from desired levels.
 
----
 
 ### A major risk associated with maintaining a strict currency peg is:
 
@@ -216,7 +212,6 @@ These are the types of item-set scenarios you’ll see in the Level II exam. You
 
 > **Explanation:** A strict peg can require the central bank to spend large amounts of reserves defending it; plus, interest rates might be pinned to the anchor currency’s policy stance, constraining domestic policy.
 
----
 
 ### Capital controls are often used by emerging market nations primarily to:
 
@@ -227,7 +222,6 @@ These are the types of item-set scenarios you’ll see in the Level II exam. You
 
 > **Explanation:** The primary goal is to reduce speculation, contain “hot money,” and stabilize the exchange rate/financial system.
 
----
 
 ### According to the IMF’s guidelines, capital controls should ideally be:
 
@@ -238,7 +232,6 @@ These are the types of item-set scenarios you’ll see in the Level II exam. You
 
 > **Explanation:** The IMF suggests that capital controls be used cautiously, with clear objectives and a defined time horizon.
 
----
 
 ### Which of the following best characterizes a potential downside of non-sterilized intervention?
 
@@ -249,7 +242,6 @@ These are the types of item-set scenarios you’ll see in the Level II exam. You
 
 > **Explanation:** Because non-sterilized intervention directly affects the money supply, it may conflict with broader monetary policy objectives.
 
----
 
 ### When a central bank announces a currency peg but later abandons it, markets often react by:
 
@@ -260,7 +252,6 @@ These are the types of item-set scenarios you’ll see in the Level II exam. You
 
 > **Explanation:** The removal of a peg can lead to large and sudden exchange rate swings because investors quickly adjust their views of fair value.
 
----
 
 ### The statement “Capital controls can help manage hot money inflows but risk deterring long-term investments” is:
 

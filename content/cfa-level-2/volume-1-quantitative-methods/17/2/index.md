@@ -199,7 +199,6 @@ And, of course, do keep cross-referencing the relevant sections in our own text:
 
 > **Explanation:** A multi-stage growth model addresses varying growth rates across different time periods and then applies a terminal value for stable perpetual growth beyond the forecast horizon.
 
----
 
 ### In applying WACC for a firm’s valuation, which component is typically tax-adjusted?
 
@@ -210,7 +209,6 @@ And, of course, do keep cross-referencing the relevant sections in our own text:
 
 > **Explanation:** Generally, the cost of debt is adjusted by (1 – tax rate) because interest payments are usually tax-deductible. The cost of equity does not receive a direct tax-benefit component in this calculation.
 
----
 
 ### An analyst has three scenarios for a project’s free cash flows, each discounted at the same rate but weighted by different probabilities. The final valuation is most likely:
 
@@ -221,7 +219,6 @@ And, of course, do keep cross-referencing the relevant sections in our own text:
 
 > **Explanation:** In scenario analysis, the expected valuation is the sum of each scenario’s NPV multiplied by its corresponding probability.
 
----
 
 ### When discounting future coupon payments for a callable bond, an investor should:
 
@@ -232,7 +229,6 @@ And, of course, do keep cross-referencing the relevant sections in our own text:
 
 > **Explanation:** Callable bonds may be redeemed earlier than the final maturity date, meaning the timing of some cash flows may change, influencing both the yield and actual discounting process.
 
----
 
 ### If a firm issues convertible bonds, how might the discount rate differ for valuation purposes compared to a plain vanilla bond?
 
@@ -243,7 +239,6 @@ And, of course, do keep cross-referencing the relevant sections in our own text:
 
 > **Explanation:** Convertible bonds typically offer investors an equity upside, potentially reducing the required yield (and hence discount rate) compared to standard debt. 
 
----
 
 ### Which statement best characterizes the relationship between real discount rates and nominal discount rates in the presence of inflation?
 
@@ -254,7 +249,6 @@ And, of course, do keep cross-referencing the relevant sections in our own text:
 
 > **Explanation:** The correct relationship is (1 + Nominal) = (1 + Real)(1 + Inflation). One must remain consistent with real cash flows and real rates or nominal cash flows and nominal rates.
 
----
 
 ### When partial-year discounting is required due to an irregular coupon schedule, which of the following is most appropriate?
 
@@ -265,7 +259,6 @@ And, of course, do keep cross-referencing the relevant sections in our own text:
 
 > **Explanation:** If cash flow occurs mid-year, you must discount using the correct fraction of the annual discount rate, typically applied to the fraction of the year remaining.
 
----
 
 ### In interest rate parity, the forward rate for a currency pair:
 
@@ -276,7 +269,6 @@ And, of course, do keep cross-referencing the relevant sections in our own text:
 
 > **Explanation:** The forward exchange rate is set so that investors cannot earn riskless profits by borrowing in one currency and investing in another. It’s essentially discounting and compounding currency amounts at respective interest rates.
 
----
 
 ### A multi-stage valuation of a young tech company shows half the total value comes from the terminal value. Which action should the analyst consider?
 
@@ -287,7 +279,6 @@ And, of course, do keep cross-referencing the relevant sections in our own text:
 
 > **Explanation:** When the terminal value constitutes a large portion of the total valuation, the assumptions driving that terminal value (growth rate, discount rate) must be reviewed carefully for accuracy and realism.
 
----
 
 ### True or False: In separate scenario analyses, the discount rate can be higher for a riskier scenario than for a less risky scenario.
 

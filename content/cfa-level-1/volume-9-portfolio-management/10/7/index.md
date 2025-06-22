@@ -197,7 +197,6 @@ Time management is key. If you see a question with multiple sub-questions about 
 
 > **Explanation:** Layered hedges involve multiple forward positions with staggered maturities, reducing the risk that a single rollover date will coincide with unfavorable exchange rates.
 
----
 
 ### An investor owns European assets and expects to sell them in six months. To hedge against a fall in the euro’s value, the investor buys a euro put. Which of the following best describes the nature of this hedge?
 
@@ -208,7 +207,6 @@ Time management is key. If you see a question with multiple sub-questions about 
 
 > **Explanation:** A put option confers the right (not obligation) to sell euros, providing downside protection for a premium cost while still allowing the investor to benefit from favorable euro strength.
 
----
 
 ### In a collar strategy, which of the following statements is correct?
 
@@ -219,7 +217,6 @@ Time management is key. If you see a question with multiple sub-questions about 
 
 > **Explanation:** A collar involves buying a put to hedge downside, while selling a call to offset the put’s premium. This limits upside gains if the currency appreciates beyond the call strike.
 
----
 
 ### When managing multi-currency exposures, the main reason to assess cross-currency correlation is to:
 
@@ -230,7 +227,6 @@ Time management is key. If you see a question with multiple sub-questions about 
 
 > **Explanation:** Correlation risk can result in multiple currencies moving adversely at the same time. By monitoring cross-currency correlation, managers can adjust hedges to avoid unintended concentration risk.
 
----
 
 ### An onshore/offshore pricing discrepancy often arises for currencies subject to capital controls. How might this impact hedging?
 
@@ -241,7 +237,6 @@ Time management is key. If you see a question with multiple sub-questions about 
 
 > **Explanation:** Capital controls can lead to pricing differences between onshore and offshore markets, escalating transaction costs or limiting liquidity for hedging instruments.
 
----
 
 ### A digital (binary) option on a currency typically:
 
@@ -252,7 +247,6 @@ Time management is key. If you see a question with multiple sub-questions about 
 
 > **Explanation:** Digital options pay a discrete, fixed amount if the currency finishes above (or below) a predetermined level, unlike the continuous payoff of vanilla calls or puts.
 
----
 
 ### An investor sells a call option on EUR/USD to partially finance the purchase of a put option. Which best describes the structure?
 
@@ -263,7 +257,6 @@ Time management is key. If you see a question with multiple sub-questions about 
 
 > **Explanation:** Selling a call to fund the purchase of a put on the same currency exposure is a classic collar arrangement.
 
----
 
 ### If a fund manager wants to protect against large currency moves but does not want the cost of standard options, which structure might be considered?
 
@@ -274,7 +267,6 @@ Time management is key. If you see a question with multiple sub-questions about 
 
 > **Explanation:** A collar strategy involves buying a put and selling a call (or vice versa), reducing or eliminating the net premium cost while offering partial protection.
 
----
 
 ### Which of the following is a disadvantage of a multi-leg layered hedge approach?
 
@@ -285,7 +277,6 @@ Time management is key. If you see a question with multiple sub-questions about 
 
 > **Explanation:** Layering multiple forward contracts can increase transaction costs and administrative complexity compared to a single hedge.
 
----
 
 ### True or False: A complex structured note can embed multiple currency options, effectively tailoring the payoff to the investor’s specific risk tolerance and market view.
 

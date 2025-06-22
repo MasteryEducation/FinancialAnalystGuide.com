@@ -239,7 +239,6 @@ Lean on recognized frameworks like Damodaran’s methodology, but also tweak you
 
 > **Explanation:** A forward-looking ERP should include macroeconomic projections such as expected inflation and corporate earnings growth, not just rely on historical averages.
 
----
 
 ### When calculating a country risk premium (CRP) using the Damodaran approach, which factor is multiplied by the sovereign default spread?
 
@@ -250,7 +249,6 @@ Lean on recognized frameworks like Damodaran’s methodology, but also tweak you
 
 > **Explanation:** Under the Damodaran approach, the default spread is scaled by the ratio of equity volatility to bond volatility to reflect the greater risk inherent in the equity market.
 
----
 
 ### Suppose the base ERP for a mature market is 5.0%. An emerging country’s sovereign bond yield spread over U.S. Treasuries is 3.0%. If the ratio of the emerging market’s equity volatility to sovereign bond volatility is 1.5, what is the total ERP for that emerging market?
 
@@ -261,7 +259,6 @@ Lean on recognized frameworks like Damodaran’s methodology, but also tweak you
 
 > **Explanation:** CRP = 3.0% × 1.5 = 4.5%. Adding this to the base ERP of 5.0% gives 9.5% as the total emerging market ERP.
 
----
 
 ### In a forward-looking equity risk premium model using a dividend discount approach, you typically subtract which of the following from the expected market return to obtain the ERP?
 
@@ -272,7 +269,6 @@ Lean on recognized frameworks like Damodaran’s methodology, but also tweak you
 
 > **Explanation:** The ERP is the difference between the expected market return (from dividends plus growth) and the risk-free rate.
 
----
 
 ### An analyst obtains a credit default swap (CDS) spread for a particular country and wants to use it as a proxy for the country’s default spread in calculating CRP. Under which situation might this proxy be unreliable?
 
@@ -283,7 +279,6 @@ Lean on recognized frameworks like Damodaran’s methodology, but also tweak you
 
 > **Explanation:** If the CDS market for a country is thinly traded or heavily influenced by speculators, the quoted CDS spreads may not accurately reflect true sovereign risk.
 
----
 
 ### Which of the following best describes a pitfall of forward-looking ERP estimates?
 
@@ -294,7 +289,6 @@ Lean on recognized frameworks like Damodaran’s methodology, but also tweak you
 
 > **Explanation:** Forward-looking estimates inevitably rely on assumptions about future economic conditions and must be updated as those conditions change.
 
----
 
 ### An analyst uses an emerging-market government bond yield in local currency as the “risk-free” rate for a valuation. Which criticism is most valid?
 
@@ -305,7 +299,6 @@ Lean on recognized frameworks like Damodaran’s methodology, but also tweak you
 
 > **Explanation:** Many emerging-market government bonds carry significant default risk. A truly risk-free proxy is generally a developed-market sovereign bond or a swap rate in a stable currency.
 
----
 
 ### In a theoretical framework, the sum of the risk-free rate, the beta times the base ERP, and the CRP is used to calculate:
 
@@ -316,7 +309,6 @@ Lean on recognized frameworks like Damodaran’s methodology, but also tweak you
 
 > **Explanation:** A basic formula for the cost of equity in an emerging market is Cost of Equity = Rf + β × ERP_base + CRP.
 
----
 
 ### If an analyst accidentally uses a historical ERP that already includes country risk premiums for multiple markets and then adds a CRP again during valuation, what is the potential outcome?
 
@@ -327,7 +319,6 @@ Lean on recognized frameworks like Damodaran’s methodology, but also tweak you
 
 > **Explanation:** Using a historical ERP that already bundles in emerging-market risk, then adding a separate CRP, will lead to double-counting and inflate the cost of equity incorrectly.
 
----
 
 ### True or False: Forward-looking ERPs, once calculated, remain accurate for at least five years, given the relatively stable nature of macroeconomic factors.
 

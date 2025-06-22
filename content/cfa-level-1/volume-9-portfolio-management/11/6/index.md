@@ -184,7 +184,6 @@ In the real world, yield curves may twist, credit spreads fluctuate, and liabili
 
 > **Explanation:** Immunization focuses on matching the portfolio's duration to its liabilities so that rate changes have a minimal net impact on meeting those obligations.
 
----
 
 ### In single-period immunization, which of the following is designed to offset the price effect of interest rate changes?
 
@@ -195,7 +194,6 @@ In the real world, yield curves may twist, credit spreads fluctuate, and liabili
 
 > **Explanation:** For modest interest rate changes, the reinvestment effect of coupons at higher (or lower) rates can compensate for the opposite movement in bond prices when durations are properly matched.
 
----
 
 ### When constructing a multi-period immunized portfolio for multiple liabilities, one major practical challenge is:
 
@@ -206,7 +204,6 @@ In the real world, yield curves may twist, credit spreads fluctuate, and liabili
 
 > **Explanation:** Multi-period immunization usually involves multiple liabilities, each requiring careful monitoring. Various duration matches and frequent rebalancing might be needed.
 
----
 
 ### Which statement about cash flow matching is most accurate?
 
@@ -217,7 +214,6 @@ In the real world, yield curves may twist, credit spreads fluctuate, and liabili
 
 > **Explanation:** Cash flow matching (dedication strategy) involves purchasing specific bonds so their cash inflows coincide exactly with payment obligations, thereby minimizing reinvestment and interest rate risks.
 
----
 
 ### One downside of an immunized portfolio is that:
 
@@ -228,7 +224,6 @@ In the real world, yield curves may twist, credit spreads fluctuate, and liabili
 
 > **Explanation:** Immunization often sacrifices potential upside for the benefit of risk mitigation. Also, rebalancing can be costly, which can reduce returns.
 
----
 
 ### A 10-year bullet bond has a Macaulay duration of 9 years, while your liability has a duration of 7 years. To immunize, you might:
 
@@ -239,7 +234,6 @@ In the real world, yield curves may twist, credit spreads fluctuate, and liabili
 
 > **Explanation:** If the bond’s duration is longer than the liability’s, you must bring it closer to 7 years, typically by replacing some portion of the longer bond with shorter maturity exposures.
 
----
 
 ### During rebalancing, which of the following is most likely to disrupt an otherwise immunized portfolio?
 
@@ -250,7 +244,6 @@ In the real world, yield curves may twist, credit spreads fluctuate, and liabili
 
 > **Explanation:** If transaction costs become prohibitive, rebalancing to maintain target duration is compromised, increasing risk of mismatches.
 
----
 
 ### What happens if bond yields drop significantly after a portfolio is immunized for a single future liability?
 
@@ -261,7 +254,6 @@ In the real world, yield curves may twist, credit spreads fluctuate, and liabili
 
 > **Explanation:** Big moves in yields or curve shifts can create duration mismatches. A prudent manager rebalances to keep immunization intact.
 
----
 
 ### Which approach could be an alternative (or complement) to immunization?
 
@@ -272,7 +264,6 @@ In the real world, yield curves may twist, credit spreads fluctuate, and liabili
 
 > **Explanation:** Cash flow matching is a different approach to covering liabilities, often used where exact matching of outflows and inflows is desired.
 
----
 
 ### A portfolio manager claims that single-period immunization demands zero ongoing rebalancing. Is this statement true or false?
 

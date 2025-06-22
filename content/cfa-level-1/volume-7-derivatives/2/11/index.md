@@ -201,7 +201,6 @@ If you find yourself wanting to explore EFP further, check the references below 
 
 > **Explanation:** An EFP is precisely a privately negotiated exchange of a futures leg for a physical leg. It must still be reported to the exchange as per its rules.
 
----
 
 ### One of the primary benefits of conducting an EFP transaction is:
 
@@ -212,7 +211,6 @@ If you find yourself wanting to explore EFP further, check the references below 
 
 > **Explanation:** EFP transactions help participants avoid price slippage in the open market, as they directly negotiate the deal and do not need to execute large orders through an exchange order book.
 
----
 
 ### Which factor must parties in an EFP ensure for compliance with exchange rules?
 
@@ -223,7 +221,6 @@ If you find yourself wanting to explore EFP further, check the references below 
 
 > **Explanation:** The transaction should align with fair market levels to satisfy the exchange’s requirements and avoid allegations of off-market pricing.
 
----
 
 ### In an EFP, the physical leg of the transaction typically:
 
@@ -234,7 +231,6 @@ If you find yourself wanting to explore EFP further, check the references below 
 
 > **Explanation:** The physical side should correspond to the actual underlying accepted by the exchange. However, its exact terms (quality, location, etc.) are often privately negotiated, and delivery typically occurs outside the clearinghouse.
 
----
 
 ### When might a hedger find an EFP particularly useful?
 
@@ -245,7 +241,6 @@ If you find yourself wanting to explore EFP further, check the references below 
 
 > **Explanation:** EFPs are popular for rolling or adjusting hedge positions (first correct answer) and for converting from physical exposure to futures (second correct answer), both done quietly to reduce market impact.
 
----
 
 ### Which of the following is considered a potential pitfall in EFP transactions?
 
@@ -256,7 +251,6 @@ If you find yourself wanting to explore EFP further, check the references below 
 
 > **Explanation:** Because EFPs require a mutually agreeable price, it can be tricky if there’s large volatility or limited pricing data. Other aspects are not correct: EFPs remain under regulatory oversight, and the physical portion is indeed privately negotiated.
 
----
 
 ### Why is regulatory oversight still relevant for privately negotiated EFPs?
 
@@ -267,7 +261,6 @@ If you find yourself wanting to explore EFP further, check the references below 
 
 > **Explanation:** Regulators and exchanges oversee EFPs to protect overall market integrity—particularly the settlement process—and to curb manipulation. EFPs do not circumvent standard rules or taxes.
 
----
 
 ### If a trader wants to avoid the potential high bid-ask spreads in an illiquid futures market, an EFP might help by:
 
@@ -278,7 +271,6 @@ If you find yourself wanting to explore EFP further, check the references below 
 
 > **Explanation:** Because EFPs happen off the central limit order book, participants can negotiate privately with their counterparties and reduce the impact of wide quoted spreads.
 
----
 
 ### A key distinction between a straightforward open-market futures trade and an EFP is:
 
@@ -289,7 +281,6 @@ If you find yourself wanting to explore EFP further, check the references below 
 
 > **Explanation:** An EFP bundles both the physical leg and the futures leg into one negotiated transaction, which is the defining factor setting it apart from a simple on-screen or pit futures trade.
 
----
 
 ### EFP transactions are reported to the exchange:
 

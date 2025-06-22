@@ -155,7 +155,6 @@ Consider also reviewing academic journals like The Journal of Derivatives and Th
 
 > **Explanation:** A protective put involves purchasing a put option on an already-owned underlying asset, providing downside protection.
 
----
 
 ### What is one key drawback of repeatedly buying protective puts for hedging?
 
@@ -166,7 +165,6 @@ Consider also reviewing academic journals like The Journal of Derivatives and Th
 
 > **Explanation:** Regularly buying protective puts can become expensive, as option premiums must be paid each time new puts are purchased or rolled.
 
----
 
 ### Which of the following best defines basis risk?
 
@@ -177,7 +175,6 @@ Consider also reviewing academic journals like The Journal of Derivatives and Th
 
 > **Explanation:** Basis risk arises when the hedge instrument (e.g., index futures) doesn’t perfectly correlate with the underlying securities in the portfolio, possibly leading to mismatched returns.
 
----
 
 ### A manager wants to reduce a portfolio's beta from 1.2 to 0.8 using index futures. Which of the following is correct?
 
@@ -188,7 +185,6 @@ Consider also reviewing academic journals like The Journal of Derivatives and Th
 
 > **Explanation:** To decrease beta, the manager sells (or short-sells) index futures. This offsets some of the portfolio’s exposure to market movements.
 
----
 
 ### In which environment is a covered call strategy usually considered most beneficial? (Select two)
 
@@ -199,7 +195,6 @@ Consider also reviewing academic journals like The Journal of Derivatives and Th
 
 > **Explanation:** Covered calls perform best in neutral to mildly bullish markets where the stock isn’t expected to skyrocket far above the strike price, because the upside potential is capped.
 
----
 
 ### Which of the following is a direct cost associated with an equity index future hedge?
 
@@ -210,7 +205,6 @@ Consider also reviewing academic journals like The Journal of Derivatives and Th
 
 > **Explanation:** Rolling futures contracts can lead to small gains or losses due to differences in contract pricing, known as roll costs.
 
----
 
 ### A protective put strategy ensures that if the market falls below the option’s strike price:
 
@@ -221,7 +215,6 @@ Consider also reviewing academic journals like The Journal of Derivatives and Th
 
 > **Explanation:** Protective puts provide downside insurance by increasing in value if the underlying asset’s price falls below the put strike. However, this doesn’t give unlimited upside benefit, and it doesn’t force the investor to buy more shares.
 
----
 
 ### When rolling futures contracts for a hedge, portfolio managers should be most concerned about:
 
@@ -232,7 +225,6 @@ Consider also reviewing academic journals like The Journal of Derivatives and Th
 
 > **Explanation:** When rolling futures, managers analyze cost or benefit from differences in contract pricing (near vs. next month) and ensure the correlation assumptions still hold.
 
----
 
 ### Which of the following statements about margin calls in futures hedging is accurate?
 
@@ -243,7 +235,6 @@ Consider also reviewing academic journals like The Journal of Derivatives and Th
 
 > **Explanation:** If the futures position moves against you, you may need to post additional collateral, known as a margin call, regardless of correlation.
 
----
 
 ### Protective puts eliminate all downside risk. True or False?
 

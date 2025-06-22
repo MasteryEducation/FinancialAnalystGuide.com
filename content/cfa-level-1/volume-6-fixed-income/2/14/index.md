@@ -137,7 +137,6 @@ From dissecting an issuer’s official disclosures to checking alignment with EU
 
 > **Explanation:** The European Green Bond Standard is designed to create a standardized approach to labeling green bonds in the EU, aligning them with the EU’s Green Taxonomy.
 
----
 
 ### Under the SFDR, financial market participants and asset managers in the EU must primarily:
 
@@ -148,7 +147,6 @@ From dissecting an issuer’s official disclosures to checking alignment with EU
 
 > **Explanation:** The SFDR mandates transparency regarding how firms integrate ESG risks and disclose negative environmental or social impacts, but it does not prescribe investment choices or percentages.
 
----
 
 ### A second-party opinion in ESG bond issuances typically serves to:
 
@@ -159,7 +157,6 @@ From dissecting an issuer’s official disclosures to checking alignment with EU
 
 > **Explanation:** A second-party opinion is an independent verification that examines the alignment of the bond’s structure and proceeds with recognized ESG standards—like the ICMA Green Bond Principles.
 
----
 
 ### Which type of bond is specifically designed to help carbon-intensive industries transition towards greener operations?
 
@@ -170,7 +167,6 @@ From dissecting an issuer’s official disclosures to checking alignment with EU
 
 > **Explanation:** Transition bonds allow carbon-intensive issuers (e.g., heavy industries) to raise funding for projects that shift them toward less carbon-intensive business models.
 
----
 
 ### What is an example of an ongoing reporting mechanism for an ESG bond?
 
@@ -181,7 +177,6 @@ From dissecting an issuer’s official disclosures to checking alignment with EU
 
 > **Explanation:** Impact reporting provides information related to the environmental or social outputs of the financed projects, confirming alignment with the bond’s stated objectives.
 
----
 
 ### The SEC’s climate-related disclosure proposals aim to:
 
@@ -192,7 +187,6 @@ From dissecting an issuer’s official disclosures to checking alignment with EU
 
 > **Explanation:** The SEC proposals are intended to create standardized, investor-friendly disclosures around climate risks, including greenhouse gas emissions, ensuring that data is consistent and comparable.
 
----
 
 ### According to many ESG frameworks, which of the following is NOT a core component of the Green Bond Principles?
 
@@ -203,7 +197,6 @@ From dissecting an issuer’s official disclosures to checking alignment with EU
 
 > **Explanation:** The four core components of the Green Bond Principles are (1) use of proceeds, (2) process for project evaluation and selection, (3) management of proceeds, and (4) reporting. Investing in municipal credit derivatives is unrelated.
 
----
 
 ### Poland’s pioneering move in sovereign ESG bonds primarily involved:
 
@@ -214,7 +207,6 @@ From dissecting an issuer’s official disclosures to checking alignment with EU
 
 > **Explanation:** Poland was the first sovereign to issue a green bond, using proceeds for sustainable projects like renewable energy and agriculture.
 
----
 
 ### Which term refers to a classification system that establishes which financial activities are considered environmentally sustainable?
 
@@ -225,7 +217,6 @@ From dissecting an issuer’s official disclosures to checking alignment with EU
 
 > **Explanation:** A green taxonomy provides a list of economic activities that qualify as environmentally sustainable, facilitating transparent analysis and investment decisions.
 
----
 
 ### True or False: The presence of a “green” or “transition” label completely removes all default risk from a bond.
 

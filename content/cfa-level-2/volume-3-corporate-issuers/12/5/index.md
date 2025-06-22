@@ -201,7 +201,6 @@ Finally, keep in mind that a fresh perspective and a calm approach will serve yo
 
 > **Explanation:** Issuing new debt to repurchase shares raises the firm's debt load, increasing financial leverage. This will also raise interest expense, possibly affect credit ratings, and potentially alter WACC.
 
----
 
 ### When convertible preferred shares are converted into common stock, which of the following statements is generally TRUE?
 
@@ -212,7 +211,6 @@ Finally, keep in mind that a fresh perspective and a calm approach will serve yo
 
 > **Explanation:** Conversion of preferred shares into common stock increases the total number of common shares outstanding, diluting existing shareholders. Net income itself does not automatically rise just because of the conversion.
 
----
 
 ### Which of these best summarizes the synergy concept in a merger scenario?
 
@@ -223,7 +221,6 @@ Finally, keep in mind that a fresh perspective and a calm approach will serve yo
 
 > **Explanation:** Synergy arises when the combined firm is more valuable than the sum of the separate parts due to revenue growth, cost reductions, or other strategic advantages.
 
----
 
 ### In calculating WACC, which factor is NOT directly considered?
 
@@ -234,7 +231,6 @@ Finally, keep in mind that a fresh perspective and a calm approach will serve yo
 
 > **Explanation:** WACC incorporates cost of debt, cost of equity, and the firm’s capital structure proportions. The market price of a firm’s products is not explicitly included in the WACC formula.
 
----
 
 ### A firm is evaluating whether to pay a special dividend or conduct an open-market share repurchase. Which is most likely an exam-relevant question?
 
@@ -245,7 +241,6 @@ Finally, keep in mind that a fresh perspective and a calm approach will serve yo
 
 > **Explanation:** In exam scenarios, questions typically revolve around how different payout policies affect financial metrics (EPS, cost of equity) and possibly shareholder value.
 
----
 
 ### A firm with stable cash flow wants to lower its cost of capital. Which approach is generally used, if feasible?
 
@@ -256,7 +251,6 @@ Finally, keep in mind that a fresh perspective and a calm approach will serve yo
 
 > **Explanation:** Increasing debt (up to a reasonable limit) can reduce WACC because interest expense is tax-deductible, thereby lowering the after-tax cost of debt. However, there’s a capital structure trade-off, so too much debt may backfire.
 
----
 
 ### In a Level II vignette about corporate restructuring, you might see synergy estimated as:
 
@@ -267,7 +261,6 @@ Finally, keep in mind that a fresh perspective and a calm approach will serve yo
 
 > **Explanation:** Synergy is usually presented as the present value of the merger’s expected incremental benefits (e.g., revenue, cost savings) minus the costs to integrate or restructure.
 
----
 
 ### If management issues convertible debt at a price below fair value, what might be a concern?
 
@@ -278,7 +271,6 @@ Finally, keep in mind that a fresh perspective and a calm approach will serve yo
 
 > **Explanation:** If the conversion price is set too low, existing shareholders can suffer dilution when bondholders convert. Also, convertible debt initially carries interest expense until conversion occurs.
 
----
 
 ### A short recap quiz before exam day should:
 
@@ -289,7 +281,6 @@ Finally, keep in mind that a fresh perspective and a calm approach will serve yo
 
 > **Explanation:** A short, final recap quiz or timed practice helps reinforce already-learned material and pinpoints any lingering weaknesses. Trying to learn new, complex material at the last minute increases stress and confusion.
 
----
 
 ### True or False: A final, effective last-minute review strategy is to create links across topics like dividend policy, capital structure, and cost of capital to see how changes in one area affect the others.
 

@@ -205,7 +205,6 @@ Use these foundations to guide your study. Over time, you’ll find that Monte C
 
 > **Explanation:** Monte Carlo Simulation uses repeated random sampling of input variables to produce a range (distribution) of outcomes, offering a more comprehensive view of possible future states.
 
----
 
 ### In constructing a Monte Carlo Simulation for forecasting a firm’s net income, what is the primary reason for including a correlation matrix among variables?
 
@@ -216,7 +215,6 @@ Use these foundations to guide your study. Over time, you’ll find that Monte C
 
 > **Explanation:** A correlation matrix ensures that variables that normally move in tandem (or inversely) in the real world will be simulated accordingly, generating more realistic scenarios.
 
----
 
 ### Which of the following is a key sign that a normal distribution might not be ideal for an input variable?
 
@@ -227,7 +225,6 @@ Use these foundations to guide your study. Over time, you’ll find that Monte C
 
 > **Explanation:** If a variable logically cannot be negative but can stretch significantly on the positive side (e.g., stock prices or commodities), a lognormal or skewed distribution is often more appropriate than a normal distribution.
 
----
 
 ### In the context of forecasting using Monte Carlo methods, “tail probability” refers to:
 
@@ -238,7 +235,6 @@ Use these foundations to guide your study. Over time, you’ll find that Monte C
 
 > **Explanation:** Tail probabilities measure the likelihood of very high or very low outcomes—events in the “tails” (extremes) of the distribution.
 
----
 
 ### An equity analyst runs a Monte Carlo simulation that outputs a histogram of possible valuations. The histogram suggests a high right-skew. What does this mean?
 
@@ -249,7 +245,6 @@ Use these foundations to guide your study. Over time, you’ll find that Monte C
 
 > **Explanation:** A right-skew means the right tail is longer or fatter, so while most outcomes cluster at a lower or moderate value, there are potentially large positive outliers.
 
----
 
 ### Which statement best describes the advantage of using Monte Carlo simulation over a single “expected case” scenario?
 
@@ -260,7 +255,6 @@ Use these foundations to guide your study. Over time, you’ll find that Monte C
 
 > **Explanation:** Monte Carlo simulation generates many possible outcomes based on random draws from distributions, capturing a wider range of potential scenarios than a single deterministic “expected case.”
 
----
 
 ### An analyst has discovered that the cost of raw materials and sales revenues are strongly positively correlated for a company. How should they handle this in a Monte Carlo simulation?
 
@@ -271,7 +265,6 @@ Use these foundations to guide your study. Over time, you’ll find that Monte C
 
 > **Explanation:** If sales revenues and raw materials costs move together in the real world, the analyst should reflect that in the simulation by specifying the correlation in the model.
 
----
 
 ### A tornado chart is primarily used to:
 
@@ -282,7 +275,6 @@ Use these foundations to guide your study. Over time, you’ll find that Monte C
 
 > **Explanation:** A tornado chart highlights which variables have the largest impact on the outcome by showing the width of the variation for each variable’s range of inputs.
 
----
 
 ### What is one common pitfall when setting up a Monte Carlo simulation in equity forecasting?
 
@@ -293,7 +285,6 @@ Use these foundations to guide your study. Over time, you’ll find that Monte C
 
 > **Explanation:** One typical pitfall is ignoring or oversimplifying correlations that might have changed or weren’t properly modeled, leading to unrealistic simulated scenarios.
 
----
 
 ### Monte Carlo Simulations generally provide more insightful forecasts because:
 

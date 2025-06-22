@@ -160,7 +160,6 @@ In the end, remember that each dataset, market regime, and investment strategy m
 
 > **Explanation:** By focusing on the most relevant predictors, we avoid overfitting and reduce noise. Feature selection does not eliminate time-series analysis or data cleaning requirements, nor does it ensure linear relationships.
 
----
 
 ### In filter methods, features are selected primarily based on:
 
@@ -171,7 +170,6 @@ In the end, remember that each dataset, market regime, and investment strategy m
 
 > **Explanation:** Filter methods rely on straightforward statistics (e.g., correlation) to evaluate features before passing them into a more complex model.
 
----
 
 ### Which statement about wrapper methods is most accurate?
 
@@ -182,7 +180,6 @@ In the end, remember that each dataset, market regime, and investment strategy m
 
 > **Explanation:** Wrapper methods train a predictive model on various subsets of features, evaluating performance each time, which can be computationally expensive.
 
----
 
 ### Lasso (L1 penalty) is known for:
 
@@ -193,7 +190,6 @@ In the end, remember that each dataset, market regime, and investment strategy m
 
 > **Explanation:** Lasso uses an L1 penalty that forces some coefficients to zero, acting as an embedded feature selection method.
 
----
 
 ### Which approach best describes a genetic algorithm for feature selection?
 
@@ -204,7 +200,6 @@ In the end, remember that each dataset, market regime, and investment strategy m
 
 > **Explanation:** Genetic algorithms borrow inspiration from natural selection, combining and mutating feature subsets to discover better solutions over generations.
 
----
 
 ### A key risk of feature selection in finance is:
 
@@ -215,7 +210,6 @@ In the end, remember that each dataset, market regime, and investment strategy m
 
 > **Explanation:** Overfitting remains a central risk, particularly if feature selection and validation are performed inadequately, leading to spurious relationships being chosen.
 
----
 
 ### Which statement correctly portrays filter methods vs. wrapper methods?
 
@@ -226,7 +220,6 @@ In the end, remember that each dataset, market regime, and investment strategy m
 
 > **Explanation:** Filter methods use simpler statistical metrics without repeatedly training models, whereas wrapper methods involve retraining a predictive model on various feature subsets.
 
----
 
 ### What is one advantage of applying tree-based models for feature ranking?
 
@@ -237,7 +230,6 @@ In the end, remember that each dataset, market regime, and investment strategy m
 
 > **Explanation:** Tree-based methods (e.g., random forests) naturally model nonlinear relationships and interactions, and they provide importance scores that guide feature selection.
 
----
 
 ### A potential drawback of using PCA for feature engineering is:
 
@@ -248,7 +240,6 @@ In the end, remember that each dataset, market regime, and investment strategy m
 
 > **Explanation:** While PCA effectively reduces dimensionality, the new components are linear combinations of original features, making financial interpretation more challenging.
 
----
 
 ### True or False: Autoencoders perform dimensionality reduction by learning a compressed representation of the data.
 

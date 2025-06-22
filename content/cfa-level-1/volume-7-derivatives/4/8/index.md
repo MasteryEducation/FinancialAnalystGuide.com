@@ -169,7 +169,6 @@ On constructed-response (essay-type) questions, you might be asked to show how a
 
 > **Explanation:** A long straddle profits from large moves in the underlying (higher realized volatility than implied). If the asset hardly moves, the straddle likely loses value because of time decay.
 
----
 
 ### When an investor sells both a call and a put with the same strike and maturity, the position is said to be:
 
@@ -180,7 +179,6 @@ On constructed-response (essay-type) questions, you might be asked to show how a
 
 > **Explanation:** A short straddle is formed by selling a call and a put with identical strikes and maturities, collecting a net premium but also assuming substantial risk if the market moves sharply.
 
----
 
 ### Which Greek measures an option’s sensitivity to changes in implied volatility?
 
@@ -191,7 +189,6 @@ On constructed-response (essay-type) questions, you might be asked to show how a
 
 > **Explanation:** Vega is the unit that captures how much an option’s value changes with a 1% change in implied volatility.
 
----
 
 ### Rebalancing a long straddle position typically involves:
 
@@ -202,7 +199,6 @@ On constructed-response (essay-type) questions, you might be asked to show how a
 
 > **Explanation:** To maintain the original “pure volatility” exposure, a long straddle holder often rebalances deltas when the underlying price changes.
 
----
 
 ### A short straddle position has which of the following characteristics?
 
@@ -213,7 +209,6 @@ On constructed-response (essay-type) questions, you might be asked to show how a
 
 > **Explanation:** Short straddles collect premium upfront (limited profit) but face unlimited potential losses if the spot rises or falls sharply. They also lose if implied volatility rises (negative vega exposure).
 
----
 
 ### If you anticipate that implied volatility is being dramatically underpriced by the market, which strategy is most aligned with your view?
 
@@ -224,7 +219,6 @@ On constructed-response (essay-type) questions, you might be asked to show how a
 
 > **Explanation:** If you believe implied vol is too low, you want a net long volatility position. Buying a strangle is a simpler method to exploit that belief.
 
----
 
 ### Which statement about volatility cones is accurate?
 
@@ -235,7 +229,6 @@ On constructed-response (essay-type) questions, you might be asked to show how a
 
 > **Explanation:** Volatility cones plot min, median, max, etc., for realized volatility over different time horizons to contextualize current implied vol readings.
 
----
 
 ### A trader who is long a straddle is most concerned about:
 
@@ -246,7 +239,6 @@ On constructed-response (essay-type) questions, you might be asked to show how a
 
 > **Explanation:** Although a long straddle gains from rising implied vol, it primarily suffers from time decay (theta) if the underlying stays too stable.
 
----
 
 ### A GARCH model is utilized to:
 
@@ -257,7 +249,6 @@ On constructed-response (essay-type) questions, you might be asked to show how a
 
 > **Explanation:** GARCH (Generalized Autoregressive Conditional Heteroskedasticity) models use historical data to dynamically estimate volatility, often reflecting volatility clustering observed in financial markets.
 
----
 
 ### True or False: A long volatility position benefits when the underlying asset’s price remains flat and implied volatility decreases.
 

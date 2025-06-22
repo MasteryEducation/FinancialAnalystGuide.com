@@ -141,7 +141,6 @@ In your exam preparation, remember that markets are dynamic and none of these st
 
 > **Explanation:** Cross-exchange arbitrage involves buying and selling the same or very similar futures contracts on two different markets at the same time, aiming to capture any price discrepancy.  
 
----
 
 ### In the context of cross-exchange arbitrage, what does “execution risk” typically refer to?
 - [ ] The possibility that an exchange might cancel your trades due to regulatory infractions.  
@@ -151,7 +150,6 @@ In your exam preparation, remember that markets are dynamic and none of these st
 
 > **Explanation:** Execution risk arises when one side of the arbitrage trades executes but the other side does not, or executes at a significantly different price, eliminating or reversing the expected profit.
 
----
 
 ### Which of the following represents a key advantage for high-frequency traders in executing cross-exchange arbitrage?
 - [x] Access to low-latency market data feeds and colocated servers.  
@@ -161,7 +159,6 @@ In your exam preparation, remember that markets are dynamic and none of these st
 
 > **Explanation:** Low-latency data and colocated servers help HFT firms spot and trade on price discrepancies more quickly than competitors, often capturing fleeting arbitrage opportunities.
 
----
 
 ### In a scenario where you buy a contract at $120.10 on Exchange A and sell an identical contract at $120.15 on Exchange B, what is your gross profit per contract excluding costs (assuming one contract equals 100 units of the underlying)?
 - [x] $5.00  
@@ -171,7 +168,6 @@ In your exam preparation, remember that markets are dynamic and none of these st
 
 > **Explanation:** The price difference is $0.05, and with 100 units per contract, your gross profit is 100 × $0.05 = $5.00.
 
----
 
 ### Suppose you have identified a $0.03 per contract mispricing in currency futures between two exchanges. Each contract consists of 1,000 underlying currency units. If the total round-trip transaction costs amount to $20 per trade (for both buy and sell combined), which of the following is the main reason the trade might not yield profit?
 - [ ] The presence of a high correlation between the underlying currencies.  
@@ -181,7 +177,6 @@ In your exam preparation, remember that markets are dynamic and none of these st
 
 > **Explanation:** With a 1,000-unit contract and a $0.03 difference, the gross profit is $30.00. Subtracting the $20 in costs leaves $10 profit before considering any additional fees or slippage, so small changes or slippage could wipe out the advantage quickly.
 
----
 
 ### Latency arbitrage primarily exploits which of the following?
 - [x] Temporary price discrepancies due to delays in data distribution or order execution.  
@@ -191,7 +186,6 @@ In your exam preparation, remember that markets are dynamic and none of these st
 
 > **Explanation:** Latency arbitrage is all about the advantage gained by having faster or more direct data feeds, allowing a trader to act on price discrepancies before others see them.
 
----
 
 ### Which step would help minimize “leg risk” in a cross-exchange arbitrage trade?
 - [x] Using automated, simultaneous order entry to execute both sides at once.  
@@ -201,7 +195,6 @@ In your exam preparation, remember that markets are dynamic and none of these st
 
 > **Explanation:** Automated simultaneous order entry greatly reduces the time between the two legs, lowering the chance that the market moves adversely. Also, correlated hedges can temporarily cover the unfilled side.  
 
----
 
 ### A trader notices that a commodity futures contract is sometimes cheaper overnight on Exchange A than on Exchange B, but the difference narrows during regular trading hours. Which factor most likely explains this pricing behavior?
 - [x] Differences in liquidity during off-peak hours, leading to wider bid/ask spreads.  
@@ -211,7 +204,6 @@ In your exam preparation, remember that markets are dynamic and none of these st
 
 > **Explanation:** During off-peak hours, liquidity can dry up, causing wider spreads and occasional mispricings. As volume returns, markets tend to synchronize and reduce discrepancies.
 
----
 
 ### If a portfolio manager wants to exploit cross-exchange arbitrage for hedging an existing equity position, what would be the main benefit?
 - [x] Reducing the cost of the hedge by entering the cheapest side of the trade on one exchange and offsetting on another.  
@@ -221,7 +213,6 @@ In your exam preparation, remember that markets are dynamic and none of these st
 
 > **Explanation:** By using two exchanges, the portfolio manager could potentially find a cheaper entry or exit to offset an existing position, thus reducing overall hedging costs.
 
----
 
 ### True or False: Cross-exchange arbitrage can be considered entirely risk-free because you buy and sell the same contract simultaneously.  
 - [x] True  

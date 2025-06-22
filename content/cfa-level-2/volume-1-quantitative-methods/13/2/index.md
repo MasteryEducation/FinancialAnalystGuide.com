@@ -144,7 +144,6 @@ This is a classic “test your conceptual mastery” scenario—and the good new
 
 > **Explanation:** Bootstrapping’s big advantage is that it’s distribution-agnostic. It doesn’t assume normality or any particular form, relying instead on empirical resampling.
 
----
 
 ### 2. When data points are serially correlated, the best approach to preserve time-dependent structure is:
 
@@ -155,7 +154,6 @@ This is a classic “test your conceptual mastery” scenario—and the good new
 
 > **Explanation:** Block bootstrapping is designed to preserve autocorrelation by sampling contiguous blocks of data, rather than single observations.
 
----
 
 ### 3. In the moving-block bootstrap, blocks are typically chosen:
 
@@ -166,7 +164,6 @@ This is a classic “test your conceptual mastery” scenario—and the good new
 
 > **Explanation:** In the moving-block approach, you fix a block length (say, 5 days) and sample those blocks directly from the time series.
 
----
 
 ### 4. Which statement best describes why block bootstrapping may be preferable to basic bootstrapping for time-series data?
 
@@ -177,7 +174,6 @@ This is a classic “test your conceptual mastery” scenario—and the good new
 
 > **Explanation:** The core advantage of block bootstrapping is it respects the within-block autocorrelation.
 
----
 
 ### 5. Which of the following is a common disadvantage of bootstrapping for financial applications?
 
@@ -188,7 +184,6 @@ This is a classic “test your conceptual mastery” scenario—and the good new
 
 > **Explanation:** A key drawback is that bootstrapping depends heavily on the historical dataset’s relevance to future market conditions.
 
----
 
 ### 6. A portfolio manager wants to estimate the distribution of 1-day returns under minimal assumptions. She chooses to use bootstrapping rather than a parametric VaR approach because:
 
@@ -199,7 +194,6 @@ This is a classic “test your conceptual mastery” scenario—and the good new
 
 > **Explanation:** Bootstrapping can capture the empirical peculiarities of the data, especially in the tails, without imposing normal or other parametric forms.
 
----
 
 ### 7. In a standard bootstrap setting (without blocks), which assumption is usually required?
 
@@ -210,7 +204,6 @@ This is a classic “test your conceptual mastery” scenario—and the good new
 
 > **Explanation:** Basic bootstrap methods assume the sample is i.i.d. If not, the resulting inferences can be biased.
 
----
 
 ### 8. If daily returns exhibit strong volatility clustering, which bootstrap variant is most appropriate?
 
@@ -221,7 +214,6 @@ This is a classic “test your conceptual mastery” scenario—and the good new
 
 > **Explanation:** Volatility clustering suggests time dependence, and a block bootstrap is more appropriate to retain that structure.
 
----
 
 ### 9. A key purpose of using bootstrapping to estimate a statistic’s standard error is:
 
@@ -232,7 +224,6 @@ This is a classic “test your conceptual mastery” scenario—and the good new
 
 > **Explanation:** By resampling the observed data, bootstrapping approximates the variance of the statistic directly from the data, without imposing specific distributions.
 
----
 
 ### 10. True or False: Stationary block bootstrap allows for varying block lengths during resampling.
 

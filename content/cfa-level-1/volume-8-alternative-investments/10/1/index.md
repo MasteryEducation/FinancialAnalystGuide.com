@@ -185,7 +185,6 @@ You might occasionally do a partial liquidation model—where the firm sells sel
 
 > **Explanation:** Persistent deterioration in cash flows signals the firm may be unable to generate sufficient operating income to cover obligations, often the clearest red flag in early financial distress.
 
----
 
 ### In the context of U.S. bankruptcy law, which statement best describes Debtor-in-Possession (DIP) financing?
 
@@ -196,7 +195,6 @@ You might occasionally do a partial liquidation model—where the firm sells sel
 
 > **Explanation:** DIP financing is a specialized funding that ranks above pre-petition claims, offering protection to new creditors who support a company undergoing Chapter 11 reorganization.
 
----
 
 ### An out-of-court workout can be preferable to formal bankruptcy proceedings primarily because:
 
@@ -207,7 +205,6 @@ You might occasionally do a partial liquidation model—where the firm sells sel
 
 > **Explanation:** Out-of-court workouts often avoid the complexity and publicity of formal bankruptcy, saving on high legal costs, although they lack some of the binding powers of court-based proceedings.
 
----
 
 ### In a distressed scenario, senior secured creditors:
 
@@ -218,7 +215,6 @@ You might occasionally do a partial liquidation model—where the firm sells sel
 
 > **Explanation:** Senior secured creditors have a lien on specific collateral, placing them ahead of unsecured and subordinated creditors in the priority hierarchy.
 
----
 
 ### Which factor most accurately characterizes the main difference between a reorganization model and a liquidation model in distressed valuations?
 
@@ -229,7 +225,6 @@ You might occasionally do a partial liquidation model—where the firm sells sel
 
 > **Explanation:** In a liquidation model, assets are sold off, whereas a reorganization model typically values ongoing operations and future cash flows under a revised capital structure.
 
----
 
 ### In a distressed debt analysis, calculating the expected recovery rate typically involves:
 
@@ -240,7 +235,6 @@ You might occasionally do a partial liquidation model—where the firm sells sel
 
 > **Explanation:** Recovery rate is the ratio of the present value of what creditors expect to receive (through liquidation or reorganization) to the original claim amount.
 
----
 
 ### Which of these cross-border insolvency challenges might complicate a distressed situation involving a multinational firm?
 
@@ -251,7 +245,6 @@ You might occasionally do a partial liquidation model—where the firm sells sel
 
 > **Explanation:** When companies operate in multiple countries, they face disparate legal systems, creditor rights, and enforcement mechanisms, leading to potential complexity in a restructuring.
 
----
 
 ### ESG considerations in a distressed scenario may primarily affect the firm’s:
 
@@ -262,7 +255,6 @@ You might occasionally do a partial liquidation model—where the firm sells sel
 
 > **Explanation:** Poor environmental or social practices can trigger liabilities—cleanup expenses, lawsuits, reputational harm—that reduce the firm’s overall value in a restructuring or liquidation.
 
----
 
 ### When performing a restructuring model for a distressed firm, one key difference from a standard corporate valuation model is:
 
@@ -273,7 +265,6 @@ You might occasionally do a partial liquidation model—where the firm sells sel
 
 > **Explanation:** In distressed modeling, analysts often integrate changing capital structures (e.g., DIP financing, partial liquidations), which can drastically alter the pro forma balance sheet and cash flow projections.
 
----
 
 ### True or False: Ongoing legal fees and administrative costs in bankruptcy can reduce the pool of funds available for creditors, thus lowering potential recovery rates.
 

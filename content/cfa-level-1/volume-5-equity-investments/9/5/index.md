@@ -181,7 +181,6 @@ In reconciling these results, an analyst might weigh the FCFE approach a bit mor
 
 > **Explanation:** DDMs assume dividends serve as a direct measure of a firm's total distributable cash flow. When dividends differ significantly from a firm’s true earnings power, DDM results can be distorted.
 
----
 
 ### Free Cash Flow to Equity (FCFE) models are particularly sensitive to:  
 - [ ] The company’s dividend payout ratio.  
@@ -191,7 +190,6 @@ In reconciling these results, an analyst might weigh the FCFE approach a bit mor
 
 > **Explanation:** FCFE is derived from operating cash flows, capital expenditures, and net debt flows. Errors in forecasting CapEx or working capital can lead to large misestimates of FCFE.
 
----
 
 ### A primary advantage of Relative Valuation is:
 - [x] It can quickly identify potential mispricing by comparing a firm’s valuation multiples to industry peers.  
@@ -201,7 +199,6 @@ In reconciling these results, an analyst might weigh the FCFE approach a bit mor
 
 > **Explanation:** Relative Valuation hinges on comparing industry or peer multiples. It’s a useful approach for spotting potential anomalies, although it depends heavily on market pricing.
 
----
 
 ### One weakness of Relative Valuation is that:
 - [x] It can inherit over- or underpricing from the overall market or sector.  
@@ -211,7 +208,6 @@ In reconciling these results, an analyst might weigh the FCFE approach a bit mor
 
 > **Explanation:** If the entire sector is over- or undervalued, simply matching peer multiples might give an erroneous impression of “fair” value.
 
----
 
 ### Asset-based methods are most appropriate when:
 - [x] You are assessing a firm’s liquidation or breakup value.  
@@ -221,7 +217,6 @@ In reconciling these results, an analyst might weigh the FCFE approach a bit mor
 
 > **Explanation:** Asset-based approaches can provide a “floor” value, especially suitable for liquidation scenarios or asset-heavy businesses. However, they may ignore significant intangible growth opportunities.
 
----
 
 ### Which statement best captures the rationale behind using multiple valuation methods (a “triangulation” approach)?
 - [ ] Each valuation method is accurate only for specific industries and must be used alone for best results.  
@@ -231,7 +226,6 @@ In reconciling these results, an analyst might weigh the FCFE approach a bit mor
 
 > **Explanation:** Triangulation combines various angles—a more complete picture of fair value emerges by comparing results from multiple approaches.
 
----
 
 ### When is DDM likely to be most accurate?
 - [x] For a mature firm with stable and predictable dividends.  
@@ -241,7 +235,6 @@ In reconciling these results, an analyst might weigh the FCFE approach a bit mor
 
 > **Explanation:** Firms that have stable, predictable dividends—often found in mature industries like utilities—frequently yield reliable DDM valuations.
 
----
 
 ### In an FCFE valuation, which of the following would decrease the estimated equity value, holding everything else constant?
 - [x] Increasing capital expenditure assumptions.  
@@ -251,7 +244,6 @@ In reconciling these results, an analyst might weigh the FCFE approach a bit mor
 
 > **Explanation:** Higher CapEx projections reduce FCFE, thus lowering the estimated equity value when discounting future cash flows.
 
----
 
 ### A major drawback of asset-based methods for going-concern valuation is:
 - [x] They may ignore significant intangible or growth-related value beyond tangible assets.  
@@ -261,7 +253,6 @@ In reconciling these results, an analyst might weigh the FCFE approach a bit mor
 
 > **Explanation:** Asset-based methods focus on tangible asset values and often fail to capture intangible growth opportunities, making them less relevant for healthy going concerns.
 
----
 
 ### True or False: Reconciling different valuation results can help identify unrealistic assumptions or data errors.
 - [x] True  

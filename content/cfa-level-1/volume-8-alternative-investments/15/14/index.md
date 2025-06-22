@@ -143,7 +143,6 @@ For a truly seamless experience, make sure you adopt best practices, allocate re
 
 > **Explanation:** Parallel funds commonly exist so that tax-exempt or international investors can participate via the offshore vehicle, while taxable domestic investors use the onshore vehicle.
 
----
 
 ### Transfer pricing in the context of parallel hedge funds involves:
 
@@ -154,7 +153,6 @@ For a truly seamless experience, make sure you adopt best practices, allocate re
 
 > **Explanation:** Transfer pricing is about ensuring that each parallel entity pays its fair share (or receives its fair share) of costs and fees in line with its economic benefit derived.
 
----
 
 ### Which of the following BEST describes a benefit of an offshore hedge fund domicile?
 
@@ -165,7 +163,6 @@ For a truly seamless experience, make sure you adopt best practices, allocate re
 
 > **Explanation:** Offshore domiciles, such as the Cayman Islands, can help certain investors reduce withholding taxes and comply with their home regulations, but they still must meet local regulatory and substance requirements.
 
----
 
 ### A major operational risk of running parallel funds is:
 
@@ -176,7 +173,6 @@ For a truly seamless experience, make sure you adopt best practices, allocate re
 
 > **Explanation:** LPs demand equitable treatment. If parallels are not managed consistently, one fund might receive all the best deals, leaving the other disadvantaged.
 
----
 
 ### A hedge fund manager is concerned about increased scrutiny of their transfer pricing practices. Which approach best demonstrates compliance?
 
@@ -187,7 +183,6 @@ For a truly seamless experience, make sure you adopt best practices, allocate re
 
 > **Explanation:** Having a clear, transparent, and consistently applied allocation method, often verified by independent parties, helps ensure defense against regulatory inquiries.
 
----
 
 ### From a regulatory perspective, a key challenge when establishing offshore parallel funds is:
 
@@ -198,7 +193,6 @@ For a truly seamless experience, make sure you adopt best practices, allocate re
 
 > **Explanation:** Offshore jurisdictions often demand detailed disclosures, and the onshore jurisdiction (e.g., the SEC) may require certain filings as well. That multi-jurisdiction overlay can be tricky.
 
----
 
 ### The primary purpose of “substance requirements” in offshore jurisdictions is to:
 
@@ -209,7 +203,6 @@ For a truly seamless experience, make sure you adopt best practices, allocate re
 
 > **Explanation:** Substance requirements aim to prevent “brass plate” or purely nominal operations, requiring genuine local presence, employees, or active board oversight.
 
----
 
 ### Which of the following is a significant drawback of using a parallel onshore-offshore fund structure?
 
@@ -220,7 +213,6 @@ For a truly seamless experience, make sure you adopt best practices, allocate re
 
 > **Explanation:** While parallel structures can be advantageous for investor diversification and potential tax efficiency, they come with greater legal, administrative, and compliance burden.
 
----
 
 ### In allocating an Asian market research cost between two parallel funds, a manager adopts a ratio based on the funds’ relative NAVs. This methodology is an example of:
 
@@ -231,7 +223,6 @@ For a truly seamless experience, make sure you adopt best practices, allocate re
 
 > **Explanation:** Splitting costs proportionally to each fund’s NAV (or relevant exposure) is a common and acceptable approach to “fair share” cost allocation.
 
----
 
 ### True or False: Parallel funds are primarily established to allow each investor to remain fully anonymous, avoiding all forms of regulatory compliance.
 

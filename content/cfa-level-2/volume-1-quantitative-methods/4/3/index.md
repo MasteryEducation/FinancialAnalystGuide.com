@@ -161,7 +161,6 @@ At the end of the day, the best approach depends on your specific data, your mod
 
 > **Explanation:** When residuals are autocorrelated, the biggest concern is that standard errors become unreliable, leading to incorrect t-statistics and F-statistics. Coefficient estimates themselves can remain unbiased if the model is correctly specified.
 
----
 
 ### A Durbin–Watson (DW) statistic significantly below 2.0 most likely indicates:
 - [x] Positive first-order autocorrelation.
@@ -171,7 +170,6 @@ At the end of the day, the best approach depends on your specific data, your mod
 
 > **Explanation:** A Durbin–Watson value below 2 typically suggests residuals are positively autocorrelated, meaning εₜ and εₜ₋₁ are positively related.
 
----
 
 ### An analyst suspects higher-order autocorrelation (beyond first-order). Which test is best suited for this scenario?
 - [ ] Durbin–Watson test
@@ -181,7 +179,6 @@ At the end of the day, the best approach depends on your specific data, your mod
 
 > **Explanation:** The Breusch–Godfrey test is more flexible and can detect higher-order autocorrelation, unlike Durbin–Watson, which focuses on first-order.
 
----
 
 ### A researcher adds a lagged dependent variable to her regression model for a stock returns time series. One major caution with this approach is:
 - [ ] The model can no longer be estimated by standard OLS.
@@ -191,7 +188,6 @@ At the end of the day, the best approach depends on your specific data, your mod
 
 > **Explanation:** Once you include lagged dependent variables, you may run into endogeneity. You should consider advanced methods (like Instrumental Variables) as appropriate. Standard OLS can still be used, but with caution about the standard errors.
 
----
 
 ### Newey–West standard errors primarily address:
 - [x] Both autocorrelation and heteroskedasticity in error terms.
@@ -201,7 +197,6 @@ At the end of the day, the best approach depends on your specific data, your mod
 
 > **Explanation:** Newey–West standard errors adjust for heteroskedasticity and autocorrelation (HAC). They do not solve other issues like multicollinearity or omitted variable bias.
 
----
 
 ### Which statement best describes how GLS (generalized least squares) methods correct for autocorrelation?
 - [x] They transform the model to remove correlation from residuals.
@@ -211,7 +206,6 @@ At the end of the day, the best approach depends on your specific data, your mod
 
 > **Explanation:** GLS transforms the original regression (often by removing an estimated correlation structure) so that the transformed residuals are no longer autocorrelated.
 
----
 
 ### Including an AR(1) term directly into a regression model is most appropriate when:
 - [ ] The statistical software fails to calculate Durbin–Watson properly.
@@ -221,7 +215,6 @@ At the end of the day, the best approach depends on your specific data, your mod
 
 > **Explanation:** An AR(1) specification is used when past values of the dependent variable appear to influence the current value, creating a dynamic relationship.
 
----
 
 ### Which of the following indicates positive autocorrelation in the residual plots of a time series?
 - [x] ACF spikes at lag 1 that significantly exceed confidence bounds.
@@ -231,7 +224,6 @@ At the end of the day, the best approach depends on your specific data, your mod
 
 > **Explanation:** The autocorrelation function (ACF) is a handy diagnostic tool: if the lag-1 ACF of residuals is significantly positive, that usually indicates positive serial correlation.
 
----
 
 ### If an analyst detects autocorrelation but only cares about the reliability of coefficient inference (not predicting future values), which method is commonly used?
 - [ ] 2SLS
@@ -241,7 +233,6 @@ At the end of the day, the best approach depends on your specific data, your mod
 
 > **Explanation:** Newey–West adjusts the standard errors for autocorrelation (and heteroskedasticity) without changing the estimated coefficients, making them popular for inference-oriented research.
 
----
 
 ### True or False: The ordinary least squares estimate of the slope coefficient is always biased in the presence of first-order serial correlation.
 - [ ] True

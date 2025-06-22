@@ -185,7 +185,6 @@ If there’s one takeaway, it’s this: Mind the gap between spot and futures! T
 
 > **Explanation:** Roll yield emerges specifically from the act of rolling a futures position, reflecting the price difference between the contracts you sell and the contracts you buy.
 
----
 
 ### In a market that is in backwardation, rolling your futures contracts generally results in:
 
@@ -196,7 +195,6 @@ If there’s one takeaway, it’s this: Mind the gap between spot and futures! T
 
 > **Explanation:** Backwardation refers to a downward-sloping futures curve. The next-month contract is usually cheaper, so rolling often produces a gain (positive roll yield).
 
----
 
 ### What is convenience yield?
 
@@ -207,7 +205,6 @@ If there’s one takeaway, it’s this: Mind the gap between spot and futures! T
 
 > **Explanation:** Convenience yield represents the advantages of having the physical commodity on hand, such as ensuring supply in times of market stress or shortage.
 
----
 
 ### Which market condition often results in a negative roll yield?
 
@@ -218,7 +215,6 @@ If there’s one takeaway, it’s this: Mind the gap between spot and futures! T
 
 > **Explanation:** In contango, future-dated contracts are more expensive than near-term contracts, so rolling forward typically costs more and erodes returns.
 
----
 
 ### Which of the following does NOT directly affect convenience yield?
 
@@ -229,7 +225,6 @@ If there’s one takeaway, it’s this: Mind the gap between spot and futures! T
 
 > **Explanation:** The primary drivers of convenience yield revolve around supply security, storage feasibility, and ensuring the commodity is actually on hand. The local risk-free interest rate might affect collateral yields but doesn’t directly determine convenience yield.
 
----
 
 ### Why is roll yield particularly important for investors in commodity index funds?
 
@@ -240,7 +235,6 @@ If there’s one takeaway, it’s this: Mind the gap between spot and futures! T
 
 > **Explanation:** Many commodity index funds rely on futures contracts to achieve exposure, meaning they continually roll forward as contracts expire. Those rolls can add or subtract from total returns depending on market structure.
 
----
 
 ### Which of the following statements about roll yield is true?
 
@@ -251,7 +245,6 @@ If there’s one takeaway, it’s this: Mind the gap between spot and futures! T
 
 > **Explanation:** Roll yield depends on whether you pay more or less for the next contract relative to the contract you’re selling, which in turn depends on market structure.
 
----
 
 ### A commodity’s convenience yield is likely to increase when:
 
@@ -262,7 +255,6 @@ If there’s one takeaway, it’s this: Mind the gap between spot and futures! T
 
 > **Explanation:** Convenience yield spikes when there’s a strong practical benefit to physically holding the commodity, such as anticipated shortages or urgent demand.
 
----
 
 ### An airline physically storing jet fuel to guard against supply disruptions references:
 
@@ -273,7 +265,6 @@ If there’s one takeaway, it’s this: Mind the gap between spot and futures! T
 
 > **Explanation:** Holding the physical commodity ensures immediate availability and lowers operational risk, which illustrates how convenience yield works.
 
----
 
 ### True or False: Roll yield can sometimes have a larger impact on total returns than movements in the spot price of the commodity.
 

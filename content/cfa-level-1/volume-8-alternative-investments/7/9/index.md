@@ -169,7 +169,6 @@ Above all, keep an eye on fast-moving developments in the space, as new solution
 
 > **Explanation:** A cross-chain bridge transfers tokens or data between different blockchains, often locking original assets on one chain and issuing a “pegged” representation on another.
 
----
 
 ### When using an Optimistic Rollup on Ethereum, which statement is correct?
 
@@ -180,7 +179,6 @@ Above all, keep an eye on fast-moving developments in the space, as new solution
 
 > **Explanation:** Optimistic Rollups process transactions off-chain but periodically post aggregated data on Ethereum for security. The system is “optimistic” that the provided off-chain data is accurate, with a mechanism to challenge incorrect state updates.
 
----
 
 ### Which of the following is a primary benefit of Layer-2 solutions, such as the Lightning Network?
 
@@ -191,7 +189,6 @@ Above all, keep an eye on fast-moving developments in the space, as new solution
 
 > **Explanation:** Moving transactions off-chain greatly reduces congestion, lowering fees while retaining security from final settlement on the main chain.
 
----
 
 ### A sidechain pegged to a main chain primarily functions to:
 
@@ -202,7 +199,6 @@ Above all, keep an eye on fast-moving developments in the space, as new solution
 
 > **Explanation:** A sidechain is its own blockchain with an independent set of rules, but it remains pegged to a main chain so that value or data can be transferred between them.
 
----
 
 ### Which best practice can help mitigate cross-chain bridge security risks?
 
@@ -213,7 +209,6 @@ Above all, keep an eye on fast-moving developments in the space, as new solution
 
 > **Explanation:** Security audits, decentralized validation, and using multiple bridging services reduce the risk of compromise (e.g., a bug in a single bridging contract).
 
----
 
 ### In an investment context, why are cross-chain liquidity protocols significant?
 
@@ -224,7 +219,6 @@ Above all, keep an eye on fast-moving developments in the space, as new solution
 
 > **Explanation:** Cross-chain protocols let investors engage in multi-chain trades and liquidity moves without individually converting assets on each chain.
 
----
 
 ### Lightning Network channels:
 
@@ -235,7 +229,6 @@ Above all, keep an eye on fast-moving developments in the space, as new solution
 
 > **Explanation:** Once a Lightning channel is opened, transactions remain off-chain, providing near-instant finality until the channel closes and nets results on-chain.
 
----
 
 ### A main reason the term “optimistic” is used in Optimistic Rollups is:
 
@@ -246,7 +239,6 @@ Above all, keep an eye on fast-moving developments in the space, as new solution
 
 > **Explanation:** Optimistic Rollups assume off-chain blocks are valid but provide a dispute resolution window where fraudulent transactions can be challenged.
 
----
 
 ### One challenge posed by having many sidechains and Layer-2 solutions is:
 
@@ -257,7 +249,6 @@ Above all, keep an eye on fast-moving developments in the space, as new solution
 
 > **Explanation:** Spreading activity across numerous chains or L2 networks can fragment markets, liquidity, and user bases, complicating cross-chain trades and diminishing network effects.
 
----
 
 ### True or False: A Layer-2 network always bypasses the base security of the main blockchain.
 

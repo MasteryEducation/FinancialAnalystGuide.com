@@ -157,7 +157,6 @@ Private equity can bring excitement, complexity, and potentially substantial rew
 
 > **Explanation:** Venture capital focuses on startups and high-growth businesses, sometimes before they generate meaningful revenue.
 
----
 
 ### In a leveraged buyout, which of the following is the primary driver of equity returns?
 - [ ] An increase in the interest expense
@@ -167,7 +166,6 @@ Private equity can bring excitement, complexity, and potentially substantial rew
 
 > **Explanation:** By using leverage, a smaller equity investment can yield higher returns if company performance stays strong or improves.
 
----
 
 ### A private equity firm purchases bonds at 25 cents on the dollar from a company nearing bankruptcy. Which type of PE strategy does this scenario exemplify?
 - [ ] Venture capital
@@ -177,7 +175,6 @@ Private equity can bring excitement, complexity, and potentially substantial rew
 
 > **Explanation:** Purchasing discounted debt or equity in a troubled or bankrupt firm for potential turnaround gains is a hallmark of distressed investing.
 
----
 
 ### Which of the following best describes the J-curve effect in private equity performance?
 - [ ] A period of declining IRRs during the later years of the fund
@@ -187,7 +184,6 @@ Private equity can bring excitement, complexity, and potentially substantial rew
 
 > **Explanation:** PE funds often show negative returns in early years before capital is fully invested, with returns increasing after exits materialize.
 
----
 
 ### Which is generally TRUE regarding venture capital exits?
 - [x] IPO or sale to a larger firm are typical exit strategies
@@ -197,7 +193,6 @@ Private equity can bring excitement, complexity, and potentially substantial rew
 
 > **Explanation:** Venture capital exits are often achieved through public listings (IPOs) or acquisitions by a larger entity after the startup has matured.
 
----
 
 ### In a private equity fund, carried interest is typically:
 - [x] A share of the profits above a defined hurdle rate
@@ -207,7 +202,6 @@ Private equity can bring excitement, complexity, and potentially substantial rew
 
 > **Explanation:** “Carry” is performance-based compensation for the general partner, usually 20% of profits after meeting a preferred return or hurdle.
 
----
 
 ### During a buyout, which of the following operational improvements might a PE firm implement to drive value?
 - [x] Streamlining the product portfolio and cutting unprofitable lines
@@ -217,7 +211,6 @@ Private equity can bring excitement, complexity, and potentially substantial rew
 
 > **Explanation:** PE firms usually aim for efficiency and profitability, often by trimming non-core activities, investing in growth segments, and optimizing internal processes.
 
----
 
 ### Which statement is most accurate regarding risk factors in private equity?
 - [ ] Liquidity risk is minimal because shares can be sold easily
@@ -227,7 +220,6 @@ Private equity can bring excitement, complexity, and potentially substantial rew
 
 > **Explanation:** PE entails higher risk, chiefly illiquidity and the possibility of losing the entire investment, especially in early-stage or distressed situations.
 
----
 
 ### A cross-border buyout deal might involve additional complexities such as:
 - [ ] Guaranteed lower interest rates on loans
@@ -237,7 +229,6 @@ Private equity can bring excitement, complexity, and potentially substantial rew
 
 > **Explanation:** Currency volatility, varying regulations, and cultural differences can complicate cross-border PE transactions.
 
----
 
 ### True or False: A distressed fund’s primary strategy is typically to provide venture capital to seed-stage companies.
 - [ ] True

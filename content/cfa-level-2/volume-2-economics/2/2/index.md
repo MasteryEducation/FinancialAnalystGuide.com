@@ -207,7 +207,6 @@ In theory, you might see the forward premium around that difference if everythin
 
 > **Explanation:** According to interest rate parity, investors expect to be compensated for a currency's higher interest rate by a weaker future exchange rate (forward discount). This ensures no-arbitrage across markets.
 
----
 
 ### In a direct quote (home currency per 1 unit of foreign currency), which of the following describes a forward discount for the foreign currency?
 
@@ -218,7 +217,6 @@ In theory, you might see the forward premium around that difference if everythin
 
 > **Explanation:** A forward discount means the forward rate is lower than the spot rate, indicating the foreign currency is expected to weaken relative to the home currency.
 
----
 
 ### Suppose the spot rate is 1.1000 USD/EUR, and the 180-day forward rate is 1.1100 USD/EUR. Using a 360-day basis, what is the approximate annualized forward premium for EUR?
 
@@ -229,7 +227,6 @@ In theory, you might see the forward premium around that difference if everythin
 
 > **Explanation:** The difference is 1.1100 – 1.1000 = 0.0100. Divide by 1.1000 to get 0.00909 = 0.909%. Multiply by (360 / 180) = 2, yielding about 1.818%, which is then ~1.82%. Rounding differences aside, the best match is ~3.64% if you interpret the result in two steps: 0.909% is the 180-day figure, and annualizing doubles it to ~1.82%. Because options are tricky here, the question highlight might be to carefully interpret the difference. The best choice referencing “about 3.64%” is the annualized figure.  
 
----
 
 ### In the context of forward premiums and discounts, which statement best characterizes how day count convention can impact the calculation?
 
@@ -240,7 +237,6 @@ In theory, you might see the forward premium around that difference if everythin
 
 > **Explanation:** Among these options, the key idea is that 360 vs. 365 days can make a non-trivial difference in the annualized figure. Market participants are careful to specify which convention they are using.
 
----
 
 ### A currency is trading at a forward premium if:
 
@@ -251,7 +247,6 @@ In theory, you might see the forward premium around that difference if everythin
 
 > **Explanation:** A forward premium occurs when the forward rate is higher than the spot rate (for the same base currency perspective).
 
----
 
 ### If the annualized interest rate in Country A is 4% and in Country B is 1%, interest rate parity suggests:
 
@@ -262,7 +257,6 @@ In theory, you might see the forward premium around that difference if everythin
 
 > **Explanation:** The higher-interest-rate currency usually trades at a forward discount to ensure no-arbitrage conditions. If you earn more in interest, you should see a “weaker” forward rate so you don’t get double compensation.
 
----
 
 ### You see the following data in a vignette: Spot rate = 0.7500 CAD/USD, 90-day forward rate = 0.7450 CAD/USD, and a 360-day convention. Which of the following is correct regarding the forward discount/premium for USD vs. CAD?
 
@@ -273,7 +267,6 @@ In theory, you might see the forward premium around that difference if everythin
 
 > **Explanation:** A lower forward rate in direct quote (CAD per USD) means the USD is trading at a forward discount.  
 
----
 
 ### You calculate a forward premium of +2% for the Mexican peso (MXN) against the U.S. dollar (USD). However, the interest rate in Mexico is significantly higher than in the U.S. Which factor could explain this situation?
 
@@ -284,7 +277,6 @@ In theory, you might see the forward premium around that difference if everythin
 
 > **Explanation:** One plausible explanation for a discrepancy is that restrictions or high transaction costs are preventing free arbitrage, allowing a currency with higher rates to still show a forward premium.
 
----
 
 ### When an investor uses forward discounts/premiums for hedging:
 
@@ -295,7 +287,6 @@ In theory, you might see the forward premium around that difference if everythin
 
 > **Explanation:** A hedge removes the uncertainty of future exchange rates. The investor isn’t guaranteed a “better” rate—they’re guaranteed the forward rate, which inherently reflects interest rate differentials and market expectations.
 
----
 
 ### True or False: A currency with an expected high inflation rate typically also exhibits a forward discount if interest rate parity holds.
 

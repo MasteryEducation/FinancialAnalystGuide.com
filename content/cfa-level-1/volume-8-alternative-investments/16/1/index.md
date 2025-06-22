@@ -205,7 +205,6 @@ Digital assets and DeFi protocols are reshaping alternative investments, offerin
 
 > **Explanation:** Digital assets can be traded globally at any time and often allow fine fractional ownership, distinguishing them from traditional securities that generally have set trading hours and limited divisibility.
 
----
 
 ### In a typical Decentralized Finance (DeFi) lending protocol, the interest rates paid to lenders are primarily determined by:
 
@@ -216,7 +215,6 @@ Digital assets and DeFi protocols are reshaping alternative investments, offerin
 
 > **Explanation:** DeFi protocols typically use algorithms (smart contracts) to balance supply and demand, setting lending and borrowing rates dynamically without a central authority’s involvement.
 
----
 
 ### A DAO (Decentralized Autonomous Organization) most commonly does which of the following?
 
@@ -227,7 +225,6 @@ Digital assets and DeFi protocols are reshaping alternative investments, offerin
 
 > **Explanation:** DAOs allow token holders to propose and vote on protocol changes, effectively transferring governance power to the community rather than a single entity.
 
----
 
 ### Impermanent loss in a liquidity pool context is best described as:
 
@@ -238,7 +235,6 @@ Digital assets and DeFi protocols are reshaping alternative investments, offerin
 
 > **Explanation:** Impermanent loss is the difference between holding tokens in a liquidity pool versus simply holding them in a wallet. The loss is “impermanent” because it can reverse if prices move back to the initial ratio.
 
----
 
 ### Which of the following is a key advantage of using stablecoins in DeFi protocols?
 
@@ -249,7 +245,6 @@ Digital assets and DeFi protocols are reshaping alternative investments, offerin
 
 > **Explanation:** Stablecoins reduce volatility by pegging to fiat currencies, making them suitable as collateral in lending/borrowing, but they don’t fix code vulnerabilities or ensure full regulatory compliance.
 
----
 
 ### A primary regulatory concern about peer-to-peer DeFi transactions is:
 
@@ -260,7 +255,6 @@ Digital assets and DeFi protocols are reshaping alternative investments, offerin
 
 > **Explanation:** DeFi often bypasses centralized institutions, meaning KYC or AML checks can be lax or nonexistent, which raises concerns for regulators and compliance officers.
 
----
 
 ### What is one reason an institutional investor might conduct a code audit on a DeFi protocol?
 
@@ -271,7 +265,6 @@ Digital assets and DeFi protocols are reshaping alternative investments, offerin
 
 > **Explanation:** Code audits can uncover potential exploits in smart contracts. Investors who handle large sums of capital want these risks minimized before committing funds.
 
----
 
 ### Which of the following best captures the role of governance tokens in some DeFi ecosystems?
 
@@ -282,7 +275,6 @@ Digital assets and DeFi protocols are reshaping alternative investments, offerin
 
 > **Explanation:** Governance tokens grant voting rights, enabling decentralized decision-making in many DeFi protocols.
 
----
 
 ### For an alternative investment manager, a key benefit of incorporating DeFi strategies might be:
 
@@ -293,7 +285,6 @@ Digital assets and DeFi protocols are reshaping alternative investments, offerin
 
 > **Explanation:** DeFi can offer new yield opportunities with relatively low correlation to conventional assets, but it does not eliminate compliance obligations, nor does it guarantee protection from market volatility.
 
----
 
 ### True or False: Decentralized exchanges guarantee no risk of price slippage due to automated market makers.
 

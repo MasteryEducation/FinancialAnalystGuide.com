@@ -172,7 +172,6 @@ These topics often come up in scenario-based exam questions: expect to see vigne
 
 > **Explanation:** Local-currency bonds add currency exposure for international investors, so yields tend to be higher to compensate for that extra risk.
 
----
 
 ### An EM corporate bond typically cannot have a credit rating exceeding the rating of its sovereign. What is this concept called?
 
@@ -183,7 +182,6 @@ These topics often come up in scenario-based exam questions: expect to see vigne
 
 > **Explanation:** The sovereign ceiling means that a corporate entity usually cannot be rated above the government’s rating, reflecting the view that the government’s credit risk underpins the overall environment in which corporates operate.
 
----
 
 ### A foreign investor buys a local currency EM bond offering 8% yield. During the holding period, the EM currency depreciates by 5% against the investor’s base currency. Approximate total return in the investor’s base currency is:
 
@@ -194,7 +192,6 @@ These topics often come up in scenario-based exam questions: expect to see vigne
 
 > **Explanation:** Using the rough formula R_total ≈ (1 + 0.08)(1 – 0.05) – 1 = 1.08 × 0.95 – 1 ≈ 0.026, or 2.6%.
 
----
 
 ### Which of the following factors can significantly affect the liquidity of EM bonds during a global market sell-off?
 
@@ -205,7 +202,6 @@ These topics often come up in scenario-based exam questions: expect to see vigne
 
 > **Explanation:** In a risk-off environment, foreign investors may rapidly exit EM positions, leading to a lack of local buyers and reduced overall liquidity.
 
----
 
 ### Which statement is most accurate regarding EM sovereign vs. EM corporate debt?
 
@@ -216,7 +212,6 @@ These topics often come up in scenario-based exam questions: expect to see vigne
 
 > **Explanation:** EM corporate bondholders face the company’s credit risk plus the broader sovereign environment (e.g., sovereign rating could act as a ceiling).
 
----
 
 ### An EM central bank with limited foreign currency reserves is more likely to:
 
@@ -227,7 +222,6 @@ These topics often come up in scenario-based exam questions: expect to see vigne
 
 > **Explanation:** A shortage of reserves can prompt restrictive measures, such as capital controls, to protect the local currency.
 
----
 
 ### What is a key consideration for investors analyzing local currency EM bonds?
 
@@ -238,7 +232,6 @@ These topics often come up in scenario-based exam questions: expect to see vigne
 
 > **Explanation:** Investors should watch the exchange rate volatility and explore whether hedging instruments, such as cross-currency swaps, are available and cost-effective.
 
----
 
 ### Which of the following statements about capital controls is correct?
 
@@ -249,7 +242,6 @@ These topics often come up in scenario-based exam questions: expect to see vigne
 
 > **Explanation:** Capital controls can limit the ability of foreign investors to withdraw or reinvest funds, influencing liquidity and investment strategy.
 
----
 
 ### In analyzing an EM sovereign issuer, which factor would most likely NOT be a primary focus?
 
@@ -260,7 +252,6 @@ These topics often come up in scenario-based exam questions: expect to see vigne
 
 > **Explanation:** While a product pipeline might be relevant to corporate analysis, sovereign analysis centers on macro-level indicators such as reserves, deficits, and governance.
 
----
 
 ### True or False: Emerging market debt can help diversify a global portfolio, but currency and political risks can significantly impact realized returns.
 

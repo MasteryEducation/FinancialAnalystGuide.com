@@ -174,7 +174,6 @@ You might see an item set where a company’s bond indenture changes from unsecu
 
 > **Explanation:** Secured debt uses specific pledged assets to support repayment, giving bondholders a higher priority claim in default events.
 
----
 
 ### Which of the following is often cited as a key advantage of secured debt to investors?
 
@@ -185,7 +184,6 @@ You might see an item set where a company’s bond indenture changes from unsecu
 
 > **Explanation:** Although collateral does not remove all risk, it generally improves the chances of recovering principal if the issuer defaults.
 
----
 
 ### For unsecured bonds, which factor predominantly influences recovery prospects in a default?
 
@@ -196,7 +194,6 @@ You might see an item set where a company’s bond indenture changes from unsecu
 
 > **Explanation:** Unsecured bondholders rely on the issuer’s general credit profile and any residual enterprise value after secured creditors are paid.
 
----
 
 ### Which bond issuance commonly includes covenants prohibiting the sale or transfer of underlying collateral without lender approval?
 
@@ -207,7 +204,6 @@ You might see an item set where a company’s bond indenture changes from unsecu
 
 > **Explanation:** Secured bonds often incorporate covenants protecting the value of and access to pledged collateral.
 
----
 
 ### A negative pledge clause in an unsecured bond typically:
 
@@ -218,7 +214,6 @@ You might see an item set where a company’s bond indenture changes from unsecu
 
 > **Explanation:** A negative pledge clause helps ensure unsecured bondholders are not unfairly disadvantaged by future secured lenders.
 
----
 
 ### Subordinated debt differs from senior unsecured debt in that:
 
@@ -229,7 +224,6 @@ You might see an item set where a company’s bond indenture changes from unsecu
 
 > **Explanation:** Subordinated debt ranks behind senior unsecured debt, meaning they receive payment only after senior obligations are satisfied.
 
----
 
 ### If an issuer defaults on both secured and unsecured bonds, the secured bondholders generally:
 
@@ -240,7 +234,6 @@ You might see an item set where a company’s bond indenture changes from unsecu
 
 > **Explanation:** Secured holders have direct recourse to the pledged collateral, which can improve their recovery—though they still might end up short if the collateral value is insufficient.
 
----
 
 ### Which best describes the effect of collateral quality on yield spreads?
 
@@ -251,7 +244,6 @@ You might see an item set where a company’s bond indenture changes from unsecu
 
 > **Explanation:** The better the collateral, the lower the perceived credit risk, which usually narrows yield spreads.
 
----
 
 ### A floating charge implies that the pledged assets:
 
@@ -262,7 +254,6 @@ You might see an item set where a company’s bond indenture changes from unsecu
 
 > **Explanation:** A floating charge covers a changing pool of assets such as accounts receivable and inventory, which fluctuate over time.
 
----
 
 ### True or False: The presence of collateral eliminates default risk.
 

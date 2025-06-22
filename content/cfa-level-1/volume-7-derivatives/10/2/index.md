@@ -243,7 +243,6 @@ When applying the classic put–call parity formula to a European option on a no
 
 > **Explanation:** The standard put–call parity for European options on a non-dividend-paying stock requires discounting the strike price to present value, yielding the equation C – P = S – PV(K).
 
----
 
 ### Question 2
 An investor wants to create a synthetic position in the underlying asset by combining options. According to put–call parity, which combination will replicate a long stock position (ignoring dividends)?
@@ -255,7 +254,6 @@ An investor wants to create a synthetic position in the underlying asset by comb
 
 > **Explanation:** Synthetic long stock = Buy Call + Sell Put + Lend PV(K). At expiration, this position will match the payoff of simply being long the stock.
 
----
 
 ### Question 3
 Which of the following factors must be considered when adjusting the put–call parity for an underlying that pays discrete dividends?
@@ -267,7 +265,6 @@ Which of the following factors must be considered when adjusting the put–call 
 
 > **Explanation:** You subtract the present value of dividends from the spot price side (S – PV of Dividends) because the holder of the option does not receive dividends, whereas the stockholder does.
 
----
 
 ### Question 4
 Which statement about put–call forward parity is correct for European options?
@@ -279,7 +276,6 @@ Which statement about put–call forward parity is correct for European options?
 
 > **Explanation:** Put–call forward parity is similar to spot-based parity but replaces S with the forward price F₀,ₜ, adjusting for the time value of money over the life of the contract.
 
----
 
 ### Question 5
 A trader observes the following:  
@@ -297,7 +293,6 @@ Which statement best describes the market situation?
 
 > **Explanation:** Plug in the numbers: (C – P) = $2 while (S – PV(K)) = ($40 – $42) = –$2. There is a mismatch of $4, indicating possible arbitrage.
 
----
 
 ### Question 6
 A synthetic call position can be created by:
@@ -309,7 +304,6 @@ A synthetic call position can be created by:
 
 > **Explanation:** A synthetic call is typically Stock + Put – Bond( PV(K) ). The net payoff replicates a call option at maturity.
 
----
 
 ### Question 7
 At a 2% continuously compounded risk-free rate, a forward contract on a non-dividend-paying stock is priced at $105 for delivery in 1 year. The strike price on a forward-based call/put is $100. If the forward call trades at $7, what is the approximate forward put price?
@@ -335,7 +329,6 @@ Which of the following is NOT likely to cause real-world deviations from textboo
 
 > **Explanation:** The first three are real market frictions that can cause small deviations from put–call parity. Standardization usually helps liquidity and does not typically cause persistent deviations.
 
----
 
 ### Question 9
 In the context of American-style options on a non-dividend-paying stock:
@@ -347,7 +340,6 @@ In the context of American-style options on a non-dividend-paying stock:
 
 > **Explanation:** American-style options can be exercised early, which introduces additional factors not captured by the simple European put–call parity equality.
 
----
 
 ### Question 10
 True or False: Put–call parity helps traders construct synthetic positions and detect mispricings, ensuring that market prices converge to no-arbitrage levels.

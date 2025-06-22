@@ -148,7 +148,6 @@ A well-calibrated approach to payouts—balancing the firm’s strategic needs, 
 
 > **Explanation:** An increase in dividend payout often signals confidence and reduces some investors’ perceived risk, potentially putting downward pressure on required returns. However, if the firm retains less cash, it may increase leverage when seeking additional financing, which can raise the cost of equity.
 
----
 
 ### Under Modigliani–Miller propositions (without taxes), which statement aligns with theoretical expectations for payout policy?
 
@@ -159,7 +158,6 @@ A well-calibrated approach to payouts—balancing the firm’s strategic needs, 
 
 > **Explanation:** In a perfect market without taxes or frictions, Modigliani–Miller predicts that payout policy has no effect on firm value or the WACC. Real-world factors such as taxes, agency costs, and market signals can, however, alter outcomes.
 
----
 
 ### A firm consistently uses large share repurchases financed with debt. Which of the following is a likely long-term effect on the firm’s cost of equity?
 
@@ -170,7 +168,6 @@ A well-calibrated approach to payouts—balancing the firm’s strategic needs, 
 
 > **Explanation:** If the repurchases are debt-funded, leverage increases. Higher leverage raises equity risk, thus increasing Beta and cost of equity.
 
----
 
 ### When a firm repurchases shares using only excess cash (no new debt), which outcome is most likely?
 
@@ -181,7 +178,6 @@ A well-calibrated approach to payouts—balancing the firm’s strategic needs, 
 
 > **Explanation:** Using excess cash for a buyback does not directly raise debt, so the total equity falls while debt remains the same. This can reduce the leverage ratio if the proportion of debt relative to equity remains stable or decreases slightly, though the final effect depends on the market response.
 
----
 
 ### Which factor commonly influences how a higher dividend payout changes the firm’s capital structure?
 
@@ -192,7 +188,6 @@ A well-calibrated approach to payouts—balancing the firm’s strategic needs, 
 
 > **Explanation:** Paying out more in dividends means the firm retains less cash, so it may rely on more external financing (debt or equity issuance) for future growth. This reliance on external capital can affect leverage.
 
----
 
 ### If market conditions lead to higher global interest rates, what might be the impact on debt-funded repurchases?
 
@@ -203,7 +198,6 @@ A well-calibrated approach to payouts—balancing the firm’s strategic needs, 
 
 > **Explanation:** Higher interest rates increase the cost of borrowing. That makes debt-funded repurchases more expensive, potentially raising WACC and reducing the attractiveness of the buyback strategy.
 
----
 
 ### Which statement highlights an agency cost rationale for higher shareholder payouts?
 
@@ -214,7 +208,6 @@ A well-calibrated approach to payouts—balancing the firm’s strategic needs, 
 
 > **Explanation:** By returning surplus cash to shareholders, the firm reduces the potential for managers to allocate resources to suboptimal or non-value-adding projects, addressing some agency cost issues.
 
----
 
 ### A partial share repurchase financed 50% by new debt is likely to:
 
@@ -225,7 +218,6 @@ A well-calibrated approach to payouts—balancing the firm’s strategic needs, 
 
 > **Explanation:** New debt used to buy back shares instantly increases financial leverage, which can trigger a higher risk perception and a possible credit rating downgrade, raising the firm’s cost of debt.
 
----
 
 ### Which of the following is a typical reason firms might prefer share repurchases rather than dividends?
 
@@ -236,7 +228,6 @@ A well-calibrated approach to payouts—balancing the firm’s strategic needs, 
 
 > **Explanation:** Firms often use share buybacks to signal undervaluation and to provide a tax-advantaged return for shareholders who prefer capital gains over dividends.  
 
----
 
 ### In assessing how payouts affect the firm’s Beta, which statement is most accurate?
 

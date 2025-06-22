@@ -226,7 +226,6 @@ Happy modeling, and best of luck with your studies!
 
 > **Explanation:** A regime‑switching approach allows for entirely different parameter sets in each regime, enabling it to capture bull/bear transitions and other abrupt changes.
 
----
 
 ### When applying a Markov switching model, what is the typical property of the transition probabilities?
 
@@ -237,7 +236,6 @@ Happy modeling, and best of luck with your studies!
 
 > **Explanation:** By definition, a Markov chain has the memoryless property—transition probabilities depend on the current state only.
 
----
 
 ### Which of the following is a common algorithm used for estimating regime‑switching models with unobserved states?
 
@@ -248,7 +246,6 @@ Happy modeling, and best of luck with your studies!
 
 > **Explanation:** Because the regimes are hidden or latent, the EM algorithm is commonly used to iteratively estimate regime‑switching models.
 
----
 
 ### Which statement best captures an advantage of regime‑switching models over single‑regime ARIMA models?
 
@@ -259,7 +256,6 @@ Happy modeling, and best of luck with your studies!
 
 > **Explanation:** Regime‑switching models shine when abrupt changes in the series are likely; single‑regime models struggle with sharp shifts.
 
----
 
 ### A two-state regime‑switching model uses transition probabilities p11 and p22. Which of the following holds by definition?
 
@@ -270,7 +266,6 @@ Happy modeling, and best of luck with your studies!
 
 > **Explanation:** By definition in a two-state Markov chain, each row of the transition matrix sums to 1.
 
----
 
 ### In time‑series analysis, a “crisis regime” often implies:
 
@@ -281,7 +276,6 @@ Happy modeling, and best of luck with your studies!
 
 > **Explanation:** Crisis regimes are typically associated with more volatility, which is a key reason to model them distinctly.
 
----
 
 ### Suppose your estimated regime‑switching model identifies a “high‑volatility regime” only 1% of the time, yet it doesn’t align with known recessions or crisis periods. What is the most likely conclusion?
 
@@ -292,7 +286,6 @@ Happy modeling, and best of luck with your studies!
 
 > **Explanation:** If a regime is predicted rarely and doesn’t match real-world events, it may be an artifact of overfitting or poor model structure.
 
----
 
 ### Which approach is commonly used to select the number of regimes in a regime‑switching model?
 
@@ -303,7 +296,6 @@ Happy modeling, and best of luck with your studies!
 
 > **Explanation:** Information criteria (e.g., AIC/BIC) are standard for balancing model fit and complexity when deciding the number of regimes.
 
----
 
 ### Which statement below is true about regime‑switching transition probabilities under a Markov assumption?
 
@@ -314,7 +306,6 @@ Happy modeling, and best of luck with your studies!
 
 > **Explanation:** A Markov chain’s memoryless property mandates that next‑period state probabilities depend only on the current state, not the entire past sequence.
 
----
 
 ### Regime‑switching models provide better forecasts for time‑series when they:
 

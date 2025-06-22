@@ -212,7 +212,6 @@ Be ready for practice questions that ask you to compute FCFE given a few financi
 
 > **Explanation:** FCFE is the cash that remains after funding operations, paying expenses, dealing with required reinvestments (CapEx, working capital), and meeting debt obligations (including net borrowing).
 
----
 
 ### An analyst wants to use a single-stage FCFE model. She projects the FCFE next year to be \$5 million, assumes a required return on equity of 10%, and a constant growth rate of 4%. Which formula correctly represents the value today?
 
@@ -223,7 +222,6 @@ Be ready for practice questions that ask you to compute FCFE given a few financi
 
 > **Explanation:** The single-stage FCFE model is FCFE₁ / (r - g). Here FCFE₁ = \$5m, r = 10%, g = 4%, so V₀ = 5 ÷ (0.10 - 0.04) = \$83.33m.
 
----
 
 ### The term “Net Borrowing” in the FCFE formula is generally defined as:
 
@@ -234,7 +232,6 @@ Be ready for practice questions that ask you to compute FCFE given a few financi
 
 > **Explanation:** Net borrowing is the incremental cash flow from taking on new debt and paying back existing debt. It's added to net income (adjusted for non-cash items, capital expenditures, and working capital changes) to arrive at FCFE.
 
----
 
 ### If a firm’s debt-to-equity ratio is expected to increase over the coming years, what is the most likely impact on FCFE, all else being equal?
 
@@ -245,7 +242,6 @@ Be ready for practice questions that ask you to compute FCFE given a few financi
 
 > **Explanation:** Greater borrowing typically provides more cash inflows (as long as the firm is issuing more debt than repaying), thus boosting FCFE.
 
----
 
 ### Which of the following is NOT a typical reason to prefer an FCFE model over a Dividend Discount Model (DDM)?
 
@@ -256,7 +252,6 @@ Be ready for practice questions that ask you to compute FCFE given a few financi
 
 > **Explanation:** Low capex doesn’t automatically favor FCFE over DDM. Sometimes a stable dividend payer with low CapEx requirements can be valued well using DDM. FCFE is often preferred for companies that pay no or minimal dividends because it captures the cash that could be returned to shareholders even if it is not distributed.
 
----
 
 ### In a two-stage FCFE model, you typically need to estimate:
 
@@ -267,7 +262,6 @@ Be ready for practice questions that ask you to compute FCFE given a few financi
 
 > **Explanation:** A two-stage FCFE model requires projecting specific FCFE amounts during the initial (high-growth) phase, plus a terminal value calculated at the transition to stable growth.
 
----
 
 ### If the cost of equity (r) used in an FCFE model is too high, you will most likely:
 
@@ -278,7 +272,6 @@ Be ready for practice questions that ask you to compute FCFE given a few financi
 
 > **Explanation:** The discount rate has an inverse relationship to present value. A higher discount rate compresses the present value of future FCFE, leading to a lower valuation.
 
----
 
 ### A firm has a Net Income of \$80 million, non-cash charges of \$10 million, capital expenditures of \$20 million, an increase in working capital of \$5 million, and net borrowing of \$4 million. Calculate FCFE.
 
@@ -289,7 +282,6 @@ Be ready for practice questions that ask you to compute FCFE given a few financi
 
 > **Explanation:** FCFE = 80 + 10 - 20 - 5 + 4 = \$69 million.
 
----
 
 ### One of the main advantages of using FCFE models is:
 
@@ -300,7 +292,6 @@ Be ready for practice questions that ask you to compute FCFE given a few financi
 
 > **Explanation:** FCFE models are useful because they focus on the actual cash flows that can be returned to equity owners.
 
----
 
 ### True or False: In a multi-stage FCFE valuation, the terminal value should be discounted back to today at the cost of debt.
 

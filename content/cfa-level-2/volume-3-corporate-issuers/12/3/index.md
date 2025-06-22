@@ -191,7 +191,6 @@ This visual approach can help you remember to systematically parse the entire sc
 
 > **Explanation:** Timing is everything for the CFA exam. Practicing under test-like time pressure helps you manage each question deliberately and reduces the risk of running short of time.
 
----
 
 ### 2. A company has $400 million in total capital, split evenly between debt and equity. Pre-tax cost of debt is 7%, required return on equity is 11%, and the marginal tax rate is 25%. What is the firm’s WACC?
 
@@ -230,7 +229,6 @@ This visual approach can help you remember to systematically parse the entire sc
 
 > **Explanation:** Governance guidelines that boost board oversight align corporate decisions (including debt and equity issuance) with long-term shareholder value.
 
----
 
 ### 5. A firm is deciding between a share repurchase and a dividend initiation. The CFO is primarily worried about the potential signals to the market. Which concept best describes this concern?
 
@@ -241,7 +239,6 @@ This visual approach can help you remember to systematically parse the entire sc
 
 > **Explanation:** Corporate actions like dividends or share repurchases can signal management’s outlook on a company’s future. This is the essence of signaling theory in capital markets.
 
----
 
 ### 6. When preparing a mock item set that tests both capital budgeting and corporate restructuring, which subtopic is least likely to be relevant?
 
@@ -252,7 +249,6 @@ This visual approach can help you remember to systematically parse the entire sc
 
 > **Explanation:** Technical analysis of stock price trends is more typical in market analysis, not corporate issuers. Items about cost of capital, synergy, or real options are central to Corporate Issuers.
 
----
 
 ### 7. A candidate often misreads footnotes in the Corporate Issuers vignettes. What is the recommended best practice to overcome this challenge?
 
@@ -263,7 +259,6 @@ This visual approach can help you remember to systematically parse the entire sc
 
 > **Explanation:** Footnotes often contain crucial assumptions or clarifications. Best practice is to systematically highlight or annotate them on your first pass.
 
----
 
 ### 8. Company X is considering issuing new debt to fund a share buyback. If WACC decreases as a result, this is primarily due to:
 
@@ -274,7 +269,6 @@ This visual approach can help you remember to systematically parse the entire sc
 
 > **Explanation:** Introducing more debt (if cheaper than equity and tax benefits exist) can reduce WACC, provided the firm does not take on excessive financial risk that would raise the cost of debt.
 
----
 
 ### 9. Which of the following best characterizes a “debrief” after a mock exam session?
 
@@ -285,7 +279,6 @@ This visual approach can help you remember to systematically parse the entire sc
 
 > **Explanation:** A debrief is a structured, thorough post-exam review that focuses on why errors were made, ensuring they are corrected before the real exam.
 
----
 
 ### 10. True or False: Incorporating ESG factors into a firm’s payout policy decisions can impact both the firm’s reputation and cost of capital.
 

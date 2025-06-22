@@ -171,7 +171,6 @@ This approach helps you sidestep confusion and ensures your answers are well-sup
 
 > **Explanation:** Corporate governance guidelines usually recommend that the board be composed of a majority of independent directors to ensure objective decision-making. Combining the CEO and Chair roles is widely seen as a weaker governance structure.
 
----
 
 ### A whistleblower policy is most effective when:
 
@@ -182,7 +181,6 @@ This approach helps you sidestep confusion and ensures your answers are well-sup
 
 > **Explanation:** Proper whistleblower policies direct complaints to an independent committee (often the audit committee) so that conflicts of interest are minimized and reports are handled transparently.
 
----
 
 ### An activist investor is pushing for more independent committee membership. Which statement best describes why this might enhance long-term shareholder value?
 
@@ -193,7 +191,6 @@ This approach helps you sidestep confusion and ensures your answers are well-sup
 
 > **Explanation:** Greater committee independence promotes objective oversight of management, helps identify risk early, and can address potential conflicts of interest—vital factors that improve long-term value.
 
----
 
 ### Which of the following is a red flag in evaluating the Compensation Committee’s independence?
 
@@ -204,7 +201,6 @@ This approach helps you sidestep confusion and ensures your answers are well-sup
 
 > **Explanation:** Receiving perks or gifts from the CEO often creates a conflict of interest and compromises the ability of the committee chair to evaluate compensation fairly.
 
----
 
 ### ESG metrics in executive KPIs typically benefit shareholders by:
 
@@ -215,7 +211,6 @@ This approach helps you sidestep confusion and ensures your answers are well-sup
 
 > **Explanation:** Integrating ESG criteria into executive pay drives managers to consider environmental, social, and governance impacts, which often leads to more sustainable and strategic decision-making.
 
----
 
 ### A material weakness flagged by external auditors that remains unaddressed likely indicates:
 
@@ -226,7 +221,6 @@ This approach helps you sidestep confusion and ensures your answers are well-sup
 
 > **Explanation:** If a material weakness is not corrected in a timely manner, it signals serious deficiencies in internal controls and board/committee oversight. It increases the risk of misstatements and potential regulatory scrutiny.
 
----
 
 ### Which of the following best defines fiduciary duties in corporate governance?
 
@@ -237,7 +231,6 @@ This approach helps you sidestep confusion and ensures your answers are well-sup
 
 > **Explanation:** Fiduciary duties obligate directors and executives to place shareholder interests above personal or insider priorities. It’s a cornerstone concept in corporate governance.
 
----
 
 ### If a firm frequently fails to respond to whistleblower complaints and internal audit findings, it may:
 
@@ -248,7 +241,6 @@ This approach helps you sidestep confusion and ensures your answers are well-sup
 
 > **Explanation:** Ignoring whistleblower alerts can lead to unchecked misconduct, and eventually, lawsuits or regulatory sanctions—often harming a company’s reputation and market valuation.
 
----
 
 ### What is a typical reason an institutional investor might initiate a proxy fight?
 
@@ -259,7 +251,6 @@ This approach helps you sidestep confusion and ensures your answers are well-sup
 
 > **Explanation:** Investors generally launch a proxy fight to replace a board they see as failing to uphold shareholder value or lacking proper oversight, hoping that a new board will introduce better governance practices.
 
----
 
 ### True or False: Tying ESG performance goals to executive compensation can help mitigate conflicts of interest in a board with mixed independence.
 

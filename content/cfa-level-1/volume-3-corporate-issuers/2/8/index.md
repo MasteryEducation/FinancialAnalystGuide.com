@@ -195,7 +195,6 @@ Putting it all together: Focus on the interplay between organizational objective
 
 > **Explanation:** Fiduciary duty compels institutional investors to prioritize the interests of those who entrust them with capital, such as pensioners or policyholders.
 
----
 
 ### Which type of institutional investor usually has the longest investment horizon?
 
@@ -206,7 +205,6 @@ Putting it all together: Focus on the interplay between organizational objective
 
 > **Explanation:** Pension funds require stable, long-term returns to meet future liabilities, often spanning decades.
 
----
 
 ### A stewardship code primarily outlines:
 
@@ -217,7 +215,6 @@ Putting it all together: Focus on the interplay between organizational objective
 
 > **Explanation:** Stewardship codes establish guidelines to ensure institutional investors exercise their rights responsibly and engage with companies effectively.
 
----
 
 ### Which of the following is a potential benefit of coordinated investor engagement?
 
@@ -228,7 +225,6 @@ Putting it all together: Focus on the interplay between organizational objective
 
 > **Explanation:** When investors band together, they amplify their message, often achieving more significant governance changes than they could individually.
 
----
 
 ### Hedge funds are often characterized by:
 
@@ -239,7 +235,6 @@ Putting it all together: Focus on the interplay between organizational objective
 
 > **Explanation:** Hedge funds typically follow diverse, sometimes high-risk strategies and can actively engage in shaping corporate actions.
 
----
 
 ### Why might a life insurance company hold a portfolio of long-term bonds?
 
@@ -250,7 +245,6 @@ Putting it all together: Focus on the interplay between organizational objective
 
 > **Explanation:** Insurers must align the maturity structure of their assets with their liability profiles, ensuring they can meet long-term claims.
 
----
 
 ### Which of the following best describes proxy voting for mutual funds?
 
@@ -261,7 +255,6 @@ Putting it all together: Focus on the interplay between organizational objective
 
 > **Explanation:** Mutual funds vote the shares they hold for investors, influencing corporate governance decisions according to the fund’s policies.
 
----
 
 ### One key difference between long-term and short-term institutional investors is:
 
@@ -272,7 +265,6 @@ Putting it all together: Focus on the interplay between organizational objective
 
 > **Explanation:** Short-term investors, such as certain hedge funds, often look for immediate catalysts, while pension funds are typically planning for multi-decade returns.
 
----
 
 ### A sovereign wealth fund typically:
 
@@ -283,7 +275,6 @@ Putting it all together: Focus on the interplay between organizational objective
 
 > **Explanation:** Sovereign wealth funds manage a country’s excess reserves, often seeking intergenerational wealth preservation.
 
----
 
 ### True or False: Institutional investors can influence executive compensation by exercising shareholder voting rights.
 

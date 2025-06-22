@@ -242,7 +242,6 @@ What is the estimated synergy value?
 
 > **Explanation:** Synergy = V(A + B) − (V(A) + V(B)) = 580 − (300 + 250) = $30 million.
 
----
 
 ### An analyst wants to present a synergy forecast by adding incremental revenue and cost savings directly into the combined financials, instead of as a separate line. Which of the following best describes a potential pitfall of this approach?
 
@@ -253,7 +252,6 @@ What is the estimated synergy value?
 
 > **Explanation:** When synergy is combined into the standard forecast, stakeholders may lose track of how much synergy is actually embedded. This reduces clarity, making it difficult to challenge assumptions or stress-test synergy independently.
 
----
 
 ### Which of the following is generally considered the easiest synergy component to realize?
 
@@ -264,7 +262,6 @@ What is the estimated synergy value?
 
 > **Explanation:** Cost synergies (e.g., facility closures, headcount cuts) are usually more straightforward than revenue synergies, which require market acceptance, brand expansion, or product integration.
 
----
 
 ### In a DCF model for synergy valuation, which of the following changes typically increases the NPV of synergy?
 
@@ -275,7 +272,6 @@ What is the estimated synergy value?
 
 > **Explanation:** A lower discount rate will increase the present value of future synergy cash flows, thereby increasing synergy’s NPV.
 
----
 
 ### An analyst is testing synergy assumptions by varying the discount rate from 8% to 12% and the synergy growth rate from 2% to 4%. What type of analysis is this?
 
@@ -286,7 +282,6 @@ What is the estimated synergy value?
 
 > **Explanation:** Sensitivity analysis isolates the impact of changing one—or in some cases two—key variables at a time, showing how valuation responds to small shifts in assumptions.
 
----
 
 ### In synergy modeling, if you attempt to measure cost savings realization under multiple macroeconomic outcomes and competitor responses, each with assigned probabilities, you’re performing:
 
@@ -297,7 +292,6 @@ What is the estimated synergy value?
 
 > **Explanation:** Scenario analysis typically involves defining distinct future states (e.g., "recession," "base," "boom") and evaluating synergy under each scenario, often with assigned probabilities.
 
----
 
 ### A synergy’s present value is found to be negative based on realistic assumptions. Which of the following statements is most accurate?
 
@@ -308,7 +302,6 @@ What is the estimated synergy value?
 
 > **Explanation:** If synergy is negative, it may indicate that acquisition costs, integration expenses, or other negative factors outweigh any projected benefits. This suggests the merger might be overpriced or synergy has been overestimated.
 
----
 
 ### A firm wants to ensure it captures the full distribution of potential synergy values rather than just a few discrete sets of assumptions. Which method is most appropriate?
 
@@ -319,7 +312,6 @@ What is the estimated synergy value?
 
 > **Explanation:** Monte Carlo simulation randomly generates a multitude of possible synergy outcomes based on specified probability distributions, producing a comprehensive synergy distribution.
 
----
 
 ### Which of the following might reduce synergy forecasts the most for a high-tech merger?
 
@@ -330,7 +322,6 @@ What is the estimated synergy value?
 
 > **Explanation:** In technology-focused mergers, IT integration costs can be huge and potentially overshadow planned cost savings or revenue synergy.
 
----
 
 ### True or False: When calculating synergy, it is recommended to use the acquiring firm’s discount rate for all synergy cash flows, regardless of the deal structure.
 

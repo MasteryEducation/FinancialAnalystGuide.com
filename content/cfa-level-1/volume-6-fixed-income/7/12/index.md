@@ -162,7 +162,6 @@ where \\( L \\) represents the maturity length, \\( \alpha(L) \\) captures local
 
 > **Explanation:** Segmented Markets Theory highlights that different investor clienteles often stick to specific maturity ranges, making each segment partly autonomous in its supply-demand dynamics.
 
----
 
 ### Which of the following clienteles is most likely to heavily invest in very long-term bonds for liability matching?
 
@@ -173,7 +172,6 @@ where \\( L \\) represents the maturity length, \\( \alpha(L) \\) captures local
 
 > **Explanation:** Pension funds and life insurance companies hold long-duration liabilities and thus favor long-term bonds to reduce mismatch risk.
 
----
 
 ### In Preferred Habitat Theory, investors:
 
@@ -184,7 +182,6 @@ where \\( L \\) represents the maturity length, \\( \alpha(L) \\) captures local
 
 > **Explanation:** Preferred Habitat Theory says investors are open to exploring maturities outside their usual zone if yield spreads or specific market conditions justify the added risk or mismatch.
 
----
 
 ### Which of the following best describes a “clientele effect” in fixed-income markets?
 
@@ -195,7 +192,6 @@ where \\( L \\) represents the maturity length, \\( \alpha(L) \\) captures local
 
 > **Explanation:** The clientele effect arises when certain investors segment themselves by maturity ranges, each group driven by distinct objectives and constraints.
 
----
 
 ### If a central bank were to purchase only long-dated bonds in its quantitative easing program, how might that influence the yield curve?
 
@@ -206,7 +202,6 @@ where \\( L \\) represents the maturity length, \\( \alpha(L) \\) captures local
 
 > **Explanation:** Targeted purchases of long-dated securities reduce supply in that segment, pushing down yields there and potentially flattening or even inverting the yield curve relative to shorter maturities.
 
----
 
 ### How might segmented markets theory explain unexpected yield curve shapes during periods of regulatory change?
 
@@ -217,7 +212,6 @@ where \\( L \\) represents the maturity length, \\( \alpha(L) \\) captures local
 
 > **Explanation:** Regulatory changes can alter the constraints on certain investors, forcing them to change portfolios and potentially creating distortions in specific yield curve segments.
 
----
 
 ### Which of the following statements about real-world segmentation is most accurate?
 
@@ -228,7 +222,6 @@ where \\( L \\) represents the maturity length, \\( \alpha(L) \\) captures local
 
 > **Explanation:** While segmentation exists, it is not absolute. Investors may cross segments if yield differentials become compelling enough, consistent with Preferred Habitat Theory.
 
----
 
 ### A pension fund with a significantly underfunded status is most likely to:
 
@@ -239,7 +232,6 @@ where \\( L \\) represents the maturity length, \\( \alpha(L) \\) captures local
 
 > **Explanation:** Underfunded pension schemes often increase long-duration bond holdings to provide better asset-liability matching, especially when regulations mandate heightened solvency ratios.
 
----
 
 ### Which scenario best reflects a supply-demand imbalance within a particular maturity segment?
 
@@ -250,7 +242,6 @@ where \\( L \\) represents the maturity length, \\( \alpha(L) \\) captures local
 
 > **Explanation:** A mismatch in issuance (supply) and the preferences of dominant clienteles (demand) in one maturity bucket can drive yields away from expected levels based on purely macroeconomic factors.
 
----
 
 ### True or False: Segmented Markets Theory assumes that the yield curve is determined solely by investors shifting freely among all maturities for maximum return.
 

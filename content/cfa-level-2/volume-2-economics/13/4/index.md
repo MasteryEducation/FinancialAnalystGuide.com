@@ -147,7 +147,6 @@ flowchart TB
 
 > **Explanation:** The REER is the **nominal effective exchange rate** weighted by trade shares and then adjusted for relative inflation or cost levels among trading partners.
 
----
 
 ### An increase in a country’s REER most commonly implies:
 
@@ -158,7 +157,6 @@ flowchart TB
 
 > **Explanation:** A higher REER typically indicates that domestic goods are more expensive to foreign consumers compared to before, which can weaken export competitiveness.
 
----
 
 ### When calculating the nominal effective exchange rate (NEER), trade weights typically:
 
@@ -169,7 +167,6 @@ flowchart TB
 
 > **Explanation:** NEER is a weighted average of bilateral exchange rates, where the weight is based on the trade share with each partner.
 
----
 
 ### If domestic inflation is higher than foreign inflation, holding the nominal exchange rate constant, the REER will likely:
 
@@ -180,7 +177,6 @@ flowchart TB
 
 > **Explanation:** Higher domestic inflation, all else equal, means domestic prices rise faster than abroad, increasing the REER.
 
----
 
 ### Which factor is typically NOT considered in calculating a traditional REER index?
 
@@ -191,7 +187,6 @@ flowchart TB
 
 > **Explanation:** A standard REER index uses bilateral exchange rates, relative price indices, and trade weights. Labor union membership is not part of the direct calculation (although it can influence wage costs indirectly).
 
----
 
 ### A “strong” REER reading relative to historical averages might suggest:
 
@@ -202,7 +197,6 @@ flowchart TB
 
 > **Explanation:** A strong or relatively high REER can imply overvaluation. This might hurt exports, as goods become pricier in world markets.
 
----
 
 ### An example of internal devaluation might be:
 
@@ -213,7 +207,6 @@ flowchart TB
 
 > **Explanation:** Internal devaluation involves reducing domestic costs (like wages) to improve competitiveness rather than adjusting the nominal exchange rate.
 
----
 
 ### Vignette data show that Country X’s REER has gone up steadily for eight quarters while its productivity remains flat. Which of the following is most likely?
 
@@ -224,7 +217,6 @@ flowchart TB
 
 > **Explanation:** If REER is rising while productivity is stagnant, domestic goods are likely becoming less cost-competitive in global markets.
 
----
 
 ### Which of the following is a key risk when policymakers attempt external devaluation?
 
@@ -235,7 +227,6 @@ flowchart TB
 
 > **Explanation:** Weakening the currency via external devaluation can push up import costs, fueling inflationary pressures.
 
----
 
 ### True or False: A higher REER always indicates a healthier economy.
 

@@ -178,7 +178,6 @@ Remember to pay attention to the subtle details in vignettes regarding who’s l
 
 > **Explanation:** Mezzanine financing often blends debt and equity features and is commonly used just before an IPO to improve the company’s financial position and ensure adequate funding for expansion.
 
----
 
 ### When pricing pre-IPO equity, investors commonly:
 - [x] Apply an illiquidity discount to reflect not-yet-public shares.
@@ -188,7 +187,6 @@ Remember to pay attention to the subtle details in vignettes regarding who’s l
 
 > **Explanation:** Pre-IPO investors often reference comparable publicly traded firms to estimate valuation, then apply an illiquidity discount and other adjustments (e.g., if an IPO might be delayed).
 
----
 
 ### Which characteristic distinguishes a carve-out from a spin-off?
 - [x] The parent sells a minority stake in the subsidiary through an IPO.
@@ -198,7 +196,6 @@ Remember to pay attention to the subtle details in vignettes regarding who’s l
 
 > **Explanation:** In a carve-out, the parent company offers a portion of its subsidiary to the public in an IPO; by contrast, spin-offs distribute the subsidiary’s shares directly to existing shareholders, with no public share sale.
 
----
 
 ### A carve-out typically results in:
 - [ ] Loss of corporate governance by the parent.
@@ -208,7 +205,6 @@ Remember to pay attention to the subtle details in vignettes regarding who’s l
 
 > **Explanation:** The parent usually retains majority ownership in the carved-out entity but sells a minority part in an IPO, thus raising capital while preserving control.
 
----
 
 ### In a pre-IPO equity deal, if the starting valuation from comparables is $100 million, an investor might demand:
 - [ ] A 30% increase in valuation to reflect future growth.
@@ -218,7 +214,6 @@ Remember to pay attention to the subtle details in vignettes regarding who’s l
 
 > **Explanation:** Pre-IPO valuations often undergo an illiquidity discount, lowering the final investment valuation from publicly referenced figures.
 
----
 
 ### When analyzing a subsidiary’s carve-out, exam candidates should pay considerable attention to:
 - [x] Pro forma financial statements.
@@ -228,7 +223,6 @@ Remember to pay attention to the subtle details in vignettes regarding who’s l
 
 > **Explanation:** Pro forma statements illustrate the subsidiary as a stand-alone firm, enabling investors (and exam graders) to understand the economics post-carve-out.
 
----
 
 ### Which of the following is true about lock-up periods in carve-outs?
 - [x] They restrict insiders from selling shares for a set timeframe post-IPO.
@@ -238,7 +232,6 @@ Remember to pay attention to the subtle details in vignettes regarding who’s l
 
 > **Explanation:** The lock-up period is a contractual restriction that prevents insiders (including the parent) from dumping shares immediately, helping to stabilize the stock price.
 
----
 
 ### A pre-IPO funding arrangement that involves convertible debt and warrants is known as:
 - [ ] Preferred equity arrangement.
@@ -248,7 +241,6 @@ Remember to pay attention to the subtle details in vignettes regarding who’s l
 
 > **Explanation:** Mezzanine financing often features subordinated debt instruments with attached warrants or conversion features, bridging the gap between prior equity rounds and an IPO.
 
----
 
 ### One major difference between a carve-out IPO and a spin-off distribution is:
 - [ ] Spin-offs typically raise more capital than carve-outs.
@@ -258,7 +250,6 @@ Remember to pay attention to the subtle details in vignettes regarding who’s l
 
 > **Explanation:** A carve-out involves selling shares to the public in exchange for capital. A spin-off generally does not raise new capital; existing parent-company shareholders receive the subsidiary’s shares pro rata.
 
----
 
 ### True or False: In a carve-out, the parent always loses majority control of the subsidiary immediately after the IPO.
 - [x] True

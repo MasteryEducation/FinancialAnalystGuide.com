@@ -127,7 +127,6 @@ Corporate, municipal, and sovereign credit analysis isn’t just about crunching
 
 > **Explanation:** While spreads and market conditions matter, the fundamental question is whether the issuer can meet its debt obligations through consistent cash flow.
 
----
 
 ### A Revenue Bond issued by a municipality is primarily backed by:
 - [ ] The issuing government’s full taxing power
@@ -137,7 +136,6 @@ Corporate, municipal, and sovereign credit analysis isn’t just about crunching
 
 > **Explanation:** Revenue bonds rely on a distinct revenue stream associated with a project or service, unlike General Obligation bonds.
 
----
 
 ### Which factor is most likely to differentiate municipal credit analysis from corporate credit analysis?
 - [ ] The analysis of operating margins
@@ -147,7 +145,6 @@ Corporate, municipal, and sovereign credit analysis isn’t just about crunching
 
 > **Explanation:** Municipal bonds focus more on the local economy, demographics, and legal frameworks for raising revenue, whereas corporate bonds focus on company-level operating metrics and management practices.
 
----
 
 ### What distinguishes sovereign debt from most other types of debt?
 - [ ] Sovereigns have a finite supply of tax revenue
@@ -157,7 +154,6 @@ Corporate, municipal, and sovereign credit analysis isn’t just about crunching
 
 > **Explanation:** Sovereigns are unique because they typically have no external enforcement mechanism preventing default, though reputational and economic repercussions can be significant.
 
----
 
 ### Debt/EBITDA and EBITDA/Interest Expense are examples of:
 - [ ] Government funding ratios
@@ -167,7 +163,6 @@ Corporate, municipal, and sovereign credit analysis isn’t just about crunching
 
 > **Explanation:** These ratios are standard corporate credit tools to gauge leverage and coverage.
 
----
 
 ### If a sovereign nation's debt is primarily denominated in a foreign currency:
 - [x] The sovereign faces heightened default risk if its currency depreciates
@@ -177,7 +172,6 @@ Corporate, municipal, and sovereign credit analysis isn’t just about crunching
 
 > **Explanation:** When debt is denominated in a foreign currency, the borrower does not control money supply in that currency and faces added risk of currency depreciation and foreign exchange shortages.
 
----
 
 ### In evaluating a local government’s General Obligation bond, an analyst should pay special attention to:
 - [x] Demographic trends and property tax bases
@@ -187,7 +181,6 @@ Corporate, municipal, and sovereign credit analysis isn’t just about crunching
 
 > **Explanation:** General Obligation bonds are repaid from the municipality’s tax revenues, so local economic conditions, demographics, and property values are key.
 
----
 
 ### Which of the following best describes a “primary deficit” for a sovereign?
 - [x] Government revenues minus expenditures, excluding interest payments
@@ -197,7 +190,6 @@ Corporate, municipal, and sovereign credit analysis isn’t just about crunching
 
 > **Explanation:** A primary deficit (or surplus) focuses on a government’s balance before considering interest costs on its existing debt.
 
----
 
 ### Covenants in corporate bond indentures:
 - [ ] Apply only to municipalities
@@ -207,7 +199,6 @@ Corporate, municipal, and sovereign credit analysis isn’t just about crunching
 
 > **Explanation:** Covenants are legally binding clauses in bond indentures that protect bondholders by limiting the actions management can take to increase risk.
 
----
 
 ### True or False: In sovereign credit analysis, political stability can supersede economic fundamentals.
 - [x] True

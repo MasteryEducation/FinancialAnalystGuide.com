@@ -213,7 +213,6 @@ Take advantage of these sources to gain a more profound, real-world sense of how
 
 > **Explanation:** WACC is a blended measure of the firm’s cost of capital and thus sets the threshold that a project must exceed to add value.
 
----
 
 ### According to the standard WACC formula, why do we multiply the cost of debt by (1 – t)?
 
@@ -224,7 +223,6 @@ Take advantage of these sources to gain a more profound, real-world sense of how
 
 > **Explanation:** The tax shield on interest effectively reduces the cost of debt; hence it is multiplied by (1 – t).
 
----
 
 ### Which of the following most accurately reflects the market value of equity?
 
@@ -235,7 +233,6 @@ Take advantage of these sources to gain a more profound, real-world sense of how
 
 > **Explanation:** The market value of equity uses the current trading price rather than accounting or par values.
 
----
 
 ### A firm maintains $200 million of common shares (market value) and $100 million of debt (market value). If the cost of equity is 10% and the cost of debt is 6% with a 25% tax rate, what is the WACC?
 
@@ -260,7 +257,6 @@ Take advantage of these sources to gain a more profound, real-world sense of how
 
 > **Explanation:** As you alter your capital structure (issuing debt or equity), the weights and possibly interest rates change, impacting your WACC.
 
----
 
 ### In calculating WACC, which of the following methods correctly estimates the cost of preferred stock?
 
@@ -271,7 +267,6 @@ Take advantage of these sources to gain a more profound, real-world sense of how
 
 > **Explanation:** The cost of preferred stock is typically the annual dividend divided by the current market price. This is straightforward because preferred dividends are usually a set amount.
 
----
 
 ### Which statement about the cost of equity is true?
 
@@ -282,7 +277,6 @@ Take advantage of these sources to gain a more profound, real-world sense of how
 
 > **Explanation:** The cost of equity typically reflects the firm’s systemic (market-related) risk and is often higher than debt due to the subordinate nature of equity claims.
 
----
 
 ### How does WACC relate to a firm’s marginal cost of capital (MCC)?
 
@@ -293,7 +287,6 @@ Take advantage of these sources to gain a more profound, real-world sense of how
 
 > **Explanation:** The marginal cost of capital represents the cost of raising the next incremental dollar of capital. If the firm needs to offer higher rates to attract new funds, WACC can increase accordingly.
 
----
 
 ### A main difference between book values and market values in WACC calculations is that:
 
@@ -304,7 +297,6 @@ Take advantage of these sources to gain a more profound, real-world sense of how
 
 > **Explanation:** Book values come from a company’s accounting records and often differ from market prices that reflect the real-time supply-demand dynamics in capital markets.
 
----
 
 ### True or False: The Weighted-Average Cost of Capital (WACC) remains the same regardless of the level of project risk relative to the firm’s existing operations.
 

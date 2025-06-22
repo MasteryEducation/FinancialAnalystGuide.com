@@ -160,7 +160,6 @@ Good luck in your studies. And let me just say, learning these structures isn’
 
 > **Explanation:** Synthetic securitizations allow a bank to transfer credit risk using credit derivatives without physically transferring the underlying loans.
 
----
 
 ### In a synthetic securitization, which party typically issues credit-linked notes to investors?
 
@@ -171,7 +170,6 @@ Good luck in your studies. And let me just say, learning these structures isn’
 
 > **Explanation:** The SPV issues notes to investors in a synthetic deal, referencing the credit risk of the originator’s asset pool.
 
----
 
 ### Which of the following is an advantage of a synthetic securitization over a traditional cash securitization?
 
@@ -182,7 +180,6 @@ Good luck in your studies. And let me just say, learning these structures isn’
 
 > **Explanation:** Synthetic deals often require lower transaction costs and can be executed faster, as assets remain on the sponsor’s balance sheet. However, counterparty risk still exists through the SPV, and credit events still matter.
 
----
 
 ### One major regulatory motivation for synthetic securitizations is:
 
@@ -193,7 +190,6 @@ Good luck in your studies. And let me just say, learning these structures isn’
 
 > **Explanation:** By transferring credit risk, synthetic transactions can provide capital relief if recognized by regulators. It does not guarantee a 0% risk weight, but it can lower capital requirements.
 
----
 
 ### Which best describes “basis risk” in the context of synthetic securitizations?
 
@@ -204,7 +200,6 @@ Good luck in your studies. And let me just say, learning these structures isn’
 
 > **Explanation:** Basis risk arises when the contractual reference assets in the CDS differ from the sponsor’s real exposures, causing the insurance payout to deviate from actual credit losses.
 
----
 
 ### Which is a key factor determining whether synthetic securitizations provide regulatory capital relief?
 
@@ -215,7 +210,6 @@ Good luck in your studies. And let me just say, learning these structures isn’
 
 > **Explanation:** Regulators must confirm genuine risk transfer to grant capital relief. The structure, documentation, and rating agency opinions often matter more than the SPV’s location or investor count.
 
----
 
 ### If a sponsor for a synthetic securitization wants to protect itself mainly from high-frequency, low-severity defaults, which tranche would it likely buy protection on?
 
@@ -226,7 +220,6 @@ Good luck in your studies. And let me just say, learning these structures isn’
 
 > **Explanation:** The equity (or first-loss) tranche absorbs the earliest, lower-level defaults. If the sponsor’s main worry is frequent but smaller defaults, transferring the first-loss exposure is key.
 
----
 
 ### A robust legal document is crucial in synthetic securitizations for which primary reason?
 
@@ -237,7 +230,6 @@ Good luck in your studies. And let me just say, learning these structures isn’
 
 > **Explanation:** The documentation must be crystal clear on what triggers a payout (credit event) and how settlement occurs. This avoids disputes later.
 
----
 
 ### If the SPV’s collateral assets default right when the CDS is triggered, leaving the SPV underfunded, this scenario could be called:
 
@@ -248,7 +240,6 @@ Good luck in your studies. And let me just say, learning these structures isn’
 
 > **Explanation:** Wrong-way risk refers to a situation when the SPV’s collateral or financial strength deteriorates at the same time losses occur in the underlying reference portfolio.
 
----
 
 ### True or False: In synthetic securitizations, the actual underlying loans or bonds physically transfer to the SPV.
 

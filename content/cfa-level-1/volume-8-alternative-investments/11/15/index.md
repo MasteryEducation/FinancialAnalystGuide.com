@@ -169,7 +169,6 @@ Remember, parallel structures and sidecars are not just exotic legal tools—the
 
 > **Explanation:** A parallel fund mirrors the main fund’s strategy and invests in the same deals, typically set up for investors with special regulatory or tax requirements.
 
----
 
 ### What is a primary reason to form a parallel fund for a sovereign wealth fund investor?
 
@@ -180,7 +179,6 @@ Remember, parallel structures and sidecars are not just exotic legal tools—the
 
 > **Explanation:** Sovereign wealth funds often face unique legal and tax issues. A parallel fund can be structured to address those cross-border complexities while still investing alongside the main fund.
 
----
 
 ### In sidecar vehicles, which of the following is typically true regarding fees?
 
@@ -191,7 +189,6 @@ Remember, parallel structures and sidecars are not just exotic legal tools—the
 
 > **Explanation:** Sidecar vehicles, particularly co-investment sidecars, often carry significantly lower or no management fees, reflecting the narrower purpose and reduced overhead.
 
----
 
 ### An investor is concerned about fair deal allocation between the main fund and a parallel fund. What best practice often addresses this concern?
 
@@ -202,7 +199,6 @@ Remember, parallel structures and sidecars are not just exotic legal tools—the
 
 > **Explanation:** ILPA guidelines and market best practices often emphasize pro-rata deal allocation to preserve fairness among different fund vehicles.
 
----
 
 ### Which of the following statements about sidecar vehicles is correct?
 
@@ -213,7 +209,6 @@ Remember, parallel structures and sidecars are not just exotic legal tools—the
 
 > **Explanation:** Sidecars are typically single-purpose or specialized vehicles designed to provide targeted exposure to specific deals or strategies, often complementing the main fund’s broader approach.
 
----
 
 ### Why might an LP choose not to participate in a sidecar opportunity?
 
@@ -224,7 +219,6 @@ Remember, parallel structures and sidecars are not just exotic legal tools—the
 
 > **Explanation:** Some LPs may prefer diversification and therefore might opt out of concentrating additional capital into a single deal or industry theme that a sidecar focuses on.
 
----
 
 ### A sponsor forms a parallel fund specifically for ERISA-bound investors. What could be a key benefit of this structure?
 
@@ -235,7 +229,6 @@ Remember, parallel structures and sidecars are not just exotic legal tools—the
 
 > **Explanation:** Creating a parallel fund for ERISA investors is a common strategy to comply with the unique regulatory environment of pension plans, segregating them from the main fund’s governance if needed.
 
----
 
 ### Which of the following guides is most often referenced by investors regarding fair allocation and governance of parallel funds?
 
@@ -246,7 +239,6 @@ Remember, parallel structures and sidecars are not just exotic legal tools—the
 
 > **Explanation:** ILPA has established recognized principles and best practices to ensure fairness, alignment of interests, and transparency in private equity fund structures, including parallel and sidecar vehicles.
 
----
 
 ### Suppose a GP charges an additional “administrative fee” specifically for handling separate audits for its parallel fund. Under best practices, what should the GP do?
 
@@ -257,7 +249,6 @@ Remember, parallel structures and sidecars are not just exotic legal tools—the
 
 > **Explanation:** Transparency is paramount. Any incremental fees for services in the parallel fund must be fully disclosed and justified to investors, in line with ILPA guidelines and best practices.
 
----
 
 ### True or False: Sidecar vehicles always invest on the same terms and in the same deals as the main fund.
 

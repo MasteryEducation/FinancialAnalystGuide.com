@@ -162,7 +162,6 @@ When I first started analyzing companies—long before IFRS 15 (Revenue) or IFRS
 
 > **Explanation:** Accounting profit is measured by financial accounting standards, while taxable income follows tax laws. The two frameworks can vary significantly, leading to discrepancies.
 
----
 
 ### Which item is most likely to cause a permanent difference rather than a temporary difference?
 
@@ -173,7 +172,6 @@ When I first started analyzing companies—long before IFRS 15 (Revenue) or IFRS
 
 > **Explanation:** Fines and penalties that are not tax-deductible create a permanent difference. Depreciation, unrealized gains, and installment sales typically create timing mismatches (temporary differences).
 
----
 
 ### A company expenses R&D costs immediately for tax purposes but capitalizes them for financial reporting. In the early years of this R&D activity:
 
@@ -184,7 +182,6 @@ When I first started analyzing companies—long before IFRS 15 (Revenue) or IFRS
 
 > **Explanation:** By expensing costs earlier for tax, the firm’s taxable income is reduced now, which is lower than accounting profit, leading to a deferred tax liability.
 
----
 
 ### Which disclosure in the financial statements helps analysts reconcile differences between pretax financial income and taxable income?
 
@@ -195,7 +192,6 @@ When I first started analyzing companies—long before IFRS 15 (Revenue) or IFRS
 
 > **Explanation:** The effective tax rate reconciliation note typically outlines how a firm’s pretax income transitions to its taxable income, highlighting both permanent and temporary differences.
 
----
 
 ### Under IFRS, if a firm revalues a property upward but this revaluation is not recognized for tax purposes, the difference between the asset’s carrying amount and its tax base will most likely:
 
@@ -206,7 +202,6 @@ When I first started analyzing companies—long before IFRS 15 (Revenue) or IFRS
 
 > **Explanation:** When the financial reporting carrying value exceeds the tax base (because the tax authority does not allow revaluation), the difference typically leads to a deferred tax liability.
 
----
 
 ### In analyzing a company, you find that its accounting profit has consistently grown, yet its taxable income remains low. This discrepancy might signal:
 
@@ -217,7 +212,6 @@ When I first started analyzing companies—long before IFRS 15 (Revenue) or IFRS
 
 > **Explanation:** Persistently high earnings with relatively low taxable income may indicate strategic use of tax breaks, timing differences, or potentially more aggressive financial reporting.
 
----
 
 ### Which of the following would most likely reduce the company’s effective tax rate but not create any future tax consequences?
 
@@ -228,7 +222,6 @@ When I first started analyzing companies—long before IFRS 15 (Revenue) or IFRS
 
 > **Explanation:** Permanently exempt income does not reverse in future periods, so it reduces the effective tax rate without giving rise to deferred tax.
 
----
 
 ### A deferred tax asset arises when:
 
@@ -239,7 +232,6 @@ When I first started analyzing companies—long before IFRS 15 (Revenue) or IFRS
 
 > **Explanation:** A deferred tax asset generally arises when the company pays more taxes upfront (because taxable income is higher) or when expenses recognized in accounting have not yet been recognized for tax.
 
----
 
 ### Which of the following situations would typically create a deferred tax liability?
 
@@ -250,7 +242,6 @@ When I first started analyzing companies—long before IFRS 15 (Revenue) or IFRS
 
 > **Explanation:** Accelerated depreciation for tax lowers taxable income earlier compared to the slower depreciation method for accounting, thus deferring taxes to future periods (deferred tax liability).
 
----
 
 ### Temporary differences between accounting profit and taxable income:
 

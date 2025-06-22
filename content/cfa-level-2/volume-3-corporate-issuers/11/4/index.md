@@ -176,7 +176,6 @@ And that leads us nicely into the simplest but most overlooked piece of advice: 
 
 > **Explanation:** While payout policies and capital structure are important, they do not directly mitigate integration risk as effectively as clear, transparent stakeholder communication. Earnings synergy often relies on integrating operations smoothly, and investor confidence hinges on receiving timely, transparent updates.
 
----
 
 ### In the context of Case Study 1 (Galactica Tech’s acquisition), which outcome best illustrates effective synergy realization?
 
@@ -187,7 +186,6 @@ And that leads us nicely into the simplest but most overlooked piece of advice: 
 
 > **Explanation:** Cost savings and complementary assets led to higher operating margins for Galactica Tech, which translated into a notable ROE improvement. Increasing debt or discontinuing share repurchases might be part of the strategy, but they don’t necessarily prove synergy realization.
 
----
 
 ### A company that issues a significant share repurchase program at the peak of a cyclical market is MOST likely to:
 
@@ -198,7 +196,6 @@ And that leads us nicely into the simplest but most overlooked piece of advice: 
 
 > **Explanation:** Buying shares at a market peak can be costly. If revenues later decline—as often happens in cyclical industries—the company’s debt burden may become unsustainable, exposing it to liquidity risk.
 
----
 
 ### Which of the following statements about ESG-driven restructuring is TRUE based on Case Study 2 (Urban Fields)?
 
@@ -209,7 +206,6 @@ And that leads us nicely into the simplest but most overlooked piece of advice: 
 
 > **Explanation:** Urban Fields had to cut its dividend and endured a temporary ROE dip, showing that ESG transitions can require significant upfront costs before long-term benefits arrive.
 
----
 
 ### Which ratio is MOST likely to be impacted by an acquisition financed largely with debt?
 
@@ -220,7 +216,6 @@ And that leads us nicely into the simplest but most overlooked piece of advice: 
 
 > **Explanation:** When a firm finances an acquisition with debt, its liabilities increase, causing net debt to climb relative to EBITDA. This ratio is often watched by credit analysts and ratings agencies as an indicator of leverage.
 
----
 
 ### A “systematic approach” to analyzing a major corporate event typically includes:
 
@@ -231,7 +226,6 @@ And that leads us nicely into the simplest but most overlooked piece of advice: 
 
 > **Explanation:** A methodical assessment demands deeper due diligence: reading filings, press releases, linking metrics to strategic goals, and gauging the long-range outcomes.
 
----
 
 ### Which factor is MOST important in assessing whether a dividend cut could benefit long-term sustainable growth?
 
@@ -242,7 +236,6 @@ And that leads us nicely into the simplest but most overlooked piece of advice: 
 
 > **Explanation:** Cutting a dividend can be advantageous in the long run if the cash is used productively—like reinvesting in technology, ESG improvements, or expansions that strengthen a firm’s competitive position.
 
----
 
 ### When management prioritizes ESG initiatives that require significant capital investment, which of the following is likely TRUE?
 
@@ -253,7 +246,6 @@ And that leads us nicely into the simplest but most overlooked piece of advice: 
 
 > **Explanation:** Substantial ESG capital outlays may reduce short-term profits, thus pushing key metrics (like ROE) lower. In the long run, cost savings and brand loyalty may boost returns and reduce financial risk.
 
----
 
 ### Which of the following best describes the potential outcome if a firm neglects integration risk after a major M&A?
 
@@ -264,7 +256,6 @@ And that leads us nicely into the simplest but most overlooked piece of advice: 
 
 > **Explanation:** Overlooking integration risk can wreak havoc—process inefficiencies, cultural disconnects, and synergy shortfalls can easily happen, derailing the entire M&A rationale.
 
----
 
 ### True or False: Legal and reputational repercussions from ill-managed corporate actions often lead to an elevated WACC in subsequent years.
 

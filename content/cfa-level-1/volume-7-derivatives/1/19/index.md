@@ -160,7 +160,6 @@ Security Token Offerings are essentially the new frontier in bridging the power 
 
 > **Explanation:** STOs bring regulatory compliance—such as mandatory disclosures and KYC/AML checks—to the world of digital token issuance, distinguishing them from unregulated ICOs.
 
----
 
 ### Which of the following is a major advantage promoted by fractionalization of high-value assets?
 
@@ -171,7 +170,6 @@ Security Token Offerings are essentially the new frontier in bridging the power 
 
 > **Explanation:** By issuing smaller tradable units, fractionalization makes previously expensive assets accessible to a wider base of investors, which can improve liquidity and market efficiency.
 
----
 
 ### How can an investor hedge exposure to fractionalized real estate tokens?
 
@@ -182,7 +180,6 @@ Security Token Offerings are essentially the new frontier in bridging the power 
 
 > **Explanation:** Hedging relies on derivatives or offsetting positions. Put options can help protect the token value during market downturns.
 
----
 
 ### What is a critical regulatory requirement for most STOs?
 
@@ -193,7 +190,6 @@ Security Token Offerings are essentially the new frontier in bridging the power 
 
 > **Explanation:** STOs generally must follow KYC/AML and other securities compliance measures to protect investors and maintain market integrity.
 
----
 
 ### How does the technology behind STOs most fundamentally differ from that behind traditional shares?
 
@@ -204,7 +200,6 @@ Security Token Offerings are essentially the new frontier in bridging the power 
 
 > **Explanation:** STOs utilize blockchain or similar distributed ledger technology to record ownership and manage transfers. Traditional securities often rely on centralized registry systems.
 
----
 
 ### Which statement best describes the potential role of derivative markets for fractional tokens?
 
@@ -215,7 +210,6 @@ Security Token Offerings are essentially the new frontier in bridging the power 
 
 > **Explanation:** As with mainstream securities, fractional tokens can serve as underlyings for derivatives, enabling hedging and speculative strategies.
 
----
 
 ### What is a primary concern regarding the enforceability of ownership rights in fractionalized real assets?
 
@@ -226,7 +220,6 @@ Security Token Offerings are essentially the new frontier in bridging the power 
 
 > **Explanation:** Even if tokens exist on a blockchain, local property or securities laws have to acknowledge the digital record as legitimate to avoid ownership disputes.
 
----
 
 ### Which of the following best describes the liquidity profile of many STOs?
 
@@ -237,7 +230,6 @@ Security Token Offerings are essentially the new frontier in bridging the power 
 
 > **Explanation:** Despite the potential for increased participation, many STOs remain illiquid because trading volumes might be small and specialized platforms might not attract wide investor interest.
 
----
 
 ### How do standardized protocols like ERC-1400 help in STO ecosystems?
 
@@ -248,7 +240,6 @@ Security Token Offerings are essentially the new frontier in bridging the power 
 
 > **Explanation:** Standardized protocols—like ERC-1400—improve interoperability and compliance by providing a uniform set of tokens and functions for security tokens on a given blockchain.
 
----
 
 ### True or False: Fractionalizing real assets can lead to improved price discovery due to a larger, potentially global investor base.
 

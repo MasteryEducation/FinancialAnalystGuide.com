@@ -184,7 +184,6 @@ flowchart TB
 
 > **Explanation:** One of the chief advantages of cross-border listings is capturing a broader investor base and potentially reducing funding costs. Regulatory scrutiny often increases rather than decreases with a foreign listing, and currency or political risks are not automatically eliminated.
 
----
 
 ### In cross-border debt issuance, what key challenge arises from sourcing funds in a different currency while having revenues in the home currency?
 
@@ -195,7 +194,6 @@ flowchart TB
 
 > **Explanation:** When there is a currency mismatch between revenues and debt obligations, the issuer faces FX risk. Hedging can offset part of this risk, but it adds cost and complexity.
 
----
 
 ### Which of the following best describes localization of funding?
 
@@ -206,7 +204,6 @@ flowchart TB
 
 > **Explanation:** Localization of funding refers to obtaining financing in the local markets and currencies, aligning with operational cash flows in those locales.
 
----
 
 ### A multinational corporation (MNC) is considering a cross-border listing. Which benefit most directly enhances the corporation’s brand?
 
@@ -217,7 +214,6 @@ flowchart TB
 
 > **Explanation:** Listing on a recognized foreign market often elevates a company’s profile and global brand perception, while risk elimination is never guaranteed.
 
----
 
 ### An issuer with significant overseas operations primarily wants to minimize its foreign exchange risk exposure. Which strategy aligns best with this goal?
 
@@ -228,7 +224,6 @@ flowchart TB
 
 > **Explanation:** Aligning debt currency with operational revenues helps naturally hedge currency risks by matching cash inflows and outflows.
 
----
 
 ### Which of the following issues often complicates cross-border debt issuance?
 
@@ -239,7 +234,6 @@ flowchart TB
 
 > **Explanation:** One of the biggest complexities is navigating different regulatory regimes with potentially lengthy and stringent approval processes.
 
----
 
 ### A U.S. firm issues euro-denominated bonds but does not hedge its euro exposure. Which of the following is a TRUE statement regarding potential outcomes?
 
@@ -250,7 +244,6 @@ flowchart TB
 
 > **Explanation:** Without hedging, an appreciating euro means the firm must spend more dollars for coupon and principal payments.  
 
----
 
 ### Which measure can help a foreign issuer build local investor confidence?
 
@@ -261,7 +254,6 @@ flowchart TB
 
 > **Explanation:** Aligning with local market disclosure norms and communicating openly bolster investor trust and acceptance.
 
----
 
 ### How might a multinational enterprise manage political or regulatory risk associated with cross-border funding?
 
@@ -272,7 +264,6 @@ flowchart TB
 
 > **Explanation:** Forming partnerships or joint ventures in the host country often mitigates regulatory and political risk by leveraging local expertise and relationships.
 
----
 
 ### When evaluating cross-border listings in a Level III exam context, which of the following is MOST essential to include in your analysis?
 

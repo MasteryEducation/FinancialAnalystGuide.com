@@ -182,7 +182,6 @@ If you want to explore further, consider reviewing official Basel III guidance (
 
 > **Explanation:** Tier 1 capital is primarily composed of common equity, retained earnings, and certain perpetual instruments. Intangibles are generally deducted from this measure, but that’s not what primarily defines Tier 1 capital.
 
----
 
 ### Under the Basel III framework, which of the following is considered the most stringent capital measure?
 
@@ -193,7 +192,6 @@ If you want to explore further, consider reviewing official Basel III guidance (
 
 > **Explanation:** CET1 is the highest quality component of capital in Basel III, making the CET1 ratio the hardest one to exceed. It’s purely composed of shareholders’ equity and retained earnings (minus deductions for intangibles, etc.).
 
----
 
 ### Which statement regarding reserve requirements for banks is most accurate?
 
@@ -204,7 +202,6 @@ If you want to explore further, consider reviewing official Basel III guidance (
 
 > **Explanation:** Reserve requirements ensure that banks hold a certain portion of deposits in cash or at the central bank to meet depositor demands and protect against liquidity crises.
 
----
 
 ### In the context of insurance, “technical provisions” refer to:
 
@@ -215,7 +212,6 @@ If you want to explore further, consider reviewing official Basel III guidance (
 
 > **Explanation:** Technical provisions are the reserves insurers maintain to cover expected claims (including incurred but not reported ones). They are a critical piece of solvency calculations.
 
----
 
 ### An insurer that falls below its Risk-Based Capital (RBC) threshold will likely:
 
@@ -226,7 +222,6 @@ If you want to explore further, consider reviewing official Basel III guidance (
 
 > **Explanation:** Falling under RBC triggers regulatory measures. Bankruptcy is not automatic, but corrective action is often demanded, such as submitting a plan or seeking additional capital injections.
 
----
 
 ### Which of the following best describes why regulators differentiate between Tier 1 and Tier 2 capital?
 
@@ -237,7 +232,6 @@ If you want to explore further, consider reviewing official Basel III guidance (
 
 > **Explanation:** Tier 1 capital, especially CET1, is more immediately available to absorb losses, whereas Tier 2 capital is subordinated and less readily accessible in times of stress.
 
----
 
 ### Under Solvency II, the Minimum Capital Requirement (MCR) is:
 
@@ -248,7 +242,6 @@ If you want to explore further, consider reviewing official Basel III guidance (
 
 > **Explanation:** In the Solvency II system, MCR sets the absolute floor of solvency capital. If the insurer’s capital dips below MCR, it is no longer allowed to continue its insurance activities without swift remediation.
 
----
 
 ### When evaluating a bank’s capital ratio, which aspect is most important to assess besides the percentage ratio itself?
 
@@ -259,7 +252,6 @@ If you want to explore further, consider reviewing official Basel III guidance (
 
 > **Explanation:** Risk weighting and trend analysis are critical. A capital ratio might look strong, but it could be skewed by assumptions in risk-weight calculations. The direction of change over time also indicates how management is handling growth, risk, and returns.
 
----
 
 ### What is the main role of actuarial reviews in insurance reserve setting?
 
@@ -270,7 +262,6 @@ If you want to explore further, consider reviewing official Basel III guidance (
 
 > **Explanation:** Actuarial reviews help maintain accuracy in setting insurance reserves, incorporating updated data on claims and other relevant experience factors.
 
----
 
 ### True or False: A breach of regulatory capital requirements usually has no consequences unless the financial institution voluntarily discloses it.
 

@@ -182,7 +182,6 @@ Stress testing is no longer just a “check-the-box” exercise for risk manager
 
 > **Explanation:** Multi-factor stress testing applies simultaneous shocks to several risk factors that may be correlated, yielding a more realistic view of the portfolio’s potential drawdown than single-factor tests.
 
----
 
 ### What is the primary goal of historical bootstrapping in stress testing?
 
@@ -193,7 +192,6 @@ Stress testing is no longer just a “check-the-box” exercise for risk manager
 
 > **Explanation:** Historical bootstrapping repeatedly resamples from actual historical observations, preserving any lurking correlation patterns and tail events in the data.
 
----
 
 ### In the context of non-linear instruments, why is it insufficient to simply apply a linear shock to an option’s price?
 
@@ -204,7 +202,6 @@ Stress testing is no longer just a “check-the-box” exercise for risk manager
 
 > **Explanation:** An option’s price can respond in complex, non-linear ways to changes in the underlying asset price, volatility, time to maturity, and interest rates.
 
----
 
 ### Dynamic stress testing differs from a static approach mainly in that it:
 
@@ -215,7 +212,6 @@ Stress testing is no longer just a “check-the-box” exercise for risk manager
 
 > **Explanation:** Unlike a single snapshot stress test, dynamic stress tests reevaluate the portfolio across different time horizons, capturing rebalancing actions and shifting market regimes.
 
----
 
 ### Which regulatory framework typically requires banks to hold incremental capital based on stress test results?
 
@@ -226,7 +222,6 @@ Stress testing is no longer just a “check-the-box” exercise for risk manager
 
 > **Explanation:** Under Basel requirements, banks must maintain adequate capital buffers to withstand losses predicted by stress tests, ensuring financial stability and mitigating systemic risk.
 
----
 
 ### How can AI-driven models enhance stress testing for portfolios?
 
@@ -237,7 +232,6 @@ Stress testing is no longer just a “check-the-box” exercise for risk manager
 
 > **Explanation:** AI can rapidly process large volumes of data (including social media, satellite data, etc.) to adapt scenario assumptions in real time, identifying new risks sooner.
 
----
 
 ### An asset manager wants to evaluate worst-case scenarios where multiple risk factors surge simultaneously. Which scenario setup best accomplishes this?
 
@@ -248,7 +242,6 @@ Stress testing is no longer just a “check-the-box” exercise for risk manager
 
 > **Explanation:** To capture the joint impact of correlated factors, you apply simultaneous shocks to multiple variables—such as rates, credit, and equities—based on estimated correlations or worst-case assumptions.
 
----
 
 ### In the event that a portfolio’s stress test indicates a capital shortfall, what is the recommended action?
 
@@ -259,7 +252,6 @@ Stress testing is no longer just a “check-the-box” exercise for risk manager
 
 > **Explanation:** When a stress test reveals vulnerability, risk managers often lower exposures or secure more capital to safeguard the firm’s solvency in adverse conditions.
 
----
 
 ### One common pitfall in stress testing is overfitting. Which of the following best describes this risk?
 
@@ -270,7 +262,6 @@ Stress testing is no longer just a “check-the-box” exercise for risk manager
 
 > **Explanation:** Overfitting occurs when a stress-testing model is tailored too closely to past specific events, reducing its ability to predict or capture future, potentially different shocks.
 
----
 
 ### True or False: Correlations among asset classes typically remain constant under extreme market conditions.
 

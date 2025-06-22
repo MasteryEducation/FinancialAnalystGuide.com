@@ -137,7 +137,6 @@ Once the mania subsides, it’s crucial to run a post-mortem on your hedging pro
 
 > **Explanation:** Purchasing a put is the most direct form of downside protection. It provides a right to sell BRL at a specific strike price, limiting downside in the event of a BRL depreciation.
 
----
 
 ### In a collar strategy, the main trade-off for reducing your total option premium is:
 
@@ -148,7 +147,6 @@ Once the mania subsides, it’s crucial to run a post-mortem on your hedging pro
 
 > **Explanation:** By selling a call, you partially fund the cost of buying a put, but you cap potential gains once the underlying price goes above the call strike.
 
----
 
 ### When a currency’s volatility increases dramatically, option premiums tend to:
 
@@ -159,7 +157,6 @@ Once the mania subsides, it’s crucial to run a post-mortem on your hedging pro
 
 > **Explanation:** Implied volatility is a major factor in option pricing. As volatility rises, the cost of options typically increases significantly.
 
----
 
 ### In a dynamic hedging program, one potential drawback is:
 
@@ -170,7 +167,6 @@ Once the mania subsides, it’s crucial to run a post-mortem on your hedging pro
 
 > **Explanation:** Dynamic hedging requires constant monitoring and adjustment, leading to considerable transaction costs and slippage, especially during a crisis.
 
----
 
 ### Which factor most commonly halts or disrupts FX hedging in emerging markets?
 
@@ -181,7 +177,6 @@ Once the mania subsides, it’s crucial to run a post-mortem on your hedging pro
 
 > **Explanation:** Emerging markets may impose capital controls to prevent capital outflow, which can limit the availability and liquidity of hedging instruments to foreign investors.
 
----
 
 ### A multinational company sees the local currency depreciate by 10% even though it bought put options for protection. The firm is puzzled because it still suffered losses. This scenario may best illustrate:
 
@@ -192,7 +187,6 @@ Once the mania subsides, it’s crucial to run a post-mortem on your hedging pro
 
 > **Explanation:** Even when a hedge exists, mismatches in the notional quantity hedged or differences between the underlying exposure and the chosen hedging instrument can lead to residual losses.
 
----
 
 ### A corporate treasurer chooses to hedge half of the exposure in a currency forward and half in an at-the-money put. Why might this be advantageous?
 
@@ -203,7 +197,6 @@ Once the mania subsides, it’s crucial to run a post-mortem on your hedging pro
 
 > **Explanation:** By combining a forward and a put, the firm balances guaranteed protection (from the forward) with some upside potential (via the unhedged portion plus the put’s optionality).
 
----
 
 ### Stress testing a hedging program primarily aims to:
 
@@ -214,7 +207,6 @@ Once the mania subsides, it’s crucial to run a post-mortem on your hedging pro
 
 > **Explanation:** Stress testing helps managers quantify potential losses and ensure hedges perform under adverse market conditions. It’s crucial for risk management, not just compliance.
 
----
 
 ### When a currency is highly correlated with the global market index, hedging decisions should:
 
@@ -225,7 +217,6 @@ Once the mania subsides, it’s crucial to run a post-mortem on your hedging pro
 
 > **Explanation:** If a currency tends to weaken along with global markets, your total portfolio risk could be amplified. Understanding that correlation can shape more effective hedges.
 
----
 
 ### A tail-risk event is characterized by movements typically beyond how many standard deviations?
 

@@ -240,7 +240,6 @@ Below, you’ll find 10 representative sample questions. They’re not a full ex
 
 > **Explanation:** Many candidates rush through reading the vignette. This often leads to overlooked details that can directly affect calculations or assumptions.
 
----
 
 ### In a multiple regression model where heteroskedasticity is present, which correction would typically be most appropriate?
 
@@ -251,7 +250,6 @@ Below, you’ll find 10 representative sample questions. They’re not a full ex
 
 > **Explanation:** Heteroskedasticity refers to non-constant variance of error terms. A common remedy is to adjust standard errors with techniques like White’s robust standard errors.
 
----
 
 ### You have the following AR(1) model: Xₜ = 2 + 0.9 Xₜ₋₁ + εₜ. Which statement is true regarding mean reversion?
 
@@ -262,7 +260,6 @@ Below, you’ll find 10 representative sample questions. They’re not a full ex
 
 > **Explanation:** For an AR(1) process Xₜ = φ₀ + φ₁ Xₜ₋₁ + εₜ, the long-run mean or mean-reverting level is φ₀ / (1 – φ₁), provided |φ₁| < 1. Here, 2 / (1 – 0.9) = 20.
 
----
 
 ### In logistic regression, the logit value corresponds to:
 
@@ -273,7 +270,6 @@ Below, you’ll find 10 representative sample questions. They’re not a full ex
 
 > **Explanation:** Logistic regression models the logit, which is ln(p/(1–p)), where p is the predicted probability.
 
----
 
 ### Which best defines multicollinearity in a multiple regression setting?
 
@@ -284,7 +280,6 @@ Below, you’ll find 10 representative sample questions. They’re not a full ex
 
 > **Explanation:** Multicollinearity occurs when two or more independent variables in a model are highly correlated, making it difficult to identify precise effects for each.
 
----
 
 ### To detect seasonality in a time-series, one might:
 
@@ -295,7 +290,6 @@ Below, you’ll find 10 representative sample questions. They’re not a full ex
 
 > **Explanation:** Seasonality is typically handled by introducing dummy variables for each season, then checking whether those coefficients significantly affect the model.
 
----
 
 ### In a multiple regression model with 10 independent variables and 200 observations, what are the degrees of freedom for the error term?
 
@@ -306,7 +300,6 @@ Below, you’ll find 10 representative sample questions. They’re not a full ex
 
 > **Explanation:** Degrees of freedom = (n – k – 1), where n = number of observations and k = number of independent variables. Here, 200 – 10 – 1 = 189.
 
----
 
 ### For a neural network classifier, overfitting is best mitigated by:
 
@@ -317,7 +310,6 @@ Below, you’ll find 10 representative sample questions. They’re not a full ex
 
 > **Explanation:** Neural networks can easily overfit. Methods like dropout, weight regularization (L2), or early stopping help prevent the model from memorizing noise.
 
----
 
 ### You want to test whether two independent variables jointly have zero coefficients. Which test is most appropriate?
 
@@ -328,7 +320,6 @@ Below, you’ll find 10 representative sample questions. They’re not a full ex
 
 > **Explanation:** An F-test is used to determine whether multiple coefficients can be simultaneously set to zero, making it appropriate for joint hypothesis testing.
 
----
 
 ### True or False: In panel data models, random effects are more efficient than fixed effects only when the random effects assumption (i.e., that the unobserved individual effect is uncorrelated with the regressors) holds.
 

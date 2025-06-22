@@ -207,7 +207,6 @@ Though mastering Greeks takes practice, the payoff is well worth it. You’ll be
 
 > **Explanation:** Delta measures how much an option’s price changes for a small change in the underlying’s price. Gamma measures how Delta itself changes.
 
----
 
 ### An investor is long a call option with Delta = 0.60. If the stock price rises by $1, how much will the call price change, assuming other factors remain the same?
 
@@ -218,7 +217,6 @@ Though mastering Greeks takes practice, the payoff is well worth it. You’ll be
 
 > **Explanation:** A Delta of 0.60 means the call option gains $0.60 for each $1 increase in the underlying.
 
----
 
 ### Which Greek measures the rate of change of Delta with respect to changes in the underlying’s price?
 
@@ -229,7 +227,6 @@ Though mastering Greeks takes practice, the payoff is well worth it. You’ll be
 
 > **Explanation:** Gamma represents how Delta changes if the underlying’s price changes.
 
----
 
 ### A trader is worried about volatility spikes in the market. Which Greek should they primarily monitor to manage the impact of changes in implied volatility?
 
@@ -240,7 +237,6 @@ Though mastering Greeks takes practice, the payoff is well worth it. You’ll be
 
 > **Explanation:** Vega measures sensitivity to changes in implied volatility.
 
----
 
 ### If you are short an at-the-money option, which Greek risk are you most directly taking on?
 
@@ -251,7 +247,6 @@ Though mastering Greeks takes practice, the payoff is well worth it. You’ll be
 
 > **Explanation:** Being short an ATM option typically corresponds to negative Gamma and positive Theta. As the option writer, you collect premium from time decay (+Theta) but are at risk from changes in the underlying price (−Gamma).
 
----
 
 ### Which of the following is a true characteristic of Theta?
 
@@ -262,7 +257,6 @@ Though mastering Greeks takes practice, the payoff is well worth it. You’ll be
 
 > **Explanation:** Theta is generally negative for long positions, and its magnitude often accelerates as the option gets closer to expiry, especially if it is at the money.
 
----
 
 ### Which Greek is most likely to be significant in a low-interest-rate environment?
 
@@ -273,7 +267,6 @@ Though mastering Greeks takes practice, the payoff is well worth it. You’ll be
 
 > **Explanation:** Rho becomes more significant if interest rates are volatile or very low (or negative). Additionally, Vega can be impactful if uncertainty about interest rates affects implied volatility. In this question, Rho stands out in a changing interest rate environment.
 
----
 
 ### To maintain a Delta-neutral position when the underlying price rises, a trader with positive Gamma would typically need to:
 
@@ -284,7 +277,6 @@ Though mastering Greeks takes practice, the payoff is well worth it. You’ll be
 
 > **Explanation:** With positive Gamma, Delta increases as the underlying price rises. To remain Delta-neutral, the trader would sell some of the underlying to reduce net Delta.
 
----
 
 ### Which Greek do you primarily use to gauge how the profit or loss of an option portfolio might evolve from day to day if all other market variables stay the same?
 
@@ -295,7 +287,6 @@ Though mastering Greeks takes practice, the payoff is well worth it. You’ll be
 
 > **Explanation:** Theta measures the option’s price sensitivity to the passage of time alone.
 
----
 
 ### An option’s Vega indicates how much the option’s value changes when implied volatility changes by 1%. True or False?
 

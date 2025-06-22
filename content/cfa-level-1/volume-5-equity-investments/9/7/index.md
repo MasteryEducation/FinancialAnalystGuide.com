@@ -181,7 +181,6 @@ It’s common (and sometimes shocking for me the first time!) to see your owners
 
 > **Explanation:** The exit multiple (or terminal value) is frequently the largest driver of the final valuation because the entire forecast relies on substantial growth and a lucrative exit.
 
----
 
 ### When applying scenario analysis for a startup valuation, which of the following should be considered?
 
@@ -192,7 +191,6 @@ It’s common (and sometimes shocking for me the first time!) to see your owners
 
 > **Explanation:** Scenario analysis requires defining several potential paths for the startup’s growth and assigning probabilities to each. This approach captures the wide range of possible outcomes.
 
----
 
 ### A company forecasts free cash flows to equity of -$1 million in the first year, $1 million in the second year, and then $3 million in the third year, at which point it expects to be sold for $15 million. Assuming a 30% required return, how would you compute its present value?
 
@@ -203,7 +201,6 @@ It’s common (and sometimes shocking for me the first time!) to see your owners
 
 > **Explanation:** You should discount every projected cash flow (negative or positive) as well as the terminal value at the required discount rate, then sum them to determine the total present value.
 
----
 
 ### Which of the following is a key difference between using the FCFE approach for established firms versus early-stage startups?
 
@@ -214,7 +211,6 @@ It’s common (and sometimes shocking for me the first time!) to see your owners
 
 > **Explanation:** Early-stage startups demand higher discount rates reflecting elevated risk and often require explicit modeling of multiple financing rounds (i.e., staged financing).
 
----
 
 ### If new investors in a startup negotiate a 25% post-money stake for an infusion of $5 million, what is the implied post-money valuation?
 
@@ -225,7 +221,6 @@ It’s common (and sometimes shocking for me the first time!) to see your owners
 
 > **Explanation:** The new investors’ $5 million buys them 25% ownership, implying that $5 million is 25% of the post-money valuation. Thus, the total post-money valuation is $5 million / 0.25 = $20 million.
 
----
 
 ### Which best describes dilution?
 
@@ -236,7 +231,6 @@ It’s common (and sometimes shocking for me the first time!) to see your owners
 
 > **Explanation:** Dilution occurs when additional shares are issued, reducing existing investors’ ownership percentages.
 
----
 
 ### When using probability-weighted valuations, which is the correct approach to finalize the valuation?
 
@@ -247,7 +241,6 @@ It’s common (and sometimes shocking for me the first time!) to see your owners
 
 > **Explanation:** The concept behind probability-weighted valuations is to factor in each possible outcome, multiply by its likelihood, and then sum them for a weighted average value.
 
----
 
 ### What is the main reason analysts assign very high discount rates when valuing early-stage startups?
 
@@ -258,7 +251,6 @@ It’s common (and sometimes shocking for me the first time!) to see your owners
 
 > **Explanation:** Because startups face high risk and volatile future prospects, analysts use a higher discount rate to offset the greater probability of failure or unremarkable outcomes.
 
----
 
 ### Which of the following is a key benefit of scenario analysis for startup valuation?
 
@@ -269,7 +261,6 @@ It’s common (and sometimes shocking for me the first time!) to see your owners
 
 > **Explanation:** Scenario analysis captures different potential futures (favorable, neutral, and adverse) and assigns probabilities to each, helping analysts consider the broad range of possible results.
 
----
 
 ### The Venture Capital Method typically focuses on:
 

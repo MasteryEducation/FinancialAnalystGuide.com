@@ -153,7 +153,6 @@ The key is to avoid seeing regulations as a nuisance and Treat them as a crucial
 
 > **Explanation:** Many emerging markets do allow cross-border bonds, but they impose regulations such as caps on interest rates or a requirement to obtain regulatory approval, making the process lengthier and more complex.
 
----
 
 ### Under the Basel Accords, why might a bank be forced to issue more equity?
 
@@ -164,7 +163,6 @@ The key is to avoid seeing regulations as a nuisance and Treat them as a crucial
 
 > **Explanation:** The Basel Accords specify minimum capital ratios and capital buffer requirements. If a bank’s ratio dips below these thresholds, it typically must raise more equity (among other measures) to comply.
 
----
 
 ### A new law eliminates interest deductibility for corporate bonds in a particular country. How does this change typically affect the after-tax cost of debt?
 
@@ -175,7 +173,6 @@ The key is to avoid seeing regulations as a nuisance and Treat them as a crucial
 
 > **Explanation:** If interest deductibility is removed, corporations lose a valuable tax shield. Hence, the after-tax cost of debt rises to the same level as the pre-tax cost of debt, making debt financing more expensive.
 
----
 
 ### Under debt ceiling laws, a firm might need to quickly issue equity if:
 
@@ -186,7 +183,6 @@ The key is to avoid seeing regulations as a nuisance and Treat them as a crucial
 
 > **Explanation:** Debt ceiling laws impose a maximum allowable leverage ratio. If the firm is brushing against that limit (or exceeding it), issuing additional equity becomes one of the few ways to restore compliance.
 
----
 
 ### Which of the following is a best practice when preparing for potential regulatory changes around capital structure?
 
@@ -197,7 +193,6 @@ The key is to avoid seeing regulations as a nuisance and Treat them as a crucial
 
 > **Explanation:** Companies should run extensive scenario analyses to consider how new regulations might affect their leverage and capital costs. Keeping a margin below mandated leverage ratios is also a recommended risk management strategy.
 
----
 
 ### Which term describes the likelihood and consequences of failing to meet a regulatory capital requirement?
 
@@ -208,7 +203,6 @@ The key is to avoid seeing regulations as a nuisance and Treat them as a crucial
 
 > **Explanation:** Compliance risk is specifically about the potential harm when an entity fails to meet legal or regulatory requirements.
 
----
 
 ### Which instrument could automatically bolster a firm’s equity if it breaches a regulatory threshold?
 
@@ -219,7 +213,6 @@ The key is to avoid seeing regulations as a nuisance and Treat them as a crucial
 
 > **Explanation:** Mandatory convertible bonds automatically convert to equity upon certain triggers, including a breach of regulatory capital thresholds. Preference shares can also strengthen equity, though they do not always trigger automatically.
 
----
 
 ### A regulated utility discovers that new rules cap its allowed return on equity. This is an example of:
 
@@ -230,7 +223,6 @@ The key is to avoid seeing regulations as a nuisance and Treat them as a crucial
 
 > **Explanation:** Many utility regulators set permissible returns on equity (ROE) or impose similar constraints on capital structure, thereby directly influencing the firm’s cost of capital and financing decisions.
 
----
 
 ### If a country’s banking regulator imposes a higher “stress test” capital requirement, a bank may:
 
@@ -241,7 +233,6 @@ The key is to avoid seeing regulations as a nuisance and Treat them as a crucial
 
 > **Explanation:** A higher stress test requirement often forces banks to retain more capital. Suspending dividends is a common measure to help meet stricter capital ratios.
 
----
 
 ### True or False: A firm’s capital structure strategy can remain unchanged regardless of future regulatory shifts.
 

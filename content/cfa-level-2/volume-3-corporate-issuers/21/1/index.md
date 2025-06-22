@@ -170,7 +170,6 @@ Leveraging these ideas can be a game-changer, making you ready to tackle both ex
 
 > **Explanation:** Revenue synergies often arise from leveraging combined distribution channels or customer bases to cross-sell products/services. Cost-related synergies focus on reducing operating expenses.
 
----
 
 ### What is the primary advantage of structuring a cross-border deal as a stock swap?
 
@@ -181,7 +180,6 @@ Leveraging these ideas can be a game-changer, making you ready to tackle both ex
 
 > **Explanation:** A stock swap allows the acquirer to issue shares rather than use up cash, potentially preserving liquidity for other initiatives. It does not inherently eliminate regulatory requirements and may, in some cases, introduce exchange-rate complexities.
 
----
 
 ### A company from Country A acquires a target in Country B, which requires regulatory review to ensure no anti-competitive behavior. This is an example of:
 
@@ -192,7 +190,6 @@ Leveraging these ideas can be a game-changer, making you ready to tackle both ex
 
 > **Explanation:** Antitrust regulations exist to maintain competitive markets, preventing monopolies or unfair dominance after mergers. This is independent of cultural due diligence or financing structure.
 
----
 
 ### Which of the following best describes an example of political risk in a cross-border acquisition?
 
@@ -203,7 +200,6 @@ Leveraging these ideas can be a game-changer, making you ready to tackle both ex
 
 > **Explanation:** Political risk involves uncertainty or unexpected policy changes. A limit on repatriating profits is a prime example of political risk, as the acquiring firm may be unable to move profits out of the target’s country.
 
----
 
 ### When evaluating synergy potential, a key challenge of cross-border deals is:
 
@@ -214,7 +210,6 @@ Leveraging these ideas can be a game-changer, making you ready to tackle both ex
 
 > **Explanation:** Cross-border deals must account for diverse legal systems, tax regimes, and regulations, making synergy identification and realization more complex.
 
----
 
 ### Suppose an acquirer from a high-tax jurisdiction merges with a target from a low-tax jurisdiction and plans to shift some operations to the target's location. What is the most likely rationale?
 
@@ -225,7 +220,6 @@ Leveraging these ideas can be a game-changer, making you ready to tackle both ex
 
 > **Explanation:** Shifting operations to a lower-tax region is often a method to optimize the combined entity’s tax position. However, compliance with local regulations and transfer pricing rules must be considered.
 
----
 
 ### Which item typically appears in comprehensive cross-border due diligence?
 
@@ -236,7 +230,6 @@ Leveraging these ideas can be a game-changer, making you ready to tackle both ex
 
 > **Explanation:** Cross-border due diligence includes legal aspects such as pending litigation, ownership structures, and contractual obligations. Supply-chain or vendor agreements may also be reviewed, but changes generally follow post-merger negotiations.
 
----
 
 ### Why might exchange rate fluctuations significantly affect post-merger integration success?
 
@@ -247,7 +240,6 @@ Leveraging these ideas can be a game-changer, making you ready to tackle both ex
 
 > **Explanation:** Because the combined entity could have revenues and costs in multiple currencies, exchange rate volatility can influence profit margins and overall financial performance.
 
----
 
 ### Which aspect of cross-border negotiations might differ the most from domestic M&A?
 
@@ -258,7 +250,6 @@ Leveraging these ideas can be a game-changer, making you ready to tackle both ex
 
 > **Explanation:** Culture, language differences, and communication norms vary widely across countries, shaping negotiation styles and outcomes. Tax structuring is also crucial in cross-border transactions, contrary to the incorrect statement.
 
----
 
 ### True or False: In cross-border mergers, paying in stock will always be preferable to paying in cash.
 

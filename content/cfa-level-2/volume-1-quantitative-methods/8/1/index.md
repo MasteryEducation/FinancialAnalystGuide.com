@@ -117,7 +117,6 @@ Remember, you’re laying the foundation for more advanced analyses—like multi
 
 > **Explanation:** The scope definition must begin with clear objectives tied to organizational or investment goals. This ensures that the subsequent data collection and cleaning efforts are relevant and effective.
 
----
 
 ### Which of the following best describes the purpose of a data pipeline in financial modeling?
 
@@ -128,7 +127,6 @@ Remember, you’re laying the foundation for more advanced analyses—like multi
 
 > **Explanation:** Data pipelines automate data ingestion, transformation, and loading so that analysts and portfolio managers have a clean and reliable dataset for modeling.
 
----
 
 ### In the context of data cleaning, which statement is correct?
 
@@ -139,7 +137,6 @@ Remember, you’re laying the foundation for more advanced analyses—like multi
 
 > **Explanation:** Outliers may represent significant market or firm-specific events. Automatically removing them can distort insights. Likewise, missing values might need different strategies depending on the context and the data’s role in modeling.
 
----
 
 ### A financial analyst notices that some rows in a trade dataset appear twice. What is the recommended solution?
 
@@ -150,7 +147,6 @@ Remember, you’re laying the foundation for more advanced analyses—like multi
 
 > **Explanation:** Duplicate records can inflate metrics or skew analyses. The standard approach is to remove only the true duplicates, typically using a unique identifier such as a trade ID.
 
----
 
 ### Which of the following tasks is NOT typically part of data collection?
 
@@ -161,7 +157,6 @@ Remember, you’re laying the foundation for more advanced analyses—like multi
 
 > **Explanation:** Hypothesis testing (statistical analysis) generally occurs after the data has been collected and cleaned. Data collection tasks center on gathering the data rather than analyzing it in-depth.
 
----
 
 ### Why is documenting every step of the data cleaning and transformation process important?
 
@@ -172,7 +167,6 @@ Remember, you’re laying the foundation for more advanced analyses—like multi
 
 > **Explanation:** Thorough documentation helps maintain version control, track transformations, and provide transparency. It’s critical if you need to revisit decisions or justify data treatments to regulators or colleagues down the line.
 
----
 
 ### In a typical data analysis project, which stakeholder is most likely responsible for providing approvals to use external data sources?
 
@@ -183,7 +177,6 @@ Remember, you’re laying the foundation for more advanced analyses—like multi
 
 > **Explanation:** Compliance officers often need to verify that external data usage aligns with regulations and internal policies. In many financial firms, they have final say on whether data sources are approved for usage.
 
----
 
 ### Which scenario most clearly indicates a potential data quality issue?
 
@@ -194,7 +187,6 @@ Remember, you’re laying the foundation for more advanced analyses—like multi
 
 > **Explanation:** Very large daily returns may signal a data error unless there’s an extraordinary market event, prompting further investigation.
 
----
 
 ### What argument best explains why “perfectly clean” data is often unattainable?
 
@@ -205,7 +197,6 @@ Remember, you’re laying the foundation for more advanced analyses—like multi
 
 > **Explanation:** Real-world data is typically collected from a wide variety of sources, each with its own inconsistencies. Despite best efforts, absolute perfection is rare; the key is to keep imperfections within acceptable limits.
 
----
 
 ### True or False: Documenting anomalies and transformations of data is important only for junior analysts and not for senior managers.
 

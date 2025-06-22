@@ -136,7 +136,6 @@ While MNCs are typically good at coordinating these activities, it’s surprisin
 
 > **Explanation:** If the exporter is invoicing in the foreign currency, a weakening of that currency will reduce the home-currency value of the receivables.
 
----
 
 ### In an environment where the home currency is depreciating, a common strategy to manage payables might be:
 - [x] Accelerate the payment schedule of foreign currency invoices.  
@@ -146,7 +145,6 @@ While MNCs are typically good at coordinating these activities, it’s surprisin
 
 > **Explanation:** If the home currency is falling, paying foreign-currency obligations sooner locks in a more favorable rate, as the home currency’s purchasing power is still relatively stronger.
 
----
 
 ### Multilateral netting primarily helps MNCs to:
 - [x] Reduce the number of cross-currency transfers and overall transaction costs.  
@@ -156,7 +154,6 @@ While MNCs are typically good at coordinating these activities, it’s surprisin
 
 > **Explanation:** Multilateral netting consolidates the amounts owed among various subsidiaries, settling only the net differences. This can reduce the volume of transfers and associated costs.
 
----
 
 ### Cash pooling structures are used by multinational firms to:
 - [ ] Increase the complexity of their treasury operations.  
@@ -166,7 +163,6 @@ While MNCs are typically good at coordinating these activities, it’s surprisin
 
 > **Explanation:** Cash pooling aims to centralize and optimize liquidity by gathering cash surpluses from subsidiaries, minimizing idle balances, and strengthening the global treasury’s position.
 
----
 
 ### Which of the following is an advantage of using currency adjustment clauses in supply contracts?
 - [x] It helps manage exchange rate fluctuations beyond a specified threshold.  
@@ -176,7 +172,6 @@ While MNCs are typically good at coordinating these activities, it’s surprisin
 
 > **Explanation:** Currency adjustment clauses allow contract parties to adjust prices if the actual exchange rate moves outside a set band, distributing risk more fairly.
 
----
 
 ### A rolling hedge position might be considered more flexible than a single, long-dated hedge because:
 - [x] It can be adjusted incrementally as exposures evolve.  
@@ -186,7 +181,6 @@ While MNCs are typically good at coordinating these activities, it’s surprisin
 
 > **Explanation:** A rolling hedge is renewed periodically, allowing adjustments based on updated exposure estimates and market conditions.
 
----
 
 ### A best practice in managing currency exposures for day-to-day operations would be:
 - [ ] Maintaining only a single forecast for the entire fiscal year.  
@@ -196,7 +190,6 @@ While MNCs are typically good at coordinating these activities, it’s surprisin
 
 > **Explanation:** Having real-time data and a cohesive view of exposures is essential for immediate decisions and periodic hedge adjustments.
 
----
 
 ### From a working capital perspective, if an importer’s local currency has been on a strong appreciation trend, they might:
 - [x] Choose to increase imports or place larger orders before a potential reversal.  
@@ -206,7 +199,6 @@ While MNCs are typically good at coordinating these activities, it’s surprisin
 
 > **Explanation:** A stronger currency means imports effectively cost less in local terms. Companies can take advantage of this to stock up, provided they manage inventory risks.
 
----
 
 ### The treasury function’s role in shaping corporate strategy often includes:
 - [ ] Setting sales commissions for the entire company.  
@@ -216,7 +208,6 @@ While MNCs are typically good at coordinating these activities, it’s surprisin
 
 > **Explanation:** Treasury is best positioned to advise on foreign currency exposures and financing structures, which can influence the timing and scale of cross-border investments or large Payables.
 
----
 
 ### Exchange rate risk impacts working capital because movements in currency values:
 - [x] Change the home-currency value of foreign-denominated receivables and payables.  
