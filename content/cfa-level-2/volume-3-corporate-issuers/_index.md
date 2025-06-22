@@ -9,7 +9,6 @@ nav_weight: 3
 ---
 
 
-# CFA® 2025 Level II, Volume 3: Corporate Issuers
 _Online Guide with Free Quizzes_
 
 ## Unlock Success on the CFA Level II Exam

@@ -8,7 +8,6 @@ type: docs
 nav_weight: 2
 ---
 
-# CFA® 2025 Level II, Volume 2: Economics
 _Online Guide with Free Quizzes_
 
 ## Elevate Your CFA Level II Economics Performance

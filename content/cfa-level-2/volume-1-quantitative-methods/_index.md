@@ -8,7 +8,6 @@ type: docs
 nav_weight: 1
 ---
 
-# CFA® 2025 Level II, Volume 1: Quantitative Methods
 _Online Guide with Free Quizzes_
 
 ## Master Advanced Quant Skills for the CFA Level II Exam
