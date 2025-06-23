@@ -6,6 +6,7 @@ description: |
   Master CFA® 2025 Level II Economics with this comprehensive online guide. Get advanced curriculum coverage, expert tips, and free practice quizzes. Perfect for vignette-style questions on currency, growth, and macroeconomics.
 type: docs
 nav_weight: 2
+docs_root_section: false
 ---
 
 _Online Guide with Free Quizzes_

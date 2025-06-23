@@ -6,6 +6,7 @@ description: |
   Accelerate your CFA® 2025 Level II Financial Statement Analysis exam prep with our interactive online guide. Each chapter includes 10 free quizzes to reinforce key concepts, plus dedicated iOS and Android apps for on-the-go study. Learn IFRS vs. US GAAP differences, master advanced ratio analysis, and conquer vignette-style questions with ease.
 type: docs
 nav_weight: 4
+docs_root_section: false
 ---
 
 _Online Guide with Free Quizzes_

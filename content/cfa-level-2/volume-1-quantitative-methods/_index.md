@@ -6,6 +6,7 @@ description: |
   Master CFA® 2025 Level II Quantitative Methods with our advanced online guide. Get comprehensive curriculum coverage, free quizzes, and expert strategies for item set questions on regression, time series, and machine learning.
 type: docs
 nav_weight: 1
+docs_root_section: false
 ---
 
 _Online Guide with Free Quizzes_

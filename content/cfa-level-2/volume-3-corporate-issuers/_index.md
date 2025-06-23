@@ -6,6 +6,7 @@ description: |
   Ace the CFA® 2025 Level II Corporate Issuers exam with our in-depth online guide. Access advanced vignette strategies, free CFA quizzes, and expert exam tips. Perfect for mastering corporate finance, cost of capital, and ESG—updated for the latest curriculum.
 type: docs
 nav_weight: 3
+docs_root_section: false
 ---
 
 
