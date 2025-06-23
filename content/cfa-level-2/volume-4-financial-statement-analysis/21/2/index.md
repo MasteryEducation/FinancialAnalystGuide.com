@@ -144,7 +144,6 @@ All right, hopefully that clarifies how timing can transform a firm’s operatin
 
 > **Explanation:** Delaying payments to suppliers is a timing-based maneuver that temporarily boosts operating cash flow. It doesn’t necessarily reflect a genuine improvement in efficiency.
 
----
 
 ### An analyst observes that a firm’s net income decreased slightly while its operating cash flow soared during the same period. Which key ratio would be most helpful to examine first to investigate potential CFO manipulation?
 
@@ -155,7 +154,6 @@ All right, hopefully that clarifies how timing can transform a firm’s operatin
 
 > **Explanation:** If CFO is rising while net income is falling, it may be due to delaying payables or accelerating receivables. DPO is a prime ratio to review for payment delays to suppliers.
 
----
 
 ### A company extends a special discount to customers who pay within 10 days to shore up short-term cash flow. This strategy may:
 
@@ -166,7 +164,6 @@ All right, hopefully that clarifies how timing can transform a firm’s operatin
 
 > **Explanation:** Accelerating collections through discounts can temporarily inflate collections in the current period. However, it typically pulls sales receipts forward, reducing future inflows.
 
----
 
 ### If a retailer’s Days Inventory Outstanding (DIO) unexpectedly plummets while its sales have only modestly increased, an analyst should:
 
@@ -177,7 +174,6 @@ All right, hopefully that clarifies how timing can transform a firm’s operatin
 
 > **Explanation:** A sudden large decline in DIO can sometimes suggest that inventory is leaving the books faster than normal. Without clear operational reasons, it could mean potential reporting manipulation.
 
----
 
 ### Under IFRS, interest and dividends received:
 
@@ -188,7 +184,6 @@ All right, hopefully that clarifies how timing can transform a firm’s operatin
 
 > **Explanation:** IFRS provides flexibility for classifying interest and dividend receipts as either CFO or CFI, whereas US GAAP typically requires them to appear in operating cash flow.
 
----
 
 ### Which of the following best captures a “cosmetic” improvement in CFO?
 
@@ -199,7 +194,6 @@ All right, hopefully that clarifies how timing can transform a firm’s operatin
 
 > **Explanation:** Factoring receivables is a cosmetic approach to boost CFO short term. It doesn’t represent an underlying improvement in overall operational performance.
 
----
 
 ### A sudden spike in Days Payable Outstanding, absent any noted change in supplier terms, is most likely indicative of:
 
@@ -210,7 +204,6 @@ All right, hopefully that clarifies how timing can transform a firm’s operatin
 
 > **Explanation:** A sharp DPO increase that lacks a valid business explanation is often a clue that management is postponing payments to suppliers, thereby artificially boosting operating cash flow.
 
----
 
 ### An investor notices that a company’s operating cash flow soared by 30% while net sales and net income remained flat. Which next step would be most prudent?
 
@@ -221,7 +214,6 @@ All right, hopefully that clarifies how timing can transform a firm’s operatin
 
 > **Explanation:** The analyst should compare changes in working capital accounts, such as Accounts Receivable and Accounts Payable, for any suspicious timing maneuvers.
 
----
 
 ### During a conference call, management mentions using a short-term loan to pay off accounts payable earlier than usual, thereby reducing payables on the balance sheet. The effect on CFO is:
 
@@ -232,7 +224,6 @@ All right, hopefully that clarifies how timing can transform a firm’s operatin
 
 > **Explanation:** Taking a short-term loan can shift cash outflows to the financing section. Depending on timing and classification, the operating section may appear more robust in future periods if payables remain low.
 
----
 
 ### True or False: IFRS generally provides more narrative around cash flow movements than US GAAP does.
 

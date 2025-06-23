@@ -116,7 +116,6 @@ Ultimately, FSA goes beyond passing an exam. It’s about weaving together numbe
 
 > **Explanation:** Knowledge decay is combated by actively revisiting material at regular intervals, particularly through real-world application.
 
----
 
 ### Why is the concept of “Storytelling in FSA” considered valuable?
 
@@ -127,7 +126,6 @@ Ultimately, FSA goes beyond passing an exam. It’s about weaving together numbe
 
 > **Explanation:** Storytelling brings charts and numbers to life, offering context and practical implications that resonate with stakeholders and clients.
 
----
 
 ### Which chapter in this volume primarily addressed Goodwill Impairment Testing?
 
@@ -138,7 +136,6 @@ Ultimately, FSA goes beyond passing an exam. It’s about weaving together numbe
 
 > **Explanation:** Goodwill recognition, measurement, and impairment testing are covered extensively in Chapter 5.
 
----
 
 ### According to this section, what action should you consider when growing your professional network?
 
@@ -149,7 +146,6 @@ Ultimately, FSA goes beyond passing an exam. It’s about weaving together numbe
 
 > **Explanation:** Networking is enriched by the mutual exchange of knowledge, experience, and resources.
 
----
 
 ### Which statement about ethical conduct is most correct?
 
@@ -160,7 +156,6 @@ Ultimately, FSA goes beyond passing an exam. It’s about weaving together numbe
 
 > **Explanation:** Upholding integrity is essential across all areas of financial work, consistent with the CFA Institute’s Code of Ethics.
 
----
 
 ### What is a key advantage of using local or online workshops post- Level II?
 
@@ -171,7 +166,6 @@ Ultimately, FSA goes beyond passing an exam. It’s about weaving together numbe
 
 > **Explanation:** Actively engaging in workshops, whether as an attendee or a mentor, deepens your understanding and cements concepts in long-term memory.
 
----
 
 ### When considering forensic accounting as a career path:
 
@@ -182,7 +176,6 @@ Ultimately, FSA goes beyond passing an exam. It’s about weaving together numbe
 
 > **Explanation:** Forensic accounting focuses on detailed investigative analysis of financial records, often in the context of fraud detection or litigation support.
 
----
 
 ### Which exam-related tip might be most beneficial if you decide to move on to Level III?
 
@@ -193,7 +186,6 @@ Ultimately, FSA goes beyond passing an exam. It’s about weaving together numbe
 
 > **Explanation:** Level III emphasizes portfolio management, where FSA knowledge continues to be highly relevant for asset pricing, strategy, and risk assessment.
 
----
 
 ### Which resource is specifically recommended for advanced reading on financial statements post-exam?
 
@@ -204,7 +196,6 @@ Ultimately, FSA goes beyond passing an exam. It’s about weaving together numbe
 
 > **Explanation:** “International Financial Statement Analysis” is directly aligned with CFA topics and offers deeper insights for continuing education.
 
----
 
 ### Achieving the CFA® charter implies:
 

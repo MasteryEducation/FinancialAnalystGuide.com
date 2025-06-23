@@ -172,7 +172,6 @@ If time permits, it’s super helpful to skim through real corporate annual fili
 
 > **Explanation:** An associate is usually defined as having significant influence, which often corresponds to an ownership stake between 20% and 50%. Lower ownership percentages typically signal financial assets, and 50% or more often implies control leading to consolidation unless defined as a joint venture.
 
----
 
 ### PQR Company owns 15% of ABC Corp. and has no board representation. PQR recognizes dividends in income and records changes in value through other comprehensive income. Which classification is this likely to be?
 
@@ -183,7 +182,6 @@ If time permits, it’s super helpful to skim through real corporate annual fili
 
 > **Explanation:** With only a 15% stake and no influence, PQR likely treats this as a financial asset. The mention of “changes in value through OCI” corresponds to FVOCI (IFRS) or classified as available-for-sale (legacy US GAAP terminology, though slightly updated in ASC 321). In any case, it’s not an associate or VIE.
 
----
 
 ### In a joint venture under IFRS 11 where parties share joint control, which accounting method is most often used?
 
@@ -194,7 +192,6 @@ If time permits, it’s super helpful to skim through real corporate annual fili
 
 > **Explanation:** IFRS 11 generally requires using the equity method for joint ventures. Proportionate consolidation is reserved for “joint operations,” where each party has direct rights to assets and obligations for liabilities.
 
----
 
 ### An investor with only 5% ownership in a special-purpose entity (SPE) is obligated to absorb the majority of that SPE’s losses. Under US GAAP, this setup is most likely signaling:
 
@@ -205,7 +202,6 @@ If time permits, it’s super helpful to skim through real corporate annual fili
 
 > **Explanation:** Under the US GAAP VIE model, absorbing the majority of an entity’s losses typically indicates primary beneficiary status, triggering consolidation, even with minimal ownership percentages.
 
----
 
 ### If an investor steps up ownership from 10% to 25% and gains a board seat in the investee:
 
@@ -216,7 +212,6 @@ If time permits, it’s super helpful to skim through real corporate annual fili
 
 > **Explanation:** Moving from under 20% to over 20% (accompanied by significant influence) triggers reclassification from a financial asset to the equity method. IFRS often requires remeasuring the previously held interest at fair value, recognizing any gain or loss.
 
----
 
 ### Which of the following statements is correct regarding the equity method?
 
@@ -227,7 +222,6 @@ If time permits, it’s super helpful to skim through real corporate annual fili
 
 > **Explanation:** Under the equity method, the investment is recorded in a single line on the balance sheet, and the investor’s proportionate share of the investee’s net income is recorded as a single-line item on the income statement. Dividends reduce the carrying value on the balance sheet.
 
----
 
 ### Which factor does NOT typically indicate significant influence under IFRS?
 
@@ -238,7 +232,6 @@ If time permits, it’s super helpful to skim through real corporate annual fili
 
 > **Explanation:** Significant influence usually includes involvement in or authority over decision-making and policy processes. A passive investment with no special rights does not indicate significant influence.
 
----
 
 ### Under IFRS 10’s concept of “de facto control”:
 
@@ -249,7 +242,6 @@ If time permits, it’s super helpful to skim through real corporate annual fili
 
 > **Explanation:** IFRS 10 stipulates that an investor can have control even without a majority stake if it can direct the relevant activities and if other shareholders are widely dispersed or likely to remain passive.
 
----
 
 ### A 50% ownership stake in an entity will definitely require which accounting approach?
 
@@ -260,7 +252,6 @@ If time permits, it’s super helpful to skim through real corporate annual fili
 
 > **Explanation:** A 50% stake could mean joint control, leading to a joint venture classification. However, it’s possible that the investor has full control (or no control!) depending on the other owner(s). Hence, an assessment of actual control rights is needed before concluding on the accounting approach.
 
----
 
 ### True or False: Under US GAAP, an investor automatically gains the right to consolidate any investee in which it holds more than 50% of equity.
 

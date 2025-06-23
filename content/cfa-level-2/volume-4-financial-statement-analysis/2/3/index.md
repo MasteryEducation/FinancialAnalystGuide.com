@@ -173,7 +173,6 @@ Anyway, the main takeaway is to be methodical: read each detail in the vignette,
 
 > **Explanation:** The core principle is that the entity recognizes revenue based on the consideration it expects to receive, as control of goods or services transfers to the customer.
 
----
 
 ### Which of the following steps is part of the five-step model under IFRS 15 and ASC 606?
 - [x] Identify the performance obligations 
@@ -183,7 +182,6 @@ Anyway, the main takeaway is to be methodical: read each detail in the vignette,
 
 > **Explanation:** The five-step model includes (1) identifying the contract, (2) identifying performance obligations, (3) determining transaction price, (4) allocating the transaction price, and (5) recognizing revenue when obligations are satisfied.
 
----
 
 ### How might onerous contracts be treated differently under IFRS 15 compared to US GAAP?
 - [ ] IFRS 15 never allows recognition of losses in advance 
@@ -193,7 +191,6 @@ Anyway, the main takeaway is to be methodical: read each detail in the vignette,
 
 > **Explanation:** IFRS 15 (and related IFRS guidance) require recognizing a provision for an onerous contract when expected costs exceed benefits. US GAAP uses different references to address such scenarios, often ASC 450.
 
----
 
 ### Under IFRS 15, if a contract includes multiple distinct performance obligations, how should the total transaction price be allocated?
 - [ ] Based on the performance obligation with the highest expected margin 
@@ -203,7 +200,6 @@ Anyway, the main takeaway is to be methodical: read each detail in the vignette,
 
 > **Explanation:** The total transaction price must generally be allocated to each performance obligation in proportion to its estimated standalone selling price.
 
----
 
 ### Which of the following is most likely recognized over time (rather than at a point in time) under IFRS 15 and ASC 606?
 - [x] Custom construction services performed on a customer’s property 
@@ -213,7 +209,6 @@ Anyway, the main takeaway is to be methodical: read each detail in the vignette,
 
 > **Explanation:** If the customer controls the asset or receives benefits as work is performed (like with a custom build on their property), revenue is recognized over time. In contrast, a laptop sale is recognized at the point in time the device is delivered.
 
----
 
 ### Which statement correctly describes the concept of collectability under IFRS 15?
 - [ ] Collectability is not assessed until the contract is completed 
@@ -223,7 +218,6 @@ Anyway, the main takeaway is to be methodical: read each detail in the vignette,
 
 > **Explanation:** IFRS 15 requires that it be probable that the entity will collect substantially all the consideration in order to recognize revenue under a valid contract.
 
----
 
 ### Suppose a company signs a software license contract where the license is deemed a right-to-access over two years. How will revenue likely be recognized?
 - [x] Over the period of the license term 
@@ -233,7 +227,6 @@ Anyway, the main takeaway is to be methodical: read each detail in the vignette,
 
 > **Explanation:** For a right-to-access license, revenue is typically recognized over time as the customer continuously receives value.
 
----
 
 ### A company capitalizes certain costs of obtaining a revenue contract (e.g., sales commissions). Which statement is correct regarding IFRS 15 and ASC 606?
 - [ ] Such capitalization is disallowed under both standards 
@@ -243,7 +236,6 @@ Anyway, the main takeaway is to be methodical: read each detail in the vignette,
 
 > **Explanation:** Both IFRS 15 and ASC 606 permit capitalization of incremental contract acquisition costs if the costs are expected to be recovered, though there may be some differences in how materiality thresholds are applied.
 
----
 
 ### Which of the following is a common pitfall when applying the new revenue recognition standards?
 - [ ] Ignoring cash payments 
@@ -253,7 +245,6 @@ Anyway, the main takeaway is to be methodical: read each detail in the vignette,
 
 > **Explanation:** A frequent mistake is failing to properly identify each performance obligation or bundling them incorrectly, resulting in incorrectly allocated and recognized revenue.
 
----
 
 ### Under IFRS 15 and ASC 606, which best describes the overarching approach to revenue recognition?
 - [x] A principles-based approach requiring judgments about the transfer of control 

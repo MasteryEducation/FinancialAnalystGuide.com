@@ -167,7 +167,6 @@ Run something like this in a Python shell, and you’ll find the coverage ratio 
 
 > **Explanation:** Level II FSA demands not just recognizing whether something is expensed or capitalized but also understanding how that approach alters ratio analysis, valuation, and the broader interpretation of financial performance.
 
----
 
 ### Which of the following is a key difference typically highlighted between IFRS and US GAAP?
 
@@ -178,7 +177,6 @@ Run something like this in a Python shell, and you’ll find the coverage ratio 
 
 > **Explanation:** IFRS permits capitalization of development costs under specific criteria, whereas US GAAP generally mandates that most development costs be expensed when incurred. This divergence can affect a company’s reported net income and asset base.
 
----
 
 ### In analyzing pension accounting under IFRS and US GAAP at Level II, candidates should be prepared to:
 
@@ -189,7 +187,6 @@ Run something like this in a Python shell, and you’ll find the coverage ratio 
 
 > **Explanation:** Pension accounting requires an understanding of underlying assumptions (e.g., discount rates, expected returns, mortality rates) and how those differences can impact the reported expense and obligation. IFRS and US GAAP each have nuanced rules for recognizing actuarial gains/losses, service costs, and interest costs.
 
----
 
 ### Why is it crucial to evaluate share-based compensation at Level II?
 
@@ -200,7 +197,6 @@ Run something like this in a Python shell, and you’ll find the coverage ratio 
 
 > **Explanation:** Share-based compensation influences the income statement (through compensation expense) and also dilutes equity when share options are exercised. You need to know how these factors alter EPS and potentially the perceived profitability of the firm.
 
----
 
 ### Which method is most frequently used under IFRS to translate foreign subsidiaries’ financial statements when the subsidiary’s functional currency differs from the parent’s functional currency?
 
@@ -211,7 +207,6 @@ Run something like this in a Python shell, and you’ll find the coverage ratio 
 
 > **Explanation:** IFRS typically uses the current rate method for translating the financial statements of foreign subsidiaries whose functional currency differs from the reporting entity’s. This method translates most assets and liabilities using the closing rate, impacting the cumulative translation adjustment (CTA).
 
----
 
 ### When analyzing the impact of an unusual revenue recognition policy, a Level II candidate should:
 
@@ -222,7 +217,6 @@ Run something like this in a Python shell, and you’ll find the coverage ratio 
 
 > **Explanation:** Item-set questions often involve dissecting the footnotes to figure out if revenue was recognized prematurely or in an unusual manner. A thorough analyst accountant will adjust financials accordingly to arrive at a more accurate valuation.
 
----
 
 ### Which of the following is an example of aggressive accounting?
 
@@ -233,7 +227,6 @@ Run something like this in a Python shell, and you’ll find the coverage ratio 
 
 > **Explanation:** Capitalizing expenditures that might not meet capitalization criteria inflates assets and reduces expenses in the current period, thus boosting earnings—an example of aggressive accounting.
 
----
 
 ### When confronted with significant differences between IFRS and US GAAP in an item set, the best approach is:
 
@@ -244,7 +237,6 @@ Run something like this in a Python shell, and you’ll find the coverage ratio 
 
 > **Explanation:** You must recognize how different standards affect financial statements. Making adjustments to render them comparable is typically the best practice for thorough analysis.
 
----
 
 ### Which statement about IFRS vs. US GAAP in Level II is correct?
 
@@ -255,7 +247,6 @@ Run something like this in a Python shell, and you’ll find the coverage ratio 
 
 > **Explanation:** There can be multiple notable divergences between IFRS and US GAAP across various topics. Level II expects you to identify those discrepancies and their repercussions on the analysis.
 
----
 
 ### Under the current rate method for foreign currency translation, is it true or false that all assets and liabilities (except equity) are translated at the closing rate?
 

@@ -162,7 +162,6 @@ If your company has a derivative strategy (i.e., forward contracts or options) a
 
 > **Explanation:** The initial recognition of a foreign-currency-denominated payable is recorded at the spot rate on the transaction date.
 
----
 
 ### Which concept describes converting local currency balances into the functional currency using the temporal method?
 
@@ -173,7 +172,6 @@ If your company has a derivative strategy (i.e., forward contracts or options) a
 
 > **Explanation:** Under the temporal method, local currency balances are remeasured into the entity’s functional currency. “Translation” typically refers to converting from the functional currency to the presentation currency using the current rate method.
 
----
 
 ### If a payable is denominated in euros and the euro appreciates against the US dollar before settlement, which statement is generally true for an unhedged payer?
 
@@ -184,7 +182,6 @@ If your company has a derivative strategy (i.e., forward contracts or options) a
 
 > **Explanation:** An appreciation of the foreign currency means you need more of your functional currency to settle the same foreign amount, resulting in a loss for an unhedged company.
 
----
 
 ### Under IFRS and US GAAP, an unhedged foreign-currency-denominated payable is revalued at which rate on the balance sheet date?
 
@@ -195,7 +192,6 @@ If your company has a derivative strategy (i.e., forward contracts or options) a
 
 > **Explanation:** Both IFRS and US GAAP require monetary items such as payables and receivables to be remeasured or revalued using the spot rate at each balance sheet date.
 
----
 
 ### Which of the following is the net effect on the income statement when a payable is recorded at 1.20 USD/EUR, then remeasured at 1.25, and finally settled at 1.22?
 
@@ -206,7 +202,6 @@ If your company has a derivative strategy (i.e., forward contracts or options) a
 
 > **Explanation:** The loss at the interim date is $5,000, and the gain upon settlement is $3,000, so the net result is a $2,000 loss.
 
----
 
 ### A foreign-currency-denominated payable is considered what type of item for accounting purposes?
 
@@ -217,7 +212,6 @@ If your company has a derivative strategy (i.e., forward contracts or options) a
 
 > **Explanation:** Payables and receivables in foreign currency are classified as monetary items and must be remeasured with changes going to the income statement.
 
----
 
 ### When a forward contract is not accounted for under hedge accounting, which statement applies?
 
@@ -228,7 +222,6 @@ If your company has a derivative strategy (i.e., forward contracts or options) a
 
 > **Explanation:** If the derivative is not officially designated as a hedge but is used speculatively, all gains and losses flow through current earnings.
 
----
 
 ### Which of the following increases the risk of realizing a large FX loss on accounts payable?
 
@@ -239,7 +232,6 @@ If your company has a derivative strategy (i.e., forward contracts or options) a
 
 > **Explanation:** If the foreign currency gains strength, the domestic company will need more of its functional currency to settle the payable, thus increasing the risk of a loss.
 
----
 
 ### If a US company classifies a forward contract as a cash flow hedge under IFRS 9 and meets all hedge accounting requirements, how are effective hedge gains or losses recorded?
 
@@ -250,7 +242,6 @@ If your company has a derivative strategy (i.e., forward contracts or options) a
 
 > **Explanation:** Under IFRS 9 (and similarly under US GAAP), for a cash flow hedge the effective portion of the derivative’s gain or loss is recorded in OCI and only reclassified to the income statement when the hedged transaction affects earnings.
 
----
 
 ### A US firm records a foreign-currency transaction with no hedge on January 1. True or False: The gain or loss will always be recognized in OCI.
 

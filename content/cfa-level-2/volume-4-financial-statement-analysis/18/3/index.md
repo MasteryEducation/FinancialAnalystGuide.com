@@ -121,7 +121,6 @@ By merging your analysis of the firm’s fundamentals, industry outlook, and the
 
 > **Explanation:** Discretionary accruals require management’s estimates or judgments, often providing opportunities for earnings manipulation.
 
----
 
 ### What might be an early warning sign of potential earnings manipulation?
 - [ ] Consistent growth of net income in line with increasing cash flow from operations.  
@@ -131,7 +130,6 @@ By merging your analysis of the firm’s fundamentals, industry outlook, and the
 
 > **Explanation:** A large mismatch between net income and CFO can indicate that net income might be inflated through accruals or other manipulations.
 
----
 
 ### A firm reports a sudden surge in revenue in the last week of the reporting period, potentially indicating:
 - [x] Channel stuffing.  
@@ -141,7 +139,6 @@ By merging your analysis of the firm’s fundamentals, industry outlook, and the
 
 > **Explanation:** Channel stuffing occurs when a company pushes excess goods to distributors at the end of a period to boost reported revenue.
 
----
 
 ### One possible sign of creative expense capitalization is:
 - [x] An increase in intangible assets without corresponding product or service development.  
@@ -151,7 +148,6 @@ By merging your analysis of the firm’s fundamentals, industry outlook, and the
 
 > **Explanation:** If intangible assets grow for no apparent reason, the firm could be capitalizing costs that should be expensed.
 
----
 
 ### When companies use “cookie jar” reserves, they:
 - [x] Overstate expenses or provisions in good times and reverse them later.  
@@ -161,7 +157,6 @@ By merging your analysis of the firm’s fundamentals, industry outlook, and the
 
 > **Explanation:** Cookie jar reserving involves creating excessive reserves in profitable periods that can be reversed in future periods to boost income.
 
----
 
 ### An analyst should focus on footnotes and disclosures primarily because:
 - [ ] They are usually irrelevant to earnings quality.  
@@ -171,7 +166,6 @@ By merging your analysis of the firm’s fundamentals, industry outlook, and the
 
 > **Explanation:** Footnotes often contain insight into management judgments, changes in estimates, and off-balance-sheet items that can affect earnings quality.
 
----
 
 ### Which action typically raises a concern about discretionary accrual usage?
 - [ ] Stable growth in working capital.  
@@ -181,7 +175,6 @@ By merging your analysis of the firm’s fundamentals, industry outlook, and the
 
 > **Explanation:** Sudden changes in reserves or provisions may signal that management is adjusting accruals to manipulate earnings.
 
----
 
 ### A negative CFO while net income remains positive for several consecutive periods may indicate:
 - [ ] Healthy cash deployment for future growth.  
@@ -191,7 +184,6 @@ By merging your analysis of the firm’s fundamentals, industry outlook, and the
 
 > **Explanation:** If a company consistently shows negative operating cash flows while reporting positive net income, it suggests the possibility that earnings are inflated through non-cash accounting judgments.
 
----
 
 ### Management’s track record is important to consider because:
 - [ ] It is irrelevant when analyzing current financial statements.  
@@ -201,7 +193,6 @@ By merging your analysis of the firm’s fundamentals, industry outlook, and the
 
 > **Explanation:** A history of restatements or accounting irregularities can signal how likely managers are to push boundaries again.
 
----
 
 ### True or False: A clean audit opinion guarantees that there are no material discretionary accrual manipulations.
 - [x] True  

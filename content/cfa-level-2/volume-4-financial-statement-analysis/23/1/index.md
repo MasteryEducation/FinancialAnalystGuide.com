@@ -150,7 +150,6 @@ At the end of the day, we want to see through any currency illusions to find the
 
 > **Explanation:** IFRS generally uses the current rate method for translation when the functional currency of the subsidiary differs from the reporting currency of the parent.
 
----
 
 ### A German subsidiary has a pension liability of €200 million, where the discount rate is 2%. The parent reports in USD. When the euro weakens significantly, which of the following is most likely to happen under the current rate method?
 - [ ] The pension liability in local terms increases significantly.
@@ -160,7 +159,6 @@ At the end of the day, we want to see through any currency illusions to find the
 
 > **Explanation:** If the euro depreciates versus the USD, the translated pension liability in USD terms appears smaller, even if the local liability has not changed.
 
----
 
 ### Under the temporal method (U.S. GAAP) when a subsidiary’s functional currency is the same as the parent’s reporting currency, pension-related remeasurement gains and losses:
 - [x] Typically affect net income.
@@ -170,7 +168,6 @@ At the end of the day, we want to see through any currency illusions to find the
 
 > **Explanation:** Under the temporal method, monetary items such as pension obligations are remeasured at the current rate, and gains/losses flow through net income, not OCI.
 
----
 
 ### A pension plan in Country X (functional currency = Xdollar) experiences an actuarial loss of Xdollar 10 million. The exchange rate at the date of recognition is 1 Xdollar = $0.70. How much would you initially record in OCI if IFRS classifies the actuarial loss in OCI?
 - [x] $7 million
@@ -180,7 +177,6 @@ At the end of the day, we want to see through any currency illusions to find the
 
 > **Explanation:** Under IFRS, actuarial losses are recognized immediately in OCI. The local actuarial loss of 10 million is translated at 0.70, yielding $7 million.
 
----
 
 ### The funded status of a UK subsidiary is measured as GBP 5 million of plan assets minus GBP 8 million of PBO. With a spot rate of 1 GBP = $1.25, what is the funded status of this plan on the parent’s consolidated balance sheet?
 - [x] –$3.75 million
@@ -190,7 +186,6 @@ At the end of the day, we want to see through any currency illusions to find the
 
 > **Explanation:** Funded status = (5 – 8) = –GBP 3 million. Multiply by $1.25 for –$3.75 million.
 
----
 
 ### Which of the following best describes why discount rates can vary for pension plans in different countries?
 - [ ] Companies prefer to show lower liabilities.
@@ -200,7 +195,6 @@ At the end of the day, we want to see through any currency illusions to find the
 
 > **Explanation:** IAS 19 and U.S. GAAP guidance generally require companies to use a discount rate that reflects yields of high-quality corporate bonds (or government bonds where relevant), which differ across regions.
 
----
 
 ### When analyzing debt-to-equity ratios for a multinational firm, why is it important to look beyond the IFRS consolidated figure to the local-currency statements?
 - [ ] Local statements are always more accurate than consolidated ones.
@@ -210,7 +204,6 @@ At the end of the day, we want to see through any currency illusions to find the
 
 > **Explanation:** Exchange rates can make liabilities and equity appear higher or lower than their true economic reality, so it helps to look at local-currency statements to understand actual changes.
 
----
 
 ### Which of the following is least likely to result in an immediate income statement impact under IFRS?
 - [ ] A pension remeasurement gain recognized under the temporal method in U.S. GAAP
@@ -220,7 +213,6 @@ At the end of the day, we want to see through any currency illusions to find the
 
 > **Explanation:** IFRS typically sends translation adjustments to OCI, avoiding an immediate income statement impact, whereas a curtailment gain or discount rate changes might affect the income statement.
 
----
 
 ### An analyst wants to separate the actual economic changes in a subsidiary’s pension plan from the effects of currency shifts. Which approach would be most effective?
 - [x] Evaluate the plan’s funded status in local currency terms over time.
@@ -230,7 +222,6 @@ At the end of the day, we want to see through any currency illusions to find the
 
 > **Explanation:** By focusing on local currency figures, an analyst can strip out the FX fluctuations and see if the plan’s real funded status is improving or deteriorating.
 
----
 
 ### True or False: Under IAS 19, all actuarial gains and losses must be recognized through net income immediately.
 - [ ] True

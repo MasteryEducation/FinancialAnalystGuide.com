@@ -169,7 +169,6 @@ Good luck on the exam, and may your analysis be thorough and your footnote readi
 
 > **Explanation:** When the modification increases the fair value of the award, the company must recognize an incremental compensation expense. This typically reflects the extra benefit granted to the employee relative to the original terms.
 
----
 
 ### Under IFRS 2 and US GAAP, how are forfeitures generally handled in accounting for share-based payments?
 
@@ -180,7 +179,6 @@ Good luck on the exam, and may your analysis be thorough and your footnote readi
 
 > **Explanation:** Both IFRS and US GAAP require companies to estimate and adjust for forfeitures, though US GAAP allows a policy choice to estimate forfeitures or record them as they occur. In either case, a catch-up adjustment is recorded when actual forfeitures differ from estimates.
 
----
 
 ### Which of the following best describes “repricing” a stock option?
 
@@ -191,7 +189,6 @@ Good luck on the exam, and may your analysis be thorough and your footnote readi
 
 > **Explanation:** Repricing specifically refers to reducing the original exercise price, often to make the option more attractive if the current market price has dropped below the strike price.
 
----
 
 ### A company modifies an executive stock option grant, resulting in no increase to the fair value of the original award. Which statement is most accurate?
 
@@ -202,7 +199,6 @@ Good luck on the exam, and may your analysis be thorough and your footnote readi
 
 > **Explanation:** If the fair value is not increased by the modification, there’s no incremental compensation expense to record. However, the company may still need to disclose the modification's impact in the footnotes.
 
----
 
 ### An employer’s forfeiture estimate was initially 5% at grant date, but actual turnover exceeded 15%. Which of the following is correct?
 
@@ -213,7 +209,6 @@ Good luck on the exam, and may your analysis be thorough and your footnote readi
 
 > **Explanation:** A higher forfeiture rate means fewer awards actually vest, reducing total compensation expense. A catch-up downward adjustment is generally recognized to reflect the difference between initial and actual forfeiture rates.
 
----
 
 ### If a firm frequently reprices its executive stock options, what might this signal to investors?
 
@@ -224,7 +219,6 @@ Good luck on the exam, and may your analysis be thorough and your footnote readi
 
 > **Explanation:** Frequent repricing often spurs skepticism about the company’s governance practices. Investors worry that continually lowering strike prices dilutes the link between performance and reward.
 
----
 
 ### When modified awards become “in the money” after a repricing, which financial statement element is directly affected?
 
@@ -235,7 +229,6 @@ Good luck on the exam, and may your analysis be thorough and your footnote readi
 
 > **Explanation:** A repricing that moves awards into the money generally increases compensation expense to reflect the greater fair value conferred to employees.
 
----
 
 ### How does IFRS typically handle a decrease in fair value from a modification?
 
@@ -246,7 +239,6 @@ Good luck on the exam, and may your analysis be thorough and your footnote readi
 
 > **Explanation:** IFRS 2 disallows downward reversals of expense if the fair value decreases after a modification. The incremental basis generally applies only to upward adjustments in fair value.
 
----
 
 ### Which of the following disclosures most commonly appears in a company’s footnotes when it has repriced stock options?
 
@@ -257,7 +249,6 @@ Good luck on the exam, and may your analysis be thorough and your footnote readi
 
 > **Explanation:** Companies usually disclose the nature of the modification, including the incremental fair value calculation and reasons for repricing, in the footnotes.
 
----
 
 ### True or False: Adjusting previously recognized compensation expense for forfeitures is called a “catch-up” adjustment.
 

@@ -197,7 +197,6 @@ Anyway, don’t be afraid if you find these policies a bit intimidating at first
 
 > **Explanation:** Aggressive accounting policies push revenue and profits higher by accelerating revenue recognition or deferring expenses. While compliance with IFRS or US GAAP is required, both frameworks allow for varying degrees of professional judgment.
 
----
 
 ### In the context of revenue recognition, which approach is most clearly conservative?
 
@@ -208,7 +207,6 @@ Anyway, don’t be afraid if you find these policies a bit intimidating at first
 
 > **Explanation:** Delaying recognition until all major uncertainties are resolved—such as allowing the right of return period to pass—reflects a conservative approach. It understates current revenue, ensuring that only the most certain amounts are recorded.
 
----
 
 ### A company’s allowance for doubtful accounts decreases significantly year over year, while the ratio of overdue receivables grows. What might this suggest?
 
@@ -219,7 +217,6 @@ Anyway, don’t be afraid if you find these policies a bit intimidating at first
 
 > **Explanation:** A significant drop in the allowance for doubtful accounts amid growing overdue receivables indicates that the company may not be adequately providing for expected defaults, which pushes up net income aggressively.
 
----
 
 ### Under IFRS, which of the following is often considered a sign of conservative accounting?
 
@@ -230,7 +227,6 @@ Anyway, don’t be afraid if you find these policies a bit intimidating at first
 
 > **Explanation:** IFRS’s principles-based approach can lead to earlier impairment recognition, especially if management is being cautious. Meanwhile, LIFO is not permitted under IFRS, and maximizing residual values is more aggressive.
 
----
 
 ### A company switches from accelerated depreciation to straight-line depreciation, citing revised asset usage estimates. How might this affect current earnings?
 
@@ -241,7 +237,6 @@ Anyway, don’t be afraid if you find these policies a bit intimidating at first
 
 > **Explanation:** Straight-line depreciation typically results in lower depreciation expense early in an asset’s life than an accelerated method, so switching from accelerated to straight-line often increases current earnings.
 
----
 
 ### Which of the following motivations commonly drive managers to adopt aggressive policies?
 
@@ -252,7 +247,6 @@ Anyway, don’t be afraid if you find these policies a bit intimidating at first
 
 > **Explanation:** Managers often turn to aggressive accounting to present stronger short-term results and align with performance benchmarks or bonus incentives.
 
----
 
 ### When might a consistently understated set of financials (i.e., overly conservative) be a red flag?
 
@@ -263,7 +257,6 @@ Anyway, don’t be afraid if you find these policies a bit intimidating at first
 
 > **Explanation:** Overly conservative approaches can create hidden reserves that can be released strategically, distorting future earnings and making performance less transparent.
 
----
 
 ### How can an analyst best compare two companies that have different inventory valuation methods (e.g., LIFO vs. FIFO)?
 
@@ -274,7 +267,6 @@ Anyway, don’t be afraid if you find these policies a bit intimidating at first
 
 > **Explanation:** The best method for ensuring meaningful comparison is to restate one company’s results to a consistent valuation approach, usually using disclosures in the notes, to provide an “apples to apples” analysis.
 
----
 
 ### What is a key sign in an exam vignette that a company’s impairment test application might be aggressive?
 
@@ -285,7 +277,6 @@ Anyway, don’t be afraid if you find these policies a bit intimidating at first
 
 > **Explanation:** Aggressive accounting is often spotted where impairment losses are unreasonably delayed, keeping asset values artificially high.
 
----
 
 ### True or False: Under IFRS, a company can reverse previously recognized impairment losses on certain assets if their fair value recovers.
 

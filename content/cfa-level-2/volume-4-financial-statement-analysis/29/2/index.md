@@ -173,7 +173,6 @@ Finally, keep a close eye on footnotes in vignettes; they often reveal the perfo
 
 > **Explanation:** Under IAS 19, remeasurements—including actuarial gains and losses—go straight to OCI and do not get recycled back to the income statement in future periods.
 
----
 
 ### Under US GAAP, which component of pension expense is commonly reduced by the expected return on plan assets?
 - [ ] Service cost
@@ -183,7 +182,6 @@ Finally, keep a close eye on footnotes in vignettes; they often reveal the perfo
 
 > **Explanation:** The expected return on plan assets is used to lower net periodic pension cost. This reduces the total pension expense recognized in the income statement.
 
----
 
 ### A company experiences an unexpected jump in pension expense, lowering its net income. Which outcome could occur if its share-based comp plan is tied to a net-income performance threshold?
 - [x] Fewer shares might vest, reducing share-based compensation expense.
@@ -193,7 +191,6 @@ Finally, keep a close eye on footnotes in vignettes; they often reveal the perfo
 
 > **Explanation:** If pension expense lowers net income below a performance threshold, fewer shares may vest under a performance-based share plan, leading to a partial reversal of share-based compensation expense.
 
----
 
 ### Under IFRS, how is the net interest cost on a defined benefit pension recognized?
 - [ ] It’s recognized in OCI only if management chooses the corridor approach.
@@ -203,7 +200,6 @@ Finally, keep a close eye on footnotes in vignettes; they often reveal the perfo
 
 > **Explanation:** Under IAS 19, net interest is typically calculated on the net pension liability or asset and is recognized in the income statement as a financing cost.
 
----
 
 ### Which of the following adjustments is most likely to occur if an entity’s share-based awards carry a performance condition tied to ROE, but a negative pension remeasurement drives equity sharply lower?
 - [x] ROE diminishes, making the performance condition less likely to be met.
@@ -213,7 +209,6 @@ Finally, keep a close eye on footnotes in vignettes; they often reveal the perfo
 
 > **Explanation:** Lower equity from an adverse pension remeasurement reduces ROE, which might make the performance condition unattainable. This could decrease the recognized share-based compensation expense.
 
----
 
 ### When share-based compensation expense is recognized, how does it generally affect equity on the balance sheet?
 - [x] It increases paid-in capital if equity-settled.
@@ -223,7 +218,6 @@ Finally, keep a close eye on footnotes in vignettes; they often reveal the perfo
 
 > **Explanation:** For equity-settled share-based comp, the firm debits compensation expense and credits an equity account (often additional paid-in capital), increasing total equity.
 
----
 
 ### In a period of declining discount rates for a defined benefit plan, what potential net impact might you see on pension expense and EPS, respectively, if a large portion of share-based awards are scheduled to vest?
 - [x] Higher pension expense and reduced EPS from more shares outstanding.
@@ -233,7 +227,6 @@ Finally, keep a close eye on footnotes in vignettes; they often reveal the perfo
 
 > **Explanation:** A falling discount rate typically increases the present value of pension obligations, boosting expense. Meanwhile, share-based compensation can dilute EPS by increasing the share count, or reduce it further if performance metrics miss the mark.
 
----
 
 ### Which statement about the corridor approach under US GAAP is correct?
 - [ ] It immediately recognizes all actuarial gains and losses in the income statement.
@@ -243,7 +236,6 @@ Finally, keep a close eye on footnotes in vignettes; they often reveal the perfo
 
 > **Explanation:** The corridor approach is a US GAAP method allowing a portion of actuarial gains/losses to remain in AOCI, with only the excess over 10% of the greater of plan assets or the defined benefit obligation amortized each year.
 
----
 
 ### How might a firm’s leverage ratio be affected if the firm has a large pension deficit and issues a significant number of shares to employees as part of share-based compensation?
 - [x] The deficit might increase total liabilities, while newly issued shares simultaneously boost equity, potentially offsetting part of the leverage increase.
@@ -253,7 +245,6 @@ Finally, keep a close eye on footnotes in vignettes; they often reveal the perfo
 
 > **Explanation:** A large pension deficit increases liabilities. Newly issued shares under share-based comp can increase equity, partially mitigating a rise in leverage.
 
----
 
 ### True or False: Under IFRS, a firm recycles pension remeasurements out of OCI and into the income statement once they are deemed “realized.”
 - [x] True
