@@ -308,6 +308,8 @@ github.com/hbstack/socials v0.17.2 h1:iv7KCdveM1ZkE19qQVIJzvfBpLx7U1XfoK+sKN6wUu
 github.com/hbstack/socials v0.17.2/go.mod h1:SxsgrMkupTV3fHpGpWZQ7HAaeGUvENZPW5z+0ywJ5ao=
 github.com/hbstack/socials v0.18.0 h1:ESA5/lPEoFpzprJ6x++FrwX8ajo68rWpSdYJrPE9yLY=
 github.com/hbstack/socials v0.18.0/go.mod h1:iZvyHnOhH2ZYGvUnO6QomRiCwirCB9CtxUbsHsJloL8=
+github.com/hbstack/socials v0.19.0 h1:d4cs1bObs0L+7iNel0X5N87MBY0wBiA02SbaVyi2klg=
+github.com/hbstack/socials v0.19.0/go.mod h1:sUCnojrpGHuEnUOva8vHf3CBinJhpftcQemOCUtxY00=
 github.com/hbstack/syntax-highlighting v0.2.0 h1:BP5SR/AbVlJyAFtVdgYjeqVZKmncEmuplTR5R2AUbw8=
 github.com/hbstack/syntax-highlighting v0.2.0/go.mod h1:6IoaM+tSIkKZblIrT1i5L3zVH68nt4UScU9JB30FQsc=
 github.com/hbstack/syntax-highlighting v0.2.1 h1:JMAfLzebsQy983WS560yPo4vnF6rBCo6OBx9jpNbAQ8=
@@ -356,6 +358,8 @@ github.com/hugomods/code-block-panel v0.7.1 h1:WP3xzQC++Bh5SiSke0csO0H1O4G6Vejwd
 github.com/hugomods/code-block-panel v0.7.1/go.mod h1:3J9yUxaShbhYvFFZbGVHcBoHPl6TUKLL3f2fTsnVNNg=
 github.com/hugomods/code-block-panel v0.8.0 h1:ICJrcEx85oZzLdR1Hlf77osxRU04LlPigTRhp+anNFE=
 github.com/hugomods/code-block-panel v0.8.0/go.mod h1:3J9yUxaShbhYvFFZbGVHcBoHPl6TUKLL3f2fTsnVNNg=
+github.com/hugomods/code-block-panel v0.9.0 h1:rIyoZQRsW7OCprinbZ93mC8D7x/UdciHmedb/JMIeKM=
+github.com/hugomods/code-block-panel v0.9.0/go.mod h1:3J9yUxaShbhYvFFZbGVHcBoHPl6TUKLL3f2fTsnVNNg=
 github.com/hugomods/font-awesome v6.5.2+incompatible h1:sDSRuMLUK7N7u/PTpNngqoqbfUI/UP9Rcb+885kV4Wk=
 github.com/hugomods/font-awesome v6.5.2+incompatible/go.mod h1:C2wW6xDvHkcMlJMVTPQ+Npt+rO0OGv13xT1iyll2z2Q=
 github.com/hugomods/font-awesome v6.6.0+incompatible h1:LRI2HqrbS2epfl5/DOfPzpCI6H33GBss1SLb670GsLw=

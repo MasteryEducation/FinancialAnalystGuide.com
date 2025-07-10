@@ -60,7 +60,7 @@ require (
 	github.com/hbstack/search v0.2.2 // indirect
 	github.com/hbstack/slide v0.4.1 // indirect
 	github.com/hbstack/snackbar v0.1.2 // indirect
-	github.com/hbstack/socials v0.18.0 // indirect
+	github.com/hbstack/socials v0.19.0 // indirect
 	github.com/hbstack/syntax-highlighting v0.2.1 // indirect
 	github.com/hbstack/syntax-highlighting/styles/dracula v0.1.2 // indirect
 	github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.1 // indirect
@@ -69,7 +69,7 @@ require (
 	github.com/hugomods/ascii v0.1.0 // indirect
 	github.com/hugomods/base v0.7.3 // indirect
 	github.com/hugomods/bootstrap v0.24.1 // indirect
-	github.com/hugomods/code-block-panel v0.8.0 // indirect
+	github.com/hugomods/code-block-panel v0.9.0 // indirect
 	github.com/hugomods/font-awesome v6.7.1+incompatible // indirect
 	github.com/hugomods/fuse-js v0.1.0 // indirect
 	github.com/hugomods/giscus v0.1.1 // indirect
