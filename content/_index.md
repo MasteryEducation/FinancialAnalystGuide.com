@@ -106,9 +106,8 @@ Our meticulously organized study materials track closely with the latest CFA® c
 >   
 > – *Fuad Efendi, Founder*
 
-**Guided by CFA charterholders and enhanced with AI-powered analysis, our community-driven platform delivers the most accurate and up-to-date study resources available.**
+Guided by CFA charterholders and enhanced with AI-powered analysis, our community-driven platform delivers the most accurate and up-to-date study resources available.
 
-Visit [FinancialAnalystGuide.com](https://financialanalystguide.com) to unlock our entire suite of CFA exam preparation tools.
 
 
 ---
