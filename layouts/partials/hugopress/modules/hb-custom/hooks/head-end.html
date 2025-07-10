@@ -1,4 +1,6 @@
-{{/* Put custom HTML markup before the end of <head>. */}}
+{{/* Put custom HTML markup before the end of
+
+<head>. */}}
     <script src="/quizdown/quizdown.js"></script>
     <script src="/quizdown/quizdownKatex.js"></script>
     <script src="/quizdown/quizdownHighlight.js"></script>
@@ -14,4 +16,14 @@
         };
         quizdown.register(quizdownHighlight).register(quizdownKatex).init(config)
     </script>
-    
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16651630164">
+    </script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'AW-16651630164');
+    </script>
