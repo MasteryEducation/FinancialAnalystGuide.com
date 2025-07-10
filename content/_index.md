@@ -65,13 +65,6 @@ Our meticulously organized study materials track closely with the latest CFA® c
 - Specialized guidance and practice for the vignette-style item sets unique to Level 2 and Level 3.  
 - Practical techniques for dissecting case studies and applying complex concepts.
 
-### 5. Interactive Mobile Apps
-
-- Study on-the-go with our free mobile quiz apps for both iOS and Android.  
-  - [CFA Mock Exams Lite (iOS)](https://apps.apple.com/us/app/cfa-l3-exam-lite/id6743659919)  
-  - [CFA Mock Exams Lite (Android)](https://play.google.com/store/apps/details?id=ca.tokenizer.cfa_level_3_lite)  
-- Track your performance and personalize your study plan in real-time.  
-- Coming soon: Comprehensive mock exam apps—featuring innovative vignette-style practice—for all three CFA® exam levels.
 
 ---
 
