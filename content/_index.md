@@ -18,6 +18,16 @@ Are you committed to earning your CFA® charter? At **FinancialAnalystGuide.com*
 
 ---
 
+## Take Your Studies On-the-Go
+
+Practice anytime, anywhere with our powerful mock exam apps.
+
+
+* **[CFA Mock Exams on the App Store](https://apps.apple.com/us/app/cfa-mock-exams/id6748266216)**
+* **[CFA Mock Exams on Google Play](https://play.google.com/store/apps/details?id=ca.tokenizer.cfa_mock_exams)**
+
+---
+
 ## Your Complete CFA® Exam Preparation Solution
 
 Our meticulously organized study materials track closely with the latest CFA® curriculum. Whether you’re just beginning Level 1 or strengthening your mastery for Level 3, our resources are designed to help you study effectively and confidently.
@@ -96,12 +106,17 @@ Our meticulously organized study materials track closely with the latest CFA® c
 
 ## Embark on Your CFA® Journey
 
-Visit [FinancialAnalystGuide.com](https://financialanalystguide.com) to unlock our entire suite of CFA® exam preparation tools. Our community-driven approach—bolstered by AI and big data—ensures you’re always working with the most accurate, up-to-date study resources.
-
-> Through endless ages, I’ve journeyed afar,  
-> Upon giants’ shoulders, I reach for the stars.  
+> Through endless ages, 
+> I’ve journeyed afar,  
+> Upon giants’ shoulders, 
+> I reach for the stars.  
 >   
 > – *Fuad Efendi, Founder*
+
+**Guided by CFA charterholders and enhanced with AI-powered analysis, our community-driven platform delivers the most accurate and up-to-date study resources available.**
+
+Visit [FinancialAnalystGuide.com](https://financialanalystguide.com) to unlock our entire suite of CFA exam preparation tools.
+
 
 ---
 
