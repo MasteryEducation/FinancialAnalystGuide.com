@@ -99,9 +99,9 @@ Our meticulously organized study materials track closely with the latest CFA® c
 
 ## Embark on Your CFA® Journey
 
-> Through endless ages, 
+> Through endless ages,  
 > I’ve journeyed afar,  
-> Upon giants’ shoulders, 
+> Upon giants’ shoulders,  
 > I reach for the stars.  
 >   
 > – *Fuad Efendi, Founder*
