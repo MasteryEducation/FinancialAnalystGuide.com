@@ -162,6 +162,8 @@ hugopress:
         hb-docs-doc-toc-begin:
           cacheable: true
         # see layouts/partials/hugopress/modules/hb-custom/hooks/head-end.html.
+        hb-docs-doc-toc-end:
+          cacheable: true
         head-end:
           cacheable: true
         # see layouts/partials/hugopress/modules/hb-custom/hooks/body-end.html.
